@@ -1,4 +1,11 @@
 
+- Classes
+	- Commandments
+	- Warnings
+	- Kill Israelis
+	- Kill foreigners
+	- Other stuff like idols are useless
+
 - Exodus
 	- 20:3-5 (commandment)
 	- 20:23 (repeat)
@@ -66,6 +73,15 @@
 	- 32:12 (only God helped)
 	- 32:37-38 (idols cannot save or help)
 	- 32:39 (Yahweh is only God)
+
+# Classification
+- Classes
+	- Commandments
+	- Warnings
+	- Kill Israelis
+	- Kill foreigners
+	- Other stuff like idols are useless
+
 # Torah
 
 ### **1. Direct Commands to Kill Idolators**
@@ -80,7 +96,7 @@
 - **Deuteronomy**: 7:5, 7:25-26, 12:2-3, 16:21-22  
 
 ### **3. Curses and Warnings Against Idolatry**
-- **Deuteronomy**: 4:23-24, 4:25-26, 5:8-9, 5:29, 6:14-15, 7:4, 7:16, 8:19, 11:16-17, 12:30-31, 13:12-15, 27:15, 28:14-15, 28:36, 29:16-18, 29:24-28, 30:17-18, 31:16-18, 31:20, 32:12, 32:16-21, 32:37-38, 32:39  
+- **Deuteronomy**: 4:23-24, 5:8-9, 5:29, 6:14-15, 7:4, 7:16, 8:19, 11:16-17, 12:30-31, 13:12-15, 27:15, 28:14-15, 28:36, 29:16-18, 29:24-28, 30:17-18, 31:16-18, 31:20, 32:16-21
 
 ### **4. Punishment for False Prophets Promoting Idolatry**
 - **Deuteronomy**: 13:1-5, 18:20  
@@ -88,15 +104,13 @@
 ### **5. General Prohibitions Against Idolatry**
 - **Exodus**: 20:3-5, 20:23, 23:13  
 - **Leviticus**: 18:21, 19:4, 19:31, 20:6, 20:23  
-- **Deuteronomy**: 4:15-19, 5:8-9, 7:26, 9:12-14, 9:16-21  
+- **Deuteronomy**: 4:15-19, 9:12-14, 9:16-21  
 
 ### **6. Specific Instances of Punishment**
 - **Numbers**: 15:30-31, 33:52  
 
 ### **7. Broader Themes and Indirect References**
-- **Deuteronomy**: 4:25-28, 5:29, 7:4, 7:16, 8:19, 11:16-17, 12:30-31, 13:12-15, 27:15, 28:14-15, 28:36, 29:16-18, 29:24-28, 30:17-18, 31:16-18, 31:20, 32:12, 32:16-21, 32:37-38, 32:39  
-
-This grouped list organizes all 57 verses into clear categories. Let me know if you need further adjustments!
+- **Deuteronomy**: 4:25-28
 
 # Nevi'im and Ketuvim
 
@@ -333,62 +347,84 @@ Chapters to Open:
 	- Chapter 14
 		- 3
 		- 8
-- **Micah**: 1:7, 5:13  
-- **Nahum**: 1:14  
-- **Zephaniah**: 1:4-5  
-- **Zechariah**: 10:2, 13:2  
-- **Psalms**: 96:5, 97:7, 106:36-38, 115:4-8, 135:15-18  
-- **Daniel**: 3:18 
-- **Jeremiah**: 1:16, 2:5, 2:20, 2:25, 3:6, 3:13, 7:9, 16:11, 25:6, 32:29
-- **Isaiah**: 44:22, 55:7  
-- **Jeremiah**: 3:12-14, 3:22, 4:1, 7:3-7, 18:11, 35:15  
-- **Ezekiel**: 18:30-32, 20:40-44, 33:11
-- **Joel**: 2:12-13  
-- **Zechariah**: 1:3-4
-- **Jeremiah**: 51:17-18, 51:47, 51:52  
-- **Zephaniah**: 2:11
-- **1 Kings**: 11:5-8, 12:28-33, 14:9, 14:15, 14:22-24, 15:12-13, 16:31-33, 18:18-40, 21:26, 22:53  
-- **2 Kings**: 1:2-3, 3:2, 10:18-28, 17:7-41, 21:3-7, 21:11, 23:4-15, 23:24  
-- **2 Chronicles**: 24:18, 28:2-3, 28:23-25, 33:3-7, 33:19, 34:3-7  
-
 - Micah
 	- Chapter 1
+		- 7
 	- Chapter 5
+		- 13
 - Nahum
-	- Chapter 1  
+	- Chapter 1
+	- 14
 - Zephaniah
 	- Chapter 1
+		- 4-5
 	- Chapter 2
+		- 11
 - Zechariah
 	- Chapter 1
+		- 3-4
 	- Chapter 10
+		- 2
 	- Chapter 13
+		- 2
 - Psalms
 	- Chapter 96
+		- 5
 	- Chapter 97
+		- 7
 	- Chapter 106
+		- 36-38
 	- Chapter 115
-	- Chapter 135 
+		- 4-8
+	- Chapter 135
+		- 15-18
 - Daniel
 	- Chapter 3
+		- 18
 - 1 Kings
 	- Chapter 11
+		- 5-8
 	- Chapter 12
+		- 28-33
 	- Chapter 14
+		- 15
+		- 22-24
 	- Chapter 15
+		- 12-13
 	- Chapter 16
+		- 31-33
 	- Chapter 18
+		- 18-40
 	- Chapter 21
+		- 26
 	- Chapter 22
+		- 53
 - 2 Kings
 	- Chapter 1
+		- 2-3
 	- Chapter 3
+		- 2
 	- Chapter 10
+		- 18-28
 	- Chapter 17
+		- 7-41
 	- Chapter 21
+		- 3-7
+		- 11
 	- Chapter 23
+		- 4-15
+		- 24
 - 2 Chronicles
 	- Chapter 24
+		- 18
 	- Chapter 28
+		- 2-3
+		- 23-25
 	- Chapter 33
+		- 3-7
+		- 19
 	- Chapter 34
+		- 3-7
+
+
+# Classification
