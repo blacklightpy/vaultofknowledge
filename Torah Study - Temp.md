@@ -7,16 +7,26 @@
 	- Other stuff like idols are useless
 
 - Classes
-	- Commandments
-		- Exodus 20, Verses 3, 4, 5 (Don't make figures, don't worship them)
-		- Exodus 20, Verse 23 (Don't make gods out of gold or silver)
-		- 
-	- Warnings
-	- Kill Israelis
-		- Exodus 22, Verse 20 (Kill Israelites who sacrifice to other gods)
-			- [Context: Exodus 20, Verse 22 (say to the children of Israel)]
-	- Kill foreigners
-	- Other stuff like idols are useless
+	1. **Commandments to not follow idolatry** 
+		1. Exodus 20, Verses 3, 4, 5 (Don't make figures, don't worship them)
+		2. Exodus 20, Verse 23 (Don't make gods out of gold or silver)
+		3. Exodus 23, Verse 24 (Don't bow down to the gods, but attack them and their idols)
+		4. 
+	2. **Warnings about what will happen if they turn to idolatry**
+	3. **Kill Israelites who turn to idolatry**
+		1. Exodus 22, Verse 20 (Kill Israelites who sacrifice to other gods)
+			- [Context: Exodus 20, Verse 22 (say these to the children of Israel)]
+		2. Exodus 32, Verses 27, 28 (Kill Israelites who worshiped the golden calf)
+	4. **Commandments to fight foreigners**
+		1. Exodus 23, Verse 24 (Don't bow down to the gods, but attack them and their idols) [Repeated above, in 1.3.]
+	5. **Other stuff (e.g. idols are useless)**
+		1. Exodus 34, Verse 14 (Your God is a Jealous God)
+
+Exodus 34, Verse 12 (Do not make a treaty with Canaanites)
+Exodus 34, Verse 13 (Break down the altars of the Canaanites)
+Exodus 34, Verse 14 (Do not worship other gods, for your God is a Jealous God)
+Exodus 34, Verse 17 (Do not make a treaty with the Canaanites, as they may mislead you)
+Exodus 34, Verse 17 (Do not make molten gods)
 
 - Exodus
 	- 20:3-5 (commandment)
