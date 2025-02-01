@@ -122,10 +122,8 @@ This grouped list organizes all 57 verses into clear categories. Let me know if 
 - **Ezekiel**: 18:30-32, 20:40-44, 33:11
 - **Joel**: 2:12-13  
 - **Zechariah**: 1:3-4
-
 ### **4. Prophecies of Idolatry’s Destruction**
-- **Jeremiah**: 10:11, 10:15, 51:17-18, 51:47, 51:52  
-- **Ezekiel**: 6:4-6, 6:13, 30:13  
+- **Jeremiah**: 51:17-18, 51:47, 51:52  
 - **Zephaniah**: 2:11
 
 ### **5. Historical Accounts of Idolatry**
@@ -151,77 +149,208 @@ Chapters to Open:
 - 2 Kings: 1, 3, 10, 17, 21, 23
 - 2 Chronicles: 24, 28, 33, 34
 
+
 Chapters to Open:
 - Isaiah
 	- Chapter 1
+		- 29
 	- Chapter 2
+		- 8
+		- 18
+		- 20
 	- Chapter 10
+		- 10-11
 	- Chapter 17
+		- 8
 	- Chapter 19
+		- 1
 	- Chapter 21
+		- 9
 	- Chapter 27
+		- 9
 	- Chapter 30
+		- 22
 	- Chapter 31
+		- 7
 	- Chapter 37
+		- 19
 	- Chapter 40
+		- 19-20
 	- Chapter 41
+		- 29
 	- Chapter 42
+		- 17
 	- Chapter 44
+		- 9-20
+		- 22
 	- Chapter 45
+		- 20
 	- Chapter 46
+		- 1-2
+		- 6-7
 	- Chapter 48
+		- 5
 	- Chapter 55
+		- 7
 	- Chapter 57
+		- 13
 - Jeremiah
 	- Chapter 1
+		- 16
 	- Chapter 2
+		- 5
+		- 11
+		- 20
+		- 25
+		- 27-28
 	- Chapter 3
+		- 6
+		- 9
+		- 12-14
+		- 13
+		- 22
 	- Chapter 4
+		- 1
 	- Chapter 5
+		- 7
+		- 19
 	- Chapter 7
+		- 3-7
+		- 9
+		- 18
+		- 30-31
 	- Chapter 8
+		- 19
 	- Chapter 10
+		- 1-16
+		- 11
+		- 15
 	- Chapter 11
+		- 13
 	- Chapter 13
+		- 10
 	- Chapter 14
+		- 22
 	- Chapter 16
+		- 11
+		- 18
 	- Chapter 17
+		- 2
 	- Chapter 18
+		- 11
+		- 15
 	- Chapter 19
+		- 4-5
 	- Chapter 22
+		- 9
 	- Chapter 25
+		- 6
 	- Chapter 32
+		- 29
+		- 34-35
 	- Chapter 35
+		- 15
 	- Chapter 44
+		- 3-5
+		- 8
+		- 15-19
+		- 25
 	- Chapter 51
+		- 17-18
+		- 47
+		- 52
 - Ezekiel
 	- Chapter 5
+		- 11
 	- Chapter 6
+		- 4-6
+		- 9
+		- 13
 	- Chapter 7
+		- 20
 	- Chapter 8
+		- 3-18
 	- Chapter 14
+		- 3-7
 	- Chapter 16
+		- 17-21
+		- 36
 	- Chapter 18
+		- 6
+		- 12
+		- 15
+		- 30-32
 	- Chapter 20
+		- 7-8
+		- 16
+		- 24
+		- 31
+		- 39
+		- 40-44
 	- Chapter 22
+		- 3-4
 	- Chapter 23
+		- 7
+		- 30
+		- 37
+		- 49
 	- Chapter 30
+		- 13
 	- Chapter 33
+		- 11
+		- 25
 	- Chapter 36
+		- 18
+		- 25
 	- Chapter 37
+		- 23
 	- Chapter 44
+		- 10
+		- 12
 - Joel
 	- Chapter 2
+		- 12-13
 - Hosea
 	- Chapter 2
+		- 8
+		- 13
+		- 17
 	- Chapter 3
+		- 1
 	- Chapter 4
+		- 12-13
+		- 17
 	- Chapter 8
+		- 4-6
 	- Chapter 9
+		- 10
 	- Chapter 10
+		- 5
 	- Chapter 11
+		- 2
 	- Chapter 13
+		- 2
 	- Chapter 14
+		- 3
+		- 8
+- **Micah**: 1:7, 5:13  
+- **Nahum**: 1:14  
+- **Zephaniah**: 1:4-5  
+- **Zechariah**: 10:2, 13:2  
+- **Psalms**: 96:5, 97:7, 106:36-38, 115:4-8, 135:15-18  
+- **Daniel**: 3:18 
+- **Jeremiah**: 1:16, 2:5, 2:20, 2:25, 3:6, 3:13, 7:9, 16:11, 25:6, 32:29
+- **Isaiah**: 44:22, 55:7  
+- **Jeremiah**: 3:12-14, 3:22, 4:1, 7:3-7, 18:11, 35:15  
+- **Ezekiel**: 18:30-32, 20:40-44, 33:11
+- **Joel**: 2:12-13  
+- **Zechariah**: 1:3-4
+- **Jeremiah**: 51:17-18, 51:47, 51:52  
+- **Zephaniah**: 2:11
+- **1 Kings**: 11:5-8, 12:28-33, 14:9, 14:15, 14:22-24, 15:12-13, 16:31-33, 18:18-40, 21:26, 22:53  
+- **2 Kings**: 1:2-3, 3:2, 10:18-28, 17:7-41, 21:3-7, 21:11, 23:4-15, 23:24  
+- **2 Chronicles**: 24:18, 28:2-3, 28:23-25, 33:3-7, 33:19, 34:3-7  
+
 - Micah
 	- Chapter 1
 	- Chapter 5
