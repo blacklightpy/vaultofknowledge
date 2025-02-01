@@ -22,11 +22,44 @@
 	5. **Other stuff (e.g. idols are useless)**
 		1. Exodus 34, Verse 14 (Your God is a Jealous God)
 
+Exodus 34, Verse 11 (I will drive out the Canaanites to give you Israel)
 Exodus 34, Verse 12 (Do not make a treaty with Canaanites)
 Exodus 34, Verse 13 (Break down the altars of the Canaanites)
 Exodus 34, Verse 14 (Do not worship other gods, for your God is a Jealous God)
 Exodus 34, Verse 17 (Do not make a treaty with the Canaanites, as they may mislead you)
 Exodus 34, Verse 17 (Do not make molten gods)
+
+Leviticus 19, Verse 4 (Do not make molten gods)
+Leviticus 20, Verse 2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)
+Leviticus 26, Verse 1 (Do not make idols or sacred stones)
+
+Numbers 25, Verses 1-5 (Kill Israelites who worship Baal)
+Numbers 33, Verse 52 (Drive out the Canaanites completely, Destroy their idols)
+
+Deuteronomy 4, Verse 23 (Take care not to make idols, or else you'll face the wrath of God)
+Deuteronomy 7, Verse 5 (Destroy their altars)
+Deuteronomy 7, Verse 16 (Destroy the people without pity, and do not serve their gods)
+Deuteronomy 7, Verse 25-26 (Do not desire the silver or gold in their idols, destroy them)
+Deuteronomy 9
+Deuteronomy 12
+Deuteronomy 13
+Deuteronomy 13
+
+
+- 4:23-24 (don't worship idols, remember)
+- 7:5 (destroy idols and poles)
+- 7:16 (destroy without pity)
+- 7:25-26 (burn their gods in fire, don't take silver and gold)
+- 9:16-21 (moses punishes)
+- 12:2-3 (destroy idols of the nations you attack)
+- 13:1-5 (kill false prophets who mislead)
+- 13:6-10 (kill friends of family who teach false gods)
+- 13:12-15 (if someone does idol worship in a city, investigate and destroy them)
+- 17:2-5 (kill man or woman who worships other gods or sun or stars)
+- 18:20 (kill false prophets who mislead)
+- 27:15 (it is detestable thing)
+- 29:16-18 (warning)
+- 32:16-21 (god provoked by israel)
 
 - Exodus
 	- 20:3-5 (commandment)
@@ -48,7 +81,6 @@ Exodus 34, Verse 17 (Do not make molten gods)
 	- 7:5 (destroy idols and poles)
 	- 7:16 (destroy without pity)
 	- 7:25-26 (burn their gods in fire, don't take silver and gold)
-	- 9:12 (golden calf)
 	- 9:16-21 (moses punishes)
 	- 12:2-3 (destroy idols of the nations you attack)
 	- 13:1-5 (kill false prophets who mislead)
