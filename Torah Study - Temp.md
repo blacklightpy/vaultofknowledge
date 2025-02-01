@@ -35,13 +35,7 @@
 ---
 
 ## Warnings
-3. **Deuteronomy 16:21-22** - Do not set up Asherah poles or sacred stones.
-4. **Deuteronomy 27:16** - Cursed is anyone who dishonors parents (linked to idolatry in some interpretations).
-5. **Deuteronomy 29:24-28** - Idolatry leads to the land becoming a wasteland.
-6. **Deuteronomy 31:20** - Israel will turn to other gods and break the covenant.
-7. **Deuteronomy 32:12** - God alone led Israel; no foreign gods were with Him.
-8. **Deuteronomy 32:37-38** - Idols cannot save or help Israel in times of trouble.
-9. **Deuteronomy 32:39** - Yahweh is the only God; no other gods exist.
+
 - Deuteronomy
 	- 4:15-19 (corruption warning)
 	- 4:23-24 (warning)
@@ -54,10 +48,12 @@
 	- 8:19 (if you forget)
 	- 11:16-17 (if you turn away, famine)
 	- 12:30-31 (avoid studying their practices)
+	- 16:21-22 (don't)
 	- 28:14-15 (if you turn away, exile)
 	- 28:36 (exile)
 	- 29:16-18 (make sure you don't have this poison)
-	- 31:16-18 (they are going to mess up and be destroyed)
+	- 29:24-28 (famine)
+	- 31:16-18, 20 (they are going to mess up and be destroyed)
 - Leviticus
 	- 18:21 (don't sacrifice children to Molek)
 	- 20:23 (don't follow)
@@ -65,6 +61,11 @@
 - Numbers
 	- 15:30-31 (defiants will be cut off)
 
+## Claims
+- Deuteronomy
+	- 32:12 (only God helped)
+	- 32:37-38 (idols cannot save or help)
+	- 32:39 (Yahweh is only God)
 # Torah
 
 ### **1. Direct Commands to Kill Idolators**
@@ -113,24 +114,23 @@ This grouped list organizes all 57 verses into clear categories. Let me know if 
 - **2 Kings**: 17:12, 17:16, 17:41, 21:3-7, 21:11, 23:4-15, 23:24  
 - **2 Chronicles**: 24:18, 28:2-3, 28:23-25, 33:3-7, 33:19, 34:3-7  
 
+
 ### **2. Warnings and Consequences of Idolatry**
 - **Isaiah**: 1:29, 10:10-11, 17:8, 19:1, 21:9, 27:9, 37:19, 44:9-20, 46:1-2, 48:5, 57:13  
 - **Jeremiah**: 1:16, 2:5, 2:20, 2:25, 2:28, 3:6, 3:9, 3:13, 5:7, 5:19, 7:9, 7:18, 7:30-31, 8:19, 10:1-16, 11:12-13, 13:10, 14:22, 16:11, 16:18, 17:2, 18:15, 19:4-5, 22:9, 25:6, 32:29, 32:34-35, 44:3-5, 44:8, 44:15-19, 44:25  
 - **Ezekiel**: 5:11, 6:4-6, 6:9, 6:13, 7:20, 8:3-18, 14:3-7, 16:17-21, 16:36, 18:6, 18:12, 18:15, 20:7-8, 20:16, 20:24, 20:31, 20:39, 22:3-4, 23:7, 23:30, 23:37, 23:49, 30:13, 33:25, 36:18, 36:25, 37:23, 44:10, 44:12  
 - **Hosea**: 2:8, 2:13, 2:17, 3:1, 4:12-13, 4:17, 8:4-6, 9:10, 10:5, 11:2, 13:2, 14:3, 14:8  
 - **Micah**: 1:7, 5:13  
-- **Nahum**: 1:14  
 - **Zephaniah**: 1:4-5  
 - **Zechariah**: 10:2, 13:2  
 - **Psalms**: 96:5, 97:7, 106:36-38, 115:4-8, 135:15-18  
-- **Daniel**: 3:18  
 - **2 Kings**: 17:12, 17:16, 17:41, 21:3-7, 21:11, 23:4-15, 23:24  
 - **2 Chronicles**: 24:18, 28:2-3, 28:23-25, 33:3-7, 33:19, 34:3-7  
 
 ### **3. Calls to Repentance from Idolatry**
 - **Isaiah**: 30:22, 31:7, 44:22, 55:7  
 - **Jeremiah**: 3:12-14, 3:22, 4:1, 7:3-7, 18:11, 25:5-6, 35:15  
-- **Ezekiel**: 14:6, 18:30-32, 20:7-8, 20:40-44, 33:11  
+- **Ezekiel**: 14:6, 18:30-32, 20:7-8, 20:40-44, 33:11
 - **Hosea**: 14:2-3  
 - **Joel**: 2:12-13  
 - **Zechariah**: 1:3-4, 10:2  
@@ -150,4 +150,18 @@ This grouped list organizes all 57 verses into clear categories. Let me know if 
 
 ### **Total Verses**: **Over 200**
 
-This list includes **all major references** to idolatry in Nevi'im and Ketuvim, grouped by theme. Let me know if you’d like further refinements or specific details!
+
+Chapters to Open:
+- Isaiah: 1, 2, 10, 17, 19, 21, 27, 30, 31, 37, 40, 41, 42, 44, 45, 46, 48, 55, 57
+- Jeremiah: 1, 2, 3, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 18, 19, 22, 25, 32, 35, 44, 51
+- Ezekiel: 5, 6, 7, 8, 14, 16, 18, 20, 22, 23, 30, 33, 36, 37, 44
+- Hosea: 2, 3, 4, 8, 9, 10, 11, 13, 14, 
+- Micah: 1, 5
+- Nahum: 1  
+- Zephaniah: 1, 2
+- Zechariah: 1, 10, 13
+- Psalms: 96, 97, 106, 115, 135, 
+- Daniel: 3
+- 1 Kings: 11, 12, 14, 15, 16, 18, 21, 22
+- 2 Kings: 1, 3, 10, 17, 21, 23
+- 2 Chronicles: 24, 28, 33, 34
