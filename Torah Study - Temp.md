@@ -6,6 +6,18 @@
 	- Kill foreigners
 	- Other stuff like idols are useless
 
+- Classes
+	- Commandments
+		- Exodus 20, Verses 3, 4, 5 (Don't make figures, don't worship them)
+		- Exodus 20, Verse 23 (Don't make gods out of gold or silver)
+		- 
+	- Warnings
+	- Kill Israelis
+		- Exodus 22, Verse 20 (Kill Israelites who sacrifice to other gods)
+			- [Context: Exodus 20, Verse 22 (say to the children of Israel)]
+	- Kill foreigners
+	- Other stuff like idols are useless
+
 - Exodus
 	- 20:3-5 (commandment)
 	- 20:23 (repeat)
@@ -14,6 +26,13 @@
 	- 32:27-28 (kill the ones who worshipped the calf)
 	- 34:13-14 (destroy their idols and poles, god is jealous)
 	- 34:17 (don't make molten gods)
+- Leviticus
+	- 19:4 (don't make molten gods)
+	- 20:2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)
+	- 26:1 (don't make idols)
+- Numbers
+	- 25:1-5 (Kill Israelites who worship Baal)
+	- 33:52 (destroy in Canaan)
 - Deuteronomy
 	- 4:23-24 (don't worship idols, remember)
 	- 7:5 (destroy idols and poles)
@@ -30,19 +49,18 @@
 	- 27:15 (it is detestable thing)
 	- 29:16-18 (warning)
 	- 32:16-21 (god provoked by israel)
-- Leviticus
-	- 19:4 (don't make molten gods)
-	- 20:2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)
-	- 26:1 (don't make idols)
-- Numbers
-	- 25:1-5 (Kill Israelites who worship Baal)
-	- 33:52 (destroy in Canaan)
 
 
 ---
 
 ## Warnings
 
+- Leviticus
+	- 18:21 (don't sacrifice children to Molek)
+	- 20:23 (don't follow)
+	- 26:30 (if you turn)
+- Numbers
+	- 15:30-31 (defiants will be cut off)
 - Deuteronomy
 	- 4:15-19 (corruption warning)
 	- 4:23-24 (warning)
@@ -61,12 +79,6 @@
 	- 29:16-18 (make sure you don't have this poison)
 	- 29:24-28 (famine)
 	- 31:16-18, 20 (they are going to mess up and be destroyed)
-- Leviticus
-	- 18:21 (don't sacrifice children to Molek)
-	- 20:23 (don't follow)
-	- 26:30 (if you turn)
-- Numbers
-	- 15:30-31 (defiants will be cut off)
 
 ## Claims
 - Deuteronomy
@@ -75,12 +87,7 @@
 	- 32:39 (Yahweh is only God)
 
 # Classification
-- Classes
-	- Commandments
-	- Warnings
-	- Kill Israelis
-	- Kill foreigners
-	- Other stuff like idols are useless
+
 
 # Torah
 
