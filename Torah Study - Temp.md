@@ -10,7 +10,7 @@
 	7. Leviticus 26, Verse 1 (Do not make idols or sacred stones)
 	8. Deuteronomy 4, Verses 15-19 (Ensure that you do not make an idol in the form of any being)
 	9. Deuteronomy 16, Verses 21-22 (Do not erect sacred stones)
-	10. Leviticus 18, Verse 21 (Do not sacrifice your children to Molek)
+	10. **Leviticus 18, Verse 21 (Do not sacrifice your children to Molek)**
 	11. Leviticus 19, Verse 4 (Do not make molten gods)
 2. **Warnings about what will happen if they turn to idolatry**
 	1. Leviticus 26, Verses 27-39 (If you don't obey this and turn to idolatry, you will be made to suffer)
@@ -21,28 +21,31 @@
 	6. Deuteronomy 28, Verses 14-68 (If you worship other gods, you will suffer)
 	7. Deuteronomy 29, Verses 16-18 (Make sure no one remembers the poisonous ideas from Egypt)
 	8. Deuteronomy 32, Verses 16-21 (When Israelites sacrificed to false gods, God would make them suffer)
-3. **Kill Israelites who turn to idolatry**
+3. **Kill Israelites who turn to Idolatry**
 	1. Exodus 22, Verse 20 (Kill Israelites who sacrifice to other gods)
-		- [Context: Exodus 20, Verse 22 (say these to the children of Israel)]
 	2. Exodus 32, Verses 27, 28 (Kill Israelites who worshiped the golden calf)
-	3. Leviticus 20, Verse 2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)
+	3. **Leviticus 20, Verse 2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)**
 	4. Numbers 25, Verses 1-9 (God told Israelites to kill the worshipers of Baal, and the plague was stopped)
 	5. Deuteronomy 13, Verses 1-10 (Kill all those who mislead you)
 	7. Deuteronomy 13, Verses 12-15 (Kill inhabitants of a city in Israel that has turned to idolatry)
 	8. Deuteronomy 17, Verses 2-5 (Kill Israelites who worship other gods or celestial bodies)
 	9. Deuteronomy 18, Verse 20 (Kill false prophets)
-4. **Fighting foreigners**
+4. **Fighting Canaanites to Secure the Promised Land**
 	1. Exodus 23, Verse 24 (Don't bow down to the gods of Canaanites, but attack them and their idols)
 	2. Exodus 34, Verse 11 (I will drive out the Canaanites to give you the promised land)
-	3. Exodus 34, Verse 12 (Do not make a treaty with Canaanites)
-	4. Exodus 34, Verse 13 (Break down the altars of the Canaanites)
-	5. Numbers 33, Verse 52 (Drive out the Canaanites completely, Destroy their idols)
-	6. Deuteronomy 7, Verses 1-5 (Drive out the Canaanites from the promised lands and destroy their idols)
-	7. Deuteronomy 7, Verse 16 (Destroy the people without pity, and do not serve their gods)
-	8. Deuteronomy 7, Verse 25-26 (Do not desire the silver or gold in their idols, destroy them)
-	9. Deuteronomy 12, Verses 2-3 (Destroy the statues in the promised land)
-	10. Deuteronomy 12, Verses 30-31 [Don't do what they do, because they burn their sons and daughters in the fire as sacrifices to their gods]
+	3. Exodus 34, Verses 12-16 (Do not make a treaty with Canaanites, and destroy their idols)
+	4. Numbers 33, Verse 52 (Drive out the Canaanites completely, Destroy their idols)
+	5. Deuteronomy 7, Verses 1-5 (Drive out the Canaanites from the promised lands and destroy their idols)
+	6. Deuteronomy 7, Verse 16 (Destroy the people without pity, and do not serve their gods)
+	7. Deuteronomy 7, Verse 25-26 (Do not desire the silver or gold in their idols, destroy them)
+	8. Deuteronomy 12, Verses 2-3 (Destroy the statues in the promised land)
+	9. **Deuteronomy 12, Verses 30-31 (Don't do what they do, because they burn their sons and daughters in the fire as sacrifices to their gods)**
 
+Then the rest of the books, the Book of Isaiah, the Book of Jeremiah, the Book of Ezekiel, the Book of Joel, the Book of Hosea, the Book of Micah, the Book of Nahum, the Book of Zephaniah, the Book of Zechariah, the Psalms, the Book of Daniel, 1 Kings, 2 Kings, 2 Chronicles all are about the same story over and over.
+
+Basically: God told Israel not to worship idols, but they worship idols, and they face the wrath of God or get exiled, they repent and get returned, then they start to worship idols again, and they get exiled, and returned, and this cycle repeats.
+
+So on one hand, Jews are accused by people like you for hating idol worship, but on the other hand, they are accused by Muslims and Christians of being progressive and deviating from scriptures. They get accused of being communists and capitalists. They get accused of killing Jesus and they get accused of causing Christianity and Islam.
 # Classification
 
 - Isaiah 2, Verse 8 
