@@ -10,7 +10,7 @@
 	1. **Commandments to not follow idolatry** 
 		1. Exodus 20, Verses 3, 4, 5 (Don't make figures, don't worship them)
 		2. Exodus 20, Verse 23 (Don't make gods out of gold or silver)
-		3. Exodus 23, Verse 24 (Don't bow down to the gods, but attack them and their idols)
+		3. Exodus 23, Verse 24 (Don't bow down to the gods of Canaanites, but attack them and their idols)
 		4. 
 	2. **Warnings about what will happen if they turn to idolatry**
 	3. **Kill Israelites who turn to idolatry**
@@ -18,11 +18,11 @@
 			- [Context: Exodus 20, Verse 22 (say these to the children of Israel)]
 		2. Exodus 32, Verses 27, 28 (Kill Israelites who worshiped the golden calf)
 	4. **Commandments to fight foreigners**
-		1. Exodus 23, Verse 24 (Don't bow down to the gods, but attack them and their idols) [Repeated above, in 1.3.]
+		1. Exodus 23, Verse 24 (Don't bow down to the gods of Canaanites, but attack them and their idols) [Repeated above, in 1.3.]
 	5. **Other stuff (e.g. idols are useless)**
 		1. Exodus 34, Verse 14 (Your God is a Jealous God)
 
-Exodus 34, Verse 11 (I will drive out the Canaanites to give you Israel)
+Exodus 34, Verse 11 (I will drive out the Canaanites to give you the promised land)
 Exodus 34, Verse 12 (Do not make a treaty with Canaanites)
 Exodus 34, Verse 13 (Break down the altars of the Canaanites)
 Exodus 34, Verse 14 (Do not worship other gods, for your God is a Jealous God)
@@ -40,26 +40,15 @@ Deuteronomy 4, Verse 23 (Take care not to make idols, or else you'll face the wr
 Deuteronomy 7, Verse 5 (Destroy their altars)
 Deuteronomy 7, Verse 16 (Destroy the people without pity, and do not serve their gods)
 Deuteronomy 7, Verse 25-26 (Do not desire the silver or gold in their idols, destroy them)
-Deuteronomy 9
-Deuteronomy 12
-Deuteronomy 13
-Deuteronomy 13
-
-
-- 4:23-24 (don't worship idols, remember)
-- 7:5 (destroy idols and poles)
-- 7:16 (destroy without pity)
-- 7:25-26 (burn their gods in fire, don't take silver and gold)
-- 9:16-21 (moses punishes)
-- 12:2-3 (destroy idols of the nations you attack)
-- 13:1-5 (kill false prophets who mislead)
-- 13:6-10 (kill friends of family who teach false gods)
-- 13:12-15 (if someone does idol worship in a city, investigate and destroy them)
-- 17:2-5 (kill man or woman who worships other gods or sun or stars)
-- 18:20 (kill false prophets who mislead)
-- 27:15 (it is detestable thing)
-- 29:16-18 (warning)
-- 32:16-21 (god provoked by israel)
+Deuteronomy 12, Verses 2-3 (Destroy the statues in the promised land)
+Deuteronomy 13, Verses 1-5 (Kill false prophets who mislead you)
+Deuteronomy 13, Verses 6-10 (Kill friends of family members who mislead you)
+Deuteronomy 13, Verses 12-15 (Kill inhabitants of a city that has turned to idolatry)
+Deuteronomy 17, Verses 2-5 (Kill Israelites who worship other gods or celestial bodies)
+Deuteronomy 18, Verse 20 (Kill false prophets)
+Deuteronomy 27, Verse 15 (Cursed be the one who makes idols and hides them)
+Deuteronomy 29, Verses 16-18 (Make sure not to have roots of Egyptian polytheism in you)
+Deuteronomy 32, Verses 16-21 
 
 - Exodus
 	- 20:3-5 (commandment)
@@ -153,7 +142,7 @@ Deuteronomy 13
 ### **5. General Prohibitions Against Idolatry**
 - **Exodus**: 20:3-5, 20:23, 23:13  
 - **Leviticus**: 18:21, 19:4, 19:31, 20:6, 20:23  
-- **Deuteronomy**: 4:15-19, 9:12-14, 9:16-21  
+- **Deuteronomy**: 4:15-19
 
 ### **6. Specific Instances of Punishment**
 - **Numbers**: 15:30-31, 33:52  
