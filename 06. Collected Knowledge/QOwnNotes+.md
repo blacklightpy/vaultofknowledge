@@ -427,3 +427,13 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 
 - "We should respect all religions"
 	- But most people can handle some insults unlike dangerous chickens
+
+- Communism and Cleanliness / Repurposing
+	- Navy Seal Advice
+
+- All Signs
+	- Order Signs: 2
+	- Warning Signs:
+	- Prohibition and Limit Signs: 
+	- Mandatory Direction Signs: 
+	- Direction & Information Signs: 
