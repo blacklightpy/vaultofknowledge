@@ -278,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -410,10 +410,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Torah Study - Temp.md"
+                "file": "06. Collected Knowledge/QOwnNotes+.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Torah Study - Temp"
+              "title": "Outline of QOwnNotes+"
             }
           },
           {
@@ -451,7 +451,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f74715489a1b73c",
+  "active": "8cedc8e1ced50004",
   "lastOpenFiles": [
     "Torah Study - Temp.md",
     "06. Collected Knowledge/Specific Problems with Christianity.md",

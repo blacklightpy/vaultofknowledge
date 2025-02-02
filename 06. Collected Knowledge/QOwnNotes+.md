@@ -424,3 +424,6 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 		- (because they don't know how sentences work)
 	- The Principle
 		- Word 
+
+- "We should respect all religions"
+	- But most people can handle some insults unlike dangerous chickens
