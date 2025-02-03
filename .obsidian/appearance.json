@@ -8,5 +8,6 @@
   "baseFontSizeAction": true,
   "textFontFamily": "Calibri",
   "interfaceFontFamily": "Calibri",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "showRibbon": false
 }
