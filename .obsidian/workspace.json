@@ -255,8 +255,8 @@
               "state": {
                 "file": "06. Collected Knowledge/Specific Problems with Christianity.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Specific Problems with Christianity"
@@ -270,8 +270,8 @@
               "state": {
                 "file": "Torah Study - Temp.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Torah Study - Temp"
@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -481,15 +481,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf8ca419ac76564c",
+  "active": "9f74715489a1b73c",
   "lastOpenFiles": [
+    "06. Collected Knowledge/Specific Problems with Christianity.md",
+    "Torah Study - Temp.md",
+    "01. Personal/Project Ideas/Computer Heartbeat.md",
     "01. Personal/Daily Notes/Entry of 3rd Feb, 2025.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Comparison.md",
-    "01. Personal/Project Ideas/Computer Heartbeat.md",
     "06. Collected Knowledge/QOwnNotes+.md",
-    "Torah Study - Temp.md",
-    "06. Collected Knowledge/Specific Problems with Christianity.md",
     "Questions to LLMs 3 - Nature of Complexity of Ideas and Objects.md",
     "01. Personal/Daily Notes/Entry of 31st Jan, 2025.md",
     "06. Collected Knowledge/Dance vs Flow.md",
