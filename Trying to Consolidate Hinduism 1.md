@@ -137,6 +137,11 @@
 	- Vaana Prastha
 	- Sanyaasa
 
+- Diet
+	- Energetic
+	- Equilibrious
+	- Harmful
+
 - Liberation
 	- Living Soul
 	- Ultimate Soul
