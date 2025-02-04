@@ -1,0 +1,2594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" width="1665px" height="1535px" viewBox="0 0 1665 1535" id="svg730" sodipodi:docname="IndoEuropeanTree._Major_Lang_Highlight v0.66 Armenian.svg" inkscape:version="1.3 (0e150ed6c4, 2023-07-21)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs730"/>
+  <sodipodi:namedview id="namedview730" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="1.2162866" inkscape:cx="832.04071" inkscape:cy="971.81039" inkscape:window-width="2811" inkscape:window-height="1860" inkscape:window-x="344" inkscape:window-y="24" inkscape:window-maximized="0" inkscape:current-layer="svg730"/>
+  <g id="lines" fill="none" stroke="#111">
+    <path id="mainline_middle" d="M751,25v1291h58.5v22"/>
+    <path id="arr_middle" fill="#000" d="M804.857,1321h9.3l-4.65,8l-4.65-8z"/>
+    <path d="M809.5,1378v-40" id="path1"/>
+    <g id="ana">
+      <path id="mainline_ana" d="M584.5,58V38H751"/>
+      <path id="arr_ana" fill="#000" d="M579.857,41h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M689.5,98V58h-210v80" id="path2"/>
+      <path d="M584.5,58v40" id="path3"/>
+    </g>
+    <g id="hel">
+      <path id="mainline_hel" d="M374.5,197v-20H751"/>
+      <path id="arr_hel" fill="#000" d="M369.857,181h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M689.5,278v-80h-525v80" id="path4"/>
+      <path d="M374.5,198v80" id="path5"/>
+      <path d="M164.5,278h-105v60" id="path6"/>
+      <path d="M374.5,238h210v80" id="path7"/>
+      <path d="M374.5,278h-105v40" id="path8"/>
+      <path d="M374.5,298h105v40" id="path9"/>
+      <path d="M269.5,338h105v40" id="path10"/>
+    </g>
+    <g id="ita">
+      <path id="mainline_ita" d="M374.5,413v-20H751"/>
+      <path id="arr_ita" fill="#000" d="M369.857,396h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M479.5,498v-85h-210v85" id="path11"/>
+      <path d="M59.5,598v-40h105v-40h105" id="path12"/>
+      <path d="M164.5,778v-60h105V578h-105" id="path13"/>
+      <path d="M59.5,778v-80h315v20" id="path14"/>
+      <path d="M479.5,742v-24h-105v260" id="path15"/>
+      <path d="M269.5,878v-40h105" id="path16"/>
+      <path d="M164.5,938v-60h105" id="path17"/>
+      <path d="M59.5,1038v-80h105" id="path18"/>
+      <path d="M164.5,1018v40" id="path19"/>
+      <path d="M164.5,978h105v40" id="path20"/>
+      <path d="M269.5,938v-35h420v75" id="path21"/>
+      <path d="M479.5,978v-75" id="path22"/>
+      <path d="M584.5,978v-75" id="path23"/>
+      <path d="M374.5,558v-40h105" id="path24"/>
+      <path d="M479.5,742h210v21" id="path25"/>
+    </g>
+    <g id="cel">
+      <path id="mainline_cel" d="M751,418H584.5v20"/>
+      <path id="arr_cel" fill="#000" d="M579.857,421h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M689.5,658v-40h-105V438h105v80" id="path26"/>
+      <path d="M584.5,538h-105v80" id="path27"/>
+    </g>
+    <g id="ger">
+      <path id="mainline_ger" d="M751,1078H374.5v20"/>
+      <path id="arr_ger" fill="#000" d="M369.857,1081h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M374.5,1098v240" id="path28"/>
+      <path d="M217,1218v-120h367.5v80" id="path29"/>
+      <path d="M217,1138h105v40" id="path30"/>
+      <path d="M164.5,1458v-200h525v80" id="path31"/>
+      <path d="M109.5,1218v-80h157.5" id="path32"/>
+      <path d="M584.5,1478v-220" id="path33"/>
+      <path d="M59.5,1478v-140h105" id="path34"/>
+      <path d="M59.5,1478h105v40" id="path35"/>
+      <path d="M269.5,1478v-180h210v180" id="path36"/>
+      <path d="M355,1458v-40h-85.5" id="path37"/>
+      <path d="M395,1458v-60h84.5" id="path38"/>
+      <path d="M479.5,1478h-105v40" id="path39"/>
+      <path d="M689.5,1478v-120h-105" id="path40"/>
+    </g>
+    <g id="toc">
+      <path id="mainline_toc" d="M751,1098h-61.5v20"/>
+      <path id="arr_toc" fill="#000" d="M684.857,1101h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M689.5,1116.5v40" id="path41"/>
+    </g>
+    <g id="ind">
+      <path id="mainline_ind" d="M751,197h268.5v20"/>
+      <path id="arr_ind" fill="#000" d="M1014.858,201h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M1019.5,218H1644v438h-519.5v62" id="path42"/>
+      <path d="M809.5,298v-40h700v232h-279.5v108" id="path43"/>
+      <path d="M914.5,258v40" id="path44"/>
+      <path d="M1019.5,218v240" id="path45"/>
+      <path d="M1124.5,258v80" id="path46"/>
+      <path d="M1334.5,258v160" id="path47"/>
+      <path d="M1439.5,258v120" id="path48"/>
+      <path d="M1229.5,378v-40h105" id="path49"/>
+      <path d="M809.5,458v-75h210v75" id="path50"/>
+      <path d="M914.5,383v75" id="path51"/>
+      <path d="M1019.5,418h105v40" id="path52"/>
+      <path d="M1124.5,598v-80h210v80" id="path53"/>
+      <path d="M1439.5,490v108" id="path54"/>
+      <path d="M1579.5,218v82" id="path55"/>
+      <path d="M1334.5,718v-40h-420v40" id="path56"/>
+      <path d="M1019.5,798v-80h-210v260" id="path57"/>
+      <path d="M1124.5,838v-80h-210v80" id="path58"/>
+      <path d="M809.5,898h105v40" id="path59"/>
+      <path d="M809.5,978h105v40" id="path60"/>
+      <path d="M914.5,878h105v40" id="path61"/>
+      <path d="M914.5,938h105v40" id="path62"/>
+      <path d="M1229.5,878h-105v80" id="path63"/>
+      <path d="M1019.5,1038v-40h105" id="path64"/>
+      <path d="M1229.5,958V718h210v300" id="path65"/>
+      <path d="M1334.5,838v-80h105" id="path66"/>
+      <path d="M1334.5,1018v-80h105" id="path67"/>
+      <path d="M1229.5,1058v-40h-105" id="path68"/>
+    </g>
+    <g id="arm">
+      <path id="mainline_arm" d="M751,1038h58.5v20"/>
+      <path id="arr_arm" fill="#000" d="M804.857,1041h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M809.5,1058v40" id="path69"/>
+    </g>
+    <g id="bal">
+      <path id="mainline_bal" d="M751,1113h268.5v25"/>
+      <path id="arr_bal" fill="#000" d="M1014.857,1121h9.3l-4.65,8l-4.65-8z"/>
+      <path d="M914.5,1258v-120h210v260" id="path70"/>
+      <path d="M809.5,1258v-80h105" id="path71"/>
+      <path d="M1229.5,1478v-120h-105" id="path72"/>
+      <path d="M1334.5,1298v-120h-315v240" id="path73"/>
+      <path d="M914.5,1438v-80h105" id="path74"/>
+      <path d="M809.5,1478v-40h105" id="path75"/>
+      <path d="M1019.5,1518v-40h-105" id="path76"/>
+      <path d="M1124.5,1458v-40h-105" id="path77"/>
+      <path d="M1334.5,1418v-100h-210" id="path78"/>
+      <path d="M1439.5,1458v-40h-105" id="path79"/>
+      <path d="M1229.5,1258v-40h105" id="path80"/>
+      <path d="M1439.5,1338v-80h-105" id="path81"/>
+    </g>
+  </g>
+  <rect x="696" y="10" fill="#fff" stroke="#111" width="130" height="16" id="rect81"/>
+  <switch id="switch81">
+    <text x="761" y="22.5" font-family="Arial" font-size="13" font-weight="bold" text-anchor="middle" id="trsvg687-da" systemLanguage="da"><tspan id="trsvg1-da">INDOEUROPÆISK</tspan></text>
+    <text x="761" y="22.5" font-family="Arial" font-size="13" font-weight="bold" text-anchor="middle" id="trsvg687-ca" systemLanguage="ca"><tspan id="trsvg1-ca">INDOEUROPEU</tspan></text>
+    <text x="761" y="22.5" font-family="Arial" font-size="13" font-weight="bold" text-anchor="middle" id="trsvg687"><tspan id="trsvg1">INDO-EUROPEAN</tspan></text>
+  </switch>
+  <!-- background colors of the rectangles: green=#bfb red=#fcc white=#fff -->
+  <g id="legende" transform="translate(1500)">
+    <g stroke="#111" id="g85">
+      <rect x="20" y="20" fill="#fff" width="125" height="100" id="rect82"/>
+      <rect x="30" y="30" fill="#fff" width="105" height="16" id="rect83"/>
+      <rect x="30" y="60" fill="#fcc" width="105" height="16" id="rect84"/>
+      <rect x="30" y="90" fill="#bfb" width="105" height="16" id="rect85"/>
+    </g>
+    <g transform="translate(34 12)" font-family="Arial" font-size="13" id="g87">
+      <switch transform="translate(0 30)" font-weight="bold" id="switch85">
+        <text systemLanguage="id" id="trsvg688"><tspan id="trsvg2">proto-language</tspan></text>
+        <text id="trsvg689-da" systemLanguage="da"><tspan id="trsvg3-da">ursprog</tspan></text>
+        <text id="trsvg689"><tspan id="trsvg3">proto-language</tspan></text>
+      </switch>
+      <switch transform="translate(0 60)" id="switch86">
+        <text systemLanguage="id" id="trsvg690"><tspan id="trsvg4">extinct or dead</tspan></text>
+        <text id="trsvg691-da" systemLanguage="da"><tspan id="trsvg5-da">uddødt</tspan></text>
+        <text id="trsvg691-ca" systemLanguage="ca"><tspan id="trsvg5-ca">extint o mort</tspan></text>
+        <text id="trsvg691"><tspan id="trsvg5">extinct or dead</tspan></text>
+      </switch>
+      <switch transform="translate(0 90)" id="switch87">
+        <text systemLanguage="id" id="trsvg692"><tspan id="trsvg6">in use</tspan></text>
+        <text id="trsvg693-da" systemLanguage="da"><tspan id="trsvg7-da">i brug</tspan></text>
+        <text id="trsvg693-ca" systemLanguage="ca"><tspan id="trsvg7-ca">en ús</tspan></text>
+        <text id="trsvg693"><tspan id="trsvg7">in use</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column01">
+    <g stroke="#111" id="g99">
+      <rect x="10" y="330" fill="#bfb" width="99" height="16" id="rect87"/>
+      <rect x="10" y="590" fill="#bfb" width="129" height="16" id="rect88"/>
+      <rect x="10" y="730" fill="#bfb" width="99" height="16" id="rect89"/>
+      <rect x="10" y="770" fill="#bfb" width="99" height="16" id="rect90"/>
+      <rect x="10" y="790" fill="#bfb" width="99" height="16" id="rect91"/>
+      <rect x="10" y="1030" fill="#bfb" width="99" height="16" id="rect92"/>
+      <rect x="10" y="1050" fill="#bfb" width="99" height="16" id="rect93"/>
+      <rect x="10" y="1070" fill="#bfb" width="99" height="16" id="rect94"/>
+      <rect x="10" y="1090" fill="#bfb" width="99" height="16" id="rect95"/>
+      <rect x="10" y="1360" fill="#fff" width="99" height="16" id="rect96"/>
+      <rect x="10" y="1410" fill="#fcc" width="99" height="16" id="rect97"/>
+      <rect x="10" y="1470" fill="#bfb" width="99" height="16" id="rect98" style="fill:#81ff81;fill-opacity:1"/>
+      <rect x="10" y="1490" fill="#bfb" width="99" height="16" id="rect99"/>
+    </g>
+    <g transform="translate(59.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g111">
+      <switch transform="translate(0 330)" id="switch99">
+        <text systemLanguage="id" id="trsvg694"><tspan id="trsvg8">Tsakonia</tspan></text>
+        <text id="trsvg695-da" systemLanguage="da"><tspan id="trsvg9-da">tsakonisk</tspan></text>
+        <text id="trsvg695-ca" systemLanguage="ca"><tspan id="trsvg9-ca">Tsacònic</tspan></text>
+        <text id="trsvg695"><tspan id="trsvg9">Tsakonian</tspan></text>
+      </switch>
+      <switch transform="translate(12 590)" id="switch100">
+        <text systemLanguage="id" id="trsvg696"><tspan id="trsvg10">Latin Gerejawi</tspan></text>
+        <text id="trsvg697-da" systemLanguage="da"><tspan id="trsvg11-da">kirkelatin</tspan></text>
+        <text id="trsvg697-ca" systemLanguage="ca"><tspan id="trsvg11-ca">Llatí eclesiàstic</tspan></text>
+        <text id="trsvg697"><tspan id="trsvg11">Ecclesiastical Latin</tspan></text>
+      </switch>
+      <switch transform="translate(0 730)" id="switch101">
+        <text systemLanguage="id" id="trsvg698"><tspan id="trsvg12">Sardinia</tspan></text>
+        <text id="trsvg699-da" systemLanguage="da"><tspan id="trsvg13-da">sardisk</tspan></text>
+        <text id="trsvg699-ca" systemLanguage="ca"><tspan id="trsvg13-ca">Sard</tspan></text>
+        <text id="trsvg699"><tspan id="trsvg13">Sardinian</tspan></text>
+      </switch>
+      <switch transform="translate(0 770)" id="switch102">
+        <text systemLanguage="id" id="trsvg700"><tspan id="trsvg14">Logudor</tspan></text>
+        <text id="trsvg701-da" systemLanguage="da"><tspan id="trsvg15-da">logudoresisk</tspan></text>
+        <text id="trsvg701-ca" systemLanguage="ca"><tspan id="trsvg15-ca">Logudorès</tspan></text>
+        <text id="trsvg701"><tspan id="trsvg15">Logudorese</tspan></text>
+      </switch>
+      <switch transform="translate(0 790)" id="switch103">
+        <text systemLanguage="id" id="trsvg702"><tspan id="trsvg16">Campidanu</tspan></text>
+        <text id="trsvg703-da" systemLanguage="da"><tspan id="trsvg17-da">campidanesisk</tspan></text>
+        <text id="trsvg703-ca" systemLanguage="ca"><tspan id="trsvg17-ca">Campidanès</tspan></text>
+        <text id="trsvg703"><tspan id="trsvg17">Campidanese</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch104">
+        <text systemLanguage="id" id="trsvg704"><tspan id="trsvg18">Asturia</tspan></text>
+        <text id="trsvg705-da" systemLanguage="da"><tspan id="trsvg19-da">asturisk</tspan></text>
+        <text id="trsvg705-ca" systemLanguage="ca"><tspan id="trsvg19-ca">Asturià</tspan></text>
+        <text id="trsvg705"><tspan id="trsvg19">Asturian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" id="switch105">
+        <text systemLanguage="id" id="trsvg706"><tspan id="trsvg20">Extremenu</tspan></text>
+        <text id="trsvg707-da" systemLanguage="da"><tspan id="trsvg21-da">ekstremaduransk</tspan></text>
+        <text id="trsvg707-ca" systemLanguage="ca"><tspan id="trsvg21-ca">Extremeny</tspan></text>
+        <text id="trsvg707"><tspan id="trsvg21">Extremaduran</tspan></text>
+      </switch>
+      <switch transform="translate(0 1070)" id="switch106">
+        <text systemLanguage="id" id="trsvg708"><tspan id="trsvg22">Llion</tspan></text>
+        <text id="trsvg709-da" systemLanguage="da"><tspan id="trsvg23-da">llionsk</tspan></text>
+        <text id="trsvg709-ca" systemLanguage="ca"><tspan id="trsvg23-ca">Lleonès</tspan></text>
+        <text id="trsvg709"><tspan id="trsvg23">Leonese</tspan></text>
+      </switch>
+      <switch transform="translate(0 1090)" id="switch107">
+        <text systemLanguage="id" id="trsvg710"><tspan id="trsvg24">Miranda</tspan></text>
+        <text id="trsvg711-da" systemLanguage="da"><tspan id="trsvg25-da">mirandesisk</tspan></text>
+        <text id="trsvg711-ca" systemLanguage="ca"><tspan id="trsvg25-ca">Mirandès</tspan></text>
+        <text id="trsvg711"><tspan id="trsvg25">Mirandese</tspan></text>
+      </switch>
+      <switch transform="translate(0 1360)" font-style="italic" font-weight="bold" id="switch108">
+        <text systemLanguage="id" id="trsvg712"><tspan id="trsvg26">BARAT</tspan></text>
+        <text id="trsvg713-da" systemLanguage="da"><tspan id="trsvg27-da">VESTLIG</tspan></text>
+        <text id="trsvg713-ca" systemLanguage="ca"><tspan id="trsvg27-ca">OEST</tspan></text>
+        <text id="trsvg713"><tspan id="trsvg27">WEST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1410)" id="switch109">
+        <text systemLanguage="id" id="trsvg714"><tspan id="trsvg28">Belanda Kuno</tspan></text>
+        <text id="trsvg715-da" systemLanguage="da"><tspan id="trsvg29-da">oldnederlandsk</tspan></text>
+        <text id="trsvg715-ca" systemLanguage="ca"><tspan id="trsvg29-ca">Neerlandès Antic</tspan></text>
+        <text id="trsvg715"><tspan id="trsvg29">Old Dutch</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch110">
+        <text systemLanguage="id" id="trsvg716" style="display:inline"><tspan id="trsvg30">Belanda</tspan></text>
+        <text id="trsvg717-da" systemLanguage="da" style="display:inline"><tspan id="trsvg31-da">hollandsk</tspan></text>
+        <text id="trsvg717-ca" systemLanguage="ca" style="display:inline"><tspan id="trsvg31-ca">Neerlandès</tspan></text>
+        <text id="trsvg717" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg31" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Dutch</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch111">
+        <text systemLanguage="id" id="trsvg718"><tspan id="trsvg32">Flam</tspan></text>
+        <text id="trsvg719-da" systemLanguage="da"><tspan id="trsvg33-da">flamsk</tspan></text>
+        <text id="trsvg719-ca" systemLanguage="ca"><tspan id="trsvg33-ca">Flamenc</tspan></text>
+        <text id="trsvg719"><tspan id="trsvg33">Flemish</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column01a">
+    <g stroke="#111" id="g116">
+      <rect x="60" y="1170" fill="#fcc" width="99" height="16" id="rect111"/>
+      <rect x="60" y="1210" fill="#bfb" width="99" height="16" id="rect112"/>
+      <rect x="45" y="1230" fill="#fcc" width="114" height="16" id="rect113"/>
+      <rect x="60" y="1250" fill="#bfb" width="99" height="16" id="rect114"/>
+      <rect x="60" y="1270" fill="#fcc" width="99" height="16" id="rect115"/>
+      <rect x="60" y="1290" fill="#bfb" width="99" height="16" id="rect116"/>
+    </g>
+    <g transform="translate(109.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g121">
+      <switch transform="translate(0 1170)" id="switch116">
+        <text systemLanguage="id" id="trsvg720"><tspan id="trsvg34">Norse Barat Kuno</tspan></text>
+        <text id="trsvg721-da" systemLanguage="da"><tspan id="trsvg35-da">norrønt</tspan></text>
+        <text id="trsvg721"><tspan id="trsvg35">Old West Norse</tspan></text>
+      </switch>
+      <switch transform="translate(0 1210)" id="switch117">
+        <text systemLanguage="id" id="trsvg722"><tspan id="trsvg36">Faroe</tspan></text>
+        <text id="trsvg723-da" systemLanguage="da"><tspan id="trsvg37-da">færøsk</tspan></text>
+        <text id="trsvg723-ca" systemLanguage="ca"><tspan id="trsvg37-ca">Feroès</tspan></text>
+        <text id="trsvg723"><tspan id="trsvg37">Faroese</tspan></text>
+      </switch>
+      <switch transform="translate(-8 1230)" id="switch118">
+        <text systemLanguage="id" id="trsvg724"><tspan id="trsvg38">Norse Greenland</tspan></text>
+        <text id="trsvg725-da" systemLanguage="da"><tspan id="trsvg39-da">grønlandsk norrønt </tspan></text>
+        <text id="trsvg725-ca" systemLanguage="ca"><tspan id="trsvg39-ca">Nòrdic groenlandès</tspan></text>
+        <text id="trsvg725"><tspan id="trsvg39">Greenlandic Norse</tspan></text>
+      </switch>
+      <switch transform="translate(0 1250)" id="switch119">
+        <text systemLanguage="id" id="trsvg726"><tspan id="trsvg40">Islandia</tspan></text>
+        <text id="trsvg727-da" systemLanguage="da"><tspan id="trsvg41-da">islandsk</tspan></text>
+        <text id="trsvg727-ca" systemLanguage="ca"><tspan id="trsvg41-ca">Islandès</tspan></text>
+        <text id="trsvg727"><tspan id="trsvg41">Icelandic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1270)" id="switch120">
+        <text systemLanguage="id" id="trsvg728"><tspan id="trsvg42">Norn</tspan></text>
+        <text id="trsvg729-da" systemLanguage="da"><tspan id="trsvg43-da">norn</tspan></text>
+        <text id="trsvg729-ca" systemLanguage="ca"><tspan id="trsvg43-ca">Norn</tspan></text>
+        <text id="trsvg729"><tspan id="trsvg43">Norn</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch121">
+        <text systemLanguage="id" id="trsvg730"><tspan id="trsvg44">Norwegia</tspan></text>
+        <text id="trsvg731-da" systemLanguage="da"><tspan id="trsvg45-da">norsk</tspan></text>
+        <text id="trsvg731-ca" systemLanguage="ca"><tspan id="trsvg45-ca">Noruec</tspan></text>
+        <text id="trsvg731"><tspan id="trsvg45">Norwegian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column02">
+    <g stroke="#111" id="g142">
+      <rect x="115" y="230" fill="#fff" width="99" height="16" id="rect121"/>
+      <rect x="115" y="270" fill="#fcc" width="99" height="16" id="rect122"/>
+      <rect x="110" y="290" fill="#fcc" width="109" height="16" id="rect123"/>
+      <rect x="115" y="550" fill="#fcc" width="99" height="16" id="rect124"/>
+      <rect x="115" y="570" fill="#fcc" width="99" height="16" id="rect125"/>
+      <rect x="115" y="730" fill="#fff" width="99" height="16" id="rect126"/>
+      <rect x="115" y="770" fill="#bfb" width="99" height="16" id="rect127"/>
+      <rect x="115" y="790" fill="#bfb" width="99" height="16" id="rect128"/>
+      <rect x="105" y="810" fill="#bfb" width="119" height="16" id="rect129"/>
+      <rect x="115" y="830" fill="#bfb" width="99" height="16" id="rect130" style="fill:#7fff7f;fill-opacity:1"/>
+      <rect x="115" y="930" fill="#bfb" width="99" height="16" id="rect131"/>
+      <rect x="115" y="950" fill="#fcc" width="99" height="16" id="rect132"/>
+      <rect x="100" y="970" fill="#fcc" width="129" height="16" id="rect133"/>
+      <rect x="115" y="990" fill="#fcc" width="99" height="16" id="rect134"/>
+      <rect x="115" y="1010" fill="#fcc" width="99" height="16" id="rect135"/>
+      <rect x="115" y="1050" fill="#bfb" width="99" height="16" id="rect136"/>
+      <rect x="115" y="1070" fill="#bfb" width="99" height="16" id="rect137" style="fill:#80ff80;fill-opacity:1"/>
+      <rect x="100" y="1330" fill="#fff" width="129" height="16" id="rect138"/>
+      <rect x="115" y="1360" fill="#fff" width="99" height="16" id="rect139"/>
+      <rect x="85" y="1390" fill="#fcc" width="159" height="16" id="rect140"/>
+      <rect x="115" y="1450" fill="#bfb" width="99" height="16" id="rect141"/>
+      <rect x="115" y="1510" fill="#bfb" width="99" height="16" id="rect142"/>
+    </g>
+    <g transform="translate(164.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g163">
+      <switch transform="translate(0 230)" font-weight="bold" id="switch142">
+        <text systemLanguage="id" id="trsvg732"><tspan id="trsvg46">DORIA</tspan></text>
+        <text id="trsvg733-da" systemLanguage="da"><tspan id="trsvg47-da">DORISK</tspan></text>
+        <text id="trsvg733-ca" systemLanguage="ca"><tspan id="trsvg47-ca">DÒRIC</tspan></text>
+        <text id="trsvg733"><tspan id="trsvg47">DORIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 270)" id="switch143">
+        <text systemLanguage="id" id="trsvg734"><tspan id="trsvg48">Dorik</tspan></text>
+        <text id="trsvg735-da" systemLanguage="da"><tspan id="trsvg49-da">dorisk</tspan></text>
+        <text id="trsvg735-ca" systemLanguage="ca"><tspan id="trsvg49-ca">Dòric</tspan></text>
+        <text id="trsvg735"><tspan id="trsvg49">Doric</tspan></text>
+      </switch>
+      <switch transform="translate(0 290)" id="switch144">
+        <text systemLanguage="id" id="trsvg736"><tspan id="trsvg50">Yunani Barat Laut</tspan></text>
+        <text id="trsvg737-da" systemLanguage="da"><tspan id="trsvg51-da">nordvestgræsk</tspan></text>
+        <text id="trsvg737-ca" systemLanguage="ca"><tspan id="trsvg51-ca">Grec nord-occidental</tspan></text>
+        <text id="trsvg737"><tspan id="trsvg51">Northwest Greek</tspan></text>
+      </switch>
+      <switch transform="translate(0 550)" id="switch145">
+        <text systemLanguage="id" id="trsvg738"><tspan id="trsvg52">Latin Klasik</tspan></text>
+        <text id="trsvg739-da" systemLanguage="da"><tspan id="trsvg53-da">klassisk latin</tspan></text>
+        <text id="trsvg739-ca" systemLanguage="ca"><tspan id="trsvg53-ca">Llatí Clàssic</tspan></text>
+        <text id="trsvg739"><tspan id="trsvg53">Classical Latin</tspan></text>
+      </switch>
+      <switch transform="translate(0 570)" id="switch146">
+        <text systemLanguage="id" id="trsvg740"><tspan id="trsvg54">Latin Vulgar</tspan></text>
+        <text id="trsvg741-da" systemLanguage="da"><tspan id="trsvg55-da">vulgærlatin</tspan></text>
+        <text id="trsvg741-ca" systemLanguage="ca"><tspan id="trsvg55-ca">Llatí Vulgar</tspan></text>
+        <text id="trsvg741"><tspan id="trsvg55">Vulgar Latin</tspan></text>
+      </switch>
+      <switch transform="translate(0 730)" font-weight="bold" font-style="italic" id="switch147">
+        <text systemLanguage="id" id="trsvg742"><tspan id="trsvg56">TIMUR</tspan></text>
+        <text id="trsvg743-da" systemLanguage="da"><tspan id="trsvg57-da">ØSTLIG</tspan></text>
+        <text id="trsvg743-ca" systemLanguage="ca"><tspan id="trsvg57-ca">ORIENTAL</tspan></text>
+        <text id="trsvg743"><tspan id="trsvg57">EASTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 770)" id="switch148">
+        <text systemLanguage="id" id="trsvg744"><tspan id="trsvg58">Arumania</tspan></text>
+        <text id="trsvg745-da" systemLanguage="da"><tspan id="trsvg59-da">aromunsk</tspan></text>
+        <text id="trsvg745-ca" systemLanguage="ca"><tspan id="trsvg59-ca">Aromanès</tspan></text>
+        <text id="trsvg745"><tspan id="trsvg59">Aromanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 790)" id="switch149">
+        <text systemLanguage="id" id="trsvg746"><tspan id="trsvg60">Istro-Rumania</tspan></text>
+        <text id="trsvg747-da" systemLanguage="da"><tspan id="trsvg61-da">istrorumænsk</tspan></text>
+        <text id="trsvg747-ca" systemLanguage="ca"><tspan id="trsvg61-ca">Istroromanès</tspan></text>
+        <text id="trsvg747"><tspan id="trsvg61">Istro-Romanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 810)" id="switch150">
+        <text systemLanguage="id" id="trsvg748"><tspan id="trsvg62">Megleno-Rumania</tspan></text>
+        <text id="trsvg749-da" systemLanguage="da"><tspan id="trsvg63-da">meglenorumænsk</tspan></text>
+        <text id="trsvg749-ca" systemLanguage="ca"><tspan id="trsvg63-ca">Meglenoromanès</tspan></text>
+        <text id="trsvg749"><tspan id="trsvg63">Megleno-Romanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 830)" id="switch151">
+        <text systemLanguage="id" id="trsvg750"><tspan id="trsvg64">Rumania</tspan></text>
+        <text id="trsvg751-da" systemLanguage="da"><tspan id="trsvg65-da">rumænsk</tspan></text>
+        <text id="trsvg751-ca" systemLanguage="ca"><tspan id="trsvg65-ca">Romanès</tspan></text>
+        <text id="trsvg751" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg65" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Romanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" id="switch152">
+        <text systemLanguage="id" id="trsvg752"><tspan id="trsvg66">Aragon</tspan></text>
+        <text id="trsvg753-da" systemLanguage="da"><tspan id="trsvg67-da">aragonsk</tspan></text>
+        <text id="trsvg753-ca" systemLanguage="ca"><tspan id="trsvg67-ca">Aragonès</tspan></text>
+        <text id="trsvg753"><tspan id="trsvg67">Aragonese</tspan></text>
+      </switch>
+      <switch transform="translate(0 950)" id="switch153">
+        <text systemLanguage="id" id="trsvg754"><tspan id="trsvg68">Astur-Llion</tspan></text>
+        <text id="trsvg755-da" systemLanguage="da"><tspan id="trsvg69-da">asturllionsk</tspan></text>
+        <text id="trsvg755-ca" systemLanguage="ca"><tspan id="trsvg69-ca">Asturlleonès</tspan></text>
+        <text id="trsvg755"><tspan id="trsvg69">Astur-Leonese</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch154">
+        <text systemLanguage="id" id="trsvg756"><tspan id="trsvg70">Galisia-Portugis</tspan></text>
+        <text id="trsvg757-da" systemLanguage="da"><tspan id="trsvg71-da">galicisk portugisisk</tspan></text>
+        <text id="trsvg757-ca" systemLanguage="ca"><tspan id="trsvg71-ca">Galaicoportuguès</tspan></text>
+        <text id="trsvg757"><tspan id="trsvg71">Galician-Portuguese</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch155">
+        <text systemLanguage="id" id="trsvg758"><tspan id="trsvg72">Muzarab</tspan></text>
+        <text id="trsvg759-da" systemLanguage="da"><tspan id="trsvg73-da">mozarabisk</tspan></text>
+        <text id="trsvg759-ca" systemLanguage="ca"><tspan id="trsvg73-ca">Mossàrab</tspan></text>
+        <text id="trsvg759"><tspan id="trsvg73">Mozarabic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch156">
+        <text systemLanguage="id" id="trsvg760"><tspan id="trsvg74">Spanyol Kuno</tspan></text>
+        <text id="trsvg761-da" systemLanguage="da"><tspan id="trsvg75-da">oldspansk</tspan></text>
+        <text id="trsvg761-ca" systemLanguage="ca"><tspan id="trsvg75-ca">Castellà antic</tspan></text>
+        <text id="trsvg761"><tspan id="trsvg75">Old Spanish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" id="switch157">
+        <text systemLanguage="id" id="trsvg762"><tspan id="trsvg76">Ladino</tspan></text>
+        <text id="trsvg763-da" systemLanguage="da"><tspan id="trsvg77-da">ladino</tspan></text>
+        <text id="trsvg763-ca" systemLanguage="ca"><tspan id="trsvg77-ca">Judeocastellà</tspan></text>
+        <text id="trsvg763"><tspan id="trsvg77">Ladino</tspan></text>
+      </switch>
+      <switch transform="translate(0 1070)" id="switch158">
+        <text systemLanguage="id" id="trsvg764"><tspan id="trsvg78">Spanyol Modern</tspan></text>
+        <text id="trsvg765-da" systemLanguage="da"><tspan id="trsvg79-da">spansk</tspan></text>
+        <text id="trsvg765-ca" systemLanguage="ca"><tspan id="trsvg79-ca">Castellà</tspan></text>
+        <text id="trsvg765" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg79" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Spanish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1330)" font-weight="bold" id="switch159">
+        <text systemLanguage="id" id="trsvg766"><tspan id="trsvg80">FRANKEN HILIR</tspan></text>
+        <text id="trsvg767-da" systemLanguage="da"><tspan id="trsvg81-da">LAVFRANKISK</tspan></text>
+        <text id="trsvg767-ca" systemLanguage="ca"><tspan id="trsvg81-ca">BAIX FRÀNCIC</tspan></text>
+        <text id="trsvg767"><tspan id="trsvg81">LOW FRANCONIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1360)" font-weight="bold" font-style="italic" id="switch160">
+        <text systemLanguage="id" id="trsvg768"><tspan id="trsvg82">TIMUR</tspan></text>
+        <text id="trsvg769-da" systemLanguage="da"><tspan id="trsvg83-da">ØSTLIG</tspan></text>
+        <text id="trsvg769-ca" systemLanguage="ca"><tspan id="trsvg83-ca">EST</tspan></text>
+        <text id="trsvg769"><tspan id="trsvg83">EAST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1390)" id="switch161">
+        <text systemLanguage="id" id="trsvg770"><tspan id="trsvg84">Franken Hilir Timur Kuno</tspan></text>
+        <text id="trsvg771-da" systemLanguage="da"><tspan id="trsvg85-da">limburgisk</tspan></text>
+        <text id="trsvg771"><tspan id="trsvg85">Old East Low Franconian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1450)" id="switch162">
+        <text systemLanguage="id" id="trsvg772"><tspan id="trsvg86">Limburg</tspan></text>
+        <text id="trsvg773-da" systemLanguage="da"><tspan id="trsvg87-da">limburgisk</tspan></text>
+        <text id="trsvg773-ca" systemLanguage="ca"><tspan id="trsvg87-ca">Limburguès</tspan></text>
+        <text id="trsvg773"><tspan id="trsvg87">Limburgish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch163">
+        <text systemLanguage="id" id="trsvg774"><tspan id="trsvg88">Afrikaans</tspan></text>
+        <text id="trsvg775-da" systemLanguage="da"><tspan id="trsvg89-da">afrikaans</tspan></text>
+        <text id="trsvg775-ca" systemLanguage="ca"><tspan id="trsvg89-ca">Afrikaans</tspan></text>
+        <text id="trsvg775"><tspan id="trsvg89">Afrikaans</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column02a">
+    <g stroke="#111" id="g166">
+      <rect x="167.5" y="1130" fill="#fcc" width="99" height="16" id="rect163"/>
+      <rect x="167.5" y="1170" fill="#fcc" width="99" height="16" id="rect164"/>
+      <rect x="167.5" y="1210" fill="#bfb" width="99" height="16" id="rect165"/>
+      <rect x="167.5" y="1230" fill="#bfb" width="99" height="16" id="rect166" style="fill:#7fff7f;fill-opacity:1"/>
+    </g>
+    <g transform="translate(217 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g169">
+      <switch transform="translate(0 1130)" id="switch166">
+        <text systemLanguage="id" id="trsvg776"><tspan id="trsvg90">Norse Kuno</tspan></text>
+        <text id="trsvg777-da" systemLanguage="da"><tspan id="trsvg91-da">oldnordisk</tspan></text>
+        <text id="trsvg777-ca" systemLanguage="ca"><tspan id="trsvg91-ca">Nòrdic antic</tspan></text>
+        <text id="trsvg777"><tspan id="trsvg91">Old Norse</tspan></text>
+      </switch>
+      <switch transform="translate(0 1170)" id="switch167">
+        <text systemLanguage="id" id="trsvg778"><tspan id="trsvg92">Norse Timur Kuno</tspan></text>
+        <text id="trsvg779-da" systemLanguage="da"><tspan id="trsvg93-da">oldøstnordisk</tspan></text>
+        <text id="trsvg779"><tspan id="trsvg93">Old East Norse</tspan></text>
+      </switch>
+      <switch transform="translate(0 1210)" id="switch168">
+        <text systemLanguage="id" id="trsvg780"><tspan id="trsvg94">Denmark</tspan></text>
+        <text id="trsvg781-da" systemLanguage="da"><tspan id="trsvg95-da">dansk</tspan></text>
+        <text id="trsvg781-ca" systemLanguage="ca"><tspan id="trsvg95-ca">Danès</tspan></text>
+        <text id="trsvg781"><tspan id="trsvg95">Danish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1230)" id="switch169">
+        <text systemLanguage="id" id="trsvg782"><tspan id="trsvg96">Swedia</tspan></text>
+        <text id="trsvg783-da" systemLanguage="da"><tspan id="trsvg97-da">svensk</tspan></text>
+        <text id="trsvg783-ca" systemLanguage="ca"><tspan id="trsvg97-ca">Suec</tspan></text>
+        <text id="trsvg783" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg97" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Swedish</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column03">
+    <g stroke="#111" id="g184">
+      <rect x="220" y="310" fill="#fcc" width="99" height="16" id="rect169"/>
+      <rect x="220" y="330" fill="#fcc" width="99" height="16" id="rect170"/>
+      <rect x="205" y="450" fill="#fff" width="129" height="16" id="rect171"/>
+      <rect x="220" y="490" fill="#fcc" width="99" height="16" id="rect172"/>
+      <rect x="220" y="510" fill="#fcc" width="99" height="16" id="rect173"/>
+      <rect x="220" y="690" fill="#fff" width="99" height="16" id="rect174"/>
+      <rect x="220" y="870" fill="#fff" width="99" height="16" id="rect175"/>
+      <rect x="220" y="930" fill="#bfb" width="99" height="16" id="rect176"/>
+      <rect x="220" y="1010" fill="#bfb" width="99" height="16" id="rect177"/>
+      <rect x="220" y="1030" fill="#bfb" width="99" height="16" id="rect178"/>
+      <rect x="220" y="1050" fill="#bfb" width="99" height="16" id="rect179"/>
+      <rect x="220" y="1070" fill="#bfb" width="99" height="16" id="rect180" style="fill:#81ff81;fill-opacity:1"/>
+      <rect x="205" y="1410" fill="#fff" width="129" height="16" id="rect181"/>
+      <rect x="220" y="1470" fill="#bfb" width="99" height="16" id="rect182"/>
+      <rect x="220" y="1490" fill="#bfb" width="99" height="16" id="rect183"/>
+      <rect x="220" y="1510" fill="#bfb" width="99" height="16" id="rect184"/>
+    </g>
+    <g transform="translate(269.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g199">
+      <switch transform="translate(0 310)" id="switch184">
+        <text systemLanguage="id" id="trsvg784"><tspan id="trsvg98">Yunani Klasik</tspan></text>
+        <text id="trsvg785-da" systemLanguage="da"><tspan id="trsvg99-da">oldgræsk</tspan></text>
+        <text id="trsvg785-ca" systemLanguage="ca"><tspan id="trsvg99-ca">Grec antic</tspan></text>
+        <text id="trsvg785"><tspan id="trsvg99">Classical Greek</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" id="switch185">
+        <text systemLanguage="id" id="trsvg786"><tspan id="trsvg100">Yunani Koine</tspan></text>
+        <text id="trsvg787-da" systemLanguage="da"><tspan id="trsvg101-da">koiné</tspan></text>
+        <text id="trsvg787-ca" systemLanguage="ca"><tspan id="trsvg101-ca">Grec koiné</tspan></text>
+        <text id="trsvg787"><tspan id="trsvg101">Koine Greek</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" font-weight="bold" id="switch186">
+        <text systemLanguage="id" id="trsvg788"><tspan id="trsvg102">LATINO-FALISKI</tspan></text>
+        <text id="trsvg789-da" systemLanguage="da"><tspan id="trsvg103-da">LATINO-FALISKISK</tspan></text>
+        <text id="trsvg789-ca" systemLanguage="ca"><tspan id="trsvg103-ca">LLATINOFALISC</tspan></text>
+        <text id="trsvg789"><tspan id="trsvg103">LATINO-FALISCAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 490)" id="switch187">
+        <text systemLanguage="id" id="trsvg790"><tspan id="trsvg104">Faliski</tspan></text>
+        <text id="trsvg791-da" systemLanguage="da"><tspan id="trsvg105-da">faliskisk</tspan></text>
+        <text id="trsvg791-ca" systemLanguage="ca"><tspan id="trsvg105-ca">Falisc</tspan></text>
+        <text id="trsvg791"><tspan id="trsvg105">Faliscan</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" id="switch188">
+        <text systemLanguage="id" id="trsvg792"><tspan id="trsvg106">Latin Kuno</tspan></text>
+        <text id="trsvg793-da" systemLanguage="da"><tspan id="trsvg107-da">latin</tspan></text>
+        <text id="trsvg793-ca" systemLanguage="ca"><tspan id="trsvg107-ca">Llatí</tspan></text>
+        <text id="trsvg793"><tspan id="trsvg107">Latin</tspan></text>
+      </switch>
+      <switch transform="translate(0 690)" font-weight="bold" id="switch189">
+        <text systemLanguage="id" id="trsvg794"><tspan id="trsvg108">ROMANS</tspan></text>
+        <text id="trsvg795-da" systemLanguage="da"><tspan id="trsvg109-da">ROMANSK</tspan></text>
+        <text id="trsvg795-ca" systemLanguage="ca"><tspan id="trsvg109-ca">ROMÀNIC</tspan></text>
+        <text id="trsvg795"><tspan id="trsvg109">ROMANCE</tspan></text>
+      </switch>
+      <switch transform="translate(0 870)" font-weight="bold" id="switch190">
+        <text systemLanguage="id" id="trsvg796"><tspan id="trsvg110">IBERIA</tspan></text>
+        <text id="trsvg797-da" systemLanguage="da"><tspan id="trsvg111-da">IBERISK</tspan></text>
+        <text id="trsvg797-ca" systemLanguage="ca"><tspan id="trsvg111-ca">IBÈRIC</tspan></text>
+        <text id="trsvg797"><tspan id="trsvg111">IBERIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" id="switch191">
+        <text systemLanguage="id" id="trsvg798"><tspan id="trsvg112">Arpitan</tspan></text>
+        <text id="trsvg799-da" systemLanguage="da"><tspan id="trsvg113-da">frankoprovencalsk</tspan></text>
+        <text id="trsvg799-ca" systemLanguage="ca"><tspan id="trsvg113-ca">Arpità</tspan></text>
+        <text id="trsvg799"><tspan id="trsvg113">Arpitan</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch192">
+        <text systemLanguage="id" id="trsvg800"><tspan id="trsvg114">Eonavia</tspan></text>
+        <text id="trsvg801-da" systemLanguage="da"><tspan id="trsvg115-da">galicisk-asturisk</tspan></text>
+        <text id="trsvg801-ca" systemLanguage="ca"><tspan id="trsvg115-ca">Eonaviego</tspan></text>
+        <text id="trsvg801"><tspan id="trsvg115">Eonavian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch193">
+        <text systemLanguage="id" id="trsvg802"><tspan id="trsvg116">Fala</tspan></text>
+        <text id="trsvg803-da" systemLanguage="da"><tspan id="trsvg117-da">fala</tspan></text>
+        <text id="trsvg803-ca" systemLanguage="ca"><tspan id="trsvg117-ca">Fala de Xàlima</tspan></text>
+        <text id="trsvg803"><tspan id="trsvg117">Fala</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" id="switch194">
+        <text systemLanguage="id" id="trsvg804"><tspan id="trsvg118">Galisia</tspan></text>
+        <text id="trsvg805-da" systemLanguage="da"><tspan id="trsvg119-da">galicisk</tspan></text>
+        <text id="trsvg805-ca" systemLanguage="ca"><tspan id="trsvg119-ca">Gallec</tspan></text>
+        <text id="trsvg805"><tspan id="trsvg119">Galician</tspan></text>
+      </switch>
+      <switch transform="translate(0 1070)" id="switch195">
+        <text systemLanguage="id" id="trsvg806"><tspan id="trsvg120">Portugis</tspan></text>
+        <text id="trsvg807-da" systemLanguage="da"><tspan id="trsvg121-da">portugisisk</tspan></text>
+        <text id="trsvg807-ca" systemLanguage="ca"><tspan id="trsvg121-ca">Portuguès</tspan></text>
+        <text id="trsvg807" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg121" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Portuguese</tspan></text>
+      </switch>
+      <switch transform="translate(0 1410)" font-weight="bold" id="switch196">
+        <text systemLanguage="id" id="trsvg808"><tspan id="trsvg122">JERMAN TENGAH</tspan></text>
+        <text id="trsvg809-da" systemLanguage="da"><tspan id="trsvg123-da">MIDDELHØJTYSK</tspan></text>
+        <text id="trsvg809-ca" systemLanguage="ca"><tspan id="trsvg123-ca">ALT ALEMANY INFERIOR</tspan></text>
+        <text id="trsvg809"><tspan id="trsvg123">CENTRAL GERMAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch197">
+        <text systemLanguage="id" id="trsvg810"><tspan id="trsvg124">Luksemburg</tspan></text>
+        <text id="trsvg811-da" systemLanguage="da"><tspan id="trsvg125-da">letzeburgsk</tspan></text>
+        <text id="trsvg811-ca" systemLanguage="ca"><tspan id="trsvg125-ca">Luxemburguès</tspan></text>
+        <text id="trsvg811"><tspan id="trsvg125">Luxembourgish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch198">
+        <text systemLanguage="id" id="trsvg812"><tspan id="trsvg126">Ripuaria</tspan></text>
+        <text id="trsvg813-da" systemLanguage="da"><tspan id="trsvg127-da">ripuarisk</tspan></text>
+        <text id="trsvg813-ca" systemLanguage="ca"><tspan id="trsvg127-ca">Ripuarisch</tspan></text>
+        <text id="trsvg813"><tspan id="trsvg127">Ripuarian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch199">
+        <text systemLanguage="id" id="trsvg814"><tspan id="trsvg128">Thuringen</tspan></text>
+        <text id="trsvg815-da" systemLanguage="da"><tspan id="trsvg129-da">thüringisch</tspan></text>
+        <text id="trsvg815-ca" systemLanguage="ca"><tspan id="trsvg129-ca">Turingi</tspan></text>
+        <text id="trsvg815"><tspan id="trsvg129">Thuringian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column03b">
+    <g stroke="#111" id="g200">
+      <rect x="272.5" y="1170" fill="#bfb" width="99" height="16" id="rect199"/>
+      <rect x="272.5" y="1190" fill="#fcc" width="99" height="16" id="rect200"/>
+    </g>
+    <g transform="translate(322 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g201">
+      <switch transform="translate(0 1170)" id="switch200">
+        <text systemLanguage="id" id="trsvg816"><tspan id="trsvg130">Elfdalian</tspan></text>
+        <text id="trsvg817-da" systemLanguage="da"><tspan id="trsvg131-da">elvdalsk</tspan></text>
+        <text id="trsvg817-ca" systemLanguage="ca"><tspan id="trsvg131-ca">Elfdalià</tspan></text>
+        <text id="trsvg817"><tspan id="trsvg131">Elfdalian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1190)" id="switch201">
+        <text systemLanguage="id" id="trsvg818"><tspan id="trsvg132">Gotland Kuno</tspan></text>
+        <text id="trsvg819-da" systemLanguage="da"><tspan id="trsvg133-da">gammelgutnisk</tspan></text>
+        <text id="trsvg819-ca" systemLanguage="ca"><tspan id="trsvg133-ca">Gotlandès antic</tspan></text>
+        <text id="trsvg819"><tspan id="trsvg133">Old Gutnish</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column04">
+    <g stroke="#111" id="g224">
+      <rect x="325" y="190" fill="#fff" width="99" height="16" id="rect201"/>
+      <rect x="325" y="230" fill="#fcc" width="99" height="16" id="rect202"/>
+      <rect x="325" y="270" fill="#fcc" width="99" height="16" id="rect203"/>
+      <rect x="325" y="290" fill="#fcc" width="99" height="16" id="rect204"/>
+      <rect x="325" y="370" fill="#bfb" width="99" height="16" id="rect205" style="fill:#81ff81;fill-opacity:1"/>
+      <rect x="325" y="405" fill="#fff" width="99" height="16" id="rect206"/>
+      <rect x="325" y="550" fill="#fcc" width="99" height="16" id="rect207"/>
+      <rect x="325" y="570" fill="#fcc" width="99" height="16" id="rect208"/>
+      <rect x="325" y="590" fill="#fcc" width="99" height="16" id="rect209"/>
+      <rect x="310" y="710" fill="#fff" width="129" height="16" id="rect210"/>
+      <rect x="310" y="830" fill="#fff" width="129" height="16" id="rect211"/>
+      <rect x="325" y="895" fill="#fff" width="99" height="16" id="rect212"/>
+      <rect x="325" y="930" fill="#fff" width="99" height="16" id="rect213"/>
+      <rect x="325" y="970" fill="#bfb" width="99" height="16" id="rect214"/>
+      <rect x="325" y="990" fill="#bfb" width="99" height="16" id="rect215"/>
+      <rect x="325" y="1010" fill="#bfb" width="99" height="16" id="rect216"/>
+      <rect x="325" y="1030" fill="#bfb" width="99" height="16" id="rect217"/>
+      <rect x="325" y="1050" fill="#bfb" width="99" height="16" id="rect218"/>
+      <rect x="325" y="1090" fill="#fff" width="99" height="16" id="rect219"/>
+      <rect x="325" y="1250" fill="#fff" width="99" height="16" id="rect220"/>
+      <rect x="310" y="1290" fill="#fcc" width="129" height="16" id="rect221"/>
+      <rect x="325" y="1330" fill="#bfb" width="99" height="16" id="rect222"/>
+      <rect x="310" y="1450" fill="#bfb" width="129" height="16" id="rect223" style="fill:#81ff81;fill-opacity:1"/>
+      <rect x="325" y="1510" fill="#bfb" width="99" height="16" id="rect224"/>
+    </g>
+    <g transform="translate(374.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g247">
+      <switch transform="translate(0 190)" font-weight="bold" id="switch224">
+        <text systemLanguage="id" id="trsvg820"><tspan id="trsvg134">HELENIK</tspan></text>
+        <text id="trsvg821-da" systemLanguage="da"><tspan id="trsvg135-da">GRÆSK</tspan></text>
+        <text id="trsvg821"><tspan id="trsvg135">HELLENIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 230)" id="switch225">
+        <text systemLanguage="id" id="trsvg822"><tspan id="trsvg136">Mykenai</tspan></text>
+        <text id="trsvg823-da" systemLanguage="da"><tspan id="trsvg137-da">mykensk</tspan></text>
+        <text id="trsvg823-ca" systemLanguage="ca"><tspan id="trsvg137-ca">Micènic</tspan></text>
+        <text id="trsvg823"><tspan id="trsvg137">Mycenaean</tspan></text>
+      </switch>
+      <switch transform="translate(0 270)" id="switch226">
+        <text systemLanguage="id" id="trsvg824"><tspan id="trsvg138">Attika</tspan></text>
+        <text id="trsvg825-da" systemLanguage="da"><tspan id="trsvg139-da">attisk</tspan></text>
+        <text id="trsvg825-ca" systemLanguage="ca"><tspan id="trsvg139-ca">Àtic</tspan></text>
+        <text id="trsvg825"><tspan id="trsvg139">Attic</tspan></text>
+      </switch>
+      <switch transform="translate(0 290)" id="switch227">
+        <text systemLanguage="id" id="trsvg826"><tspan id="trsvg140">Ionia</tspan></text>
+        <text id="trsvg827-da" systemLanguage="da"><tspan id="trsvg141-da">jonisk</tspan></text>
+        <text id="trsvg827-ca" systemLanguage="ca"><tspan id="trsvg141-ca">Jònic</tspan></text>
+        <text id="trsvg827"><tspan id="trsvg141">Ionic</tspan></text>
+      </switch>
+      <switch transform="translate(0 370)" id="switch228">
+        <text systemLanguage="id" id="trsvg828"><tspan id="trsvg142">Yunani Modern</tspan></text>
+        <text id="trsvg829-da" systemLanguage="da"><tspan id="trsvg143-da">nygræsk</tspan></text>
+        <text id="trsvg829-ca" systemLanguage="ca"><tspan id="trsvg143-ca">Grec</tspan></text>
+        <text id="trsvg829" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg143" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Greek</tspan></text>
+      </switch>
+      <switch transform="translate(0 405)" font-weight="bold" id="switch229">
+        <text systemLanguage="id" id="trsvg830"><tspan id="trsvg144">ITALIK</tspan></text>
+        <text id="trsvg831-da" systemLanguage="da"><tspan id="trsvg145-da">ITALISK</tspan></text>
+        <text id="trsvg831-ca" systemLanguage="ca"><tspan id="trsvg145-ca">ITÀLIC</tspan></text>
+        <text id="trsvg831"><tspan id="trsvg145">ITALIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 550)" id="switch230">
+        <text systemLanguage="id" id="trsvg832"><tspan id="trsvg146">Aequi</tspan></text>
+        <text id="trsvg833-da" systemLanguage="da"><tspan id="trsvg147-da">ækvisk</tspan></text>
+        <text id="trsvg833"><tspan id="trsvg147">Aequian</tspan></text>
+      </switch>
+      <switch transform="translate(0 570)" id="switch231">
+        <text systemLanguage="id" id="trsvg834"><tspan id="trsvg148">Marsi</tspan></text>
+        <text id="trsvg835-da" systemLanguage="da"><tspan id="trsvg149-da">marsisk</tspan></text>
+        <text id="trsvg835-ca" systemLanguage="ca"><tspan id="trsvg149-ca">Marsi</tspan></text>
+        <text id="trsvg835"><tspan id="trsvg149">Marsian</tspan></text>
+      </switch>
+      <switch transform="translate(0 590)" id="switch232">
+        <text systemLanguage="id" id="trsvg836"><tspan id="trsvg150">Volski</tspan></text>
+        <text id="trsvg837-da" systemLanguage="da"><tspan id="trsvg151-da">volskisk</tspan></text>
+        <text id="trsvg837-ca" systemLanguage="ca"><tspan id="trsvg151-ca">Volsc</tspan></text>
+        <text id="trsvg837"><tspan id="trsvg151">Volscian</tspan></text>
+      </switch>
+      <switch transform="translate(0 710)" font-weight="bold" font-style="italic" id="switch233">
+        <text systemLanguage="id" id="trsvg838"><tspan id="trsvg152">ITALO-BARAT</tspan></text>
+        <text id="trsvg839-da" systemLanguage="da"><tspan id="trsvg153-da">VESTROMANSK</tspan></text>
+        <text id="trsvg839-ca" systemLanguage="ca"><tspan id="trsvg153-ca">ITALOOCCIDENTAL</tspan></text>
+        <text id="trsvg839"><tspan id="trsvg153">ITALO-WESTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 830)" font-weight="bold" id="switch234">
+        <text systemLanguage="id" id="trsvg840"><tspan id="trsvg154">GALLO-IBERIA</tspan></text>
+        <text id="trsvg841-da" systemLanguage="da"><tspan id="trsvg155-da">GALLOROMANSK</tspan></text>
+        <text id="trsvg841-ca" systemLanguage="ca"><tspan id="trsvg155-ca">GAL·LOIBÈRIC</tspan></text>
+        <text id="trsvg841"><tspan id="trsvg155">GALLO-IBERIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 895)" font-weight="bold" id="switch235">
+        <text systemLanguage="id" id="trsvg842"><tspan id="trsvg156">GALLIK</tspan></text>
+        <text id="trsvg843-da" systemLanguage="da"><tspan id="trsvg157-da">GALLISK</tspan></text>
+        <text id="trsvg843-ca" systemLanguage="ca"><tspan id="trsvg157-ca">GÀL·LIC</tspan></text>
+        <text id="trsvg843"><tspan id="trsvg157">GALLIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" font-weight="bold" id="switch236">
+        <text systemLanguage="id" id="trsvg844"><tspan id="trsvg158">CISALPINA</tspan></text>
+        <text id="trsvg845-da" systemLanguage="da"><tspan id="trsvg159-da">CISALPINSK</tspan></text>
+        <text id="trsvg845-ca" systemLanguage="ca"><tspan id="trsvg159-ca">GAL·LOITÀLIC</tspan></text>
+        <text id="trsvg845"><tspan id="trsvg159">CISALPINE</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch237">
+        <text systemLanguage="id" id="trsvg846"><tspan id="trsvg160">Emilia</tspan></text>
+        <text id="trsvg847-da" systemLanguage="da"><tspan id="trsvg161-da">emilio-ramagnolo</tspan></text>
+        <text id="trsvg847-ca" systemLanguage="ca"><tspan id="trsvg161-ca">Emilià-romanyol</tspan></text>
+        <text id="trsvg847"><tspan id="trsvg161">Emilian</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch238">
+        <text systemLanguage="id" id="trsvg848"><tspan id="trsvg162">Liguria</tspan></text>
+        <text id="trsvg849-da" systemLanguage="da"><tspan id="trsvg163-da">monegaskisk</tspan></text>
+        <text id="trsvg849-ca" systemLanguage="ca"><tspan id="trsvg163-ca">Lígur</tspan></text>
+        <text id="trsvg849"><tspan id="trsvg163">Ligurian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch239">
+        <text systemLanguage="id" id="trsvg850"><tspan id="trsvg164">Lombard</tspan></text>
+        <text id="trsvg851-da" systemLanguage="da"><tspan id="trsvg165-da">lombardisk</tspan></text>
+        <text id="trsvg851-ca" systemLanguage="ca"><tspan id="trsvg165-ca">Llombard</tspan></text>
+        <text id="trsvg851"><tspan id="trsvg165">Lombard</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch240">
+        <text systemLanguage="id" id="trsvg852"><tspan id="trsvg166">Piemonte</tspan></text>
+        <text id="trsvg853-da" systemLanguage="da"><tspan id="trsvg167-da">piemontesisk</tspan></text>
+        <text id="trsvg853-ca" systemLanguage="ca"><tspan id="trsvg167-ca">Piemontès</tspan></text>
+        <text id="trsvg853"><tspan id="trsvg167">Piedmontese</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" id="switch241">
+        <text systemLanguage="id" id="trsvg854"><tspan id="trsvg168">Venesia</tspan></text>
+        <text id="trsvg855-da" systemLanguage="da"><tspan id="trsvg169-da">venetiansk</tspan></text>
+        <text id="trsvg855-ca" systemLanguage="ca"><tspan id="trsvg169-ca">Vènet</tspan></text>
+        <text id="trsvg855"><tspan id="trsvg169">Venetian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1090)" font-weight="bold" id="switch242">
+        <text systemLanguage="id" id="trsvg856"><tspan id="trsvg170">JERMANIK</tspan></text>
+        <text id="trsvg857-da" systemLanguage="da"><tspan id="trsvg171-da">GERMANSK</tspan></text>
+        <text id="trsvg857-ca" systemLanguage="ca"><tspan id="trsvg171-ca">GERMÀNIC</tspan></text>
+        <text id="trsvg857"><tspan id="trsvg171">GERMANIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 1250)" font-weight="bold" font-style="italic" id="switch243">
+        <text systemLanguage="id" id="trsvg858"><tspan id="trsvg172">BARAT</tspan></text>
+        <text id="trsvg859-da" systemLanguage="da"><tspan id="trsvg173-da">VESTLIG</tspan></text>
+        <text id="trsvg859-ca" systemLanguage="ca"><tspan id="trsvg173-ca">OEST</tspan></text>
+        <text id="trsvg859"><tspan id="trsvg173">WEST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch244">
+        <text systemLanguage="id" id="trsvg860"><tspan id="trsvg174">Jerman Hulu Kuno</tspan></text>
+        <text id="trsvg861-da" systemLanguage="da"><tspan id="trsvg175-da">oldhøjtysk</tspan></text>
+        <text id="trsvg861-ca" systemLanguage="ca"><tspan id="trsvg175-ca">Alt Alemany Antic</tspan></text>
+        <text id="trsvg861"><tspan id="trsvg175">Old High German</tspan></text>
+      </switch>
+      <switch transform="translate(0 1330)" id="switch245">
+        <text systemLanguage="id" id="trsvg862"><tspan id="trsvg176">Yiddi</tspan></text>
+        <text id="trsvg863-da" systemLanguage="da"><tspan id="trsvg177-da">jiddisch</tspan></text>
+        <text id="trsvg863-ca" systemLanguage="ca"><tspan id="trsvg177-ca">Ídix</tspan></text>
+        <text id="trsvg863"><tspan id="trsvg177">Yiddish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1450)" id="switch246">
+        <text systemLanguage="id" id="trsvg864"><tspan id="trsvg178">Jerman Baku</tspan></text>
+        <text id="trsvg865-da" systemLanguage="da"><tspan id="trsvg179-da">højtysk</tspan></text>
+        <text id="trsvg865-ca" systemLanguage="ca"><tspan id="trsvg179-ca">Alemany Estàndard</tspan></text>
+        <text id="trsvg865" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg179" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Standard German</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch247">
+        <text systemLanguage="id" id="trsvg866"><tspan id="trsvg180">Jerman Swiss</tspan></text>
+        <text id="trsvg867-da" systemLanguage="da"><tspan id="trsvg181-da">schweizertysk</tspan></text>
+        <text id="trsvg867-ca" systemLanguage="ca"><tspan id="trsvg181-ca">Alemany Suís</tspan></text>
+        <text id="trsvg867"><tspan id="trsvg181">Swiss German</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column05">
+    <g stroke="#111" id="g266">
+      <rect x="430" y="90" fill="#fcc" width="99" height="16" id="rect247"/>
+      <rect x="430" y="130" fill="#fcc" width="99" height="16" id="rect248"/>
+      <rect x="430" y="330" fill="#fcc" width="99" height="16" id="rect249"/>
+      <rect x="430" y="450" fill="#fff" width="99" height="16" id="rect250"/>
+      <rect x="430" y="490" fill="#fcc" width="99" height="16" id="rect251"/>
+      <rect x="430" y="510" fill="#fcc" width="99" height="16" id="rect252"/>
+      <rect x="430" y="570" fill="#fff" width="99" height="16" id="rect253"/>
+      <rect x="430" y="610" fill="#bfb" width="99" height="16" id="rect254"/>
+      <rect x="430" y="630" fill="#bfb" width="99" height="16" id="rect255"/>
+      <rect x="430" y="650" fill="#bfb" width="99" height="16" id="rect256"/>
+      <rect x="415" y="735" fill="#fff" width="129" height="16" id="rect257"/>
+      <rect x="430" y="930" fill="#fff" width="99" height="16" id="rect258"/>
+      <rect x="430" y="970" fill="#bfb" width="99" height="16" id="rect259" style="fill:#80ff80;fill-opacity:1"/>
+      <rect x="430" y="990" fill="#bfb" width="99" height="16" id="rect260"/>
+      <rect x="430" y="1010" fill="#bfb" width="99" height="16" id="rect261"/>
+      <rect x="430" y="1030" fill="#bfb" width="99" height="16" id="rect262"/>
+      <rect x="415" y="1390" fill="#fff" width="129" height="16" id="rect263"/>
+      <rect x="430" y="1470" fill="#bfb" width="99" height="16" id="rect264"/>
+      <rect x="430" y="1490" fill="#bfb" width="99" height="16" id="rect265"/>
+      <rect x="430" y="1510" fill="#bfb" width="99" height="16" id="rect266"/>
+    </g>
+    <g transform="translate(479.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g285">
+      <switch transform="translate(0 90)" id="switch266">
+        <text systemLanguage="id" id="trsvg868"><tspan id="trsvg182">Luwia</tspan></text>
+        <text id="trsvg869-da" systemLanguage="da"><tspan id="trsvg183-da">luvisk</tspan></text>
+        <text id="trsvg869-ca" systemLanguage="ca"><tspan id="trsvg183-ca">Luvi</tspan></text>
+        <text id="trsvg869"><tspan id="trsvg183">Luwian</tspan></text>
+      </switch>
+      <switch transform="translate(0 130)" id="switch267">
+        <text systemLanguage="id" id="trsvg870"><tspan id="trsvg184">Likia</tspan></text>
+        <text id="trsvg871-da" systemLanguage="da"><tspan id="trsvg185-da">lykisk</tspan></text>
+        <text id="trsvg871-ca" systemLanguage="ca"><tspan id="trsvg185-ca">Lici</tspan></text>
+        <text id="trsvg871"><tspan id="trsvg185">Lycian</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" id="switch268">
+        <text systemLanguage="id" id="trsvg872"><tspan id="trsvg186">Yunani Epik</tspan></text>
+        <text id="trsvg873-da" systemLanguage="da"><tspan id="trsvg187-da">homerisk græsk</tspan></text>
+        <text id="trsvg873-ca" systemLanguage="ca"><tspan id="trsvg187-ca">Grec Homèric</tspan></text>
+        <text id="trsvg873"><tspan id="trsvg187">Epic Greek</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" font-weight="bold" id="switch269">
+        <text systemLanguage="id" id="trsvg874"><tspan id="trsvg188">SABELIK</tspan></text>
+        <text id="trsvg875-da" systemLanguage="da"><tspan id="trsvg189-da">SABELLISK</tspan></text>
+        <text id="trsvg875-ca" systemLanguage="ca"><tspan id="trsvg189-ca">SABÈL·LIC</tspan></text>
+        <text id="trsvg875"><tspan id="trsvg189">SABELLIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 490)" id="switch270">
+        <text systemLanguage="id" id="trsvg876"><tspan id="trsvg190">Oska</tspan></text>
+        <text id="trsvg877-da" systemLanguage="da"><tspan id="trsvg191-da">oskisk</tspan></text>
+        <text id="trsvg877-ca" systemLanguage="ca"><tspan id="trsvg191-ca">Osc</tspan></text>
+        <text id="trsvg877"><tspan id="trsvg191">Oscan</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" id="switch271">
+        <text systemLanguage="id" id="trsvg878"><tspan id="trsvg192">Umbria</tspan></text>
+        <text id="trsvg879-da" systemLanguage="da"><tspan id="trsvg193-da">umbrisk</tspan></text>
+        <text id="trsvg879-ca" systemLanguage="ca"><tspan id="trsvg193-ca">Umbre</tspan></text>
+        <text id="trsvg879"><tspan id="trsvg193">Umbrian</tspan></text>
+      </switch>
+      <switch transform="translate(0 570)" font-weight="bold" id="switch272">
+        <text systemLanguage="id" id="trsvg880"><tspan id="trsvg194">GOIDELIK</tspan></text>
+        <text id="trsvg881-da" systemLanguage="da"><tspan id="trsvg195-da">GÆLISK</tspan></text>
+        <text id="trsvg881-ca" systemLanguage="ca"><tspan id="trsvg195-ca">GOIDÈLIC</tspan></text>
+        <text id="trsvg881"><tspan id="trsvg195">GOIDELIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 610)" id="switch273">
+        <text systemLanguage="id" id="trsvg882"><tspan id="trsvg196">Irlandia</tspan></text>
+        <text id="trsvg883-da" systemLanguage="da"><tspan id="trsvg197-da">irsk</tspan></text>
+        <text id="trsvg883-ca" systemLanguage="ca"><tspan id="trsvg197-ca">Irlandès</tspan></text>
+        <text id="trsvg883"><tspan id="trsvg197">Irish</tspan></text>
+      </switch>
+      <switch transform="translate(0 630)" id="switch274">
+        <text systemLanguage="id" id="trsvg884"><tspan id="trsvg198">Manx</tspan></text>
+        <text id="trsvg885-da" systemLanguage="da"><tspan id="trsvg199-da">manx</tspan></text>
+        <text id="trsvg885-ca" systemLanguage="ca"><tspan id="trsvg199-ca">Manx</tspan></text>
+        <text id="trsvg885"><tspan id="trsvg199">Manx</tspan></text>
+      </switch>
+      <switch transform="translate(0 650)" id="switch275">
+        <text systemLanguage="id" id="trsvg886"><tspan id="trsvg200">Gaelik Skotlandia</tspan></text>
+        <text id="trsvg887-da" systemLanguage="da"><tspan id="trsvg201-da">skotsk-gælisk</tspan></text>
+        <text id="trsvg887-ca" systemLanguage="ca"><tspan id="trsvg201-ca">Gaèlic Escocès</tspan></text>
+        <text id="trsvg887"><tspan id="trsvg201">Scottish Gaelic</tspan></text>
+      </switch>
+      <switch transform="translate(0 735)" font-weight="bold" id="switch276">
+        <text systemLanguage="id" id="trsvg888"><tspan id="trsvg202">ITALO-DALMASIA</tspan></text>
+        <text id="trsvg889-da" systemLanguage="da"><tspan id="trsvg203-da">ITALODALMATISK</tspan></text>
+        <text id="trsvg889-ca" systemLanguage="ca"><tspan id="trsvg203-ca">ITALODÀLMATA</tspan></text>
+        <text id="trsvg889"><tspan id="trsvg203">ITALO-DALMATIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" font-weight="bold" id="switch277">
+        <text systemLanguage="id" id="trsvg890"><tspan id="trsvg204">LANGUE D'OÏL</tspan></text>
+        <text id="trsvg891-da" systemLanguage="da"><tspan id="trsvg205-da">LANGUES D'OÏL</tspan></text>
+        <text id="trsvg891-ca" systemLanguage="ca"><tspan id="trsvg205-ca">LLENGÜES D'OÏL</tspan></text>
+        <text id="trsvg891"><tspan id="trsvg205">LANGUE D'OÏL</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch278">
+        <text systemLanguage="id" id="trsvg892"><tspan id="trsvg206">Prancis</tspan></text>
+        <text id="trsvg893-da" systemLanguage="da"><tspan id="trsvg207-da">fransk</tspan></text>
+        <text id="trsvg893-ca" systemLanguage="ca"><tspan id="trsvg207-ca">Francès</tspan></text>
+        <text id="trsvg893" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg207" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">French</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch279">
+        <text systemLanguage="id" id="trsvg894"><tspan id="trsvg208">Galo</tspan></text>
+        <text id="trsvg895-da" systemLanguage="da"><tspan id="trsvg209-da">gallo</tspan></text>
+        <text id="trsvg895-ca" systemLanguage="ca"><tspan id="trsvg209-ca">Gal·ló</tspan></text>
+        <text id="trsvg895"><tspan id="trsvg209">Gallo</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch280">
+        <text systemLanguage="id" id="trsvg896"><tspan id="trsvg210">Norman</tspan></text>
+        <text id="trsvg897-da" systemLanguage="da"><tspan id="trsvg211-da">normannisk</tspan></text>
+        <text id="trsvg897-ca" systemLanguage="ca"><tspan id="trsvg211-ca">Normand</tspan></text>
+        <text id="trsvg897"><tspan id="trsvg211">Norman</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch281">
+        <text systemLanguage="id" id="trsvg898"><tspan id="trsvg212">Walloon</tspan></text>
+        <text id="trsvg899-da" systemLanguage="da"><tspan id="trsvg213-da">vallonsk</tspan></text>
+        <text id="trsvg899-ca" systemLanguage="ca"><tspan id="trsvg213-ca">Való</tspan></text>
+        <text id="trsvg899"><tspan id="trsvg213">Walloon</tspan></text>
+      </switch>
+      <switch transform="translate(0 1390)" font-weight="bold" id="switch282">
+        <text systemLanguage="id" id="trsvg900"><tspan id="trsvg214">JERMAN ATAS</tspan></text>
+        <text id="trsvg901-da" systemLanguage="da"><tspan id="trsvg215-da">OBERDEUTSCH</tspan></text>
+        <text id="trsvg901-ca" systemLanguage="ca"><tspan id="trsvg215-ca">ALT ALEMANY SUPERIOR</tspan></text>
+        <text id="trsvg901"><tspan id="trsvg215">UPPER GERMAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch283">
+        <text systemLanguage="id" id="trsvg902"><tspan id="trsvg216">Alemannik</tspan></text>
+        <text id="trsvg903-da" systemLanguage="da"><tspan id="trsvg217-da">alemannisk</tspan></text>
+        <text id="trsvg903-ca" systemLanguage="ca"><tspan id="trsvg217-ca">Alemànic</tspan></text>
+        <text id="trsvg903"><tspan id="trsvg217">Alemannic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch284">
+        <text systemLanguage="id" id="trsvg904"><tspan id="trsvg218">Austria-Bayern</tspan></text>
+        <text id="trsvg905-da" systemLanguage="da"><tspan id="trsvg219-da">bajersk</tspan></text>
+        <text id="trsvg905-ca" systemLanguage="ca"><tspan id="trsvg219-ca">Bavarès</tspan></text>
+        <text id="trsvg905"><tspan id="trsvg219">Austro-Bavarian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch285">
+        <text systemLanguage="id" id="trsvg906"><tspan id="trsvg220">Zimbris</tspan></text>
+        <text id="trsvg907-da" systemLanguage="da"><tspan id="trsvg221-da">zimbrisk</tspan></text>
+        <text id="trsvg907-ca" systemLanguage="ca"><tspan id="trsvg221-ca">Cimbrià</tspan></text>
+        <text id="trsvg907"><tspan id="trsvg221">Cimbrian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column06">
+    <g stroke="#111" id="g308">
+      <rect x="535" y="50" fill="#fff" width="99" height="16" id="rect285"/>
+      <rect x="535" y="90" fill="#fcc" width="99" height="16" id="rect286"/>
+      <rect x="535" y="270" fill="#fff" width="99" height="16" id="rect287"/>
+      <rect x="535" y="310" fill="#fcc" width="99" height="16" id="rect288"/>
+      <rect x="535" y="330" fill="#fcc" width="99" height="16" id="rect289"/>
+      <rect x="535" y="430" fill="#fff" width="99" height="16" id="rect290"/>
+      <rect x="535" y="530" fill="#fff" width="99" height="16" id="rect291"/>
+      <rect x="535" y="570" fill="#fff" width="99" height="16" id="rect292"/>
+      <rect x="531" y="610" fill="#fcc" width="107" height="16" id="rect293"/>
+      <rect x="535" y="630" fill="#fcc" width="99" height="16" id="rect294"/>
+      <rect x="535" y="650" fill="#fcc" width="99" height="16" id="rect295"/>
+      <rect x="535" y="930" fill="#fff" width="99" height="16" id="rect296"/>
+      <rect x="535" y="970" fill="#bfb" width="99" height="16" id="rect297"/>
+      <rect x="535" y="990" fill="#bfb" width="99" height="16" id="rect298"/>
+      <rect x="535" y="1130" fill="#fff" width="99" height="16" id="rect299"/>
+      <rect x="535" y="1170" fill="#fcc" width="99" height="16" id="rect300"/>
+      <rect x="535" y="1190" fill="#fcc" width="99" height="16" id="rect301"/>
+      <rect x="535" y="1210" fill="#fcc" width="99" height="16" id="rect302"/>
+      <rect x="535" y="1230" fill="#fcc" width="99" height="16" id="rect303"/>
+      <rect x="520" y="1350" fill="#fff" width="129" height="16" id="rect304"/>
+      <rect x="535" y="1410" fill="#fcc" width="99" height="16" id="rect305"/>
+      <rect x="535" y="1470" fill="#bfb" width="99" height="16" id="rect306"/>
+      <rect x="535" y="1490" fill="#bfb" width="99" height="16" id="rect307"/>
+      <rect x="535" y="1510" fill="#bfb" width="99" height="16" id="rect308"/>
+    </g>
+    <g transform="translate(584.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g331">
+      <switch transform="translate(0 50)" font-weight="bold" id="switch308">
+        <text systemLanguage="id" id="trsvg908"><tspan id="trsvg222">ANATOLIA</tspan></text>
+        <text id="trsvg909-da" systemLanguage="da"><tspan id="trsvg223-da">ANATOLISK</tspan></text>
+        <text id="trsvg909-ca" systemLanguage="ca"><tspan id="trsvg223-ca">ANATÒLIC</tspan></text>
+        <text id="trsvg909"><tspan id="trsvg223">ANATOLIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 90)" id="switch309">
+        <text systemLanguage="id" id="trsvg910"><tspan id="trsvg224">Het</tspan></text>
+        <text id="trsvg911-da" systemLanguage="da"><tspan id="trsvg225-da">hittitisk</tspan></text>
+        <text id="trsvg911-ca" systemLanguage="ca"><tspan id="trsvg225-ca">Hitita</tspan></text>
+        <text id="trsvg911"><tspan id="trsvg225">Hittite</tspan></text>
+      </switch>
+      <switch transform="translate(0 270)" font-weight="bold" id="switch310">
+        <text systemLanguage="id" id="trsvg912"><tspan id="trsvg226">AKHAIA</tspan></text>
+        <text id="trsvg913-da" systemLanguage="da"><tspan id="trsvg227-da">achaiersk</tspan></text>
+        <text id="trsvg913-ca" systemLanguage="ca"><tspan id="trsvg227-ca">AQUEU</tspan></text>
+        <text id="trsvg913"><tspan id="trsvg227">ACHAEAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 310)" id="switch311">
+        <text systemLanguage="id" id="trsvg914"><tspan id="trsvg228">Arkadia</tspan></text>
+        <text id="trsvg915-da" systemLanguage="da"><tspan id="trsvg229-da">arkado</tspan></text>
+        <text id="trsvg915-ca" systemLanguage="ca"><tspan id="trsvg229-ca">Arcàdic</tspan></text>
+        <text id="trsvg915"><tspan id="trsvg229">Arcado</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" id="switch312">
+        <text systemLanguage="id" id="trsvg916"><tspan id="trsvg230">Siprus Kuno</tspan></text>
+        <text id="trsvg917-da" systemLanguage="da"><tspan id="trsvg231-da">kypriotisk</tspan></text>
+        <text id="trsvg917-ca" systemLanguage="ca"><tspan id="trsvg231-ca">Xipriota</tspan></text>
+        <text id="trsvg917"><tspan id="trsvg231">Cypriot</tspan></text>
+      </switch>
+      <switch transform="translate(0 430)" font-weight="bold" id="switch313">
+        <text systemLanguage="id" id="trsvg918"><tspan id="trsvg232">KELTIK</tspan></text>
+        <text id="trsvg919-da" systemLanguage="da"><tspan id="trsvg233-da">KELTISK</tspan></text>
+        <text id="trsvg919-ca" systemLanguage="ca"><tspan id="trsvg233-ca">CÈLTIC</tspan></text>
+        <text id="trsvg919"><tspan id="trsvg233">CELTIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 530)" font-weight="bold" font-style="italic" id="switch314">
+        <text systemLanguage="id" id="trsvg920"><tspan id="trsvg234">KEPULAUAN</tspan></text>
+        <text id="trsvg921-da" systemLanguage="da"><tspan id="trsvg235-da">INSULÆR</tspan></text>
+        <text id="trsvg921"><tspan id="trsvg235">INSULAR</tspan></text>
+      </switch>
+      <switch transform="translate(0 570)" font-weight="bold" id="switch315">
+        <text systemLanguage="id" id="trsvg922"><tspan id="trsvg236">BRITONIK</tspan></text>
+        <text id="trsvg923-da" systemLanguage="da"><tspan id="trsvg237-da">BRITANNISK</tspan></text>
+        <text id="trsvg923-ca" systemLanguage="ca"><tspan id="trsvg237-ca">BRITÒNIC</tspan></text>
+        <text id="trsvg923"><tspan id="trsvg237">BRYTHONIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 610)" id="switch316">
+        <text systemLanguage="id" id="trsvg924"><tspan id="trsvg238">Britonik Umum</tspan></text>
+        <text id="trsvg925-da" systemLanguage="da"><tspan id="trsvg239-da">fællesbrytonisk</tspan></text>
+        <text id="trsvg925-ca" systemLanguage="ca"><tspan id="trsvg239-ca">Britònic comú</tspan></text>
+        <text id="trsvg925"><tspan id="trsvg239">Common Brittonic</tspan></text>
+      </switch>
+      <switch transform="translate(0 630)" id="switch317">
+        <text systemLanguage="id" id="trsvg926"><tspan id="trsvg240">Ivernic</tspan></text>
+        <text id="trsvg927-da" systemLanguage="da"><tspan id="trsvg241-da">ivernisk</tspan></text>
+        <text id="trsvg927-ca" systemLanguage="ca"><tspan id="trsvg241-ca">Ivèrnic</tspan></text>
+        <text id="trsvg927"><tspan id="trsvg241">Ivernic</tspan></text>
+      </switch>
+      <switch transform="translate(0 650)" id="switch318">
+        <text systemLanguage="id" id="trsvg928"><tspan id="trsvg242">Pict</tspan></text>
+        <text id="trsvg929-da" systemLanguage="da"><tspan id="trsvg243-da">piktisk</tspan></text>
+        <text id="trsvg929-ca" systemLanguage="ca"><tspan id="trsvg243-ca">Picte</tspan></text>
+        <text id="trsvg929"><tspan id="trsvg243">Pictish</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" font-weight="bold" id="switch319">
+        <text systemLanguage="id" id="trsvg930"><tspan id="trsvg244">OSITAN</tspan></text>
+        <text id="trsvg931-da" systemLanguage="da"><tspan id="trsvg245-da">OCCITANSK</tspan></text>
+        <text id="trsvg931-ca" systemLanguage="ca"><tspan id="trsvg245-ca">OCCITÀ</tspan></text>
+        <text id="trsvg931"><tspan id="trsvg245">OCCITAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch320">
+        <text systemLanguage="id" id="trsvg932"><tspan id="trsvg246">Katala</tspan></text>
+        <text id="trsvg933-da" systemLanguage="da"><tspan id="trsvg247-da">catalansk</tspan></text>
+        <text id="trsvg933-ca" systemLanguage="ca"><tspan id="trsvg247-ca">Català</tspan></text>
+        <text id="trsvg933"><tspan id="trsvg247">Catalan</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch321">
+        <text systemLanguage="id" id="trsvg934"><tspan id="trsvg248">Ositan</tspan></text>
+        <text id="trsvg935-da" systemLanguage="da"><tspan id="trsvg249-da">occitansk</tspan></text>
+        <text id="trsvg935-ca" systemLanguage="ca"><tspan id="trsvg249-ca">Occità</tspan></text>
+        <text id="trsvg935"><tspan id="trsvg249">Occitan</tspan></text>
+      </switch>
+      <switch transform="translate(0 1130)" font-weight="bold" font-style="italic" id="switch322">
+        <text systemLanguage="id" id="trsvg936"><tspan id="trsvg250">TIMUR</tspan></text>
+        <text id="trsvg937-da" systemLanguage="da"><tspan id="trsvg251-da">ØSTLIG</tspan></text>
+        <text id="trsvg937-ca" systemLanguage="ca"><tspan id="trsvg251-ca">EST</tspan></text>
+        <text id="trsvg937"><tspan id="trsvg251">EAST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1170)" id="switch323">
+        <text systemLanguage="id" id="trsvg938"><tspan id="trsvg252">Burgundia</tspan></text>
+        <text id="trsvg939-da" systemLanguage="da"><tspan id="trsvg253-da">oïl</tspan></text>
+        <text id="trsvg939-ca" systemLanguage="ca"><tspan id="trsvg253-ca">Burgundi</tspan></text>
+        <text id="trsvg939"><tspan id="trsvg253">Burgundian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1190)" id="switch324">
+        <text systemLanguage="id" id="trsvg940"><tspan id="trsvg254">Gotik Krimea</tspan></text>
+        <text id="trsvg941-da" systemLanguage="da"><tspan id="trsvg255-da">krimgotisk</tspan></text>
+        <text id="trsvg941-ca" systemLanguage="ca"><tspan id="trsvg255-ca">Gòtic de Crimea</tspan></text>
+        <text id="trsvg941"><tspan id="trsvg255">Crimean Gothic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1210)" id="switch325">
+        <text systemLanguage="id" id="trsvg942"><tspan id="trsvg256">Gotik</tspan></text>
+        <text id="trsvg943-da" systemLanguage="da"><tspan id="trsvg257-da">gotisk</tspan></text>
+        <text id="trsvg943-ca" systemLanguage="ca"><tspan id="trsvg257-ca">Gòtic</tspan></text>
+        <text id="trsvg943"><tspan id="trsvg257">Gothic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1230)" id="switch326">
+        <text systemLanguage="id" id="trsvg944"><tspan id="trsvg258">Vandal</tspan></text>
+        <text id="trsvg945-da" systemLanguage="da"><tspan id="trsvg259-da">vandalisk</tspan></text>
+        <text id="trsvg945-ca" systemLanguage="ca"><tspan id="trsvg259-ca">Vàndal</tspan></text>
+        <text id="trsvg945"><tspan id="trsvg259">Vandalic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1350)" font-weight="bold" id="switch327">
+        <text systemLanguage="id" id="trsvg946"><tspan id="trsvg260">ANGLO-FRISIA</tspan></text>
+        <text id="trsvg947-da" systemLanguage="da"><tspan id="trsvg261-da">ANGLOFRISISK</tspan></text>
+        <text id="trsvg947-ca" systemLanguage="ca"><tspan id="trsvg261-ca">ANGLOFRISÓ</tspan></text>
+        <text id="trsvg947"><tspan id="trsvg261">ANGLO-FRISIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1410)" id="switch328">
+        <text systemLanguage="id" id="trsvg948"><tspan id="trsvg262">Frisia Kuno</tspan></text>
+        <text id="trsvg949-da" systemLanguage="da"><tspan id="trsvg263-da">oldfrisisk</tspan></text>
+        <text id="trsvg949-ca" systemLanguage="ca"><tspan id="trsvg263-ca">Frisó antic</tspan></text>
+        <text id="trsvg949"><tspan id="trsvg263">Old Frisian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch329">
+        <text systemLanguage="id" id="trsvg950"><tspan id="trsvg264">Frisia Utara</tspan></text>
+        <text id="trsvg951-da" systemLanguage="da"><tspan id="trsvg265-da">nordfrisisk</tspan></text>
+        <text id="trsvg951-ca" systemLanguage="ca"><tspan id="trsvg265-ca">F. septentrional</tspan></text>
+        <text id="trsvg951"><tspan id="trsvg265">North Frisian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" letter-spacing="-.2" id="switch330">
+        <text systemLanguage="id" id="trsvg952"><tspan id="trsvg266">Frisia Saterlandia</tspan></text>
+        <text id="trsvg953-da" systemLanguage="da"><tspan id="trsvg267-da">saterfrisisk</tspan></text>
+        <text id="trsvg953-ca" systemLanguage="ca"><tspan id="trsvg267-ca">F. oriental</tspan></text>
+        <text id="trsvg953"><tspan id="trsvg267">Saterland Frisian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch331">
+        <text systemLanguage="id" id="trsvg954"><tspan id="trsvg268">Frisia Barat</tspan></text>
+        <text id="trsvg955-da" systemLanguage="da"><tspan id="trsvg269-da">vestfrisisk</tspan></text>
+        <text id="trsvg955-ca" systemLanguage="ca"><tspan id="trsvg269-ca">F. occidental</tspan></text>
+        <text id="trsvg955"><tspan id="trsvg269">West Frisian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column07">
+    <g stroke="#111" id="g368">
+      <rect x="640" y="90" fill="#fcc" width="99" height="16" id="rect331"/>
+      <rect x="640" y="110" fill="#fcc" width="99" height="16" id="rect332"/>
+      <rect x="640" y="130" fill="#fcc" width="99" height="16" id="rect333"/>
+      <rect x="640" y="150" fill="#fcc" width="99" height="16" id="rect334"/>
+      <rect x="640" y="230" fill="#fff" width="99" height="16" id="rect335"/>
+      <rect x="640" y="270" fill="#fcc" width="99" height="16" id="rect336"/>
+      <rect x="640" y="290" fill="#fcc" width="99" height="16" id="rect337"/>
+      <rect x="640" y="310" fill="#fcc" width="99" height="16" id="rect338"/>
+      <rect x="640" y="470" fill="#fff" width="99" height="16" id="rect339"/>
+      <rect x="640" y="510" fill="#fcc" width="99" height="16" id="rect340"/>
+      <rect x="640" y="530" fill="#fcc" width="99" height="16" id="rect341"/>
+      <rect x="640" y="550" fill="#fcc" width="99" height="16" id="rect342"/>
+      <rect x="640" y="570" fill="#fcc" width="99" height="16" id="rect343"/>
+      <rect x="640" y="590" fill="#fcc" width="99" height="16" id="rect344"/>
+      <rect x="640" y="650" fill="#bfb" width="99" height="16" id="rect345"/>
+      <rect x="640" y="670" fill="#bfb" width="99" height="16" id="rect346"/>
+      <rect x="640" y="690" fill="#fcc" width="99" height="16" id="rect347"/>
+      <rect x="640" y="710" fill="#bfb" width="99" height="16" id="rect348"/>
+      <rect x="640" y="755" fill="#bfb" width="99" height="16" id="rect349"/>
+      <rect x="640" y="775" fill="#fcc" width="99" height="16" id="rect350"/>
+      <rect x="640" y="795" fill="#bfb" width="99" height="16" id="rect351"/>
+      <rect x="640" y="815" fill="#bfb" width="99" height="16" id="rect352" style="fill:#80ff80;fill-opacity:1"/>
+      <rect x="640" y="835" fill="#bfb" width="99" height="16" id="rect353"/>
+      <rect x="640" y="855" fill="#bfb" width="99" height="16" id="rect354"/>
+      <rect x="640" y="875" fill="#bfb" width="99" height="16" id="rect355"/>
+      <rect x="640" y="930" fill="#fcc" width="99" height="16" id="rect356"/>
+      <rect x="640" y="970" fill="#bfb" width="99" height="16" id="rect357"/>
+      <rect x="640" y="990" fill="#bfb" width="99" height="16" id="rect358"/>
+      <rect x="640" y="1010" fill="#bfb" width="99" height="16" id="rect359"/>
+      <rect x="640" y="1110" fill="#fff" width="99" height="16" id="rect360"/>
+      <rect x="640" y="1150" fill="#fcc" width="99" height="16" id="rect361"/>
+      <rect x="640" y="1170" fill="#fcc" width="99" height="16" id="rect362"/>
+      <rect x="640" y="1290" fill="#fcc" width="99" height="16" id="rect363"/>
+      <rect x="640" y="1330" fill="#bfb" width="99" height="16" id="rect364"/>
+      <rect x="640" y="1410" fill="#fcc" width="99" height="16" id="rect365"/>
+      <rect x="640" y="1470" fill="#bfb" width="99" height="16" id="rect366" style="fill:#80ff80;fill-opacity:1"/>
+      <rect x="640" y="1490" fill="#bfb" width="99" height="16" id="rect367"/>
+      <rect x="640" y="1510" fill="#fcc" width="99" height="16" id="rect368"/>
+    </g>
+    <g transform="translate(689.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g405">
+      <switch transform="translate(0 90)" id="switch368">
+        <text systemLanguage="id" id="trsvg956"><tspan id="trsvg270">Karia</tspan></text>
+        <text id="trsvg957-da" systemLanguage="da"><tspan id="trsvg271-da">karisk</tspan></text>
+        <text id="trsvg957-ca" systemLanguage="ca"><tspan id="trsvg271-ca">Carià</tspan></text>
+        <text id="trsvg957"><tspan id="trsvg271">Carian</tspan></text>
+      </switch>
+      <switch transform="translate(0 110)" id="switch369">
+        <text systemLanguage="id" id="trsvg958"><tspan id="trsvg272">Lidia</tspan></text>
+        <text id="trsvg959-da" systemLanguage="da"><tspan id="trsvg273-da">lydisk</tspan></text>
+        <text id="trsvg959-ca" systemLanguage="ca"><tspan id="trsvg273-ca">Lidi</tspan></text>
+        <text id="trsvg959"><tspan id="trsvg273">Lydian</tspan></text>
+      </switch>
+      <switch transform="translate(0 130)" id="switch370">
+        <text systemLanguage="id" id="trsvg960"><tspan id="trsvg274">Palaik</tspan></text>
+        <text id="trsvg961-da" systemLanguage="da"><tspan id="trsvg275-da">palaisk</tspan></text>
+        <text id="trsvg961-ca" systemLanguage="ca"><tspan id="trsvg275-ca">Palaic</tspan></text>
+        <text id="trsvg961"><tspan id="trsvg275">Palaic</tspan></text>
+      </switch>
+      <switch transform="translate(0 150)" id="switch371">
+        <text systemLanguage="id" id="trsvg962"><tspan id="trsvg276">Pisidia</tspan></text>
+        <text id="trsvg963-da" systemLanguage="da"><tspan id="trsvg277-da">pisidisk</tspan></text>
+        <text id="trsvg963-ca" systemLanguage="ca"><tspan id="trsvg277-ca">Pisidi</tspan></text>
+        <text id="trsvg963"><tspan id="trsvg277">Pisidian</tspan></text>
+      </switch>
+      <switch transform="translate(0 230)" font-weight="bold" id="switch372">
+        <text systemLanguage="id" id="trsvg964"><tspan id="trsvg278">AEOLIK</tspan></text>
+        <text id="trsvg965-da" systemLanguage="da"><tspan id="trsvg279-da">AIOLISK</tspan></text>
+        <text id="trsvg965-ca" systemLanguage="ca"><tspan id="trsvg279-ca">EÒLIC</tspan></text>
+        <text id="trsvg965"><tspan id="trsvg279">AEOLIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 270)" id="switch373">
+        <text systemLanguage="id" id="trsvg966"><tspan id="trsvg280">Aegea</tspan></text>
+        <text id="trsvg967-da" systemLanguage="da"><tspan id="trsvg281-da">aegeansk</tspan></text>
+        <text id="trsvg967"><tspan id="trsvg281">Aegean</tspan></text>
+      </switch>
+      <switch transform="translate(0 290)" id="switch374">
+        <text systemLanguage="id" id="trsvg968"><tspan id="trsvg282">Boiotia</tspan></text>
+        <text id="trsvg969-da" systemLanguage="da"><tspan id="trsvg283-da">beotiansk</tspan></text>
+        <text id="trsvg969-ca" systemLanguage="ca"><tspan id="trsvg283-ca">Beocià</tspan></text>
+        <text id="trsvg969"><tspan id="trsvg283">Beotian</tspan></text>
+      </switch>
+      <switch transform="translate(0 310)" id="switch375">
+        <text systemLanguage="id" id="trsvg970"><tspan id="trsvg284">Thessalia</tspan></text>
+        <text id="trsvg971-da" systemLanguage="da"><tspan id="trsvg285-da">tessaliansk</tspan></text>
+        <text id="trsvg971-ca" systemLanguage="ca"><tspan id="trsvg285-ca">Tessàlic</tspan></text>
+        <text id="trsvg971"><tspan id="trsvg285">Thessalian</tspan></text>
+      </switch>
+      <switch transform="translate(0 470)" font-weight="bold" font-style="italic" id="switch376">
+        <text systemLanguage="id" id="trsvg972"><tspan id="trsvg286">BENUA</tspan></text>
+        <text id="trsvg973-da" systemLanguage="da"><tspan id="trsvg287-da">KONTINENTAL</tspan></text>
+        <text id="trsvg973-ca" systemLanguage="ca"><tspan id="trsvg287-ca">CONTINENTAL</tspan></text>
+        <text id="trsvg973"><tspan id="trsvg287">CONTINENTAL</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" id="switch377">
+        <text systemLanguage="id" id="trsvg974"><tspan id="trsvg288">Keltiberia</tspan></text>
+        <text id="trsvg975-da" systemLanguage="da"><tspan id="trsvg289-da">keltiberisk</tspan></text>
+        <text id="trsvg975-ca" systemLanguage="ca"><tspan id="trsvg289-ca">Celtibèric</tspan></text>
+        <text id="trsvg975"><tspan id="trsvg289">Celtiberian</tspan></text>
+      </switch>
+      <switch transform="translate(0 530)" id="switch378">
+        <text systemLanguage="id" id="trsvg976"><tspan id="trsvg290">Galasia</tspan></text>
+        <text id="trsvg977-da" systemLanguage="da"><tspan id="trsvg291-da">galatisk</tspan></text>
+        <text id="trsvg977-ca" systemLanguage="ca"><tspan id="trsvg291-ca">Gàlata</tspan></text>
+        <text id="trsvg977"><tspan id="trsvg291">Galatian</tspan></text>
+      </switch>
+      <switch transform="translate(0 550)" id="switch379">
+        <text systemLanguage="id" id="trsvg978"><tspan id="trsvg292">Galia</tspan></text>
+        <text id="trsvg979-da" systemLanguage="da"><tspan id="trsvg293-da">gallisk</tspan></text>
+        <text id="trsvg979-ca" systemLanguage="ca"><tspan id="trsvg293-ca">Gal</tspan></text>
+        <text id="trsvg979"><tspan id="trsvg293">Gaulish</tspan></text>
+      </switch>
+      <switch transform="translate(0 570)" id="switch380">
+        <text systemLanguage="id" id="trsvg980"><tspan id="trsvg294">Leponti</tspan></text>
+        <text id="trsvg981-da" systemLanguage="da"><tspan id="trsvg295-da">lepontisk</tspan></text>
+        <text id="trsvg981-ca" systemLanguage="ca"><tspan id="trsvg295-ca">Lepòntic</tspan></text>
+        <text id="trsvg981"><tspan id="trsvg295">Lepontic</tspan></text>
+      </switch>
+      <switch transform="translate(0 590)" id="switch381">
+        <text systemLanguage="id" id="trsvg982"><tspan id="trsvg296">Norik</tspan></text>
+        <text id="trsvg983-da" systemLanguage="da"><tspan id="trsvg297-da">norisk</tspan></text>
+        <text id="trsvg983-ca" systemLanguage="ca"><tspan id="trsvg297-ca">Nòric</tspan></text>
+        <text id="trsvg983"><tspan id="trsvg297">Noric</tspan></text>
+      </switch>
+      <switch transform="translate(0 650)" id="switch382">
+        <text systemLanguage="id" id="trsvg984"><tspan id="trsvg298">Breton</tspan></text>
+        <text id="trsvg985-da" systemLanguage="da"><tspan id="trsvg299-da">bretonsk</tspan></text>
+        <text id="trsvg985-ca" systemLanguage="ca"><tspan id="trsvg299-ca">Bretó</tspan></text>
+        <text id="trsvg985"><tspan id="trsvg299">Breton</tspan></text>
+      </switch>
+      <switch transform="translate(0 670)" id="switch383">
+        <text systemLanguage="id" id="trsvg986"><tspan id="trsvg300">Kernowek</tspan></text>
+        <text id="trsvg987-da" systemLanguage="da"><tspan id="trsvg301-da">kornisk</tspan></text>
+        <text id="trsvg987-ca" systemLanguage="ca"><tspan id="trsvg301-ca">Còrnic</tspan></text>
+        <text id="trsvg987"><tspan id="trsvg301">Cornish</tspan></text>
+      </switch>
+      <switch transform="translate(0 690)" id="switch384">
+        <text systemLanguage="id" id="trsvg988"><tspan id="trsvg302">Kumbrik</tspan></text>
+        <text id="trsvg989-da" systemLanguage="da"><tspan id="trsvg303-da">cumbrisk</tspan></text>
+        <text id="trsvg989-ca" systemLanguage="ca"><tspan id="trsvg303-ca">Cúmbric</tspan></text>
+        <text id="trsvg989"><tspan id="trsvg303">Cumbric</tspan></text>
+      </switch>
+      <switch transform="translate(0 710)" id="switch385">
+        <text systemLanguage="id" id="trsvg990"><tspan id="trsvg304">Wales</tspan></text>
+        <text id="trsvg991-da" systemLanguage="da"><tspan id="trsvg305-da">walisisk</tspan></text>
+        <text id="trsvg991-ca" systemLanguage="ca"><tspan id="trsvg305-ca">Gal·lès</tspan></text>
+        <text id="trsvg991"><tspan id="trsvg305">Welsh</tspan></text>
+      </switch>
+      <switch transform="translate(0 755)" id="switch386">
+        <text systemLanguage="id" id="trsvg992"><tspan id="trsvg306">Korsika</tspan></text>
+        <text id="trsvg993-da" systemLanguage="da"><tspan id="trsvg307-da">korsikansk</tspan></text>
+        <text id="trsvg993-ca" systemLanguage="ca"><tspan id="trsvg307-ca">Cors</tspan></text>
+        <text id="trsvg993"><tspan id="trsvg307">Corsican</tspan></text>
+      </switch>
+      <switch transform="translate(0 775)" id="switch387">
+        <text systemLanguage="id" id="trsvg994"><tspan id="trsvg308">Dalmasia</tspan></text>
+        <text id="trsvg995-da" systemLanguage="da"><tspan id="trsvg309-da">dalmatisk</tspan></text>
+        <text id="trsvg995-ca" systemLanguage="ca"><tspan id="trsvg309-ca">Dàlmata</tspan></text>
+        <text id="trsvg995"><tspan id="trsvg309">Dalmatian</tspan></text>
+      </switch>
+      <switch transform="translate(0 795)" id="switch388">
+        <text systemLanguage="id" id="trsvg996"><tspan id="trsvg310">Istria</tspan></text>
+        <text id="trsvg997-da" systemLanguage="da"><tspan id="trsvg311-da">istriotisk</tspan></text>
+        <text id="trsvg997-ca" systemLanguage="ca"><tspan id="trsvg311-ca">Istriot</tspan></text>
+        <text id="trsvg997"><tspan id="trsvg311">Istriot</tspan></text>
+      </switch>
+      <switch transform="translate(0 815)" id="switch389">
+        <text systemLanguage="id" id="trsvg998"><tspan id="trsvg312">Italia</tspan></text>
+        <text id="trsvg999-da" systemLanguage="da"><tspan id="trsvg313-da">italiensk</tspan></text>
+        <text id="trsvg999-ca" systemLanguage="ca"><tspan id="trsvg313-ca">Italià</tspan></text>
+        <text id="trsvg999" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg313" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Italian</tspan></text>
+      </switch>
+      <switch transform="translate(0 835)" id="switch390">
+        <text systemLanguage="id" id="trsvg1000"><tspan id="trsvg314">Napolitan</tspan></text>
+        <text id="trsvg1001-da" systemLanguage="da"><tspan id="trsvg315-da">napolitansk</tspan></text>
+        <text id="trsvg1001-ca" systemLanguage="ca"><tspan id="trsvg315-ca">Napolità</tspan></text>
+        <text id="trsvg1001"><tspan id="trsvg315">Neapolitan</tspan></text>
+      </switch>
+      <switch transform="translate(0 855)" id="switch391">
+        <text systemLanguage="id" id="trsvg1002"><tspan id="trsvg316">Sassari</tspan></text>
+        <text id="trsvg1003-da" systemLanguage="da"><tspan id="trsvg317-da">sassaresisk</tspan></text>
+        <text id="trsvg1003-ca" systemLanguage="ca"><tspan id="trsvg317-ca">Sasserès</tspan></text>
+        <text id="trsvg1003"><tspan id="trsvg317">Sassarese</tspan></text>
+      </switch>
+      <switch transform="translate(0 875)" id="switch392">
+        <text systemLanguage="id" id="trsvg1004"><tspan id="trsvg318">Sisilian</tspan></text>
+        <text id="trsvg1005-da" systemLanguage="da"><tspan id="trsvg319-da">siciliansk</tspan></text>
+        <text id="trsvg1005-ca" systemLanguage="ca"><tspan id="trsvg319-ca">Sicilià</tspan></text>
+        <text id="trsvg1005"><tspan id="trsvg319">Sicilian</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" id="switch393">
+        <text systemLanguage="id" id="trsvg1006"><tspan id="trsvg320">Raetia</tspan></text>
+        <text id="trsvg1007-da" systemLanguage="da"><tspan id="trsvg321-da">raetisk</tspan></text>
+        <text id="trsvg1007-ca" systemLanguage="ca"><tspan id="trsvg321-ca">Rètic</tspan></text>
+        <text id="trsvg1007"><tspan id="trsvg321">Rhaetian</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch394">
+        <text systemLanguage="id" id="trsvg1008"><tspan id="trsvg322">Friuli</tspan></text>
+        <text id="trsvg1009-da" systemLanguage="da"><tspan id="trsvg323-da">friulisk</tspan></text>
+        <text id="trsvg1009-ca" systemLanguage="ca"><tspan id="trsvg323-ca">Furlà</tspan></text>
+        <text id="trsvg1009"><tspan id="trsvg323">Friulian</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch395">
+        <text systemLanguage="id" id="trsvg1010"><tspan id="trsvg324">Ladin</tspan></text>
+        <text id="trsvg1011-da" systemLanguage="da"><tspan id="trsvg325-da">ladinsk</tspan></text>
+        <text id="trsvg1011-ca" systemLanguage="ca"><tspan id="trsvg325-ca">Ladí</tspan></text>
+        <text id="trsvg1011"><tspan id="trsvg325">Ladin</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch396">
+        <text systemLanguage="id" id="trsvg1012"><tspan id="trsvg326">Romansh</tspan></text>
+        <text id="trsvg1013-da" systemLanguage="da"><tspan id="trsvg327-da">rætoromansk</tspan></text>
+        <text id="trsvg1013-ca" systemLanguage="ca"><tspan id="trsvg327-ca">Romanx</tspan></text>
+        <text id="trsvg1013"><tspan id="trsvg327">Romansh</tspan></text>
+      </switch>
+      <switch transform="translate(0 1110)" font-weight="bold" id="switch397">
+        <text systemLanguage="id" id="trsvg1014"><tspan id="trsvg328">TOKHARIA</tspan></text>
+        <text id="trsvg1015-da" systemLanguage="da"><tspan id="trsvg329-da">TOKHARISK</tspan></text>
+        <text id="trsvg1015-ca" systemLanguage="ca"><tspan id="trsvg329-ca">TOKHARI</tspan></text>
+        <text id="trsvg1015"><tspan id="trsvg329">TOCHARIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1150)" id="switch398">
+        <text systemLanguage="id" id="trsvg1016"><tspan id="trsvg330">Kucha</tspan></text>
+        <text id="trsvg1017-da" systemLanguage="da"><tspan id="trsvg331-da">tokharisk A</tspan></text>
+        <text id="trsvg1017-ca" systemLanguage="ca"><tspan id="trsvg331-ca">kutxeu</tspan></text>
+        <text id="trsvg1017"><tspan id="trsvg331">Kuchean</tspan></text>
+      </switch>
+      <switch transform="translate(0 1170)" id="switch399">
+        <text systemLanguage="id" id="trsvg1018"><tspan id="trsvg332">Turfania</tspan></text>
+        <text id="trsvg1019-da" systemLanguage="da"><tspan id="trsvg333-da">tokharisk B</tspan></text>
+        <text id="trsvg1019-ca" systemLanguage="ca"><tspan id="trsvg333-ca">Turfani</tspan></text>
+        <text id="trsvg1019"><tspan id="trsvg333">Turfanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch400">
+        <text systemLanguage="id" id="trsvg1020"><tspan id="trsvg334">Saxon Kuno</tspan></text>
+        <text id="trsvg1021-da" systemLanguage="da"><tspan id="trsvg335-da">oldnedertysk</tspan></text>
+        <text id="trsvg1021-ca" systemLanguage="ca"><tspan id="trsvg335-ca">Saxó Antic</tspan></text>
+        <text id="trsvg1021"><tspan id="trsvg335">Old Saxon</tspan></text>
+      </switch>
+      <switch transform="translate(0 1330)" id="switch401">
+        <text systemLanguage="id" id="trsvg1022"><tspan id="trsvg336">Jerman Hilir</tspan></text>
+        <text id="trsvg1023-da" systemLanguage="da"><tspan id="trsvg337-da">nedertysk</tspan></text>
+        <text id="trsvg1023-ca" systemLanguage="ca"><tspan id="trsvg337-ca">Baix Alemany</tspan></text>
+        <text id="trsvg1023"><tspan id="trsvg337">Low German</tspan></text>
+      </switch>
+      <switch transform="translate(0 1410)" id="switch402">
+        <text systemLanguage="id" id="trsvg1024"><tspan id="trsvg338">Inggris Kuno</tspan></text>
+        <text id="trsvg1025-da" systemLanguage="da"><tspan id="trsvg339-da">angelsaksisk</tspan></text>
+        <text id="trsvg1025-ca" systemLanguage="ca"><tspan id="trsvg339-ca">Anglès Antic</tspan></text>
+        <text id="trsvg1025"><tspan id="trsvg339">Old English</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch403">
+        <text systemLanguage="id" id="trsvg1026"><tspan id="trsvg340">Inggris Modern</tspan></text>
+        <text id="trsvg1027-da" systemLanguage="da"><tspan id="trsvg341-da">engelsk</tspan></text>
+        <text id="trsvg1027-ca" systemLanguage="ca"><tspan id="trsvg341-ca">Anglès</tspan></text>
+        <text id="trsvg1027" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg341" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">English</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch404">
+        <text systemLanguage="id" id="trsvg1028"><tspan id="trsvg342">Scots</tspan></text>
+        <text id="trsvg1029-da" systemLanguage="da"><tspan id="trsvg343-da">skotsk</tspan></text>
+        <text id="trsvg1029-ca" systemLanguage="ca"><tspan id="trsvg343-ca">Scots</tspan></text>
+        <text id="trsvg1029"><tspan id="trsvg343">Scots</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch405">
+        <text systemLanguage="id" id="trsvg1030"><tspan id="trsvg344">Yola</tspan></text>
+        <text id="trsvg1031-da" systemLanguage="da"><tspan id="trsvg345-da">yola</tspan></text>
+        <text id="trsvg1031-ca" systemLanguage="ca"><tspan id="trsvg345-ca">Iola</tspan></text>
+        <text id="trsvg1031"><tspan id="trsvg345">Yola</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column08">
+    <g stroke="#111" id="g426">
+      <rect x="760" y="290" fill="#fcc" width="99" height="16" id="rect405"/>
+      <rect x="760" y="310" fill="#bfb" width="99" height="16" id="rect406"/>
+      <rect x="760" y="410" fill="#fff" width="99" height="16" id="rect407"/>
+      <rect x="760" y="450" fill="#bfb" width="99" height="16" id="rect408"/>
+      <rect x="760" y="470" fill="#bfb" width="99" height="16" id="rect409"/>
+      <rect x="760" y="490" fill="#bfb" width="99" height="16" id="rect410"/>
+      <rect x="760" y="510" fill="#bfb" width="99" height="16" id="rect411"/>
+      <rect x="760" y="890" fill="#fff" width="99" height="16" id="rect412"/>
+      <rect x="760" y="930" fill="#fcc" width="99" height="16" id="rect413"/>
+      <rect x="760" y="970" fill="#bfb" width="99" height="16" id="rect414"/>
+      <rect x="760" y="990" fill="#fcc" width="99" height="16" id="rect415"/>
+      <rect x="760" y="1010" fill="#bfb" width="99" height="16" id="rect416"/>
+      <rect x="760" y="1050" fill="#fff" width="99" height="16" id="rect417"/>
+      <rect x="760" y="1090" fill="#bfb" width="99" height="16" id="rect418" style="fill:#7dff7d;fill-opacity:1"/>
+      <rect x="760" y="1210" fill="#fff" width="99" height="16" id="rect419"/>
+      <rect x="760" y="1250" fill="#fcc" width="99" height="16" id="rect420"/>
+      <rect x="760" y="1270" fill="#fcc" width="99" height="16" id="rect421"/>
+      <rect x="760" y="1290" fill="#fcc" width="99" height="16" id="rect422"/>
+      <rect x="760" y="1330" fill="#fff" width="99" height="16" id="rect423"/>
+      <rect x="760" y="1370" fill="#bfb" width="99" height="16" id="rect424" style="fill:#7dff7d;fill-opacity:1"/>
+      <rect x="760" y="1470" fill="#bfb" width="99" height="16" id="rect425"/>
+      <rect x="760" y="1490" fill="#bfb" width="99" height="16" id="rect426"/>
+    </g>
+    <g transform="translate(809.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g447">
+      <switch transform="translate(0 290)" id="switch426">
+        <text systemLanguage="id" id="trsvg1032"><tspan id="trsvg346">Sanskerta Weda</tspan></text>
+        <text id="trsvg1033-da" systemLanguage="da"><tspan id="trsvg347-da">vedisk</tspan></text>
+        <text id="trsvg1033-ca" systemLanguage="ca"><tspan id="trsvg347-ca">Sànscrit Vèdic</tspan></text>
+        <text id="trsvg1033"><tspan id="trsvg347">Vedic Sanskrit</tspan></text>
+      </switch>
+      <switch transform="translate(0 310)" id="switch427">
+        <text systemLanguage="id" id="trsvg1034"><tspan id="trsvg348">Sanskerta</tspan></text>
+        <text id="trsvg1035-da" systemLanguage="da"><tspan id="trsvg349-da">sanskrit</tspan></text>
+        <text id="trsvg1035-ca" systemLanguage="ca"><tspan id="trsvg349-ca">Sànscrit</tspan></text>
+        <text id="trsvg1035"><tspan id="trsvg349">Sanskrit</tspan></text>
+      </switch>
+      <switch transform="translate(0 410)" font-weight="bold" id="switch428">
+        <text systemLanguage="id" id="trsvg1036"><tspan id="trsvg350">UTARA</tspan></text>
+        <text id="trsvg1037-da" systemLanguage="da"><tspan id="trsvg351-da">NORDINDISK</tspan></text>
+        <text id="trsvg1037"><tspan id="trsvg351">NW'N INDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" id="switch429">
+        <text systemLanguage="id" id="trsvg1038"><tspan id="trsvg352">Lahnda</tspan></text>
+        <text id="trsvg1039-da" systemLanguage="da"><tspan id="trsvg353-da">lahnda</tspan></text>
+        <text id="trsvg1039-ca" systemLanguage="ca"><tspan id="trsvg353-ca">Lahnda</tspan></text>
+        <text id="trsvg1039"><tspan id="trsvg353">Lahnda</tspan></text>
+      </switch>
+      <switch transform="translate(0 470)" id="switch430">
+        <text systemLanguage="id" id="trsvg1040"><tspan id="trsvg354">Potwari</tspan></text>
+        <text id="trsvg1041-da" systemLanguage="da"><tspan id="trsvg355-da">potwari</tspan></text>
+        <text id="trsvg1041-ca" systemLanguage="ca"><tspan id="trsvg355-ca">potwari</tspan></text>
+        <text id="trsvg1041"><tspan id="trsvg355">Potwari</tspan></text>
+      </switch>
+      <switch transform="translate(0 490)" id="switch431">
+        <text systemLanguage="id" id="trsvg1042"><tspan id="trsvg356">Punjab</tspan></text>
+        <text id="trsvg1043-da" systemLanguage="da"><tspan id="trsvg357-da">punjabi</tspan></text>
+        <text id="trsvg1043-ca" systemLanguage="ca"><tspan id="trsvg357-ca">Panjabi</tspan></text>
+        <text id="trsvg1043"><tspan id="trsvg357">Punjabi</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" id="switch432">
+        <text systemLanguage="id" id="trsvg1044"><tspan id="trsvg358">Sindhi</tspan></text>
+        <text id="trsvg1045-da" systemLanguage="da"><tspan id="trsvg359-da">sindhi</tspan></text>
+        <text id="trsvg1045-ca" systemLanguage="ca"><tspan id="trsvg359-ca">Sindhi</tspan></text>
+        <text id="trsvg1045"><tspan id="trsvg359">Sindhi</tspan></text>
+      </switch>
+      <switch transform="translate(0 890)" font-weight="bold" font-style="italic" id="switch433">
+        <text systemLanguage="id" id="trsvg1046"><tspan id="trsvg360">SELATAN</tspan></text>
+        <text id="trsvg1047-da" systemLanguage="da"><tspan id="trsvg361-da">SYDLIG</tspan></text>
+        <text id="trsvg1047-ca" systemLanguage="ca"><tspan id="trsvg361-ca">SUD</tspan></text>
+        <text id="trsvg1047"><tspan id="trsvg361">SOUTH</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" id="switch434">
+        <text systemLanguage="id" id="trsvg1048"><tspan id="trsvg362">Pamiri</tspan></text>
+        <text id="trsvg1049-da" systemLanguage="da"><tspan id="trsvg363-da">pamiri</tspan></text>
+        <text id="trsvg1049"><tspan id="trsvg363">Pamiri</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch435">
+        <text systemLanguage="id" id="trsvg1050"><tspan id="trsvg364">Sarikoli</tspan></text>
+        <text id="trsvg1051-da" systemLanguage="da"><tspan id="trsvg365-da">sarikoli</tspan></text>
+        <text id="trsvg1051-ca" systemLanguage="ca"><tspan id="trsvg365-ca">Sarikoli</tspan></text>
+        <text id="trsvg1051"><tspan id="trsvg365">Sarikoli</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch436">
+        <text systemLanguage="id" id="trsvg1052"><tspan id="trsvg366">Vanji</tspan></text>
+        <text id="trsvg1053-da" systemLanguage="da"><tspan id="trsvg367-da">vanji</tspan></text>
+        <text id="trsvg1053"><tspan id="trsvg367">Vanji</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch437">
+        <text systemLanguage="id" id="trsvg1054"><tspan id="trsvg368">Yidgha</tspan></text>
+        <text id="trsvg1055-da" systemLanguage="da"><tspan id="trsvg369-da">yidgha</tspan></text>
+        <text id="trsvg1055"><tspan id="trsvg369">Yidgha</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" font-weight="bold" id="switch438">
+        <text systemLanguage="id" id="trsvg1056"><tspan id="trsvg370">ARMENIA</tspan></text>
+        <text id="trsvg1057-da" systemLanguage="da"><tspan id="trsvg371-da">ARMENSK</tspan></text>
+        <text id="trsvg1057-ca" systemLanguage="ca"><tspan id="trsvg371-ca">ARMENI</tspan></text>
+        <text id="trsvg1057"><tspan id="trsvg371">ARMENIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1090)" id="switch439">
+        <text systemLanguage="id" id="trsvg1058"><tspan id="trsvg372">Armenia</tspan></text>
+        <text id="trsvg1059-da" systemLanguage="da"><tspan id="trsvg373-da">armensk</tspan></text>
+        <text id="trsvg1059-ca" systemLanguage="ca"><tspan id="trsvg373-ca">Armeni</tspan></text>
+        <text id="trsvg1059" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg373" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Armenian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1210)" font-weight="bold" font-style="italic" id="switch440">
+        <text systemLanguage="id" id="trsvg1060"><tspan id="trsvg374">BARAT</tspan></text>
+        <text id="trsvg1061-da" systemLanguage="da"><tspan id="trsvg375-da">VESTLIG</tspan></text>
+        <text id="trsvg1061-ca" systemLanguage="ca"><tspan id="trsvg375-ca">OEST</tspan></text>
+        <text id="trsvg1061"><tspan id="trsvg375">WEST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1250)" id="switch441">
+        <text systemLanguage="id" id="trsvg1062"><tspan id="trsvg376">Galindia</tspan></text>
+        <text id="trsvg1063-da" systemLanguage="da"><tspan id="trsvg377-da">galindisk</tspan></text>
+        <text id="trsvg1063-ca" systemLanguage="ca"><tspan id="trsvg377-ca">Galindià</tspan></text>
+        <text id="trsvg1063"><tspan id="trsvg377">Galindan</tspan></text>
+      </switch>
+      <switch transform="translate(0 1270)" id="switch442">
+        <text systemLanguage="id" id="trsvg1064"><tspan id="trsvg378">Prusia</tspan></text>
+        <text id="trsvg1065-da" systemLanguage="da"><tspan id="trsvg379-da">preussisk</tspan></text>
+        <text id="trsvg1065-ca" systemLanguage="ca"><tspan id="trsvg379-ca">Prussià</tspan></text>
+        <text id="trsvg1065"><tspan id="trsvg379">Prussian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch443">
+        <text systemLanguage="id" id="trsvg1066"><tspan id="trsvg380">Sudovia</tspan></text>
+        <text id="trsvg1067-da" systemLanguage="da"><tspan id="trsvg381-da">jotvingisk</tspan></text>
+        <text id="trsvg1067-ca" systemLanguage="ca"><tspan id="trsvg381-ca">Jatvingià</tspan></text>
+        <text id="trsvg1067"><tspan id="trsvg381">Sudovian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1330)" font-weight="bold" id="switch444">
+        <text systemLanguage="id" id="trsvg1068"><tspan id="trsvg382">ALBANIA</tspan></text>
+        <text id="trsvg1069-da" systemLanguage="da"><tspan id="trsvg383-da">ALBANSK</tspan></text>
+        <text id="trsvg1069-ca" systemLanguage="ca"><tspan id="trsvg383-ca">ALBANÈS</tspan></text>
+        <text id="trsvg1069"><tspan id="trsvg383">ALBANIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1370)" id="switch445">
+        <text systemLanguage="id" id="trsvg1070"><tspan id="trsvg384">Albania</tspan></text>
+        <text id="trsvg1071-da" systemLanguage="da"><tspan id="trsvg385-da">albansk</tspan></text>
+        <text id="trsvg1071-ca" systemLanguage="ca"><tspan id="trsvg385-ca">Albanès</tspan></text>
+        <text id="trsvg1071" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg385" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Albanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch446">
+        <text systemLanguage="id" id="trsvg1072"><tspan id="trsvg386">Polandia</tspan></text>
+        <text id="trsvg1073-da" systemLanguage="da"><tspan id="trsvg387-da">polsk</tspan></text>
+        <text id="trsvg1073-ca" systemLanguage="ca"><tspan id="trsvg387-ca">Polonès</tspan></text>
+        <text id="trsvg1073"><tspan id="trsvg387">Polish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch447">
+        <text systemLanguage="id" id="trsvg1074"><tspan id="trsvg388">Silesia</tspan></text>
+        <text id="trsvg1075-da" systemLanguage="da"><tspan id="trsvg389-da">schlesisk</tspan></text>
+        <text id="trsvg1075-ca" systemLanguage="ca"><tspan id="trsvg389-ca">Silesià</tspan></text>
+        <text id="trsvg1075"><tspan id="trsvg389">Silesian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column09">
+    <g stroke="#111" id="g474">
+      <rect x="865" y="290" fill="#fcc" width="99" height="16" id="rect447"/>
+      <rect x="865" y="310" fill="#fcc" width="99" height="16" id="rect448"/>
+      <rect x="865" y="330" fill="#fcc" width="99" height="16" id="rect449"/>
+      <rect x="865" y="350" fill="#bfb" width="99" height="16" id="rect450"/>
+      <rect x="865" y="410" fill="#fff" width="99" height="16" id="rect451"/>
+      <rect x="865" y="450" fill="#bfb" width="99" height="16" id="rect452"/>
+      <rect x="865" y="470" fill="#bfb" width="99" height="16" id="rect453"/>
+      <rect x="865" y="490" fill="#bfb" width="99" height="16" id="rect454"/>
+      <rect x="865" y="510" fill="#bfb" width="99" height="16" id="rect455"/>
+      <rect x="865" y="530" fill="#bfb" width="99" height="16" id="rect456"/>
+      <rect x="865" y="710" fill="#fff" width="99" height="16" id="rect457"/>
+      <rect x="865" y="790" fill="#fcc" width="99" height="16" id="rect458"/>
+      <rect x="865" y="830" fill="#bfb" width="99" height="16" id="rect459"/>
+      <rect x="865" y="850" fill="#fcc" width="99" height="16" id="rect460"/>
+      <rect x="865" y="870" fill="#fcc" width="99" height="16" id="rect461"/>
+      <rect x="865" y="930" fill="#bfb" width="99" height="16" id="rect462"/>
+      <rect x="865" y="1010" fill="#bfb" width="99" height="16" id="rect463"/>
+      <rect x="865" y="1030" fill="#bfb" width="99" height="16" id="rect464"/>
+      <rect x="865" y="1170" fill="#fff" width="99" height="16" id="rect465"/>
+      <rect x="865" y="1210" fill="#fff" width="99" height="16" id="rect466"/>
+      <rect x="865" y="1250" fill="#bfb" width="99" height="16" id="rect467"/>
+      <rect x="865" y="1270" fill="#bfb" width="99" height="16" id="rect468"/>
+      <rect x="865" y="1290" fill="#fcc" width="99" height="16" id="rect469"/>
+      <rect x="865" y="1310" fill="#fcc" width="99" height="16" id="rect470"/>
+      <rect x="865" y="1390" fill="#fff" width="99" height="16" id="rect471"/>
+      <rect x="865" y="1430" fill="#fcc" width="99" height="16" id="rect472"/>
+      <rect x="865" y="1450" fill="#fcc" width="99" height="16" id="rect473"/>
+      <rect x="865" y="1470" fill="#fcc" width="99" height="16" id="rect474"/>
+    </g>
+    <g transform="translate(914.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g501">
+      <switch transform="translate(0 290)" id="switch474">
+        <text systemLanguage="id" id="trsvg1076"><tspan id="trsvg390">Gandhari</tspan></text>
+        <text id="trsvg1077-da" systemLanguage="da"><tspan id="trsvg391-da">gandhari</tspan></text>
+        <text id="trsvg1077-ca" systemLanguage="ca"><tspan id="trsvg391-ca">Gandhari</tspan></text>
+        <text id="trsvg1077"><tspan id="trsvg391">Gandhari</tspan></text>
+      </switch>
+      <switch transform="translate(0 310)" id="switch475">
+        <text systemLanguage="id" id="trsvg1078"><tspan id="trsvg392">Niya</tspan></text>
+        <text id="trsvg1079-da" systemLanguage="da"><tspan id="trsvg393-da">niya</tspan></text>
+        <text id="trsvg1079"><tspan id="trsvg393">Niya</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" id="switch476">
+        <text systemLanguage="id" id="trsvg1080"><tspan id="trsvg394">Paisaki</tspan></text>
+        <text id="trsvg1081-da" systemLanguage="da"><tspan id="trsvg395-da">paisaci</tspan></text>
+        <text id="trsvg1081-ca" systemLanguage="ca"><tspan id="trsvg395-ca">Paisachi</tspan></text>
+        <text id="trsvg1081"><tspan id="trsvg395">Paisaci</tspan></text>
+      </switch>
+      <switch transform="translate(0 350)" id="switch477">
+        <text systemLanguage="id" id="trsvg1082"><tspan id="trsvg396">Pali</tspan></text>
+        <text id="trsvg1083-da" systemLanguage="da"><tspan id="trsvg397-da">pali</tspan></text>
+        <text id="trsvg1083-ca" systemLanguage="ca"><tspan id="trsvg397-ca">Pali</tspan></text>
+        <text id="trsvg1083"><tspan id="trsvg397">Pali</tspan></text>
+      </switch>
+      <switch transform="translate(0 410)" font-weight="bold" letter-spacing="-.7" id="switch478">
+        <text systemLanguage="id" id="trsvg1084"><tspan id="trsvg398">INDIK BARAT</tspan></text>
+        <text id="trsvg1085-da" systemLanguage="da"><tspan id="trsvg399-da">VESTINDISK</tspan></text>
+        <text id="trsvg1085-ca" systemLanguage="ca"><tspan id="trsvg399-ca">ÍNDIC OCCIDENTAL</tspan></text>
+        <text id="trsvg1085"><tspan id="trsvg399">WESTERN INDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" id="switch479">
+        <text systemLanguage="id" id="trsvg1086"><tspan id="trsvg400">Bhil</tspan></text>
+        <text id="trsvg1087-da" systemLanguage="da"><tspan id="trsvg401-da">bhil</tspan></text>
+        <text id="trsvg1087-ca" systemLanguage="ca"><tspan id="trsvg401-ca">Bhil</tspan></text>
+        <text id="trsvg1087"><tspan id="trsvg401">Bhil</tspan></text>
+      </switch>
+      <switch transform="translate(0 470)" id="switch480">
+        <text systemLanguage="id" id="trsvg1088"><tspan id="trsvg402">Domari</tspan></text>
+        <text id="trsvg1089-da" systemLanguage="da"><tspan id="trsvg403-da">domari</tspan></text>
+        <text id="trsvg1089-ca" systemLanguage="ca"><tspan id="trsvg403-ca">Domari</tspan></text>
+        <text id="trsvg1089"><tspan id="trsvg403">Domari</tspan></text>
+      </switch>
+      <switch transform="translate(0 490)" id="switch481">
+        <text systemLanguage="id" id="trsvg1090"><tspan id="trsvg404">Gujarat</tspan></text>
+        <text id="trsvg1091-da" systemLanguage="da"><tspan id="trsvg405-da">gujarati</tspan></text>
+        <text id="trsvg1091-ca" systemLanguage="ca"><tspan id="trsvg405-ca">Gujarati</tspan></text>
+        <text id="trsvg1091"><tspan id="trsvg405">Gujarati</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" id="switch482">
+        <text systemLanguage="id" id="trsvg1092"><tspan id="trsvg406">Rajasthani</tspan></text>
+        <text id="trsvg1093-da" systemLanguage="da"><tspan id="trsvg407-da">rajasthani</tspan></text>
+        <text id="trsvg1093-ca" systemLanguage="ca"><tspan id="trsvg407-ca">Rajasthani</tspan></text>
+        <text id="trsvg1093"><tspan id="trsvg407">Rajasthani</tspan></text>
+      </switch>
+      <switch transform="translate(0 530)" id="switch483">
+        <text systemLanguage="id" id="trsvg1094"><tspan id="trsvg408">Romani</tspan></text>
+        <text id="trsvg1095-da" systemLanguage="da"><tspan id="trsvg409-da">romani</tspan></text>
+        <text id="trsvg1095-ca" systemLanguage="ca"><tspan id="trsvg409-ca">Romaní</tspan></text>
+        <text id="trsvg1095"><tspan id="trsvg409">Romani</tspan></text>
+      </switch>
+      <switch transform="translate(0 710)" font-weight="bold" font-style="italic" id="switch484">
+        <text systemLanguage="id" id="trsvg1096"><tspan id="trsvg410">TIMUR</tspan></text>
+        <text id="trsvg1097-da" systemLanguage="da"><tspan id="trsvg411-da">ØSTLIG</tspan></text>
+        <text id="trsvg1097-ca" systemLanguage="ca"><tspan id="trsvg411-ca">ORIENTAL</tspan></text>
+        <text id="trsvg1097"><tspan id="trsvg411">EASTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 790)" id="switch485">
+        <text systemLanguage="id" id="trsvg1098"><tspan id="trsvg412">Skithia</tspan></text>
+        <text id="trsvg1099-da" systemLanguage="da"><tspan id="trsvg413-da">skythisk</tspan></text>
+        <text id="trsvg1099-ca" systemLanguage="ca"><tspan id="trsvg413-ca">Escita</tspan></text>
+        <text id="trsvg1099"><tspan id="trsvg413">Scythian</tspan></text>
+      </switch>
+      <switch transform="translate(0 830)" id="switch486">
+        <text systemLanguage="id" id="trsvg1100"><tspan id="trsvg414">Ossetia</tspan></text>
+        <text id="trsvg1101-da" systemLanguage="da"><tspan id="trsvg415-da">ossetisk</tspan></text>
+        <text id="trsvg1101-ca" systemLanguage="ca"><tspan id="trsvg415-ca">Osseta</tspan></text>
+        <text id="trsvg1101"><tspan id="trsvg415">Ossetian</tspan></text>
+      </switch>
+      <switch transform="translate(0 850)" id="switch487">
+        <text systemLanguage="id" id="trsvg1102"><tspan id="trsvg416">Saka</tspan></text>
+        <text id="trsvg1103-da" systemLanguage="da"><tspan id="trsvg417-da">khotanesisk</tspan></text>
+        <text id="trsvg1103-ca" systemLanguage="ca"><tspan id="trsvg417-ca">Khotanès</tspan></text>
+        <text id="trsvg1103"><tspan id="trsvg417">Saka</tspan></text>
+      </switch>
+      <switch transform="translate(0 870)" id="switch488">
+        <text systemLanguage="id" id="trsvg1104"><tspan id="trsvg418">Sarmatia</tspan></text>
+        <text id="trsvg1105-da" systemLanguage="da"><tspan id="trsvg419-da">sarmaterisk</tspan></text>
+        <text id="trsvg1105"><tspan id="trsvg419">Sarmatian</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" id="switch489">
+        <text systemLanguage="id" id="trsvg1106"><tspan id="trsvg420">Pashtun</tspan></text>
+        <text id="trsvg1107-da" systemLanguage="da"><tspan id="trsvg421-da">pashto</tspan></text>
+        <text id="trsvg1107-ca" systemLanguage="ca"><tspan id="trsvg421-ca">Paixtu</tspan></text>
+        <text id="trsvg1107"><tspan id="trsvg421">Pashto</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch490">
+        <text systemLanguage="id" id="trsvg1108"><tspan id="trsvg422">Shughni</tspan></text>
+        <text id="trsvg1109-da" systemLanguage="da"><tspan id="trsvg423-da">shughni</tspan></text>
+        <text id="trsvg1109-ca" systemLanguage="ca"><tspan id="trsvg423-ca">Xughni</tspan></text>
+        <text id="trsvg1109"><tspan id="trsvg423">Shughni</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch491">
+        <text systemLanguage="id" id="trsvg1110"><tspan id="trsvg424">Yazgulem</tspan></text>
+        <text id="trsvg1111-da" systemLanguage="da"><tspan id="trsvg425-da">yazgulami</tspan></text>
+        <text id="trsvg1111"><tspan id="trsvg425">Yazgulami</tspan></text>
+      </switch>
+      <switch transform="translate(0 1170)" font-weight="bold" id="switch492">
+        <text systemLanguage="id" id="trsvg1112"><tspan id="trsvg426">BALTIK</tspan></text>
+        <text id="trsvg1113-da" systemLanguage="da"><tspan id="trsvg427-da">BALTISK</tspan></text>
+        <text id="trsvg1113-ca" systemLanguage="ca"><tspan id="trsvg427-ca">BÀLTIC</tspan></text>
+        <text id="trsvg1113"><tspan id="trsvg427">BALTIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 1210)" font-weight="bold" font-style="italic" id="switch493">
+        <text systemLanguage="id" id="trsvg1114"><tspan id="trsvg428">TIMUR</tspan></text>
+        <text id="trsvg1115-da" systemLanguage="da"><tspan id="trsvg429-da">ØSTLIG</tspan></text>
+        <text id="trsvg1115-ca" systemLanguage="ca"><tspan id="trsvg429-ca">EST</tspan></text>
+        <text id="trsvg1115"><tspan id="trsvg429">EAST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1250)" id="switch494">
+        <text systemLanguage="id" id="trsvg1116"><tspan id="trsvg430">Latvia</tspan></text>
+        <text id="trsvg1117-da" systemLanguage="da"><tspan id="trsvg431-da">lettisk</tspan></text>
+        <text id="trsvg1117-ca" systemLanguage="ca"><tspan id="trsvg431-ca">Letó</tspan></text>
+        <text id="trsvg1117"><tspan id="trsvg431">Latvian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1270)" id="switch495">
+        <text systemLanguage="id" id="trsvg1118"><tspan id="trsvg432">Lituania</tspan></text>
+        <text id="trsvg1119-da" systemLanguage="da"><tspan id="trsvg433-da">litauisk</tspan></text>
+        <text id="trsvg1119-ca" systemLanguage="ca"><tspan id="trsvg433-ca">Lituà</tspan></text>
+        <text id="trsvg1119"><tspan id="trsvg433">Lithuanian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch496">
+        <text systemLanguage="id" id="trsvg1120"><tspan id="trsvg434">Selonia</tspan></text>
+        <text id="trsvg1121-da" systemLanguage="da"><tspan id="trsvg435-da">selisk</tspan></text>
+        <text id="trsvg1121-ca" systemLanguage="ca"><tspan id="trsvg435-ca">Selià</tspan></text>
+        <text id="trsvg1121"><tspan id="trsvg435">Selonian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1310)" id="switch497">
+        <text systemLanguage="id" id="trsvg1122"><tspan id="trsvg436">Semigallia</tspan></text>
+        <text id="trsvg1123-da" systemLanguage="da"><tspan id="trsvg437-da">semgalisk</tspan></text>
+        <text id="trsvg1123-ca" systemLanguage="ca"><tspan id="trsvg437-ca">Zemgalià</tspan></text>
+        <text id="trsvg1123"><tspan id="trsvg437">Semigallian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1390)" font-weight="bold" id="switch498">
+        <text systemLanguage="id" id="trsvg1124"><tspan id="trsvg438">LEKITIK</tspan></text>
+        <text id="trsvg1125-da" systemLanguage="da"><tspan id="trsvg439-da">LEKHITISK</tspan></text>
+        <text id="trsvg1125-ca" systemLanguage="ca"><tspan id="trsvg439-ca">LEQUÍTIC</tspan></text>
+        <text id="trsvg1125"><tspan id="trsvg439">LECHITIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 1430)" id="switch499">
+        <text systemLanguage="id" id="trsvg1126"><tspan id="trsvg440">Polandia Kuno</tspan></text>
+        <text id="trsvg1127-da" systemLanguage="da"><tspan id="trsvg441-da">oldpolsk</tspan></text>
+        <text id="trsvg1127-ca" systemLanguage="ca"><tspan id="trsvg441-ca">Polonès Antic</tspan></text>
+        <text id="trsvg1127"><tspan id="trsvg441">Old Polish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1450)" id="switch500">
+        <text systemLanguage="id" id="trsvg1128"><tspan id="trsvg442">Polabia</tspan></text>
+        <text id="trsvg1129-da" systemLanguage="da"><tspan id="trsvg443-da">polabisk</tspan></text>
+        <text id="trsvg1129-ca" systemLanguage="ca"><tspan id="trsvg443-ca">Polàbic</tspan></text>
+        <text id="trsvg1129"><tspan id="trsvg443">Polabian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch501">
+        <text systemLanguage="id" id="trsvg1130"><tspan id="trsvg444">Pomerania</tspan></text>
+        <text id="trsvg1131-da" systemLanguage="da"><tspan id="trsvg445-da">pommersk</tspan></text>
+        <text id="trsvg1131"><tspan id="trsvg445">Pomeranian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column10">
+    <g stroke="#111" id="g522">
+      <rect x="970" y="210" fill="#fff" width="99" height="16" id="rect501"/>
+      <rect x="970" y="250" fill="#fff" width="99" height="16" id="rect502"/>
+      <rect x="970" y="290" fill="#fcc" width="99" height="16" id="rect503"/>
+      <rect x="970" y="410" fill="#fff" width="99" height="16" id="rect504"/>
+      <rect x="970" y="450" fill="#fcc" width="99" height="16" id="rect505"/>
+      <rect x="970" y="470" fill="#bfb" width="99" height="16" id="rect506" style="fill:#7fff7f;fill-opacity:1"/>
+      <rect x="970" y="490" fill="#bfb" width="99" height="16" id="rect507"/>
+      <rect x="970" y="750" fill="#fff" width="99" height="16" id="rect508"/>
+      <rect x="970" y="790" fill="#fcc" width="99" height="16" id="rect509"/>
+      <rect x="970" y="810" fill="#fcc" width="99" height="16" id="rect510"/>
+      <rect x="970" y="830" fill="#fcc" width="99" height="16" id="rect511"/>
+      <rect x="970" y="910" fill="#fcc" width="99" height="16" id="rect512"/>
+      <rect x="970" y="970" fill="#bfb" width="99" height="16" id="rect513"/>
+      <rect x="970" y="1030" fill="#bfb" width="99" height="16" id="rect514"/>
+      <rect x="970" y="1050" fill="#bfb" width="99" height="16" id="rect515"/>
+      <rect x="970" y="1130" fill="#fff" width="99" height="16" id="rect516"/>
+      <rect x="970" y="1310" fill="#fff" width="99" height="16" id="rect517"/>
+      <rect x="970" y="1350" fill="#fcc" width="99" height="16" id="rect518"/>
+      <rect x="970" y="1410" fill="#fcc" width="99" height="16" id="rect519"/>
+      <rect x="970" y="1430" fill="#fcc" width="99" height="16" id="rect520"/>
+      <rect x="970" y="1450" fill="#bfb" width="99" height="16" id="rect521"/>
+      <rect x="970" y="1510" fill="#bfb" width="99" height="16" id="rect522"/>
+    </g>
+    <g transform="translate(1019.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g543">
+      <switch transform="translate(0 210)" font-weight="bold" id="switch522">
+        <text systemLanguage="id" id="trsvg1132"><tspan id="trsvg446">INDO-IRAN</tspan></text>
+        <text id="trsvg1133-da" systemLanguage="da"><tspan id="trsvg447-da">INDOIRANSK</tspan></text>
+        <text id="trsvg1133-ca" systemLanguage="ca"><tspan id="trsvg447-ca">INDOIRANIÀ</tspan></text>
+        <text id="trsvg1133"><tspan id="trsvg447">INDO-IRANIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 250)" font-weight="bold" id="switch523">
+        <text systemLanguage="id" id="trsvg1134"><tspan id="trsvg448">INDO-ARYA</tspan></text>
+        <text id="trsvg1135-da" systemLanguage="da"><tspan id="trsvg449-da">INDOARISK</tspan></text>
+        <text id="trsvg1135-ca" systemLanguage="ca"><tspan id="trsvg449-ca">INDOÀRIC</tspan></text>
+        <text id="trsvg1135"><tspan id="trsvg449">INDO-ARYAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 290)" id="switch524">
+        <text systemLanguage="id" id="trsvg1136"><tspan id="trsvg450">Shauraseni</tspan></text>
+        <text id="trsvg1137-da" systemLanguage="da"><tspan id="trsvg451-da">shauraseni</tspan></text>
+        <text id="trsvg1137-ca" systemLanguage="ca"><tspan id="trsvg451-ca">Sauraseni</tspan></text>
+        <text id="trsvg1137"><tspan id="trsvg451">Shauraseni</tspan></text>
+      </switch>
+      <switch transform="translate(0 410)" font-weight="bold" letter-spacing="-.5" id="switch525">
+        <text systemLanguage="id" id="trsvg1138"><tspan id="trsvg452">INDIK TENGAH</tspan></text>
+        <text id="trsvg1139-da" systemLanguage="da"><tspan id="trsvg453-da">CENTRALINDISK</tspan></text>
+        <text id="trsvg1139"><tspan id="trsvg453">CENTRAL INDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" id="switch526">
+        <text systemLanguage="id" id="trsvg1140"><tspan id="trsvg454">Dekkan</tspan></text>
+        <text id="trsvg1141-da" systemLanguage="da"><tspan id="trsvg455-da">khariboli</tspan></text>
+        <text id="trsvg1141"><tspan id="trsvg455">Khariboli</tspan></text>
+      </switch>
+      <switch transform="translate(0 470)" id="switch527">
+        <text systemLanguage="id" id="trsvg1142"><tspan id="trsvg456">Hindi</tspan></text>
+        <text id="trsvg1143-da" systemLanguage="da"><tspan id="trsvg457-da">hindustani</tspan></text>
+        <text id="trsvg1143-ca" systemLanguage="ca"><tspan id="trsvg457-ca">Hindustànic</tspan></text>
+        <text id="trsvg1143" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg457" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Hindustani</tspan></text>
+      </switch>
+      <switch transform="translate(0 490)" id="switch528">
+        <text systemLanguage="id" id="trsvg1144"><tspan id="trsvg458">Dekkan</tspan></text>
+        <text id="trsvg1145-da" systemLanguage="da"><tspan id="trsvg459-da">dakhini</tspan></text>
+        <text id="trsvg1145"><tspan id="trsvg459">Dakhini</tspan></text>
+      </switch>
+      <switch transform="translate(0 750)" font-weight="bold" font-style="italic" id="switch529">
+        <text systemLanguage="id" id="trsvg1146"><tspan id="trsvg460">UTARA</tspan></text>
+        <text id="trsvg1147-da" systemLanguage="da"><tspan id="trsvg461-da">NORDLIG</tspan></text>
+        <text id="trsvg1147-ca" systemLanguage="ca"><tspan id="trsvg461-ca">NORD</tspan></text>
+        <text id="trsvg1147"><tspan id="trsvg461">NORTH</tspan></text>
+      </switch>
+      <switch transform="translate(0 790)" id="switch530">
+        <text systemLanguage="id" id="trsvg1148"><tspan id="trsvg462">Baktria</tspan></text>
+        <text id="trsvg1149-da" systemLanguage="da"><tspan id="trsvg463-da">baktrisk</tspan></text>
+        <text id="trsvg1149-ca" systemLanguage="ca"><tspan id="trsvg463-ca">Bactrià</tspan></text>
+        <text id="trsvg1149"><tspan id="trsvg463">Bactrian</tspan></text>
+      </switch>
+      <switch transform="translate(0 810)" id="switch531">
+        <text systemLanguage="id" id="trsvg1150"><tspan id="trsvg464">Khotan</tspan></text>
+        <text id="trsvg1151-da" systemLanguage="da"><tspan id="trsvg465-da">khotanesisk</tspan></text>
+        <text id="trsvg1151-ca" systemLanguage="ca"><tspan id="trsvg465-ca">Khotanès</tspan></text>
+        <text id="trsvg1151"><tspan id="trsvg465">Khotanese</tspan></text>
+      </switch>
+      <switch transform="translate(0 830)" id="switch532">
+        <text systemLanguage="id" id="trsvg1152"><tspan id="trsvg466">Khwarezmia</tspan></text>
+        <text id="trsvg1153-da" systemLanguage="da"><tspan id="trsvg467-da">khoresmisk</tspan></text>
+        <text id="trsvg1153-ca" systemLanguage="ca"><tspan id="trsvg467-ca">Coràsmic</tspan></text>
+        <text id="trsvg1153"><tspan id="trsvg467">Khwarezmian</tspan></text>
+      </switch>
+      <switch transform="translate(0 910)" id="switch533">
+        <text systemLanguage="id" id="trsvg1154"><tspan id="trsvg468">Alan</tspan></text>
+        <text id="trsvg1155-da" systemLanguage="da"><tspan id="trsvg469-da">alanisk</tspan></text>
+        <text id="trsvg1155"><tspan id="trsvg469">Alanic</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch534">
+        <text systemLanguage="id" id="trsvg1156"><tspan id="trsvg470">Wazir</tspan></text>
+        <text id="trsvg1157-da" systemLanguage="da"><tspan id="trsvg471-da">waziri</tspan></text>
+        <text id="trsvg1157"><tspan id="trsvg471">Waziri</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch535">
+        <text systemLanguage="id" id="trsvg1158"><tspan id="trsvg472">Hazara</tspan></text>
+        <text id="trsvg1159-da" systemLanguage="da"><tspan id="trsvg473-da">hazaragi</tspan></text>
+        <text id="trsvg1159"><tspan id="trsvg473">Hazaragi</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" id="switch536">
+        <text systemLanguage="id" id="trsvg1160"><tspan id="trsvg474">Persia Tajik</tspan></text>
+        <text id="trsvg1161-da" systemLanguage="da"><tspan id="trsvg475-da">tadsjikisk</tspan></text>
+        <text id="trsvg1161-ca" systemLanguage="ca"><tspan id="trsvg475-ca">Tadjik</tspan></text>
+        <text id="trsvg1161"><tspan id="trsvg475">Tajik</tspan></text>
+      </switch>
+      <switch transform="translate(0 1130)" font-weight="bold" id="switch537">
+        <text systemLanguage="id" id="trsvg1162"><tspan id="trsvg476">BALTO-SLAVIA</tspan></text>
+        <text id="trsvg1163-da" systemLanguage="da"><tspan id="trsvg477-da">BALTOSLAVISK</tspan></text>
+        <text id="trsvg1163-ca" systemLanguage="ca"><tspan id="trsvg477-ca">BALTOESLAU</tspan></text>
+        <text id="trsvg1163"><tspan id="trsvg477">BALTO-SLAVIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 1310)" font-weight="bold" font-style="italic" id="switch538">
+        <text systemLanguage="id" id="trsvg1164"><tspan id="trsvg478">BARAT</tspan></text>
+        <text id="trsvg1165-da" systemLanguage="da"><tspan id="trsvg479-da">VESTLIG</tspan></text>
+        <text id="trsvg1165-ca" systemLanguage="ca"><tspan id="trsvg479-ca">OEST</tspan></text>
+        <text id="trsvg1165"><tspan id="trsvg479">WEST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1350)" id="switch539">
+        <text systemLanguage="id" id="trsvg1166"><tspan id="trsvg480">Slavia Barat Kuno</tspan></text>
+        <text id="trsvg1167-da" systemLanguage="da"><tspan id="trsvg481-da">oldvestslavisk</tspan></text>
+        <text id="trsvg1167"><tspan id="trsvg481">Old West Slavic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1410)" id="switch540">
+        <text systemLanguage="id" id="trsvg1168"><tspan id="trsvg482">Ceska-Slowakia</tspan></text>
+        <text id="trsvg1169-da" systemLanguage="da"><tspan id="trsvg483-da">tjekkisk-slovakisk</tspan></text>
+        <text id="trsvg1169"><tspan id="trsvg483">Czech-Slovak</tspan></text>
+      </switch>
+      <switch transform="translate(0 1430)" id="switch541">
+        <text systemLanguage="id" id="trsvg1170"><tspan id="trsvg484">Knaan</tspan></text>
+        <text id="trsvg1171-da" systemLanguage="da"><tspan id="trsvg485-da">knaanisk</tspan></text>
+        <text id="trsvg1171"><tspan id="trsvg485">Knaanic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1450)" id="switch542">
+        <text systemLanguage="id" id="trsvg1172"><tspan id="trsvg486">Sorbia</tspan></text>
+        <text id="trsvg1173-da" systemLanguage="da"><tspan id="trsvg487-da">sorbisk</tspan></text>
+        <text id="trsvg1173-ca" systemLanguage="ca"><tspan id="trsvg487-ca">Sòrab</tspan></text>
+        <text id="trsvg1173"><tspan id="trsvg487">Sorbian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch543">
+        <text systemLanguage="id" id="trsvg1174"><tspan id="trsvg488">Kashubian</tspan></text>
+        <text id="trsvg1175-da" systemLanguage="da"><tspan id="trsvg489-da">kasjubisk</tspan></text>
+        <text id="trsvg1175"><tspan id="trsvg489">Kashubian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column11">
+    <g stroke="#111" id="g564">
+      <rect x="1075" y="290" fill="#fff" width="99" height="16" id="rect543"/>
+      <rect x="1075" y="330" fill="#bfb" width="99" height="16" id="rect544"/>
+      <rect x="1075" y="350" fill="#bfb" width="99" height="16" id="rect545"/>
+      <rect x="1075" y="370" fill="#bfb" width="99" height="16" id="rect546"/>
+      <rect x="1075" y="450" fill="#fcc" width="99" height="16" id="rect547"/>
+      <rect x="1075" y="470" fill="#bfb" width="99" height="16" id="rect548"/>
+      <rect x="1075" y="590" fill="#bfb" width="99" height="16" id="rect549"/>
+      <rect x="1075" y="670" fill="#fff" width="99" height="16" id="rect550"/>
+      <rect x="1075" y="710" fill="#fcc" width="99" height="16" id="rect551"/>
+      <rect x="1075" y="790" fill="#fcc" width="99" height="16" id="rect552"/>
+      <rect x="1075" y="830" fill="#bfb" width="99" height="16" id="rect553"/>
+      <rect x="1075" y="910" fill="#fcc" width="99" height="16" id="rect554"/>
+      <rect x="1075" y="950" fill="#bfb" width="99" height="16" id="rect555"/>
+      <rect x="1075" y="970" fill="#bfb" width="99" height="16" id="rect556"/>
+      <rect x="1075" y="990" fill="#bfb" width="99" height="16" id="rect557" style="fill:#7fff7f;fill-opacity:1"/>
+      <rect x="1075" y="1010" fill="#bfb" width="99" height="16" id="rect558"/>
+      <rect x="1075" y="1170" fill="#fff" width="99" height="16" id="rect559"/>
+      <rect x="1075" y="1310" fill="#fff" width="99" height="16" id="rect560"/>
+      <rect x="1075" y="1350" fill="#fff" width="99" height="16" id="rect561"/>
+      <rect x="1075" y="1390" fill="#bfb" width="99" height="16" id="rect562"/>
+      <rect x="1075" y="1450" fill="#bfb" width="99" height="16" id="rect563"/>
+      <rect x="1075" y="1470" fill="#bfb" width="99" height="16" id="rect564"/>
+    </g>
+    <g transform="translate(1124.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g585">
+      <switch transform="translate(0 290)" font-weight="bold" id="switch564">
+        <text systemLanguage="id" id="trsvg1176"><tspan id="trsvg490">DARDIK</tspan></text>
+        <text id="trsvg1177-da" systemLanguage="da"><tspan id="trsvg491-da">DARDISK</tspan></text>
+        <text id="trsvg1177-ca" systemLanguage="ca"><tspan id="trsvg491-ca">DÀRDIC</tspan></text>
+        <text id="trsvg1177"><tspan id="trsvg491">DARDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" id="switch565">
+        <text systemLanguage="id" id="trsvg1178"><tspan id="trsvg492">Kashmir</tspan></text>
+        <text id="trsvg1179-da" systemLanguage="da"><tspan id="trsvg493-da">kashmirisk</tspan></text>
+        <text id="trsvg1179-ca" systemLanguage="ca"><tspan id="trsvg493-ca">Caixmiri</tspan></text>
+        <text id="trsvg1179"><tspan id="trsvg493">Kashmiri</tspan></text>
+      </switch>
+      <switch transform="translate(0 350)" id="switch566">
+        <text systemLanguage="id" id="trsvg1180"><tspan id="trsvg494">Pashayi</tspan></text>
+        <text id="trsvg1181-da" systemLanguage="da"><tspan id="trsvg495-da">pashayi</tspan></text>
+        <text id="trsvg1181"><tspan id="trsvg495">Pashayi</tspan></text>
+      </switch>
+      <switch transform="translate(0 370)" id="switch567">
+        <text systemLanguage="id" id="trsvg1182"><tspan id="trsvg496">Shina</tspan></text>
+        <text id="trsvg1183-da" systemLanguage="da"><tspan id="trsvg497-da">shina</tspan></text>
+        <text id="trsvg1183"><tspan id="trsvg497">Shina</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" id="switch568">
+        <text systemLanguage="id" id="trsvg1184"><tspan id="trsvg498">Rekhta</tspan></text>
+        <text id="trsvg1185-da" systemLanguage="da"><tspan id="trsvg499-da">rekhta</tspan></text>
+        <text id="trsvg1185"><tspan id="trsvg499">Rekhta</tspan></text>
+      </switch>
+      <switch transform="translate(0 470)" id="switch569">
+        <text systemLanguage="id" id="trsvg1186"><tspan id="trsvg500">Haryanvi</tspan></text>
+        <text id="trsvg1187-da" systemLanguage="da"><tspan id="trsvg501-da">haryanvi</tspan></text>
+        <text id="trsvg1187"><tspan id="trsvg501">Haryanvi</tspan></text>
+      </switch>
+      <switch transform="translate(0 590)" id="switch570">
+        <text systemLanguage="id" id="trsvg1188"><tspan id="trsvg502">Dogri</tspan></text>
+        <text id="trsvg1189-da" systemLanguage="da"><tspan id="trsvg503-da">dogri</tspan></text>
+        <text id="trsvg1189-ca" systemLanguage="ca"><tspan id="trsvg503-ca">Dogri</tspan></text>
+        <text id="trsvg1189"><tspan id="trsvg503">Dogri</tspan></text>
+      </switch>
+      <switch transform="translate(0 670)" font-weight="bold" id="switch571">
+        <text systemLanguage="id" id="trsvg1190"><tspan id="trsvg504">IRAN</tspan></text>
+        <text id="trsvg1191-da" systemLanguage="da"><tspan id="trsvg505-da">IRANSK</tspan></text>
+        <text id="trsvg1191-ca" systemLanguage="ca"><tspan id="trsvg505-ca">IRÀNIC</tspan></text>
+        <text id="trsvg1191"><tspan id="trsvg505">IRANIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 710)" id="switch572">
+        <text systemLanguage="id" id="trsvg1192"><tspan id="trsvg506">Avesta</tspan></text>
+        <text id="trsvg1193-da" systemLanguage="da"><tspan id="trsvg507-da">avestisk</tspan></text>
+        <text id="trsvg1193-ca" systemLanguage="ca"><tspan id="trsvg507-ca">Avèstic</tspan></text>
+        <text id="trsvg1193"><tspan id="trsvg507">Avestan</tspan></text>
+      </switch>
+      <switch transform="translate(0 790)" id="switch573">
+        <text systemLanguage="id" id="trsvg1194"><tspan id="trsvg508">Sogdi</tspan></text>
+        <text id="trsvg1195-da" systemLanguage="da"><tspan id="trsvg509-da">sogdisk</tspan></text>
+        <text id="trsvg1195-ca" systemLanguage="ca"><tspan id="trsvg509-ca">Sogdià</tspan></text>
+        <text id="trsvg1195"><tspan id="trsvg509">Sogdian</tspan></text>
+      </switch>
+      <switch transform="translate(0 830)" id="switch574">
+        <text systemLanguage="id" id="trsvg1196"><tspan id="trsvg510">Yaghnobi</tspan></text>
+        <text id="trsvg1197-da" systemLanguage="da"><tspan id="trsvg511-da">yaghnobi</tspan></text>
+        <text id="trsvg1197-ca" systemLanguage="ca"><tspan id="trsvg511-ca">Yagnobi</tspan></text>
+        <text id="trsvg1197"><tspan id="trsvg511">Yaghnobi</tspan></text>
+      </switch>
+      <switch transform="translate(0 910)" id="switch575">
+        <text systemLanguage="id" id="trsvg1198"><tspan id="trsvg512">Persia Pertengahan</tspan></text>
+        <text id="trsvg1199-da" systemLanguage="da"><tspan id="trsvg513-da">middelpersisk</tspan></text>
+        <text id="trsvg1199-ca" systemLanguage="ca"><tspan id="trsvg513-ca">Persa Mitjà</tspan></text>
+        <text id="trsvg1199"><tspan id="trsvg513">Middle Persian</tspan></text>
+      </switch>
+      <switch transform="translate(0 950)" id="switch576">
+        <text systemLanguage="id" id="trsvg1200"><tspan id="trsvg514">Bukhori</tspan></text>
+        <text id="trsvg1201-da" systemLanguage="da"><tspan id="trsvg515-da">bukhori</tspan></text>
+        <text id="trsvg1201-ca" systemLanguage="ca"><tspan id="trsvg515-ca">Bukharic</tspan></text>
+        <text id="trsvg1201"><tspan id="trsvg515">Bukhori</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch577">
+        <text systemLanguage="id" id="trsvg1202"><tspan id="trsvg516">Persia Dari</tspan></text>
+        <text id="trsvg1203-da" systemLanguage="da"><tspan id="trsvg517-da">dari</tspan></text>
+        <text id="trsvg1203-ca" systemLanguage="ca"><tspan id="trsvg517-ca">Darí</tspan></text>
+        <text id="trsvg1203"><tspan id="trsvg517">Dari</tspan></text>
+      </switch>
+      <switch transform="translate(0 990)" id="switch578">
+        <text systemLanguage="id" id="trsvg1204"><tspan id="trsvg518">Persia Barat</tspan></text>
+        <text id="trsvg1205-da" systemLanguage="da"><tspan id="trsvg519-da">persisk</tspan></text>
+        <text id="trsvg1205-ca" systemLanguage="ca"><tspan id="trsvg519-ca">Persa</tspan></text>
+        <text id="trsvg1205" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg519" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Persian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch579">
+        <text systemLanguage="id" id="trsvg1206"><tspan id="trsvg520">Tat</tspan></text>
+        <text id="trsvg1207-da" systemLanguage="da"><tspan id="trsvg521-da">tat</tspan></text>
+        <text id="trsvg1207-ca" systemLanguage="ca"><tspan id="trsvg521-ca">Tati</tspan></text>
+        <text id="trsvg1207"><tspan id="trsvg521">Tat</tspan></text>
+      </switch>
+      <switch transform="translate(0 1170)" font-weight="bold" id="switch580">
+        <text systemLanguage="id" id="trsvg1208"><tspan id="trsvg522">SLAVIA</tspan></text>
+        <text id="trsvg1209-da" systemLanguage="da"><tspan id="trsvg523-da">SLAVISK</tspan></text>
+        <text id="trsvg1209-ca" systemLanguage="ca"><tspan id="trsvg523-ca">ESLAU</tspan></text>
+        <text id="trsvg1209"><tspan id="trsvg523">SLAVIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 1310)" font-weight="bold" font-style="italic" id="switch581">
+        <text systemLanguage="id" id="trsvg1210"><tspan id="trsvg524">SELATAN</tspan></text>
+        <text id="trsvg1211-da" systemLanguage="da"><tspan id="trsvg525-da">SYDLIG</tspan></text>
+        <text id="trsvg1211-ca" systemLanguage="ca"><tspan id="trsvg525-ca">SUD</tspan></text>
+        <text id="trsvg1211"><tspan id="trsvg525">SOUTH</tspan></text>
+      </switch>
+      <switch transform="translate(0 1350)" font-weight="bold" font-style="italic" id="switch582">
+        <text systemLanguage="id" id="trsvg1212"><tspan id="trsvg526">BARAT</tspan></text>
+        <text id="trsvg1213-da" systemLanguage="da"><tspan id="trsvg527-da">VESTLIG</tspan></text>
+        <text id="trsvg1213-ca" systemLanguage="ca"><tspan id="trsvg527-ca">OCCIDENTAL</tspan></text>
+        <text id="trsvg1213"><tspan id="trsvg527">WESTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1390)" id="switch583">
+        <text systemLanguage="id" id="trsvg1214"><tspan id="trsvg528">Slovenia</tspan></text>
+        <text id="trsvg1215-da" systemLanguage="da"><tspan id="trsvg529-da">slovensk</tspan></text>
+        <text id="trsvg1215-ca" systemLanguage="ca"><tspan id="trsvg529-ca">Eslovè</tspan></text>
+        <text id="trsvg1215"><tspan id="trsvg529">Slovene</tspan></text>
+      </switch>
+      <switch transform="translate(0 1450)" id="switch584">
+        <text systemLanguage="id" id="trsvg1216"><tspan id="trsvg530">Ceska</tspan></text>
+        <text id="trsvg1217-da" systemLanguage="da"><tspan id="trsvg531-da">tjekkisk</tspan></text>
+        <text id="trsvg1217-ca" systemLanguage="ca"><tspan id="trsvg531-ca">Txec</tspan></text>
+        <text id="trsvg1217"><tspan id="trsvg531">Czech</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch585">
+        <text systemLanguage="id" id="trsvg1218"><tspan id="trsvg532">Slowakia</tspan></text>
+        <text id="trsvg1219-da" systemLanguage="da"><tspan id="trsvg533-da">slovakisk</tspan></text>
+        <text id="trsvg1219-ca" systemLanguage="ca"><tspan id="trsvg533-ca">Eslovac</tspan></text>
+        <text id="trsvg1219"><tspan id="trsvg533">Slovak</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column12">
+    <g stroke="#111" id="g604">
+      <rect x="1180" y="370" fill="#bfb" width="99" height="16" id="rect585"/>
+      <rect x="1180" y="390" fill="#bfb" width="99" height="16" id="rect586" style="fill:#7dff7d;fill-opacity:1"/>
+      <rect x="1180" y="410" fill="#bfb" width="99" height="16" id="rect587"/>
+      <rect x="1180" y="430" fill="#bfb" width="99" height="16" id="rect588"/>
+      <rect x="1180" y="450" fill="#bfb" width="99" height="16" id="rect589"/>
+      <rect x="1180" y="510" fill="#fff" width="99" height="16" id="rect590"/>
+      <rect x="1180" y="550" fill="#fff" width="99" height="16" id="rect591"/>
+      <rect x="1180" y="590" fill="#bfb" width="99" height="16" id="rect592"/>
+      <rect x="1180" y="610" fill="#bfb" width="99" height="16" id="rect593"/>
+      <rect x="1180" y="750" fill="#fff" width="99" height="16" id="rect594"/>
+      <rect x="1180" y="870" fill="#fcc" width="99" height="16" id="rect595"/>
+      <rect x="1180" y="910" fill="#bfb" width="99" height="16" id="rect596"/>
+      <rect x="1180" y="950" fill="#bfb" width="99" height="16" id="rect597"/>
+      <rect x="1180" y="970" fill="#bfb" width="99" height="16" id="rect598"/>
+      <rect x="1180" y="1050" fill="#bfb" width="99" height="16" id="rect599"/>
+      <rect x="1180" y="1250" fill="#fcc" width="99" height="16" id="rect600"/>
+      <rect x="1180" y="1430" fill="#bfb" width="99" height="16" id="rect601" style="fill:#7fff7f;fill-opacity:1"/>
+      <rect x="1180" y="1470" fill="#bfb" width="99" height="16" id="rect602"/>
+      <rect x="1180" y="1490" fill="#bfb" width="99" height="16" id="rect603"/>
+      <rect x="1180" y="1510" fill="#bfb" width="99" height="16" id="rect604"/>
+    </g>
+    <g transform="translate(1229.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g623">
+      <switch transform="translate(0 370)" id="switch604">
+        <text systemLanguage="id" id="trsvg1220"><tspan id="trsvg534">Assam</tspan></text>
+        <text id="trsvg1221-da" systemLanguage="da"><tspan id="trsvg535-da">assamesisk</tspan></text>
+        <text id="trsvg1221-ca" systemLanguage="ca"><tspan id="trsvg535-ca">Assamès</tspan></text>
+        <text id="trsvg1221"><tspan id="trsvg535">Assamese</tspan></text>
+      </switch>
+      <switch transform="translate(0 390)" id="switch605">
+        <text systemLanguage="id" id="trsvg1222"><tspan id="trsvg536">Bengali</tspan></text>
+        <text id="trsvg1223-da" systemLanguage="da"><tspan id="trsvg537-da">bengali</tspan></text>
+        <text id="trsvg1223-ca" systemLanguage="ca"><tspan id="trsvg537-ca">Bengalí</tspan></text>
+        <text id="trsvg1223" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg537" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Bengali</tspan></text>
+      </switch>
+      <switch transform="translate(0 410)" id="switch606">
+        <text systemLanguage="id" id="trsvg1224"><tspan id="trsvg538">Chittagonia</tspan></text>
+        <text id="trsvg1225-da" systemLanguage="da"><tspan id="trsvg539-da">chatgaiya</tspan></text>
+        <text id="trsvg1225-ca" systemLanguage="ca"><tspan id="trsvg539-ca">Chittagonià</tspan></text>
+        <text id="trsvg1225"><tspan id="trsvg539">Chittagonian</tspan></text>
+      </switch>
+      <switch transform="translate(0 430)" id="switch607">
+        <text systemLanguage="id" id="trsvg1226"><tspan id="trsvg540">Oriya</tspan></text>
+        <text id="trsvg1227-da" systemLanguage="da"><tspan id="trsvg541-da">orija</tspan></text>
+        <text id="trsvg1227-ca" systemLanguage="ca"><tspan id="trsvg541-ca">Oriya</tspan></text>
+        <text id="trsvg1227"><tspan id="trsvg541">Oriya</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" id="switch608">
+        <text systemLanguage="id" id="trsvg1228"><tspan id="trsvg542">Halbi</tspan></text>
+        <text id="trsvg1229-da" systemLanguage="da"><tspan id="trsvg543-da">halbi</tspan></text>
+        <text id="trsvg1229-ca" systemLanguage="ca"><tspan id="trsvg543-ca">Halbi</tspan></text>
+        <text id="trsvg1229"><tspan id="trsvg543">Halbi</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" font-weight="bold" id="switch609">
+        <text systemLanguage="id" id="trsvg1230"><tspan id="trsvg544">PAHARI</tspan></text>
+        <text id="trsvg1231-da" systemLanguage="da"><tspan id="trsvg545-da">PAHARI</tspan></text>
+        <text id="trsvg1231-ca" systemLanguage="ca"><tspan id="trsvg545-ca">PAHARI</tspan></text>
+        <text id="trsvg1231"><tspan id="trsvg545">PAHARI</tspan></text>
+      </switch>
+      <switch transform="translate(0 550)" font-weight="bold" font-style="italic" id="switch610">
+        <text systemLanguage="id" id="trsvg1232"><tspan id="trsvg546">INDIK KEPULAUAN</tspan></text>
+        <text id="trsvg1233-da" systemLanguage="da"><tspan id="trsvg547-da">VESTLIG</tspan></text>
+        <text id="trsvg1233-ca" systemLanguage="ca"><tspan id="trsvg547-ca">OCCIDENTAL</tspan></text>
+        <text id="trsvg1233"><tspan id="trsvg547">WESTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 590)" id="switch611">
+        <text systemLanguage="id" id="trsvg1234"><tspan id="trsvg548">Garhwali</tspan></text>
+        <text id="trsvg1235-da" systemLanguage="da"><tspan id="trsvg549-da">garhwali</tspan></text>
+        <text id="trsvg1235"><tspan id="trsvg549">Garhwali</tspan></text>
+      </switch>
+      <switch transform="translate(0 610)" id="switch612">
+        <text systemLanguage="id" id="trsvg1236"><tspan id="trsvg550">Kumaon</tspan></text>
+        <text id="trsvg1237-da" systemLanguage="da"><tspan id="trsvg551-da">kumaoni</tspan></text>
+        <text id="trsvg1237"><tspan id="trsvg551">Kumaoni</tspan></text>
+      </switch>
+      <switch transform="translate(0 750)" font-weight="bold" font-style="italic" id="switch613">
+        <text systemLanguage="id" id="trsvg1238"><tspan id="trsvg552">SELATAN</tspan></text>
+        <text id="trsvg1239-da" systemLanguage="da"><tspan id="trsvg553-da">SYDLIGE</tspan></text>
+        <text id="trsvg1239-ca" systemLanguage="ca"><tspan id="trsvg553-ca">SUD</tspan></text>
+        <text id="trsvg1239"><tspan id="trsvg553">SOUTH</tspan></text>
+      </switch>
+      <switch transform="translate(0 870)" id="switch614">
+        <text systemLanguage="id" id="trsvg1240"><tspan id="trsvg554">Persia Kuno</tspan></text>
+        <text id="trsvg1241-da" systemLanguage="da"><tspan id="trsvg555-da">oldpersisk</tspan></text>
+        <text id="trsvg1241-ca" systemLanguage="ca"><tspan id="trsvg555-ca">Persa Antic</tspan></text>
+        <text id="trsvg1241"><tspan id="trsvg555">Old Persian</tspan></text>
+      </switch>
+      <switch transform="translate(0 910)" id="switch615">
+        <text systemLanguage="id" id="trsvg1242"><tspan id="trsvg556">Luri</tspan></text>
+        <text id="trsvg1243-da" systemLanguage="da"><tspan id="trsvg557-da">lurisk</tspan></text>
+        <text id="trsvg1243"><tspan id="trsvg557">Lurish</tspan></text>
+      </switch>
+      <switch transform="translate(0 950)" id="switch616">
+        <text systemLanguage="id" id="trsvg1244"><tspan id="trsvg558">Bakhtiari</tspan></text>
+        <text id="trsvg1245-da" systemLanguage="da"><tspan id="trsvg559-da">bakhtiari</tspan></text>
+        <text id="trsvg1245"><tspan id="trsvg559">Bakhtiari</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch617">
+        <text systemLanguage="id" id="trsvg1246"><tspan id="trsvg560">Kumzari</tspan></text>
+        <text id="trsvg1247-da" systemLanguage="da"><tspan id="trsvg561-da">kumzari</tspan></text>
+        <text id="trsvg1247-ca" systemLanguage="ca"><tspan id="trsvg561-ca">Kumzari</tspan></text>
+        <text id="trsvg1247"><tspan id="trsvg561">Kumzari</tspan></text>
+      </switch>
+      <switch transform="translate(0 1050)" id="switch618">
+        <text systemLanguage="id" id="trsvg1248"><tspan id="trsvg562">Juhuru</tspan></text>
+        <text id="trsvg1249-da" systemLanguage="da"><tspan id="trsvg563-da">juhuri</tspan></text>
+        <text id="trsvg1249"><tspan id="trsvg563">Juhuru</tspan></text>
+      </switch>
+      <switch transform="translate(0 1250)" id="switch619">
+        <text systemLanguage="id" id="trsvg1250"><tspan id="trsvg564">Novgorod Kuno</tspan></text>
+        <text id="trsvg1251-da" systemLanguage="da"><tspan id="trsvg565-da">gammelnovgorodsk</tspan></text>
+        <text id="trsvg1251"><tspan id="trsvg565">Old Novgorod</tspan></text>
+      </switch>
+      <switch transform="translate(0 1430)" id="switch620">
+        <text systemLanguage="id" id="trsvg1252"><tspan id="trsvg566">Serbo-Kroasia</tspan></text>
+        <text id="trsvg1253-da" systemLanguage="da"><tspan id="trsvg567-da">SERBOKROATISK</tspan></text>
+        <text id="trsvg1253-ca" systemLanguage="ca"><tspan id="trsvg567-ca">Serbocroat</tspan></text>
+        <text id="trsvg1253" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg567" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Serbo-Croatian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch621">
+        <text systemLanguage="id" id="trsvg1254"><tspan id="trsvg568">Bosnia</tspan></text>
+        <text id="trsvg1255-da" systemLanguage="da"><tspan id="trsvg569-da">bosnisk</tspan></text>
+        <text id="trsvg1255-ca" systemLanguage="ca"><tspan id="trsvg569-ca">Bosnià</tspan></text>
+        <text id="trsvg1255"><tspan id="trsvg569">Bosnian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch622">
+        <text systemLanguage="id" id="trsvg1256"><tspan id="trsvg570">Kroasia</tspan></text>
+        <text id="trsvg1257-da" systemLanguage="da"><tspan id="trsvg571-da">kroatisk</tspan></text>
+        <text id="trsvg1257-ca" systemLanguage="ca"><tspan id="trsvg571-ca">Croat</tspan></text>
+        <text id="trsvg1257"><tspan id="trsvg571">Croatian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1510)" id="switch623">
+        <text systemLanguage="id" id="trsvg1258"><tspan id="trsvg572">Serbia</tspan></text>
+        <text id="trsvg1259-da" systemLanguage="da"><tspan id="trsvg573-da">serbisk</tspan></text>
+        <text id="trsvg1259-ca" systemLanguage="ca"><tspan id="trsvg573-ca">Serbi</tspan></text>
+        <text id="trsvg1259"><tspan id="trsvg573">Serbian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column13">
+    <g stroke="#111" id="g646">
+      <rect x="1285" y="290" fill="#fcc" width="99" height="16" id="rect623"/>
+      <rect x="1285" y="330" fill="#fff" width="99" height="16" id="rect624"/>
+      <rect x="1285" y="370" fill="#fff" width="99" height="16" id="rect625"/>
+      <rect x="1285" y="410" fill="#bfb" width="99" height="16" id="rect626"/>
+      <rect x="1285" y="430" fill="#bfb" width="99" height="16" id="rect627"/>
+      <rect x="1285" y="450" fill="#bfb" width="99" height="16" id="rect628"/>
+      <rect x="1285" y="550" fill="#fff" width="99" height="16" id="rect629"/>
+      <rect x="1285" y="590" fill="#bfb" width="99" height="16" id="rect630"/>
+      <rect x="1285" y="610" fill="#bfb" width="99" height="16" id="rect631"/>
+      <rect x="1285" y="710" fill="#fff" width="99" height="16" id="rect632"/>
+      <rect x="1285" y="790" fill="#fff" width="99" height="16" id="rect633"/>
+      <rect x="1285" y="830" fill="#bfb" width="99" height="16" id="rect634"/>
+      <rect x="1285" y="850" fill="#bfb" width="99" height="16" id="rect635"/>
+      <rect x="1285" y="870" fill="#bfb" width="99" height="16" id="rect636"/>
+      <rect x="1285" y="890" fill="#fcc" width="99" height="16" id="rect637"/>
+      <rect x="1285" y="910" fill="#bfb" width="99" height="16" id="rect638"/>
+      <rect x="1285" y="970" fill="#fcc" width="99" height="16" id="rect639"/>
+      <rect x="1285" y="1010" fill="#bfb" width="99" height="16" id="rect640"/>
+      <rect x="1285" y="1030" fill="#bfb" width="99" height="16" id="rect641"/>
+      <rect x="1285" y="1210" fill="#fff" width="99" height="16" id="rect642"/>
+      <rect x="1285" y="1250" fill="#fcc" width="99" height="16" id="rect643"/>
+      <rect x="1285" y="1290" fill="#bfb" width="99" height="16" id="rect644" style="fill:#80ff80;fill-opacity:1"/>
+      <rect x="1285" y="1370" fill="#fff" width="99" height="16" id="rect645"/>
+      <rect x="1270" y="1410" fill="#fcc" width="129" height="16" id="rect646"/>
+    </g>
+    <g transform="translate(1334.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g669">
+      <switch transform="translate(0 290)" id="switch646">
+        <text systemLanguage="id" id="trsvg1260"><tspan id="trsvg574">Magahi</tspan></text>
+        <text id="trsvg1261-da" systemLanguage="da"><tspan id="trsvg575-da">magadhi</tspan></text>
+        <text id="trsvg1261-ca" systemLanguage="ca"><tspan id="trsvg575-ca">Magadhi</tspan></text>
+        <text id="trsvg1261"><tspan id="trsvg575">Magadhi</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" font-weight="bold" id="switch647">
+        <text systemLanguage="id" id="trsvg1262"><tspan id="trsvg576">DARDIK</tspan></text>
+        <text id="trsvg1263-da" systemLanguage="da"><tspan id="trsvg577-da">ØSTINDISK</tspan></text>
+        <text id="trsvg1263"><tspan id="trsvg577">EAST'N INDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 370)" font-weight="bold" id="switch648">
+        <text systemLanguage="id" id="trsvg1264"><tspan id="trsvg578">BIHARI</tspan></text>
+        <text id="trsvg1265-da" systemLanguage="da"><tspan id="trsvg579-da">BIHARI</tspan></text>
+        <text id="trsvg1265-ca" systemLanguage="ca"><tspan id="trsvg579-ca">BIHARI</tspan></text>
+        <text id="trsvg1265"><tspan id="trsvg579">BIHARI</tspan></text>
+      </switch>
+      <switch transform="translate(0 410)" id="switch649">
+        <text systemLanguage="id" id="trsvg1266"><tspan id="trsvg580">Bhojpuri</tspan></text>
+        <text id="trsvg1267-da" systemLanguage="da"><tspan id="trsvg581-da">bhojpuri</tspan></text>
+        <text id="trsvg1267-ca" systemLanguage="ca"><tspan id="trsvg581-ca">Bhojpuri</tspan></text>
+        <text id="trsvg1267"><tspan id="trsvg581">Bhojpuri</tspan></text>
+      </switch>
+      <switch transform="translate(0 430)" id="switch650">
+        <text systemLanguage="id" id="trsvg1268"><tspan id="trsvg582">Magahi</tspan></text>
+        <text id="trsvg1269-da" systemLanguage="da"><tspan id="trsvg583-da">magahi</tspan></text>
+        <text id="trsvg1269-ca" systemLanguage="ca"><tspan id="trsvg583-ca">Magahi</tspan></text>
+        <text id="trsvg1269"><tspan id="trsvg583">Magahi</tspan></text>
+      </switch>
+      <switch transform="translate(0 450)" id="switch651">
+        <text systemLanguage="id" id="trsvg1270"><tspan id="trsvg584">Maithili</tspan></text>
+        <text id="trsvg1271-da" systemLanguage="da"><tspan id="trsvg585-da">maithili</tspan></text>
+        <text id="trsvg1271-ca" systemLanguage="ca"><tspan id="trsvg585-ca">Maithili</tspan></text>
+        <text id="trsvg1271"><tspan id="trsvg585">Maithili</tspan></text>
+      </switch>
+      <switch transform="translate(0 550)" font-weight="bold" font-style="italic" id="switch652">
+        <text systemLanguage="id" id="trsvg1272"><tspan id="trsvg586">INDIK KEPULAUAN</tspan></text>
+        <text id="trsvg1273-da" systemLanguage="da"><tspan id="trsvg587-da">ØSTLIG</tspan></text>
+        <text id="trsvg1273-ca" systemLanguage="ca"><tspan id="trsvg587-ca">ORIENTAL</tspan></text>
+        <text id="trsvg1273"><tspan id="trsvg587">EASTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 590)" id="switch653">
+        <text systemLanguage="id" id="trsvg1274"><tspan id="trsvg588">Nepali</tspan></text>
+        <text id="trsvg1275-da" systemLanguage="da"><tspan id="trsvg589-da">nepalesisk</tspan></text>
+        <text id="trsvg1275-ca" systemLanguage="ca"><tspan id="trsvg589-ca">Nepalès</tspan></text>
+        <text id="trsvg1275"><tspan id="trsvg589">Nepali</tspan></text>
+      </switch>
+      <switch transform="translate(0 610)" id="switch654">
+        <text systemLanguage="id" id="trsvg1276"><tspan id="trsvg590">Palpa</tspan></text>
+        <text id="trsvg1277-da" systemLanguage="da"><tspan id="trsvg591-da">palpa</tspan></text>
+        <text id="trsvg1277-ca" systemLanguage="ca"><tspan id="trsvg591-ca">Palpa</tspan></text>
+        <text id="trsvg1277"><tspan id="trsvg591">Palpa</tspan></text>
+      </switch>
+      <switch transform="translate(0 710)" font-weight="bold" font-style="italic" id="switch655">
+        <text systemLanguage="id" id="trsvg1278"><tspan id="trsvg592">BARAT</tspan></text>
+        <text id="trsvg1279-da" systemLanguage="da"><tspan id="trsvg593-da">VESTLIG</tspan></text>
+        <text id="trsvg1279-ca" systemLanguage="ca"><tspan id="trsvg593-ca">OCCIDENTAL</tspan></text>
+        <text id="trsvg1279"><tspan id="trsvg593">WESTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 790)" font-weight="bold" id="switch656">
+        <text systemLanguage="id" id="trsvg1280"><tspan id="trsvg594">KASPIA</tspan></text>
+        <text id="trsvg1281-da" systemLanguage="da"><tspan id="trsvg595-da">KASPISK</tspan></text>
+        <text id="trsvg1281-ca" systemLanguage="ca"><tspan id="trsvg595-ca">CASPIÀ</tspan></text>
+        <text id="trsvg1281"><tspan id="trsvg595">CASPIAN</tspan></text>
+      </switch>
+      <switch transform="translate(0 830)" id="switch657">
+        <text systemLanguage="id" id="trsvg1282"><tspan id="trsvg596">Daylam</tspan></text>
+        <text id="trsvg1283-da" systemLanguage="da"><tspan id="trsvg597-da">deilami</tspan></text>
+        <text id="trsvg1283"><tspan id="trsvg597">Deilami</tspan></text>
+      </switch>
+      <switch transform="translate(0 850)" id="switch658">
+        <text systemLanguage="id" id="trsvg1284"><tspan id="trsvg598">Gilaki</tspan></text>
+        <text id="trsvg1285-da" systemLanguage="da"><tspan id="trsvg599-da">gilaki</tspan></text>
+        <text id="trsvg1285-ca" systemLanguage="ca"><tspan id="trsvg599-ca">Gilaki</tspan></text>
+        <text id="trsvg1285"><tspan id="trsvg599">Gilaki</tspan></text>
+      </switch>
+      <switch transform="translate(0 870)" id="switch659">
+        <text systemLanguage="id" id="trsvg1286"><tspan id="trsvg600">Mazandaran</tspan></text>
+        <text id="trsvg1287-da" systemLanguage="da"><tspan id="trsvg601-da">mazanderani</tspan></text>
+        <text id="trsvg1287-ca" systemLanguage="ca"><tspan id="trsvg601-ca">Mazanderani</tspan></text>
+        <text id="trsvg1287"><tspan id="trsvg601">Mazanderani</tspan></text>
+      </switch>
+      <switch transform="translate(0 890)" id="switch660">
+        <text systemLanguage="id" id="trsvg1288"><tspan id="trsvg602">Shahmirzad</tspan></text>
+        <text id="trsvg1289-da" systemLanguage="da"><tspan id="trsvg603-da">shahmirzadi</tspan></text>
+        <text id="trsvg1289"><tspan id="trsvg603">Shahmirzadi</tspan></text>
+      </switch>
+      <switch transform="translate(0 910)" id="switch661">
+        <text systemLanguage="id" id="trsvg1290"><tspan id="trsvg604">Talysh</tspan></text>
+        <text id="trsvg1291-da" systemLanguage="da"><tspan id="trsvg605-da">talisk</tspan></text>
+        <text id="trsvg1291-ca" systemLanguage="ca"><tspan id="trsvg605-ca">Talixi</tspan></text>
+        <text id="trsvg1291"><tspan id="trsvg605">Talysh</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch662">
+        <text systemLanguage="id" id="trsvg1292"><tspan id="trsvg606">Partia</tspan></text>
+        <text id="trsvg1293-da" systemLanguage="da"><tspan id="trsvg607-da">pahlavanik</tspan></text>
+        <text id="trsvg1293-ca" systemLanguage="ca"><tspan id="trsvg607-ca">Pahlavi</tspan></text>
+        <text id="trsvg1293"><tspan id="trsvg607">Parthian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch663">
+        <text systemLanguage="id" id="trsvg1294"><tspan id="trsvg608">Baluchi</tspan></text>
+        <text id="trsvg1295-da" systemLanguage="da"><tspan id="trsvg609-da">balochi</tspan></text>
+        <text id="trsvg1295-ca" systemLanguage="ca"><tspan id="trsvg609-ca">Balutxi</tspan></text>
+        <text id="trsvg1295"><tspan id="trsvg609">Balochi</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch664">
+        <text systemLanguage="id" id="trsvg1296"><tspan id="trsvg610">Kurdi</tspan></text>
+        <text id="trsvg1297-da" systemLanguage="da"><tspan id="trsvg611-da">kurdisk</tspan></text>
+        <text id="trsvg1297-ca" systemLanguage="ca"><tspan id="trsvg611-ca">Kurd</tspan></text>
+        <text id="trsvg1297"><tspan id="trsvg611">Kurdish</tspan></text>
+      </switch>
+      <switch transform="translate(0 1210)" font-weight="bold" font-style="italic" id="switch665">
+        <text systemLanguage="id" id="trsvg1298"><tspan id="trsvg612">TIMUR</tspan></text>
+        <text id="trsvg1299-da" systemLanguage="da"><tspan id="trsvg613-da">ØSTLIG</tspan></text>
+        <text id="trsvg1299-ca" systemLanguage="ca"><tspan id="trsvg613-ca">EST</tspan></text>
+        <text id="trsvg1299"><tspan id="trsvg613">EAST</tspan></text>
+      </switch>
+      <switch transform="translate(0 1250)" id="switch666">
+        <text systemLanguage="id" id="trsvg1300"><tspan id="trsvg614">Slavia Timur Kuno</tspan></text>
+        <text id="trsvg1301-da" systemLanguage="da"><tspan id="trsvg615-da">gammelrussisk</tspan></text>
+        <text id="trsvg1301-ca" systemLanguage="ca"><tspan id="trsvg615-ca">Antic Eslau Oriental</tspan></text>
+        <text id="trsvg1301"><tspan id="trsvg615">Old East Slavic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch667">
+        <text systemLanguage="id" id="trsvg1302"><tspan id="trsvg616">Rusia</tspan></text>
+        <text id="trsvg1303-da" systemLanguage="da"><tspan id="trsvg617-da">russisk</tspan></text>
+        <text id="trsvg1303-ca" systemLanguage="ca"><tspan id="trsvg617-ca">Rus</tspan></text>
+        <text id="trsvg1303" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan id="trsvg617" style="-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Russian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1370)" font-weight="bold" font-style="italic" id="switch668">
+        <text systemLanguage="id" id="trsvg1304"><tspan id="trsvg618">TIMUR</tspan></text>
+        <text id="trsvg1305-da" systemLanguage="da"><tspan id="trsvg619-da">ØSTLIGE</tspan></text>
+        <text id="trsvg1305-ca" systemLanguage="ca"><tspan id="trsvg619-ca">ORIENTAL</tspan></text>
+        <text id="trsvg1305"><tspan id="trsvg619">EASTERN</tspan></text>
+      </switch>
+      <switch transform="translate(0 1410)" id="switch669">
+        <text systemLanguage="id" id="trsvg1306"><tspan id="trsvg620">Slavonik Gerejawi Kuno</tspan></text>
+        <text id="trsvg1307-da" systemLanguage="da"><tspan id="trsvg621-da">oldkirkeslavisk</tspan></text>
+        <text id="trsvg1307-ca" systemLanguage="ca"><tspan id="trsvg621-ca">Antic Eslau</tspan></text>
+        <text id="trsvg1307"><tspan id="trsvg621">Old Church Slavonic</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column14">
+    <g stroke="#111" id="g689">
+      <rect x="1390" y="290" fill="#fcc" width="99" height="16" id="rect669"/>
+      <rect x="1390" y="330" fill="#fff" width="99" height="16" id="rect670"/>
+      <rect x="1390" y="370" fill="#bfb" width="99" height="16" id="rect671"/>
+      <rect x="1390" y="390" fill="#bfb" width="99" height="16" id="rect672"/>
+      <rect x="1390" y="510" fill="#fcc" width="99" height="16" id="rect673"/>
+      <rect x="1390" y="550" fill="#fff" width="99" height="16" id="rect674"/>
+      <rect x="1390" y="590" fill="#bfb" width="99" height="16" id="rect675"/>
+      <rect x="1390" y="610" fill="#bfb" width="99" height="16" id="rect676"/>
+      <rect x="1390" y="630" fill="#bfb" width="99" height="16" id="rect677"/>
+      <rect x="1390" y="750" fill="#fff" width="99" height="16" id="rect678"/>
+      <rect x="1390" y="930" fill="#fcc" width="99" height="16" id="rect679"/>
+      <rect x="1390" y="970" fill="#fcc" width="99" height="16" id="rect680"/>
+      <rect x="1390" y="1010" fill="#bfb" width="99" height="16" id="rect681"/>
+      <rect x="1390" y="1030" fill="#bfb" width="99" height="16" id="rect682"/>
+      <rect x="1390" y="1290" fill="#fcc" width="99" height="16" id="rect683"/>
+      <rect x="1390" y="1330" fill="#bfb" width="99" height="16" id="rect684"/>
+      <rect x="1390" y="1350" fill="#bfb" width="99" height="16" id="rect685"/>
+      <rect x="1390" y="1370" fill="#bfb" width="99" height="16" id="rect686"/>
+      <rect x="1390" y="1450" fill="#bfb" width="99" height="16" id="rect687"/>
+      <rect x="1390" y="1470" fill="#bfb" width="99" height="16" id="rect688"/>
+      <rect x="1390" y="1490" fill="#bfb" width="99" height="16" id="rect689"/>
+    </g>
+    <g transform="translate(1439.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g709">
+      <switch transform="translate(0 290)" id="switch689">
+        <text systemLanguage="id" id="trsvg1308"><tspan id="trsvg622">Maharashtri</tspan></text>
+        <text id="trsvg1309-da" systemLanguage="da"><tspan id="trsvg623-da">maharashtri</tspan></text>
+        <text id="trsvg1309-ca" systemLanguage="ca"><tspan id="trsvg623-ca">Maharashtri</tspan></text>
+        <text id="trsvg1309"><tspan id="trsvg623">Maharashtri</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" font-weight="bold" id="switch690">
+        <text systemLanguage="id" id="trsvg1310"><tspan id="trsvg624">INDIK KEPULAUAN</tspan></text>
+        <text id="trsvg1311-da" systemLanguage="da"><tspan id="trsvg625-da">SYDINDISK</tspan></text>
+        <text id="trsvg1311"><tspan id="trsvg625">SOUTH'N INDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 370)" id="switch691">
+        <text systemLanguage="id" id="trsvg1312"><tspan id="trsvg626">Konkani</tspan></text>
+        <text id="trsvg1313-da" systemLanguage="da"><tspan id="trsvg627-da">konkani</tspan></text>
+        <text id="trsvg1313-ca" systemLanguage="ca"><tspan id="trsvg627-ca">Konkani</tspan></text>
+        <text id="trsvg1313"><tspan id="trsvg627">Konkani</tspan></text>
+      </switch>
+      <switch transform="translate(0 390)" id="switch692">
+        <text systemLanguage="id" id="trsvg1314"><tspan id="trsvg628">Marathi</tspan></text>
+        <text id="trsvg1315-da" systemLanguage="da"><tspan id="trsvg629-da">marathi</tspan></text>
+        <text id="trsvg1315-ca" systemLanguage="ca"><tspan id="trsvg629-ca">Marathi</tspan></text>
+        <text id="trsvg1315"><tspan id="trsvg629">Marathi</tspan></text>
+      </switch>
+      <switch transform="translate(0 510)" id="switch693">
+        <text systemLanguage="id" id="trsvg1316"><tspan id="trsvg630">Wedda</tspan></text>
+        <text id="trsvg1317-da" systemLanguage="da"><tspan id="trsvg631-da">elu</tspan></text>
+        <text id="trsvg1317"><tspan id="trsvg631">Elu Prakrit</tspan></text>
+      </switch>
+      <switch transform="translate(0 550)" font-weight="bold" id="switch694">
+        <text systemLanguage="id" id="trsvg1318"><tspan id="trsvg632">INDIK KEPULAUAN</tspan></text>
+        <text id="trsvg1319-da" systemLanguage="da"><tspan id="trsvg633-da">ØINDISK</tspan></text>
+        <text id="trsvg1319"><tspan id="trsvg633">INSULAR INDIC</tspan></text>
+      </switch>
+      <switch transform="translate(0 590)" id="switch695">
+        <text systemLanguage="id" id="trsvg1320"><tspan id="trsvg634">Divehi</tspan></text>
+        <text id="trsvg1321-da" systemLanguage="da"><tspan id="trsvg635-da">dhivehi</tspan></text>
+        <text id="trsvg1321-ca" systemLanguage="ca"><tspan id="trsvg635-ca">Divehi</tspan></text>
+        <text id="trsvg1321"><tspan id="trsvg635">Dhivehi</tspan></text>
+      </switch>
+      <switch transform="translate(0 610)" id="switch696">
+        <text systemLanguage="id" id="trsvg1322"><tspan id="trsvg636">Sinhala</tspan></text>
+        <text id="trsvg1323-da" systemLanguage="da"><tspan id="trsvg637-da">singalesisk</tspan></text>
+        <text id="trsvg1323-ca" systemLanguage="ca"><tspan id="trsvg637-ca">Singalès</tspan></text>
+        <text id="trsvg1323"><tspan id="trsvg637">Sinhalese</tspan></text>
+      </switch>
+      <switch transform="translate(0 630)" id="switch697">
+        <text systemLanguage="id" id="trsvg1324"><tspan id="trsvg638">Wedda</tspan></text>
+        <text id="trsvg1325-da" systemLanguage="da"><tspan id="trsvg639-da">vedda</tspan></text>
+        <text id="trsvg1325"><tspan id="trsvg639">Vedda</tspan></text>
+      </switch>
+      <switch transform="translate(0 750)" font-weight="bold" font-style="italic" id="switch698">
+        <text systemLanguage="id" id="trsvg1326"><tspan id="trsvg640">UTARA</tspan></text>
+        <text id="trsvg1327-da" systemLanguage="da"><tspan id="trsvg641-da">NORDLIG</tspan></text>
+        <text id="trsvg1327"><tspan id="trsvg641">NORTH</tspan></text>
+      </switch>
+      <switch transform="translate(0 930)" id="switch699">
+        <text systemLanguage="id" id="trsvg1328"><tspan id="trsvg642">Media</tspan></text>
+        <text id="trsvg1329-da" systemLanguage="da"><tspan id="trsvg643-da">medisk</tspan></text>
+        <text id="trsvg1329-ca" systemLanguage="ca"><tspan id="trsvg643-ca">Mede</tspan></text>
+        <text id="trsvg1329"><tspan id="trsvg643">Median</tspan></text>
+      </switch>
+      <switch transform="translate(0 970)" id="switch700">
+        <text systemLanguage="id" id="trsvg1330"><tspan id="trsvg644">Zaza-Gora</tspan></text>
+        <text id="trsvg1331-da" systemLanguage="da"><tspan id="trsvg645-da">zaza-gorani</tspan></text>
+        <text id="trsvg1331"><tspan id="trsvg645">Zaza-Gorani</tspan></text>
+      </switch>
+      <switch transform="translate(0 1010)" id="switch701">
+        <text systemLanguage="id" id="trsvg1332"><tspan id="trsvg646">Gorani</tspan></text>
+        <text id="trsvg1333-da" systemLanguage="da"><tspan id="trsvg647-da">gorani</tspan></text>
+        <text id="trsvg1333-ca" systemLanguage="ca"><tspan id="trsvg647-ca">Gorani</tspan></text>
+        <text id="trsvg1333"><tspan id="trsvg647">Gorani</tspan></text>
+      </switch>
+      <switch transform="translate(0 1030)" id="switch702">
+        <text systemLanguage="id" id="trsvg1334"><tspan id="trsvg648">Zaza</tspan></text>
+        <text id="trsvg1335-da" systemLanguage="da"><tspan id="trsvg649-da">zazaki</tspan></text>
+        <text id="trsvg1335-ca" systemLanguage="ca"><tspan id="trsvg649-ca">Zazaki</tspan></text>
+        <text id="trsvg1335"><tspan id="trsvg649">Zazaki</tspan></text>
+      </switch>
+      <switch transform="translate(0 1290)" id="switch703">
+        <text systemLanguage="id" id="trsvg1336"><tspan id="trsvg650">Rutenia</tspan></text>
+        <text id="trsvg1337-da" systemLanguage="da"><tspan id="trsvg651-da">rutensk</tspan></text>
+        <text id="trsvg1337"><tspan id="trsvg651">Ruthenian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1330)" id="switch704">
+        <text systemLanguage="id" id="trsvg1338"><tspan id="trsvg652">Belarus</tspan></text>
+        <text id="trsvg1339-da" systemLanguage="da"><tspan id="trsvg653-da">hviderussisk</tspan></text>
+        <text id="trsvg1339-ca" systemLanguage="ca"><tspan id="trsvg653-ca">Bielorús</tspan></text>
+        <text id="trsvg1339"><tspan id="trsvg653">Belorussian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1350)" id="switch705">
+        <text systemLanguage="id" id="trsvg1340"><tspan id="trsvg654">Rusyn</tspan></text>
+        <text id="trsvg1341-da" systemLanguage="da"><tspan id="trsvg655-da">rusinsk</tspan></text>
+        <text id="trsvg1341-ca" systemLanguage="ca"><tspan id="trsvg655-ca">Rutè</tspan></text>
+        <text id="trsvg1341"><tspan id="trsvg655">Rusyn</tspan></text>
+      </switch>
+      <switch transform="translate(0 1370)" id="switch706">
+        <text systemLanguage="id" id="trsvg1342"><tspan id="trsvg656">Ukraina</tspan></text>
+        <text id="trsvg1343-da" systemLanguage="da"><tspan id="trsvg657-da">ukrainsk</tspan></text>
+        <text id="trsvg1343-ca" systemLanguage="ca"><tspan id="trsvg657-ca">Ucraïnés</tspan></text>
+        <text id="trsvg1343"><tspan id="trsvg657">Ukrainian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1450)" id="switch707">
+        <text systemLanguage="id" id="trsvg1344"><tspan id="trsvg658">Bulgaria</tspan></text>
+        <text id="trsvg1345-da" systemLanguage="da"><tspan id="trsvg659-da">bulgarsk</tspan></text>
+        <text id="trsvg1345-ca" systemLanguage="ca"><tspan id="trsvg659-ca">Búlgar</tspan></text>
+        <text id="trsvg1345"><tspan id="trsvg659">Bulgarian</tspan></text>
+      </switch>
+      <switch transform="translate(0 1470)" id="switch708">
+        <text systemLanguage="id" id="trsvg1346"><tspan id="trsvg660">Slavonik Gerejawi</tspan></text>
+        <text id="trsvg1347-da" systemLanguage="da"><tspan id="trsvg661-da">kirkeslavisk</tspan></text>
+        <text id="trsvg1347-ca" systemLanguage="ca"><tspan id="trsvg661-ca">Eslau Eclesiàstic</tspan></text>
+        <text id="trsvg1347"><tspan id="trsvg661">Church Slavonic</tspan></text>
+      </switch>
+      <switch transform="translate(0 1490)" id="switch709">
+        <text systemLanguage="id" id="trsvg1348"><tspan id="trsvg662">Makedonia</tspan></text>
+        <text id="trsvg1349-da" systemLanguage="da"><tspan id="trsvg663-da">makedonsk</tspan></text>
+        <text id="trsvg1349-ca" systemLanguage="ca"><tspan id="trsvg663-ca">Macedònic</tspan></text>
+        <text id="trsvg1349"><tspan id="trsvg663">Macedonian</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g id="column15">
+    <g stroke="#111" id="g712">
+      <rect x="1530" y="250" fill="#fff" width="99" height="16" id="rect709"/>
+      <rect x="1530" y="290" fill="#bfb" width="99" height="16" id="rect710"/>
+      <rect x="1530" y="310" fill="#bfb" width="99" height="16" id="rect711"/>
+      <rect x="1530" y="330" fill="#bfb" width="99" height="16" id="rect712"/>
+    </g>
+    <g transform="translate(1579.5 12)" font-family="Arial" font-size="13" text-anchor="middle" id="g715">
+      <switch transform="translate(0 250)" font-weight="bold" id="switch712">
+        <text systemLanguage="id" id="trsvg1350"><tspan id="trsvg664">DARDIK</tspan></text>
+        <text id="trsvg1351-da" systemLanguage="da"><tspan id="trsvg665-da">NURISTANSK</tspan></text>
+        <text id="trsvg1351"><tspan id="trsvg665">NURISTANI</tspan></text>
+      </switch>
+      <switch transform="translate(0 290)" id="switch713">
+        <text systemLanguage="id" id="trsvg1352"><tspan id="trsvg666">Kashmir</tspan></text>
+        <text id="trsvg1353-da" systemLanguage="da"><tspan id="trsvg667-da">kamkata-viri</tspan></text>
+        <text id="trsvg1353"><tspan id="trsvg667">Kamkata-Vari</tspan></text>
+      </switch>
+      <switch transform="translate(0 310)" id="switch714">
+        <text systemLanguage="id" id="trsvg1354"><tspan id="trsvg668">Pashayi</tspan></text>
+        <text id="trsvg1355-da" systemLanguage="da"><tspan id="trsvg669-da">askunu</tspan></text>
+        <text id="trsvg1355"><tspan id="trsvg669">Askunu</tspan></text>
+      </switch>
+      <switch transform="translate(0 330)" id="switch715">
+        <text systemLanguage="id" id="trsvg1356"><tspan id="trsvg670">Shina</tspan></text>
+        <text id="trsvg1357-da" systemLanguage="da"><tspan id="trsvg671-da">waigeli</tspan></text>
+        <text id="trsvg1357"><tspan id="trsvg671">Waigali</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <!-- For better orientation in case of editoring set opacity in <g> to "1" -->
+  <g id="auxiliar" opacity="0">
+    <path opacity="0.05" fill="none" stroke="#111111" stroke-width="1600" stroke-dasharray="99, 6" d="m 10,800 h 735 m 15,0 h 840" id="path715" inkscape:label="path715" style="display:inline"/>
+    <g opacity="0.5" transform="translate(60,30)" font-family="Arial" font-size="30px" text-anchor="middle" id="g730" style="display:none">
+      <switch id="switch716">
+        <text x="0" id="trsvg1358"><tspan id="trsvg672">col 1</tspan></text>
+      </switch>
+      <switch id="switch717">
+        <text x="105" id="trsvg1359"><tspan id="trsvg673">col 2</tspan></text>
+      </switch>
+      <switch id="switch718">
+        <text x="210" id="trsvg1360"><tspan id="trsvg674">col 3</tspan></text>
+      </switch>
+      <switch id="switch719">
+        <text x="315" id="trsvg1361"><tspan id="trsvg675">col 4</tspan></text>
+      </switch>
+      <switch id="switch720">
+        <text x="420" id="trsvg1362"><tspan id="trsvg676">col 5</tspan></text>
+      </switch>
+      <switch id="switch721">
+        <text x="525" id="trsvg1363"><tspan id="trsvg677">col 6</tspan></text>
+      </switch>
+      <switch id="switch722">
+        <text x="630" id="trsvg1364"><tspan id="trsvg678">col 7</tspan></text>
+      </switch>
+      <switch id="switch723">
+        <text x="745" id="trsvg1365"><tspan id="trsvg679">col 8</tspan></text>
+      </switch>
+      <switch id="switch724">
+        <text x="850" id="trsvg1366"><tspan id="trsvg680">col 9</tspan></text>
+      </switch>
+      <switch id="switch725">
+        <text x="955" id="trsvg1367"><tspan id="trsvg681">col 10</tspan></text>
+      </switch>
+      <switch id="switch726">
+        <text x="1060" id="trsvg1368"><tspan id="trsvg682">col 11</tspan></text>
+      </switch>
+      <switch id="switch727">
+        <text x="1165" id="trsvg1369"><tspan id="trsvg683">col 12</tspan></text>
+      </switch>
+      <switch id="switch728">
+        <text x="1270" id="trsvg1370"><tspan id="trsvg684">col 13</tspan></text>
+      </switch>
+      <switch id="switch729">
+        <text x="1375" id="trsvg1371"><tspan id="trsvg685">col 14</tspan></text>
+      </switch>
+      <switch id="switch730">
+        <text x="1480" id="trsvg1372"><tspan id="trsvg686">col 15</tspan></text>
+      </switch>
+    </g>
+  </g>
+</svg>
