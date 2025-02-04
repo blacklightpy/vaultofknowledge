@@ -125,6 +125,12 @@
 		- Living
 		- Dream
 
+- Varnas
+	- Braahmana
+	- Kshathriya
+	- Vaishya
+	- Shudra
+
 - Aashramas
 	- Brahmacharya
 	- Grihastha

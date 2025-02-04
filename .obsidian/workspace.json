@@ -135,8 +135,8 @@
               "state": {
                 "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Trying to Consolidate Hinduism 1"
@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -481,10 +481,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f74715489a1b73c",
+  "active": "3329285d260c70be",
   "lastOpenFiles": [
-    "06. Collected Knowledge/Specific Problems with Christianity.md",
     "Torah Study - Temp.md",
+    "06. Collected Knowledge/Specific Problems with Christianity.md",
     "01. Personal/Project Ideas/Computer Heartbeat.md",
     "01. Personal/Daily Notes/Entry of 3rd Feb, 2025.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
