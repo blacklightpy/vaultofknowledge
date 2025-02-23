@@ -293,20 +293,48 @@ Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dv
 
 ---
 
-**About Yoga:**
+**About Raaja Yoga:**
 
+Basically it is "the king of Yoga", or the best path. That is, it's practices lead to total realization or Turiya. It can also be understood as the path of a king, or to awaken the king within oneself.
 
+From Hath Yoga Pradipika, Chapter 4, Verses 3-7:
 
-राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||
-अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||
-सलिले सैन्धवं यद्वत्साम्यं भजति योगतः | तथात्म-मनसोरैक्यं समाधिरभिधीयते || ५ ||
-यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||
-तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||
+> राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||
+> अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||
+> सलिले सैन्धवं यद्वत्साम्यं भजति योगतः | तथात्म-मनसोरैक्यं समाधिरभिधीयते || ५ ||
+> यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||
+> तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||
+> 
+> Raaja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padama, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
+> 
+> Just as with salt dissolved in water becomes one with it, so the union of Atman and Manas (mind) is denominated Samaadhi.
+> 
+> When the breath becomes exhausted, and mind becomes Praliyate (still, reabsorbed), they fuse into union called Samaadhi. This equality, this oneness of the two, the living self and the absolute self, when all Sankalpa (desire, cravings) end is called Samaadhi.
 
-Raja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padama, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
+From Wikipedia:
 
-Just as with salt dissolved in water becomes one with it, so the union of Atman and Manas (mind) is denominated Samaadhi.
+> Some medieval Indian texts on Yoga list Raaja Yoga as one of many types of Yoga. For example, the 17th-century Sarvanga Yoga Pradipikam, a Braj-Bhaashya commentary by Sundardas, teaches three tetrads of Yogas.
+> 
+> - The first group is Bhakthi Yoga, Mantra Yoga, Laya Yoga, and Charcha Yoga
+> - The second is Hathaa Yoga, Raaja Yoga, Laksha Yoga, and Ashtaanga Yoga
+> - The third is Saankhya Yoga, Jnaana Yoga, Brahma Yoga, and Advaita Yoga.
+>  
+> Of the twelve, Sundardas states that Rajayoga is the best yoga.
 
-When the breath becomes exhausted, and mind becomes Praliyate (still, reabsorbed), they fuse into union called Samaadhi. This equality, this oneness of the two, the living self and the absolute self, when all Sankalpa (desire, cravings) end is called Samaadhi.
+---
 
-— Hath Yoga Pradipika, 4.3 - 4.7,
+About Shaivism:
+
+> Shiva has many aspects, benevolent as well as fearsome. In benevolent aspects, he is depicted as an **omniscient yogi** who lives an ascetic life on **Kailasa** as well as a **householder** with his **wife Parvati** and his **two children**, **Ganesha** and **Kartikeya**. In his fierce aspects, he is often depicted slaying demons. Shiva is also known as **Adiyogi** (the first yogi), regarded as the patron god of **yoga**, meditation and the arts.
+> 
+> The iconographical attributes of Shiva are the **serpent king Vasuki** around his neck, the adorning crescent moon, the holy river **Ganga** flowing from his matted hair, the **third eye** on his forehead (the eye that turns everything in front of it into ashes when opened), the **trishula or trident** as his weapon, and the **damaru**.
+> 
+> He is usually worshiped in the **aniconic** form of **lingam**.
+
+> There are at least eight different versions of the Shiva Sahasranama, devotional hymns (stotras) listing many names of Shiva. The version appearing in Book 13 (Anuśāsanaparvan) of the Mahabharata provides one such list. Shiva also has Dasha-Sahasranamas (10,000 names) that are found in the Mahanyasa. The Shri Rudram Chamakam, also known as the Śatarudriya, is a devotional hymn to Shiva hailing him by many names.
+
+---
+
+Sahasranama:
+
+> **Sahasranama** are medieval Indian texts that list a thousand names derived from aspects and epithets of a deity. They are devotional hymns (stotras), containing thousands of names of the deity.
