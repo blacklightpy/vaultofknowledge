@@ -275,6 +275,23 @@ Sangatam means "to struggle".
 Garva means "pride", which leads to "Aham Kaara" notion.
 
 **On the validity of Shabda as Pramaana:**
-I'll make it a separate note here: [[On the validity of Shabda as Pramaana]].
+From https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/:
+
+One finds whom to trust for Shabda using the Antah Karana Pramaana (The Epistemologic Source of Inner Faculties), with honesty. This leads one to the Gurus, Rishis, and Parents, and any Avataars of that era.
+
+The link cites the source for this reasoning as the answer given by Yudhisthira to a Yaksha when he was asked about how one would find the right path when scriptures have contradictions. I had a hard time finding the source.
+
+> The Yakṣa asks: **"Tarkaś ca apratiṣṭhaḥ, śrutayo vividhāḥ smṛtayaś ca bhinnāḥ; Ekaṁ na vidmaḥ, kiṁ atra dharmam? Brūhi no tatra yad īśṭam"**
+> 
+> Translation: _Debate has no firm conclusion, the Vedas are diverse, Smrithis contradict each other, and Dharma is subtle—what is the simplest way for one to abide by Dharma?_
+> 
+> Yudhiṣṭhira replies: **"Mahājano yena gataḥ sa panthāḥ"**
+> 
+> Translation: _The path that has been followed by great souls, that is the path to follow._
+
+For the reference, see [[Trying to find the reference for a verse|here]]. I first couldn't find it anywhere, until ChatGPT transcribed it, but even it could not find the verse in the book and got lost. And I could only find this trasliteration referenced by Prabhupada in his lectures, and I couldn't find it in my copy of Mahabharata, which was actually a shortened version skipping those verses. The translation by KM Ganguli had it, but the reference was not clear, and ChatGPT didn't find it too. Eventually I had to use a Hare Krishna (again, back to Prabhupada) website to track it down and find it.
+
+> [!NOTE]
+> Anyways, this led me to more works by Prabhupada, and it seems that Prabhupada uses this insight for his agenda, by claiming that logic is futile and disgusting, and only devotion according to his way can lead to good living and attainment of truth. And there were a lot more problems I observed about him, and I took more notes about it here: [[Problems with ISKCON and its founder Prabhupada]].
 
 Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dvaita)
