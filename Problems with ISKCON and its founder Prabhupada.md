@@ -43,7 +43,7 @@ So he says Varna-Ashrama Dharma is the perfect path, and India gives it the best
 
 There is a Hindu nationalist movement which rejects this term, which is fair, but this term is not entirely Muhammadan in origin, because it was used by the Iranians and Greeks too, to refer to the residents beyond Sindhu river valley. But he took this opportunity to blame it all on Muhammadans, which is not truthful.
 
-Now, the Hindu nationalist movements claim that the religion was Sanaathana Dharma, but that's just their way of
+Now, the Hindu nationalist movements claim that the religion was Sanaathana Dharma, but that's just their way of doing the same thing that the Muhammadans and Chr
 
 ---
 
