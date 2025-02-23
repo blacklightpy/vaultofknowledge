@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +317,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying to Consolidate Hinduism 1"
+              "title": "Backlinks for Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -326,12 +326,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
+              "title": "Outgoing links from Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -369,13 +369,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying to Consolidate Hinduism 1"
+              "title": "Outline of Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -429,13 +429,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9b0c894cb5bf3d9c",
+  "active": "579497e35d0ab01b",
   "lastOpenFiles": [
+    "Trying to Consolidate Hinduism 1.md",
+    "On the validity of Shabda as Pramaana.md",
     "Trying to find the reference for a verse.md",
     "Note Taking Theory.md",
     "Problems with ISKCON and its founder Prabhupada.md",
     "My Interests.md",
-    "Trying to Consolidate Hinduism 1.md",
     "06. Collected Knowledge/Morality - my philosophy.md",
     "06. Collected Knowledge/Ethics.md",
     "06. Collected Knowledge/Morality.md",
@@ -458,7 +459,6 @@
     "01. Personal/Daily Notes/Entry of 31st Jan, 2025.md",
     "Questions to LLMs 3 - Nature of Complexity of Ideas and Objects.md",
     "Local AI Requirements.md",
-    "01. Personal/Daily Notes/Entry of 7th Feb, 2025.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",

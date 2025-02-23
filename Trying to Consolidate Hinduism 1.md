@@ -275,22 +275,6 @@ Sangatam means "to struggle".
 Garva means "pride", which leads to "Aham Kaara" notion.
 
 **On the validity of Shabda as Pramaana:**
-From https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/:
-
-One finds whom to trust for Shabda using the Antah Karana Pramaana (The Epistemologic Source of Inner Faculties), with honesty. This leads one to the Gurus, Rishis, and Parents, and any Avataars of that era. From Vana Parva:
-
-> The Yakṣa asks:
-> 
-> **"Tarkaś ca apratiṣṭhaḥ, śrutayo vividhāḥ smṛtayaś ca bhinnāḥ; Ekaṁ na vidmaḥ, kiṁ atra dharmam? Brūhi no tatra yad īśṭam"**  
-> _(Debate has no firm conclusion, the Vedas are diverse, Smrithis contradict each other, and Dharma is subtle—what is the simplest way for one to abide by Dharma?)_
-> 
-> Yudhiṣṭhira replies:
-> 
-> **"Mahājano yena gataḥ sa panthāḥ"**  
-> _(The path that has been followed by great souls, that is the path to follow.)_
-
-Reference: [[Trying to find the reference for a verse|See here]] (dubious)
-
-Prabhupada however seems to use it for his agenda, by claiming that logic is futile and disgusting, and only devotion according to his way can lead to good living and attainment of truth. I
+I'll make it a separate note here: [[On the validity of Shabda as Pramaana]].
 
 Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dvaita)
