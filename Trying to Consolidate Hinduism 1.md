@@ -325,6 +325,8 @@ From Wikipedia:
 >  
 > Of the twelve, Sundardas states that Rajayoga is the best yoga.
 
+The soteriological goal of Yoga is to achieve Kaivalya.
+
 ---
 
 About Shaivism:
