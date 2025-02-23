@@ -270,9 +270,13 @@ Caste: https://www.dlshq.org/messages/caste-problem-in-india/ (Brahmana caste is
 (A Brahmana should guide others to the right understanding.)
 (If you teach Vedanta to the fisherman, he will say, “I am as good a man as you, I am a fisherman, you are a philosopher, but I have the same God in me, as you have in you.”)
 
-Vasana means impressions, of Karma.
+Vyasana means addictions.
+
+Vaasana means impressions, of Karma.
 Sangatam means "to struggle".
 Garva means "pride", which leads to "Aham Kaara" notion.
+
+Sankhaara is the word for Samskaara in Pali.
 
 ---
 
@@ -335,6 +339,16 @@ About Shaivism:
 
 ---
 
-Sahasranama:
+Sahasra Naama:
 
 > **Sahasranama** are medieval Indian texts that list a thousand names derived from aspects and epithets of a deity. They are devotional hymns (stotras), containing thousands of names of the deity.
+
+---
+
+Hysteresis Analogy:
+
+From Wikipedia page on Vaasanaa:
+
+> Writing from an Advaita Vedanta perspective, Waite refers to a model offered by Edward de Bono:
+> 
+> If you take a jelly, solidified and turned out onto a plate, and you trickle very hot water onto the top, it will run off onto the plate and leave behind a faint channel where the hot water melted the jelly. If you now pour more hot water, it will tend to run into the same channels as before, since these offer the line of least resistance, and deepen the channels. If this is done repeatedly, very deep channels will form and it will become difficult, if not impossible, to get the water to run anywhere else. The equivalent of an entrenched habit has been formed.
