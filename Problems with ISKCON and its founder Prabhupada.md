@@ -72,6 +72,15 @@ From his Narada Bhakthi Sutra [here](https://gitabase.com/eng/NBS/75), it consid
 > "My Lord, one who is favored by even a slight trace of the mercy of Your lotus feet can understand the greatness of Your personality. But those who speculate in order to understand the Supreme Personality of Godhead are unable to know You, even though they continue to study the Vedas for many years" (SB [10.14.29](https://gitabase.com/eng/sb/10/14/29)).
 > 
 
+From his Chaitanya Charithra Madhya Leela 25.27: 
+
+> [!NOTE] Verse
+> 
+> _ācārya-kalpita artha ye paṇḍita śune  
+> mukhe ‘haya’ ‘haya’ kare, hṛdaya nā māne_
+> 
+> **“All the interpretations of Śaṅkarācārya are imaginary. Such imaginary interpretations are verbally accepted by learned scholars, but they do not appeal to the heart.**
+
 # Others Opinions: From Quora
 ## Answer 1
 

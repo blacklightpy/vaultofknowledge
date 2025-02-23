@@ -15,53 +15,50 @@ I googled for it, and the only sources I could find were from Prabhupada's lectu
 
 # From Sanskrit Wisdom Library
 
-**From Chaitanya Bhagavata, Chapter 9 - The Glories of Advaita, Verse 3.9.135:**
+**From Chaitanya Bhagavata, Chapter 9 - The Glories of Advaita, Verse 3.9.135 with Commentary:**
 
-Bengali text, Devanagari and Unicode transliteration of verse 3.9.135:
-
+> [!NOTE] Snippet
+> Bengali text, Devanagari and Unicode transliteration of verse 3.9.135:
 > 
-> ভারতী বলেন,—“তারা না বুঝে বিচার মহাজন-পথে সে গমন সবাকার ॥ ১৩৫ ॥
-> भारती बलेन,—“तारा ना बुझे विचार महाजन-पथे से गमन सबाकार ॥ १३५ ॥
+> > 
+> > ভারতী বলেন,—“তারা না বুঝে বিচার মহাজন-পথে সে গমন সবাকার ॥ ১৩৫ ॥
+> > भारती बलेन,—“तारा ना बुझे विचार महाजन-पथे से गमन सबाकार ॥ १३५ ॥
+> > 
+> > bhāratī balena,—“tārā nā bujhe vicāra mahājana-pathe se gamana sabākāra || 135 ||
+> > bharati balena,—“tara na bujhe vicara mahajana-pathe se gamana sabakara (135)
 > 
-> bhāratī balena,—“tārā nā bujhe vicāra mahājana-pathe se gamana sabākāra || 135 ||
-> bharati balena,—“tara na bujhe vicara mahajana-pathe se gamana sabakara (135)
-
-English translation:
-
-> (135) Keśava Bhāratī replied, “They have not understood the conclusion accepted by all the mahājanas.
-
-**Commentary: Gauḍīya-bhāṣya by Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura:**
-
-In the Mahābhārata (Vana-parva 313.117) it is stated:
-
-> tarko ‘pratiṣṭhaḥśrutayo vibhinnā nāsāv ṛṣir yasya mataṃ na bhinnam dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ
-
-Translation:
-
-> “Dry arguments are inconclusive. A great personality whose opinion does not differ from others is not considered a great sage. Simply by studying the Vedas, which are variegated, one cannot come to the right path by which religious principles are understood. The solid truth of religious principles is hidden in the heart of an unadulterated, self-realized person. Consequently, as the śāstras confirm, one should accept whatever progressive path the mahājanas advocate.”
-
-See also Śrīmad Bhāgavatam (11.23.57).
-
-# Prabhupada
+> English translation:
+> 
+> > (135) Keśava Bhāratī replied, “They have not understood the conclusion accepted by all the mahājanas.
+> 
+> **Commentary: Gauḍīya-bhāṣya by Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura:**
+> 
+> In the Mahābhārata (Vana-parva 313.117) it is stated:
+> 
+> > tarko ‘pratiṣṭhaḥśrutayo vibhinnā nāsāv ṛṣir yasya mataṃ na bhinnam dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ
+> 
+> Translation:
+> 
+> > “Dry arguments are inconclusive. A great personality whose opinion does not differ from others is not considered a great sage. Simply by studying the Vedas, which are variegated, one cannot come to the right path by which religious principles are understood. The solid truth of religious principles is hidden in the heart of an unadulterated, self-realized person. Consequently, as the śāstras confirm, one should accept whatever progressive path the mahājanas advocate.”
+> 
+> See also Śrīmad Bhāgavatam (11.23.57).
+# From Prabhupada's Lectures
 
 > So _śrutayo vibhinnā nāsāv munir yasya mataṁ na bhinnam._ And if we consult great thinkers or philosophers, they have got their different opinion also. Some philosopher says, "I think this is right," "I think this is right." So whom you will accept? They are also of difference opinion. _Tarko 'pratiṣṭhaḥ śrutayo vibhinnā nāsāv munir yasya mataṁ na bhinnam_ [_Cc. Madhya_ 25.57, _Mahābhārata, Vana-parva_ 313.117].
 
-CC. Madhya 25.57: https://vedabase.io/en/library/cc/madhya/25/57/ (Verified)
-Mahabharatha Vana Parva 313: (listed below) (Verified)
+- CC. Madhya Leela 25.57: https://vedabase.io/en/library/cc/madhya/25/57/ (His own book)
+- Mahabharatha Vana Parva 313: (listed below) (Verified)
 
 > Therefore to understand the Absolute Truth, it is very difficult to find out how to have it. But the only one way recommended in the Vedic scripture, that _mahājano yena gataḥ sa panthāḥ_ [_Cc. Madhya_ 17.186].
 
-CC. Madhya 17.186: 
+CC. Madhya Leela 17.186: https://vedabase.io/en/library/cc/madhya/17/186/ (His own book)
 
-Also,
-Srimad Bhagavatham 11.23.57 (as is referenced in Chaitanya Bhagavatha above): https://vedabase.io/en/library/sb/11/23/57/
-
+Also, Srimad Bhagavatham 11.23.57 (as is referenced in Chaitanya Bhagavatha above): https://vedabase.io/en/library/sb/11/23/57/
 # Sources I found for the Mahabharatha Verse
 1. KM Ganguli's Translation in sacred-texts: https://sacred-texts.com/hin/m03/m03311.htm#page_610
 2. KM Ganguli's Translation by Hare Krishna: https://www.harekrsna.com/sun/editorials/mahabharata/vana/mahabharata311.htm
 3. KM Ganguli's Translatin, just Yaksha Prashna in Archive.org: https://archive.org/details/yakshaprasna-sanskrit-english-k.-m.-ganguli/page/63/mode/2up?view=theater
-
 # Other Sources Listed Above, Collected Together
 - Sreemad Bhaagavatham 11.23.57: https://vedabase.io/en/library/sb/11/23/57/ (Verified)
-- CC. Madhya 25.57: https://vedabase.io/en/library/cc/madhya/25/57/ (Verified)
-- CC. Madhya 17.186: 
+- CC. Madhya Leela 25.57: https://vedabase.io/en/library/cc/madhya/25/57/ (Verified)
+- CC. Madhya Leela 17.186: https://vedabase.io/en/library/cc/madhya/17/186 (Verified)
