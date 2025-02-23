@@ -74,12 +74,12 @@
 ---
 
 - Paths
-	- Bhakthi Yoga
-	- Karma Yoga
-	- Jnaana Yoga
-	- Raaja Yoga
-	- Hatha Yoga
-	- Tantra Yoga
+	- Bhakthi Yoga (superior)
+	- Karma Yoga (byproduct)
+	- Jnaana Yoga (helpful)
+	- Raaja Yoga (good)
+	- Hatha Yoga (useful)
+	- Tantra Yoga (useful)
 
 - Eight Part Path [==Asht Aanga Yoga==]
 	- 
@@ -91,6 +91,9 @@
 	- **Liberation** [==Moksha==]
 
 - Cosmology (part of Shruthi)
+	- Saankhya Darshana (SB, and maybe BG)
+	- Advaita Darshana (idk sources)
+
 - Mythology (part of Smrithi)
 	- Creator
 	- Lokas
@@ -104,7 +107,11 @@
 	- Rakshasas (Demons)
 
 - Ontology (part of Schools of Thought)
-	- Principles (Tattvas)
+	- Principles of Nature (Tattvas)
+		- Saankhya Darshana
+			- 23 Principles
+		- Advaita Darshana
+			- 36 Principles
 	- Arguments and Counter Arguments (Vaada Prati-Vaada)
 	- Subtle Elements
 	- Gross Elements
@@ -216,8 +223,72 @@ Jeevan Mukti
 Vaideha Mukti
 
 
-Brahma Soothras criticise Samkhya
+Brahma Soothras criticise Saankhya Darshana.
 
 Vairaagya means two things. Etymologically, it means "devoid of attachment" (raaga).
 In Samskrita, it means "dispassion".
 In Malayalam, it means "grudge" or "hatred".
+
+- Tri Shareera / Traya Deha (Three Bodies)
+	- Sthula Shareera (Physical Body) (Lets us experience life)
+	- Sookshma Shareera (Subtle Body) (Holds mental impressions through hysteresis of action states)
+	- Kaarana Shareera (Causal Body) (this is the one ultimate conscious spirit)
+
+From https://www.prana-sutra.com/post/sthula-sukshma-karana-sharira:
+![[Tri Shareera illustration.png]]
+
+- Koshas
+	- Kaarana Shareera
+		- Ananda Maya Kosha
+	- Sookshma Shareera / Linga Shareera
+		- Mano Maya Kosha
+		- Vijnaana Maya Kosha
+	- Sthula Shareera
+		- Praana Maya Kosha
+		- Anna Maya Kosha
+
+From https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/ (maybe available live, I'd seen this site myself too):
+
+![[Koshas and Shareeras illustrated.png]]
+Manas cannot know Brahmaan. As Brahmaan, you must treat Manas as a pet. Since it forms the Sookshma Shareera, it will determine the state of the Sthula Shareera (Upaadhi, meaning, form), even in rebirths. That is, even when the Sthula Shareera wears out, the Sookshma Shareera may not be ready to dissolve.
+
+Manas always seeks sensory pleasures based on Raaga (likes) and Dvesha (dislikes).
+
+Buddhi tries to provide a learned guess or Sankalpa (hypothesis). Manas may reject it and choose Vikalpa (unreal fantasy), which will lead to going down bad paths.
+
+Buddhi provides Viveka (discerning intellect), which can be used to examine ones Raaga and Dveshas about each Vishaya (subject). This will eventually lead to right understanding and dispassion (Vairaagya). This practice is called Abhyaasa.
+
+Chittha is the pure state of mind, it attains Vritthi (disturbances) through certain actions. They are:
+- Pramaanas (facts)
+- Viparyaaya (beliefs)
+- Vikalpa (chosen fantasies)
+- Smrithi (remembrances and subconscious fantasies)
+- Nidra (sleep, a "recharging from exhaustion" state)
+
+Good Notes: https://www.dlshq.org/download/mind-its-mysteries-and-control/
+Caste: https://www.dlshq.org/messages/caste-problem-in-india/ (Brahmana caste is not Brahmana quality)
+(A Brahmana should guide others to the right understanding.)
+(If you teach Vedanta to the fisherman, he will say, “I am as good a man as you, I am a fisherman, you are a philosopher, but I have the same God in me, as you have in you.”)
+
+Vasana means impressions, of Karma.
+Sangatam means "to struggle".
+Garva means "pride", which leads to "Aham Kaara" notion.
+
+**On the validity of Shabda as Pramaana:**
+From https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/:
+
+One finds whom to trust for Shabda using the Antah Karana Pramaana (The Epistemologic Source of Inner Faculties), with honesty. This leads one to the Gurus, Rishis, and Parents, and any Avataars of that era. From Vana Parva:
+
+> The Yakṣa asks:
+> 
+> **"Tarkaś ca apratiṣṭhaḥ, śrutayo vividhāḥ smṛtayaś ca bhinnāḥ; Ekaṁ na vidmaḥ, kiṁ atra dharmam? Brūhi no tatra yad īśṭam"**  
+> _(Debate has no firm conclusion, the Vedas are diverse, Smrithis contradict each other, and Dharma is subtle—what is the simplest way for one to abide by Dharma?)_
+> 
+> Yudhiṣṭhira replies:
+> 
+> **"Mahājano yena gataḥ sa panthāḥ"**  
+> _(The path that has been followed by great souls, that is the path to follow.)_
+
+Reference: [[Trying to find the reference for a verse|See here]] (dubious)
+
+Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dvaita)

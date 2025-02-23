@@ -1,7 +1,7 @@
 | Hardware | Model                                       | Specifications |
 | -------- | ------------------------------------------- | -------------- |
 | CPU      | Intel Pentium Gold 4417U @ 2.3 GHz (Mobile) | 73.6 TFLOPS    |
-| RAM      | 12 GB (4 GB + 8GB) DDR4-SDRAM @ 2400 MHz    |                |
+| RAM      | 12 GB (4 GB + 8GB) DDR4-SDRAM @ 2400 MHz    | 38.4 GB/s      |
 ### Template
 ```Markdown
 ## TITLE

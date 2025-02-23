@@ -1,4 +1,9 @@
-## Basics of Counting
+I'd need to eventually discover the Characteristica Universalis for cultures to properly communicate concepts.
+
+Anyways, this is what we'll use: [[Areas of Mathematics]].
+
+---
+## Basics of Counting ()
 - Numbers, Number Line
 - Addition and Division
 - Operations
@@ -43,8 +48,8 @@
 - Vector Spaces
 - Flow, Divergence and Curl
 
-## Sets and Relations
-- Sets
+## Sets and Relations (ഗണ സിദ്ധാന്തം / Gana Siddhaantham)
+- Sets (ഗണങ്ങൾ / Ganangal)
 - Set Operations
 - Relations
 - Properties of Relations
@@ -52,8 +57,8 @@
 - Properties of Binary Operations
 - Rings, Groups and Fields
 
-## Mathematical Logic
-- Logic and Reasoning
+## Mathematical Logic (യുക്തി)
+- Logic and Reasoning (യുക്തിയും ന്യായ ദർശനവും)
 - Proofs and Derivations
 
 ## Calculus
@@ -76,7 +81,7 @@
 - Fractals
 
 ## Topology
-- Euclidean Spaces
+- Euclidiean Spaces
 - Dimensions
 - Manifolds
 - Orientable and Non-orientable Manifolds
@@ -84,3 +89,12 @@
 ## Big Numbers
 - Googology
 - Types of Infinities
+
+
+---
+More Terms:
+
+- Tarkka Shaasthra: Science of Debate
+	- Poorva Paksha: Proposition
+	- Apara Paksha: Counter-Proposition
+- 

@@ -431,6 +431,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - Communism and Cleanliness / Repurposing
 	- Navy Seal Advice
 
+#rough (My dad asked me to study Oman road symbols hehe)
 - All Signs
 	- Order Signs: 2
 	- Warning Signs:

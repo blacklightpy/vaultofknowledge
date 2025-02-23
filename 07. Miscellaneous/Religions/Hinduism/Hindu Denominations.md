@@ -576,7 +576,7 @@ Sampradaya is a body of practice, views and attitudes, which are transmitted, re
 ### Diksha: Initiation into Sampradaya
 A particular Guru lineage in Guru-Shishya tradition is called Parampara, and may have its own Akharas and Gurukulas. By receiving Diksha (initiation) into the Parampara of a living Guru, one belongs to its proper Sampradaya.
 
-One cannot become a member by birth, as is the case with Gotra, a seminal, or hereditary, dynasty.
+One cannot become a member by birth, as is the case with Gotra, a seminal or hereditary dynasty.
 ### Authority on knowledge of truth
 
 Membership in a Sampradaya not only lends a level of authority to one's claims on truth in Hindu traditional context, but also allows one to make those claims in the first place. An often quoted verse from the Padma Purana states:

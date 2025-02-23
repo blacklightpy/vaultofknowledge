@@ -94,21 +94,21 @@ I first copy-pasted it verbatim, and made some minor modifications:
 	- Stores data in `data/nvram/`
 - 31. PROINFO
 	- An NVRAM partition, stores one `struct` by default, can be added
-	- `md1img`, `md1dsp`, `md1arm7`, `md3img`
+- 32-35. MD1IMG, MD1DSP, MD1ARM7, MD3IMG
 	- For Android M, the MD image has been changed into an MD standalone partition, all modem images will be loaded from the partitions: `md1img`, `md1dsp`, `md1arm7` and `md3img`
- - 32-33. SCP1, SCP2
+ - 36-37. SCP1, SCP2
 	- System Control Processor, used for recovery fail
-- 34-35. LK1, LK2
+- 38-39. LK1, LK2
 	- Used for the updating LK in case of an OTA update fail
-- 36. PERSIST
+- 40. PERSIST
 	- Stores data which will be stable for a long time
-- 37. METADATA
+- 41. METADATA
 	- Stores the master key for data encryption
-- 38. NVCFG
+- 42. NVCFG
 	- NVRAM config, controlled by `MTK_NVCONFIG_PARTITION_SUPPORT`, not used yet
-- 39. CUST / CUSTOM / PRELOAD
+- 43. CUST / CUSTOM / PRELOAD
 	- Customization partition, controlled by `MTK_CIP_SUPPORT`
-- 40. EFUSE
+- 44. EFUSE
 	- Download baseband chip's `efuse`
-- 41. PPL
+- 45. PPL
 	- Privacy Protection Lock, used for Anti-Theft

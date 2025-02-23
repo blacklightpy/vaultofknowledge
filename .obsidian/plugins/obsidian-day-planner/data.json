@@ -2,7 +2,12 @@
   "customFolder": "Day Planners",
   "mode": 1,
   "mermaid": false,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "01. Personal/Daily Notes/Entry of 13th Feb, 2025.md",
+      "date": "Fri Feb 21 2025"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": false,
   "nowAndNextInStatusBar": false,
