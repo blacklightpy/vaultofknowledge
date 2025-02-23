@@ -43,7 +43,11 @@ So he says Varna-Ashrama Dharma is the perfect path, and India gives it the best
 
 There is a Hindu nationalist movement which rejects this term, which is fair, but this term is not entirely Muhammadan in origin, because it was used by the Iranians and Greeks too, to refer to the residents beyond Sindhu river valley. But he took this opportunity to blame it all on Muhammadans, which is not truthful.
 
-Now, the Hindu nationalist movements claim that the religion was Sanaathana Dharma, but that's just their way of doing the same thing that the Muhammadans and Chr
+Now, the Hindu nationalist movements claim that the religion was Sanaathana Dharma, but that's just their way of doing the same thing that the Muhammadans they hate do, which is to say that their way is the one true way for everyone. The concept of Dharma is simply one's duty and morals, and that is one's own affairs.
+
+Calling it Sanaathana is an attempt to say that there is one eternal kind of morality, and that definition itself implies an objective code of conduct. However, I disagree with this notion of Dharma, and it has never been the notion implied by my own self-realization, as well as by the principle of Advaitha.
+
+
 
 ---
 

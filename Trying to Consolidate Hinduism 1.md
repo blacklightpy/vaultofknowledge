@@ -291,4 +291,6 @@ One finds whom to trust for Shabda using the Antah Karana Pramaana (The Epistemo
 
 Reference: [[Trying to find the reference for a verse|See here]] (dubious)
 
+Prabhupada however seems to use it for his agenda, by claiming that logic is futile and disgusting, and only devotion according to his way can lead to good living and attainment of truth. I
+
 Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dvaita)

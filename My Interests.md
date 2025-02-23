@@ -21,6 +21,8 @@ I hoped to put this alongside my music playlists in my personal website, so that
 	- Development of Shared Values (Ethics)
 	- Personal Values (Morals)
 	- Language and Communication (Linguistics and Semiotics)
+	- Abstractions and Enumerations (i.e. Finding Abstract Categories and Defining or Enumerating Them)
+	- Relations between Abstractions (Mathematics)
 
 - Fine Arts
 	- Music Theory

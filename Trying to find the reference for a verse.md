@@ -53,9 +53,15 @@ Mahabharatha Vana Parva 313: (listed below) (Verified)
 
 CC. Madhya 17.186: 
 
-Srimad Bhagavatham 
+Also,
+Srimad Bhagavatham 11.23.57 (as is referenced in Chaitanya Bhagavatha above): https://vedabase.io/en/library/sb/11/23/57/
 
-# Sources I found
+# Sources I found for the Mahabharatha Verse
 1. KM Ganguli's Translation in sacred-texts: https://sacred-texts.com/hin/m03/m03311.htm#page_610
 2. KM Ganguli's Translation by Hare Krishna: https://www.harekrsna.com/sun/editorials/mahabharata/vana/mahabharata311.htm
 3. KM Ganguli's Translatin, just Yaksha Prashna in Archive.org: https://archive.org/details/yakshaprasna-sanskrit-english-k.-m.-ganguli/page/63/mode/2up?view=theater
+
+# Other Sources Listed Above, Collected Together
+- Sreemad Bhaagavatham 11.23.57: https://vedabase.io/en/library/sb/11/23/57/ (Verified)
+- CC. Madhya 25.57: https://vedabase.io/en/library/cc/madhya/25/57/ (Verified)
+- CC. Madhya 17.186: 
