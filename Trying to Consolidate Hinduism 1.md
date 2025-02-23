@@ -290,3 +290,23 @@ Anyways, although Prabhupada's works did lead to me finding the true source, thi
 ---
 
 Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dvaita)
+
+---
+
+**About Yoga:**
+
+
+
+राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||
+अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||
+सलिले सैन्धवं यद्वत्साम्यं भजति योगतः | तथात्म-मनसोरैक्यं समाधिरभिधीयते || ५ ||
+यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||
+तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||
+
+Raja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padama, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
+
+Just as with salt dissolved in water becomes one with it, so the union of Atman and Manas (mind) is denominated Samaadhi.
+
+When the breath becomes exhausted, and mind becomes Praliyate (still, reabsorbed), they fuse into union called Samaadhi. This equality, this oneness of the two, the living self and the absolute self, when all Sankalpa (desire, cravings) end is called Samaadhi.
+
+— Hath Yoga Pradipika, 4.3 - 4.7,

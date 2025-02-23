@@ -54,6 +54,23 @@ Calling it Sanaathana is an attempt to say that there is one eternal kind of mor
 > **So _māyā_ is there. _Māyā_ does not want to lead the culprits. Because one who is not Kṛṣṇa conscious, he's a culprit, so _māyā_ wants to give such person more and more trouble.** But Vaiṣṇava risks his life to snatch him from the hands of _māyā._ So _māyā,_ of course, when he [she] sees that "This man, this living entity, is now corrected; he is now taking to Kṛṣṇa consciousness," then she will not disturb.
 
 ****
+About Krishna's Raasa Leela ():
+
+> ….Madhudviṣa: Prabhupāda, could you tell us something about Kṛṣṇa’s rasa-līlā?
+> 
+> Prabhupāda: (pause) Kṛṣṇa’s rasa-līlā should not be discussed in public meeting. It is most confidential. Lord Caitanya Mahāprabhu never discussed. He discussed Kṛṣṇa’s pastimes, līlā with gopīs, with His confidential, very confidential circle. Or those who are… Lord Caitanya had many thousands of followers, and… He was not discussing even within these five persons, śrī-kṛṣṇa-caitanya prabhu-nityānanda śrī-advaita gadādhara śrīvāsādi, Nityānanda, Advaita, Gadādhara, Śrīvāsa, and Himself, these five persons. So when He was at Navadvīpa, He was not discussing even with them, what to speak of others. **He set up this example so that in future people may be very cautious. Because unless one understands what is Kṛṣṇa, how he can understand Kṛṣṇa’s pastime?** So this discussion of rasa-līlā is the summit of Kṛṣṇa consciousness. It is not ordinary thing. They’re purely spiritual. There is nothing material. But because we are not completely free from material concept of life, we may think that Kṛṣṇa’s līlā is something like this material. So that is offense. **But that is the ultimate goal, to understand Kṛṣṇa’s rasa-līlā.** But you have to wait for relishing that Kṛṣṇa’s rasa-līlā, to become more perfect in Kṛṣṇa consciousness. Anarthāpagamam. Anartha means when one is freed from all anarthas.
+
+---
+
+Pleasing Christians (Dec 4 1968):
+
+> 
+> Madhudviṣa: Prabhupāda, why did Lord Jesus Christ eat meat?
+> 
+> Prabhupāda: That was circumstantial because we have to take into consideration of the situation of the country and the people. Where there is no other food, one must live. Then meat-eating is not bad in that case. Because survival is required. But when there are substitutes… Everyone is eating another life. That is the law of nature.
+
+---
+
 # From his Texts
 
 From his Narada Bhakthi Sutra [here](https://gitabase.com/eng/NBS/75), it considers logic as useless, and Guru-Shishya Parampara as the one true path.
