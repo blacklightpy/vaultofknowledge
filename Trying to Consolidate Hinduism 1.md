@@ -289,9 +289,8 @@ The link cites the source for this reasoning as the answer given by Yudhisthira 
 > 
 > Translation: _The path that has been followed by great souls, that is the path to follow._
 
-For the reference, see [[Trying to find the reference for a verse|here]]. I first couldn't find it anywhere, until ChatGPT transcribed it, but even it could not find the verse in the book and got lost. And I could only find this trasliteration referenced by Prabhupada in his lectures, and I couldn't find it in my copy of Mahabharata, which was actually a shortened version skipping those verses. The translation by KM Ganguli had it, but the reference was not clear, and ChatGPT didn't find it too. Eventually I had to use a Hare Krishna (again, back to Prabhupada) website to track it down and find it.
+For the reference, see [[Trying to find the reference for a verse|here]]. At first, I couldn't find it anywhere, until ChatGPT transcribed it, but even it could not find the verse in the book and got lost. And I could only find this transliteration referenced by Prabhupada in his lectures, and I couldn't find it in my copy of Mahabharata, which was actually a shortened version skipping those verses. The translation by KM Ganguli had it, but the reference was not clear, and ChatGPT didn't find it too. Eventually I had to use a Hare Krishna (again, back to Prabhupada) website to track it down and find it.
 
-> [!NOTE]
-> Anyways, this led me to more works by Prabhupada, and it seems that Prabhupada uses this insight for his agenda, by claiming that logic is futile and disgusting, and only devotion according to his way can lead to good living and attainment of truth. And there were a lot more problems I observed about him, and I took more notes about it here: [[Problems with ISKCON and its founder Prabhupada]].
+Anyways, although Prabhupada's works did lead to me finding the true source, this search also led to me finding some problematic stuff in his ways. For example, in this case, Prabhupada uses this insight for his agenda, by claiming that logic is futile and disgusting, and only devotion according to his way can lead to good living and attainment of truth. I took more notes about it here: [[Problems with ISKCON and its founder Prabhupada]].
 
 Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dvaita)

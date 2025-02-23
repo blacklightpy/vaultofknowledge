@@ -4,7 +4,7 @@
 	- Source: https://prabhupadavani.org/transcriptions/720420letok/
 - He criticized atheists
 
-Source: https://prabhupadavani.org/transcriptions/720420sbhk/ (talk addressing children, discussing Sreemad Bhagavatham 7.6.1, the story of Hiranyakashipu and Prahlaada)
+Source: https://prabhupadavani.org/transcriptions/720420sbhk/ (A talk addressing children, discussing Sreemad Bhagavatham 7.6.1, the story of Hiranyakashipu and Prahlaada)
 
 > This is a verse spoken by Prahlāda Mahārāja, Prahlāda Mahārāja, when he was a five-years-old boy, like all these children. _Kaumāra. Kaumāra_ age is called from five years to ten years. That is called _kaumāra._ So Prahlāda Mahārāja was born of an atheist father. **The father was atheist number one, Hiraṇyakaśipu. He is described as _rākṣasa,_ demon, like that. _Daitya. Daitya_ means demon.**
 
@@ -47,8 +47,6 @@ Now, the Hindu nationalist movements claim that the religion was Sanaathana Dhar
 
 Calling it Sanaathana is an attempt to say that there is one eternal kind of morality, and that definition itself implies an objective code of conduct. However, I disagree with this notion of Dharma, and it has never been the notion implied by my own self-realization, as well as by the principle of Advaitha.
 
-
-
 ---
 
 **His definition of Maaya:**
@@ -57,6 +55,22 @@ Calling it Sanaathana is an attempt to say that there is one eternal kind of mor
 
 ****
 # From his Texts
+
+From his Narada Bhakthi Sutra [here](https://gitabase.com/eng/NBS/75), it considers logic as useless, and Guru-Shishya Parampara as the one true path.
+
+> [!NOTE] Snippet
+> The bhakti method of receiving truth is by paramparā, or disciplic succession. It is confirmed by a checks-and-balances system of hearing from guru, śāstra, and sādhu. On the other hand, one who rejects the paramparā system and persists in hearing argumentation will never understand the Absolute Truth. As Lord Kṛṣṇa states, bhaktyā mām abhijānāti: "One can understand Me only by devotional service" (Bg. [18.55](https://gitabase.com/eng/bg/18/55)).
+
+> [!NOTE] Snippet
+> When Lord Caitanya first came to Jagannātha Purī, a dispute arose between His followers and Sārvabhauma Bhaṭṭācārya, who was at that time a mundane logician. The Bhaṭṭācārya and his students refused to accept that Lord Caitanya was the Supreme Personality of Godhead, although Gopīnātha Ācārya presented much evidence from Vedic scriptures. Finally the disciples of the Bhaṭṭācārya said, "We derive knowledge of the Absolute Truth by logical hypothesis." Gopīnātha Ācārya replied, "One cannot attain real knowledge of the Supreme Personality of Godhead by such logical hypothesis and argument" (Cc. Madhya [6.81](https://gitabase.com/eng/cc/2/6/81)). Gopīnātha Ācārya further stated that only that person who has received the mercy of the Lord by rendering Him devotional service can understand Him. Logical hypothesis is not the way, but rather śabda-brahma, hearing from authorized sources. Lord Brahmā made the same point in his prayers to Lord Kṛṣṇa in Chapter Fourteen of the Tenth Canto of Śrīmad-Bhāgavatam:
+> 
+> > athāpi te deva padāmbuja-dvaya-  
+> > prasāda-leṣānugṛhīta eva hi  
+> > jānāti tattvaṁ bhagavan-mahimno  
+> > na cānya eko 'pi ciraṁ vicinvan
+> 
+> "My Lord, one who is favored by even a slight trace of the mercy of Your lotus feet can understand the greatness of Your personality. But those who speculate in order to understand the Supreme Personality of Godhead are unable to know You, even though they continue to study the Vedas for many years" (SB [10.14.29](https://gitabase.com/eng/sb/10/14/29)).
+> 
 
 # Others Opinions: From Quora
 ## Answer 1
