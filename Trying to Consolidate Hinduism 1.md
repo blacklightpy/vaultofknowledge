@@ -379,7 +379,7 @@ My Philosophy: Achintya Bheda-Abheda
 
 ---
 
-Delusion of Prabhupada.
+Prabhupada's Mistake, According to Me:
 
 He says Jnaana Yoga is not a path to devotion, only Bhakthi Yoga is. He says with Bhakthi, one performs Karma Yoga as well, and that leads to the attainment of Brahmaan. However, he says that only Bhakthi can secure oneself to this state, and without it, one will fall out of it.
 
@@ -387,4 +387,4 @@ This is where Raaja Yoga becomes important. Jnaana Yoga leads us to understandin
 
 So when one falls out of Bhakthi, the Jnaana within him secures him by itself with the knowledge of non-duality, and it reminds him to turn to the path of Bhakthi to live in the material world. So while Bhakthi Yoga without Jnaana Yoga leads one to have to constantly seek devotion by changing their mind, Bhakthi Yoga through Jnaana Yoga leads one to seek devotion due to a holistic understanding.
 
-So there will be no problem of believing without reason. Of course, belief has to be beyond material reasonin
+So there will be no problem of believing without reason. Of course, wisdom has to be beyond logical reasoning with worldly analogies, due to the limitations of worldly language, however it has to based on reasons that satisfy one's own mind, or else there will be internal conflicts. This is what Jnaana Yoga solves.
