@@ -400,3 +400,10 @@ Microcosm is the Human Body. Macrocosm is the Universe.
 
 Maimonaides: God's relationship to the universe is similar to the intellect's relationship to the human.
 Plato, Stoics, Neo-Platonists
+
+Saguna Brahmaan: Theos (God) / Ousia (Divine Nature)
+Nirguna Brahmaan: To Hen (The One) / Hyper-Ousious (Beyond Nature)
+
+---
+
+Apophatic Theology (Negating), proposed by Pseudo-Dionysius the Areopagite
