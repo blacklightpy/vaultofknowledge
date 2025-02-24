@@ -351,6 +351,14 @@ Sahasra Naama:
 - Shiva Sahasra Naama
 - Vishnu Sahasra Naama
 
+Thripura Sundari or Adi Para Shakthi is the only God. Krishna is her male form.
+
+Thirodhaanam means concealing.
+
+Shri Yantra is called Nava Yoni Chakraa (Nine Womb Wheel).
+
+Condom companies claim that Yoni meaning Womb and Mons Pubis meant that it is celebrated in the East, just as the breasts are exaggerated. But this is misleading advertising. While sexuality was not shamed like in the West, sensual pleasures were seen as misleading from the ultimate reality to which the material world is only a veil.
+
 ---
 
 Hysteresis Analogy:
@@ -369,5 +377,3 @@ My Philosophy: Achintya Bheda-Abheda
 - Has Distinctions between Creator and Creation
 - Ultimately, everything arises from one Reality
 
-
-Thirodhaanam means concealing.
