@@ -261,9 +261,24 @@
               "icon": "lucide-file",
               "title": "The Problem of Making Excessive Distinctions"
             }
+          },
+          {
+            "id": "788cc6ee64eeae4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions to LLMs 4 - The Problem of Making Excessive Distinctions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions to LLMs 4 - The Problem of Making Excessive Distinctions"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -459,10 +474,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "515bd1951694c7ed",
+  "active": "788cc6ee64eeae4a",
   "lastOpenFiles": [
-    "Direction of Fit.md",
+    "Questions to LLMs 4 - The Problem of Making Excessive Distinctions.md",
     "The Problem of Making Excessive Distinctions.md",
+    "Direction of Fit.md",
     "Trying to Consolidate Hinduism 1.md",
     "07. Miscellaneous/Religions/Hinduism/Puranas.md",
     "03. Culture/Culture/Hindu Culture.md",
@@ -488,7 +504,6 @@
     "My way of classifying religions.md",
     "Paths in Hinduism.md",
     "07. Miscellaneous/Religions/Hinduism Notes.md",
-    "01. Personal/Daily Notes/Entry of 13th Feb, 2025.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
