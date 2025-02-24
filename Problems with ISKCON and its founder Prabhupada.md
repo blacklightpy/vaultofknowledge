@@ -6,13 +6,13 @@
 
 Source: https://prabhupadavani.org/transcriptions/720420sbhk/ (A talk addressing children, discussing Sreemad Bhagavatham 7.6.1, the story of Hiranyakashipu and Prahlaada)
 
-> This is a verse spoken by Prahlāda Mahārāja, Prahlāda Mahārāja, when he was a five-years-old boy, like all these children. _Kaumāra. Kaumāra_ age is called from five years to ten years. That is called _kaumāra._ So Prahlāda Mahārāja was born of an atheist father. **The father was atheist number one, Hiraṇyakaśipu. He is described as _rākṣasa,_ demon, like that. _Daitya. Daitya_ means demon.**
+> This is a verse spoken by Prahlāda Mahārāja, Prahlāda Mahārāja, when he was a five-years-old boy, like all these children. _Kaumāra. Kaumāra_ age is called from five years to ten years. That is called _kaumāra._ So Prahlāda Mahārāja was born of an atheist father. ==The father was atheist number one, Hiraṇyakaśipu. He is described as _rākṣasa,_ demon, like that. _Daitya. Daitya_ means demon.==
 
 He repeats "atheist number one" a couple of times. Although Hiranyakashipu's fascism is what makes us hate him.
 
-> **There are two classes of men. One class is called _daitya_ and the other class is called _devata. Dvau bhūta-sargau loke daiva āsura eva ca_ [Bg. 16.6]. There are two classes of men, known as _daiva,_ and another, _asura. Viṣṇu bhaktaḥ bhaved daiva āsuras tad viparyayaḥ._ Those who are devotees of the Lord, they are called _daiva_ or _devata,_ demigods. And those who are just the opposite number, they are called _daitya,_ or demon.**
+> ==There are two classes of men. One class is called _daitya_ and the other class is called _devata. Dvau bhūta-sargau loke daiva āsura eva ca_ [Bg. 16.6]. There are two classes of men, known as _daiva,_ and another, _asura. Viṣṇu bhaktaḥ bhaved daiva āsuras tad viparyayaḥ._ Those who are devotees of the Lord, they are called _daiva_ or _devata,_ demigods. And those who are just the opposite number, they are called _daitya,_ or demon.==
 
-> **He was very careful not to allow anyone. He appointed teachers for his son, strictly prohibiting about... Just like nowadays it has become..., what is called? State? Secular state. "Don't talk of God." This is the present situation of the world, atheist class. "Don't talk of God."**
+> ==**He was very careful not to allow anyone. He appointed teachers for his son, strictly prohibiting about... Just like nowadays it has become..., what is called? State? Secular state. "Don't talk of God." This is the present situation of the world, atheist class. "Don't talk of God."**==
 
 He attacks "secularism" than Hiranyakashipu's fascism.
 
