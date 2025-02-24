@@ -415,7 +415,7 @@ So when Aham Kaara emerges from Mahat Tattva, many worlds are formed.
 
 ---
 
-Chakras (From https://himalayaninstitute.org/online/chakras-link-macrocosm-microcosm):
+Chakras ( Snippets from https://himalayaninstitute.org/online/chakras-link-macrocosm-microcosm):
 
 > The chakras are fields of concentrated consciousness where three or more nadis (currents of prana) intersect and in which the pranic forces are shaped for a particular purpose. The interaction of prana and the five gross elements of Sankhya—earth, water, fire, air, and space—gives shape to our human form as well as the physical world. We have flesh and bones. We experience the flow of blood and lymph, the fire in the belly, and the breath of life, all of which exist in a space we identify as our body.
 
@@ -438,7 +438,7 @@ Basically, I guess it's all about paying attention to your body, with the unders
 
 ---
 
-All about Tantra (From https://himalayaninstitute.org/online/enchanted-world-tantra/):
+All about Tantra (Snippets from https://himalayaninstitute.org/online/enchanted-world-tantra/):
 
 > Depending on whom you ask, tantra is the yoga of sex, black magic, complicated rituals, worship of frightful deities, meditation on yantras and mantras, alchemy, or a means for tapping into the mystical powers of the body. There is some truth in all these things—tantra is a vast trove of esoteric wisdom embracing medicine, astrology, philosophy, and spiritual practice. The applications of tantra range from cures for snake bite or smallpox to finding stolen jewelry, gaining worldly powers of all kinds, or attaining the highest spiritual wisdom.
 
@@ -448,17 +448,21 @@ All about Tantra (From https://himalayaninstitute.org/online/enchanted-world-tan
 
 **Glossary**
 
-Shakthi: Creative Principle, Feminine Power
-Shakthi Saadhana: Spiritual discipline that leads to the realization of the divine force within.
-Praana Shakti: Life force, the Awakened aspect of the primordial pool of consciousness and energy
-Kundalini Shakthi: Dormant potential energy that can be awakened with Yoga
-Sri Chakra: Geometrical form of Sri Vidya, A yantra which is a complete map of the microcosm and macrocosm.
-Sri Vidya: Auspicious Wisdom
-Mantra: A sacred sound used for meditation or to effect change on the subtle level
+- **Shakthi:** Creative Principle, Feminine Power
+- **Shakthi Saadhana:** Spiritual discipline that leads to the realization of the divine force within.
+- **Praana Shakti:** Life force, the Awakened aspect of the primordial pool of consciousness and energy
+- **Kundalini Shakthi:** Dormant potential energy that can be awakened with Yoga
+- **Sri Chakra:** Geometrical form of Sri Vidya, A yantra which is a complete map of the microcosm and macrocosm.
+- **Sri Vidya:** Auspicious Wisdom
+- **Mantra:** A sacred sound used for meditation or to effect change on the subtle level
+- **Yantra:** Geometric patterns used in rituals and meditation to provide a locus to concentrate and focus Shakthi
+- **Yogini:** Forces of consciousness, personified as goddesses or spirits ruling over the mind, negative and positive
 
-Yantra: 
+**Praana Shakthi** (Basically, it is breath)
 
-Geometric patterns used in rituals and meditation that provide a locus to concentrate and focus shakti.
+> “Breathe into your toes . . . your liver . . . your sacrum. . . ” No doubt you have heard or given this kind of instruction in a yoga class. Of course we don’t literally breathe into anything other than the lungs, yet most people understand these instructions, and we dutifully bring mental awareness of the breath to the area of interest. We intuit something profound: the intimate connection between the breath, the mind, and the mysterious variable in the equation—prana.
 
-Yogini
-Forces of consciousness with both psychological and cosmic counterparts. The powers in the deeper levels of instinctual and intuitive consciousness. Often understood as goddesses ruling over the forces of nature and the forces within us, both negative and positive.
+> When this creative energy is manifest, the tantrics refer to it as prana shakti, or just shakti. The unmanifest fundamental force of intelligence is called kundalini shakti. Together, prana shakti and kundalini shakti are the ultimate creative force of being—the Divine Mother.
+
+**About Nadis** (How Praana operates and forms the subtle mind)
+
