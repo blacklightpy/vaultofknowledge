@@ -377,6 +377,8 @@ My Philosophy: Achintya Bheda-Abheda
 - Has Distinctions between Creator and Creation
 - Ultimately, everything arises from one Reality
 
+But I hear Achintya Bheda Abheda actually considers reality as Brahmaan + his Potencies.
+
 ---
 
 Prabhupada's Mistake, According to Me:

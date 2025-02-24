@@ -278,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -310,7 +310,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"## Comments\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -474,8 +474,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "9b0c894cb5bf3d9c",
   "lastOpenFiles": [
+    "03. Culture/Culture/Hindu Culture.md",
+    "Problems with ISKCON and its founder Prabhupada.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
     "06. Collected Knowledge/Islamic Rules on War.md",
     "06. Collected Knowledge/How to make a Microkernel.md",
@@ -495,13 +497,11 @@
     "01. Personal/Productivity/Productivity Tips.md",
     "06. Collected Knowledge/Studying Incest.md",
     "06. Collected Knowledge/Troubles with Reasoning with Muslims.md",
-    "Problems with ISKCON and its founder Prabhupada.md",
     "The Problem of Making Excessive Distinctions.md",
     "Questions to LLMs 4 - The Problem of Making Excessive Distinctions.md",
     "Direction of Fit.md",
     "Trying to Consolidate Hinduism 1.md",
     "07. Miscellaneous/Religions/Hinduism/Puranas.md",
-    "03. Culture/Culture/Hindu Culture.md",
     "_images/Koshas and Shareeras illustrated.png",
     "_images/Tri Shareera illustration.png",
     "05. Organized Knowldge - New Format",
