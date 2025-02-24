@@ -415,7 +415,7 @@ So when Aham Kaara emerges from Mahat Tattva, many worlds are formed.
 
 ---
 
-Chakras:
+Chakras (From https://himalayaninstitute.org/online/chakras-link-macrocosm-microcosm):
 
 > The chakras are fields of concentrated consciousness where three or more nadis (currents of prana) intersect and in which the pranic forces are shaped for a particular purpose. The interaction of prana and the five gross elements of Sankhya—earth, water, fire, air, and space—gives shape to our human form as well as the physical world. We have flesh and bones. We experience the flow of blood and lymph, the fire in the belly, and the breath of life, all of which exist in a space we identify as our body.
 
@@ -432,4 +432,33 @@ Chakras:
 
 > One popular example of a tantric practice in which the five gross elements are assigned to five associated chakras is bhuta shuddhi—purification of the bhutas (elements). The intention is to restore balance to the interplay of the elements and prana in the subtle body. The practice includes visualization of yantras (geometric shapes and colors associated with the elements) in the assigned chakras, mantra recitation, and pranayama. This harmonizing and concentrating of the powers of the body and mind facilitates meditation and awakening of the deeper and more subtle levels of awareness, thus reintegrating consciousness.
 
-Basically, 
+Basically, I guess it's all about paying attention to your body, with the understanding that the body is a manifestation of consciousness.
+
+> Tantra uses the chakra model to describe our connection to the macrocosm, and how to reclaim our pure, undistorted nature. With a comprehensive and holistic understanding of our inner and outer worlds, the chakra systems provide an invaluable context to build a life of our choosing. As Pandit Rajmani Tigunait writes in _The Practice of the Yoga Sutra_ (sutra 2:18), “The human body, more precisely the chakras—the vortices of consciousness in the body—are the gateway to discovering the mystery of the universe and our life in it.”
+
+---
+
+All about Tantra (From https://himalayaninstitute.org/online/enchanted-world-tantra/):
+
+> Depending on whom you ask, tantra is the yoga of sex, black magic, complicated rituals, worship of frightful deities, meditation on yantras and mantras, alchemy, or a means for tapping into the mystical powers of the body. There is some truth in all these things—tantra is a vast trove of esoteric wisdom embracing medicine, astrology, philosophy, and spiritual practice. The applications of tantra range from cures for snake bite or smallpox to finding stolen jewelry, gaining worldly powers of all kinds, or attaining the highest spiritual wisdom.
+
+> These various traditions share a worldview, summarized in the Sanskrit aphorism Tatha brahmande, yatha pindande (“As in the macrocosm, so in the microcosm”). According to tantra, the whole can be seen and experienced in the partial; the partial is an expression of the whole.
+
+> The ritualistic paths of tantra _(kaula marga)_, its meditative paths _(samaya marga)_, and a mixture of the two paths _(mishra marga)_ utilize the tools of mantra, yantra, and the powers of the body, mind, and senses to awaken and concentrate shakti. Mantras are subtle vibrations which restructure energetic patterns, reweaving the fabric of manifestation. Yantras (geometric figures) act in a similar way to provide a locus and organizational pattern for shakti. The ultimate yantra is the human body—the locus for the expression of the vast range of divine powers and the capacity for self-realization. The tantric traditions have developed the concepts of kundalini shakti and the chakras, and have elaborated the practices of asana, pranayama, bandhas, and mudras. These practices are designed to awaken and harness shakti in the body and mind, transforming latent potential energy into powerful active energy.
+
+**Glossary**
+
+Shakthi: Creative Principle, Feminine Power
+Shakthi Saadhana: Spiritual discipline that leads to the realization of the divine force within.
+Praana Shakti: Life force, the Awakened aspect of the primordial pool of consciousness and energy
+Kundalini Shakthi: Dormant potential energy that can be awakened with Yoga
+Sri Chakra: Geometrical form of Sri Vidya, A yantra which is a complete map of the microcosm and macrocosm.
+Sri Vidya: Auspicious Wisdom
+Mantra: A sacred sound used for meditation or to effect change on the subtle level
+
+Yantra: 
+
+Geometric patterns used in rituals and meditation that provide a locus to concentrate and focus shakti.
+
+Yogini
+Forces of consciousness with both psychological and cosmic counterparts. The powers in the deeper levels of instinctual and intuitive consciousness. Often understood as goddesses ruling over the forces of nature and the forces within us, both negative and positive.
