@@ -529,4 +529,4 @@ WTH XD.
 
 And Chitta when referred to as a fourth tattva is just the functional term for the three Antahkaranas combined. In Yoga, Chitta refers to Buddhi.
 
-Chitta is also considered the subconscious storehouse. More like the collective unconscious according to others. i.e. the sum of all people's memories not currently acti.
+Chitta is also considered the subconscious storehouse. More like the collective unconscious according to others. i.e. the sum of all people's memories not currently active.
