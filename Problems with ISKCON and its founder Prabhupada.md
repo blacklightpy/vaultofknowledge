@@ -6,13 +6,13 @@
 
 Source: https://prabhupadavani.org/transcriptions/720420sbhk/ (A talk addressing children, discussing Sreemad Bhagavatham 7.6.1, the story of Hiranyakashipu and Prahlaada)
 
-> This is a verse spoken by Prahlāda Mahārāja, Prahlāda Mahārāja, when he was a five-years-old boy, like all these children. _Kaumāra. Kaumāra_ age is called from five years to ten years. That is called _kaumāra._ So Prahlāda Mahārāja was born of an atheist father. ==The father was atheist number one, Hiraṇyakaśipu. He is described as _rākṣasa,_ demon, like that. _Daitya. Daitya_ means demon.==
+> This is a verse spoken by Prahlāda Mahārāja, Prahlāda Mahārāja, when he was a five-years-old boy, like all these children. _Kaumāra. Kaumāra_ age is called from five years to ten years. That is called _kaumāra._ So Prahlāda Mahārāja was born of an atheist father. **The father was atheist number one, Hiraṇyakaśipu. He is described as _rākṣasa,_ demon, like that. _Daitya. Daitya_ means demon.**
 
 He repeats "atheist number one" a couple of times. Although Hiranyakashipu's fascism is what makes us hate him.
 
-> ==There are two classes of men. One class is called _daitya_ and the other class is called _devata. Dvau bhūta-sargau loke daiva āsura eva ca_ [Bg. 16.6]. There are two classes of men, known as _daiva,_ and another, _asura. Viṣṇu bhaktaḥ bhaved daiva āsuras tad viparyayaḥ._ Those who are devotees of the Lord, they are called _daiva_ or _devata,_ demigods. And those who are just the opposite number, they are called _daitya,_ or demon.==
+> **There are two classes of men. One class is called _daitya_ and the other class is called _devata. Dvau bhūta-sargau loke daiva āsura eva ca_ [Bg. 16.6]. There are two classes of men, known as _daiva,_ and another, _asura. Viṣṇu bhaktaḥ bhaved daiva āsuras tad viparyayaḥ._ Those who are devotees of the Lord, they are called _daiva_ or _devata,_ demigods. And those who are just the opposite number, they are called _daitya,_ or demon.**
 
-> ==**He was very careful not to allow anyone. He appointed teachers for his son, strictly prohibiting about... Just like nowadays it has become..., what is called? State? Secular state. "Don't talk of God." This is the present situation of the world, atheist class. "Don't talk of God."**==
+> **He was very careful not to allow anyone. He appointed teachers for his son, strictly prohibiting about... Just like nowadays it has become..., what is called? State? Secular state. "Don't talk of God." This is the present situation of the world, atheist class. "Don't talk of God."**
 
 He attacks "secularism" than Hiranyakashipu's fascism.
 
@@ -54,11 +54,15 @@ Calling it Sanaathana is an attempt to say that there is one eternal kind of mor
 > **So _māyā_ is there. _Māyā_ does not want to lead the culprits. Because one who is not Kṛṣṇa conscious, he's a culprit, so _māyā_ wants to give such person more and more trouble.** But Vaiṣṇava risks his life to snatch him from the hands of _māyā._ So _māyā,_ of course, when he [she] sees that "This man, this living entity, is now corrected; he is now taking to Kṛṣṇa consciousness," then she will not disturb.
 
 ****
+Source: https://krishnaconsciousnessmovement.com/?p=14302 (Snippets from Collected Teachings Book Summary-Vol #5)
+
 About Krishna's Raasa Leela (Nov 15 1968):
 
 > ….Madhudviṣa: Prabhupāda, could you tell us something about Kṛṣṇa’s rasa-līlā?
 > 
 > Prabhupāda: (pause) Kṛṣṇa’s rasa-līlā should not be discussed in public meeting. It is most confidential. Lord Caitanya Mahāprabhu never discussed. He discussed Kṛṣṇa’s pastimes, līlā with gopīs, with His confidential, very confidential circle. Or those who are… Lord Caitanya had many thousands of followers, and… He was not discussing even within these five persons, śrī-kṛṣṇa-caitanya prabhu-nityānanda śrī-advaita gadādhara śrīvāsādi, Nityānanda, Advaita, Gadādhara, Śrīvāsa, and Himself, these five persons. So when He was at Navadvīpa, He was not discussing even with them, what to speak of others. **He set up this example so that in future people may be very cautious. Because unless one understands what is Kṛṣṇa, how he can understand Kṛṣṇa’s pastime?** So this discussion of rasa-līlā is the summit of Kṛṣṇa consciousness. It is not ordinary thing. They’re purely spiritual. There is nothing material. But because we are not completely free from material concept of life, we may think that Kṛṣṇa’s līlā is something like this material. So that is offense. **But that is the ultimate goal, to understand Kṛṣṇa’s rasa-līlā.** But you have to wait for relishing that Kṛṣṇa’s rasa-līlā, to become more perfect in Kṛṣṇa consciousness. Anarthāpagamam. Anartha means when one is freed from all anarthas.
+
+What's bold here is what the Krishna Consciousness Movement made bold. What I'd like to show is how he is trying to cover up about Raasa Leela to appease the Western audience's worldview.
 
 ---
 
@@ -69,8 +73,14 @@ Pleasing Christians (Dec 4 1968):
 > 
 > Prabhupāda: That was circumstantial because we have to take into consideration of the situation of the country and the people. Where there is no other food, one must live. Then meat-eating is not bad in that case. Because survival is required. But when there are substitutes… Everyone is eating another life. That is the law of nature.
 
----
+To be fair, he did claim that eating meat is okay in the sense that it had to be offered to God. But it still does raise concerns as to how it could be moral to eat another "sentient" being, something which he does not address.
 
+---
+# Sites
+- Prabhupada Vani: https://prabhupadavani.org
+- Vani Quotes: https://vaniquotes.org
+
+---
 # From his Texts
 
 From his Narada Bhakthi Sutra [here](https://gitabase.com/eng/NBS/75), it considers logic as useless, and Guru-Shishya Parampara as the one true path.
