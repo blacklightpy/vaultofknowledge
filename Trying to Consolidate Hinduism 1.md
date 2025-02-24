@@ -499,3 +499,30 @@ About Pradhana vs Mahat Tattva:
 > 
 > The bitter fact is that the Happiness which the Gyanis experience is samadhi (governed by Vidya Maya) is so immense, that it can last for several weeks, even months and years. Due to the nature of such ineffable bliss, the Gyani thinks he has attained moksha, but that is far from the truth. When he goes out in the world again, Avidya clutches him/her again.
 
+---
+
+From https://www.yesvedanta.com/tattva-bodha-discourses/discourse-27/:
+
+Air can be heard and felt. Fire can be heard, felt and seen. Water can be heard, felt, seen and tasted. Earth can be heard, smelt, seen, tasted and smelt. So as the elements get grosser, the easier they are to relate with, as they involve more of your senses.
+
+Thus, makes sense:
+> eteṣāṃ pañca-tattvānāṃ madhye ākāśasya sāttvikāṃśāt, śrotrendriyaṃ saṃbhūtam
+> Among these five elements, from the sāttvika aspect of space is born the organ of hearing (the ear).
+> 
+> vāyoḥ sāttvikāṃśāt tvagindriyaṃ saṃbhūtam
+> From the sāttvika aspect of air is born the organ of touch (skin).
+> 
+> agneḥ sāttvikāṃśāt caksurindriyaṃ saṃbhūtam
+> From the sāttvika aspect of fire is born the organ of sight (the eye).
+> 
+> jalasya sāttvikāṃśāt rasanendriyaṃ saṃbhūtam
+> From the sāttvika aspect of water is born the organ of taste (the tongue).
+> 
+> pṛthivyāḥ sāttvikāṃśat ghrāṇendriyaṃ saṃbhūtam
+> From the sāttvika aspect of earth is born the organ of smell (the nose).
+
+But they got it wrong lol:
+
+> The only quality that can be associated with space is sound because sound requires a medium to travel, and space provides that medium. Even in the absence of air, sound can still propagate through space **(as demonstrated in experiments with sound waves in a vacuum)**. This is why in the Vedāntic understanding, sound is considered the exclusive attribute of space. Therefore, from the sāttvika aspect of space is born the organ of hearing (the ear).
+
+WTH XD.
