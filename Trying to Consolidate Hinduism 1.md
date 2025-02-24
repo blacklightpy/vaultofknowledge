@@ -404,6 +404,32 @@ Plato, Stoics, Neo-Platonists
 Saguna Brahmaan: Theos (God) / Ousia (Divine Nature)
 Nirguna Brahmaan: To Hen (The One) / Hyper-Ousious (Beyond Nature)
 
+Apophatic Theology (Negating), proposed by Pseudo-Dionysius the Areopagite
+
+---
+Creation / Mahat Tattva as Hiranyagarbha: 
+
+>  In Dharmarājā Adhvarīndrā’s Vedānta Paribhāśā, the semblance or reflection (pratibimba) of pure Brahman associated with Māhat is called Hiraṇyagarbha. Hiraṇyagarbha is the creator of the physical cosmos, who has the tanmantras and pañcabhūtas as his body. He directs the creation of the jīvās according to the will of Īśvara. 
+
+So when Aham Kaara emerges from Mahat Tattva, many worlds are formed.
+
 ---
 
-Apophatic Theology (Negating), proposed by Pseudo-Dionysius the Areopagite
+Chakras:
+
+> The chakras are fields of concentrated consciousness where three or more nadis (currents of prana) intersect and in which the pranic forces are shaped for a particular purpose. The interaction of prana and the five gross elements of Sankhya—earth, water, fire, air, and space—gives shape to our human form as well as the physical world. We have flesh and bones. We experience the flow of blood and lymph, the fire in the belly, and the breath of life, all of which exist in a space we identify as our body.
+
+> The gross elements appear in the popular depiction of five major chakras associated with corresponding areas of the body: muladhara and the earth element with the pelvic floor, svadhishthana and the water element with the pelvis, manipura and the fire element with the navel, anahata and the air element with the heart, and vishuddhi and the space element with the throat. To round out the popular seven-chakra system, the ajna chakra is depicted in the head, and the sahasrara at or above the crown of the head. Practically speaking, the chakras are vortices, charged fields of pranic energy operating the organs, glands, and vital functions of body and mind. 
+
+> Muladhara, literally “root support,” is the vortex of pranic energy, both active and potential, forming the foundation of our life on the physical plane. Svadhishthana and the water element endow us with the capacities for nourishment, taste, and sensual desire and pleasure. The fire element, associated with manipura chakra in the currently popular chakra system, is the source of vitality and the power of transformation that can convert bread and milk into flesh, bone, and blood, and propel desires into action and fulfillment.
+
+> One way of understanding these three pranic centers is from the perspective of survival, pleasure, and power—the aspects of our instinctive life which we share with all living creatures, and which are the reservoir and wellsprings of our life energy. Spiritual practice starts with these powerful forces, since access to higher realms of consciousness is difficult if we are weak, or our energy is completely controlled by survival instincts and the self-centered pursuit of pleasure or power.
+
+> [!QUOTE]
+> “The human body, more precisely the chakras—the vortices of consciousness in the body—are the gateway to discovering the mystery of the universe and our life in it.”
+> 
+> —_The Practice of the Yoga Sutra_ by Pandit Rajmani Tigunait
+
+> One popular example of a tantric practice in which the five gross elements are assigned to five associated chakras is bhuta shuddhi—purification of the bhutas (elements). The intention is to restore balance to the interplay of the elements and prana in the subtle body. The practice includes visualization of yantras (geometric shapes and colors associated with the elements) in the assigned chakras, mantra recitation, and pranayama. This harmonizing and concentrating of the powers of the body and mind facilitates meditation and awakening of the deeper and more subtle levels of awareness, thus reintegrating consciousness.
+
+Basically, 
