@@ -309,11 +309,13 @@ From Hath Yoga Pradipika, Chapter 4, Verses 3-7:
 > यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||
 > तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||
 > 
-> Raaja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padama, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
+> Raaja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padam, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
 > 
 > Just as with salt dissolved in water becomes one with it, so the union of Atman and Manas (mind) is denominated Samaadhi.
 > 
 > When the breath becomes exhausted, and mind becomes Praliyate (still, reabsorbed), they fuse into union called Samaadhi. This equality, this oneness of the two, the living self and the absolute self, when all Sankalpa (desire, cravings) end is called Samaadhi.
+
+More words: Kevala Jnaana / Kaivalya, Apavarga, Nihsreyasa, Param Padam, Brahma Bhaava, Brahma Jnaana and Brahma Sthithi.
 
 From Wikipedia:
 
@@ -344,6 +346,10 @@ About Shaivism:
 Sahasra Naama:
 
 > **Sahasranama** are medieval Indian texts that list a thousand names derived from aspects and epithets of a deity. They are devotional hymns (stotras), containing thousands of names of the deity.
+
+- Lalitha Sahasra Naama
+- Shiva Sahasra Naama
+- Vishnu Sahasra Naama
 
 ---
 
