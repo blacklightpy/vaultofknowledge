@@ -357,7 +357,7 @@ Thirodhaanam means concealing.
 
 Shri Yantra is called Nava Yoni Chakraa (Nine Womb Wheel).
 
-Condom companies claim that Yoni meaning Womb and Mons Pubis meant that it is celebrated in the East, just as the breasts are exaggerated. But this is misleading advertising. While sexuality was not shamed like in the West, sensual pleasures were seen as misleading from the ultimate reality to which the material world is only a veil.
+**Condom companies claim that Yoni meaning Womb and Mons Pubis meant that it is celebrated in the East, just as the breasts are exaggerated unlike in the West where it's shamed. But this is misleading advertising. While sexuality was not shamed like in the West, sensual pleasures were seen as misleading from the ultimate reality to which the material world is only a veil.**
 
 ---
 
@@ -377,3 +377,14 @@ My Philosophy: Achintya Bheda-Abheda
 - Has Distinctions between Creator and Creation
 - Ultimately, everything arises from one Reality
 
+---
+
+Delusion of Prabhupada.
+
+He says Jnaana Yoga is not a path to devotion, only Bhakthi Yoga is. He says with Bhakthi, one performs Karma Yoga as well, and that leads to the attainment of Brahmaan. However, he says that only Bhakthi can secure oneself to this state, and without it, one will fall out of it.
+
+This is where Raaja Yoga becomes important. Jnaana Yoga leads us to understanding of not just Non-Duality, but also Duality. And this leads us to Bhakthi Yoga, and Karma Yoga emerges as a result of this. When all three are done together, it is called Raaja Yoga.
+
+So when one falls out of Bhakthi, the Jnaana within him secures him by itself with the knowledge of non-duality, and it reminds him to turn to the path of Bhakthi to live in the material world. So while Bhakthi Yoga without Jnaana Yoga leads one to have to constantly seek devotion by changing their mind, Bhakthi Yoga through Jnaana Yoga leads one to seek devotion due to a holistic understanding.
+
+So there will be no problem of believing without reason. Of course, belief has to be beyond material reasonin
