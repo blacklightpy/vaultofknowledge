@@ -7,34 +7,34 @@ This is wrong, correct it.
 - Brahma Puranas
 	- Brahma Purana
 	- Brahmaanda Purana
-		- Lalita Sahasranamam
-		- Adyatma Ramayana (Tries to reconcile Rama Bhakti with Advaita Vedanta)
+		- Lalita Sahasra Naamam
+		- Adyatma Raamayana (Tries to reconcile Rama Bhakti with Advaita Vedanta)
 	- Brahmavaivarta Purana
-	- Markandeya Purana
+	- Maarkandeya Purana
 		- Devi Mahatmyam
 	- Bhavishya Purana
 - Vaishnava Puranas
 	- Vishnu Purana
-	- Bhagavata Purana / Srimad Bhagavatam
-	- Naradiya Purana
+	- Bhaagavatha Purana / Srimad Bhagavatam
+	- Naaradeeya Purana
 	- Garuda Purana
 	- Padma Purana
-	- Vamana Purana
+	- Vaamana Purana
 	- Varaha Purana
 	- Purana Purana
-	- Kurma Purana
-	- Matsya Purana
+	- Koorma Purana
+	- Malsya Purana
 - Shaiva Puranas
 	- Shiva Linga Purana
 	- Skanda Purana
-	- Vayu Purana
+	- Vaayu Purana
 	- Agni Purana
 - Shakta Puranas
-	- Devi Bhagavata Purana
+	- Devi Bhaagavatha Purana
 # Upa Puranas
 - Sanat-Kumara Purana
 - Narasimha Purana
-- Brihan-Naradiya Purana
+- Brihan-Naaradiya Purana
 - Siva-Rahasya Purana
 - Durvasa Purana
 - Kapila Purana
@@ -44,9 +44,9 @@ This is wrong, correct it.
 - Kalika Purana
 - Samba Purana
 - Nandi Purana
-- Surya Purana
+- Soorya Purana
 - Parasara Purana
-- Vasishtha Purana
+- Vasishta Purana
 - Ganesha Purana
 - Mudgala Purana
 - Hamsa Purana

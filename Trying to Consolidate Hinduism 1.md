@@ -360,3 +360,12 @@ From Wikipedia page on Vaasanaa:
 > Writing from an Advaita Vedanta perspective, Waite refers to a model offered by Edward de Bono:
 > 
 > If you take a jelly, solidified and turned out onto a plate, and you trickle very hot water onto the top, it will run off onto the plate and leave behind a faint channel where the hot water melted the jelly. If you now pour more hot water, it will tend to run into the same channels as before, since these offer the line of least resistance, and deepen the channels. If this is done repeatedly, very deep channels will form and it will become difficult, if not impossible, to get the water to run anywhere else. The equivalent of an entrenched habit has been formed.
+
+---
+
+My Philosophy: Achintya Bheda-Abheda
+
+- Inconceivable with the Mind (characteristics, the number of created worlds, etc.)
+- Has Distinctions between Creator and Creation
+- Ultimately, everything arises from one Reality
+

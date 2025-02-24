@@ -420,7 +420,7 @@ From Link 2 above:
 > 
 > 11. Tantras — (a) Śivāgama 1. Kāmika 2. Sūkṣma 3. Candrajñāna 4. Yogarāja 5. Cintya 6. Kāraṇa 7. Makuṭha 8. Ajita 9. Raurava 10. Dīpta 11. Sahasra 12. Aṁśumat 13. Suprabheda
 > 
-> (b) Rudrāgama 1. Vijaya 2. Nihśvāsa 3. Svayambhūva 4. Anala 5. Vīra 6. Vimala 7. Mukhabimba 8. Prodgīta 9. Lalita10. Siddha 11. Santāna 12. Śarvokta 13. Pārameśvara 14. Kiraṇa 15. Vātula
+> (b) Rudrāgama 1. Vijaya 2. Nihśvāsa 3. Svayambhūva 4. Anala 5. Vīra 6. Vimala 7. Mukhabimba 8. Prodgīta 9. Lalita 10. Siddha 11. Santāna 12. Śarvokta 13. Pārameśvara 14. Kiraṇa 15. Vātula
 > 
 > (c) Śaktāgama – 1. Chinnamasta Tantra, 2. Gandharva T. 3. Ganapati T.4. Svacchanda T. 5. Guptasādhana T. 6. Jñānārṇava T. 7. Kākachandiśvara-kalpa T. 8. Nirvāṇa T.9. Kali T. 10. Niruttara T.11. Kāmakhya T.12. Kauḷavali T.13. Kubjika T. 14. Kulāchuḍāmaṇi T. 15. Kuṇḍalini T. 16. Malinivijayottara T. 17. Mātrikabheda T. 18. Māya T. 19. Netra T. 20. Nila Tantra T. 22. Saraswati T. 23. Tantra-loka T. 24. Tantra-rāja T. 25. Tāra T. 26. Vināśikha T. 27. Yogini T. 28. Yoni T. 29. Mahā-nirvāṇa T. 23. Prapañcasāra T. 24. Toḍala T. 25. Kulārṇava T. 26. Viṣṇu-yāmala T. 27. Rudra-yāmala T. 28. Brahma-yāmala T. 29. Kula-sāra T.
 > 
