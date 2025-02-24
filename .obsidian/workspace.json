@@ -409,7 +409,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -428,7 +429,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8fa703b6cd12adf0",
+  "active": "579497e35d0ab01b",
   "lastOpenFiles": [
     "Trying to Consolidate Hinduism 1.md",
     "Trying to find the reference for a verse.md",
