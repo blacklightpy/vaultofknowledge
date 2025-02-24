@@ -7,7 +7,7 @@ This is wrong, correct it.
 - Brahma Puranas
 	- Brahma Purana
 	- Brahmaanda Purana
-		- Lalita Sahasra Naamam
+		- Lalitha Sahasra Naamam
 		- Adyatma Raamayana (Tries to reconcile Rama Bhakti with Advaita Vedanta)
 	- Brahmavaivarta Purana
 	- Maarkandeya Purana

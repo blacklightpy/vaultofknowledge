@@ -369,3 +369,5 @@ My Philosophy: Achintya Bheda-Abheda
 - Has Distinctions between Creator and Creation
 - Ultimately, everything arises from one Reality
 
+
+Thirodhaanam means concealing.

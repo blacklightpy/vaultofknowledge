@@ -94,9 +94,9 @@ Saguna - All good attributes
 
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
 ## Books
-- Lalita Sahasranamam (from Brahmaanda Purana)
+- Lalitha Sahasra Naamam (from Brahmaanda Purana)
 - Saundarya Lahari (Tantra text)
-- Devi Mahatmyam (from Markandeya Purana)
+- Devi Maahaathmyam (from Maarkandeya Purana)
 ---
 ## Caste Divisions / Chatur Varnas
 - Brahmins
