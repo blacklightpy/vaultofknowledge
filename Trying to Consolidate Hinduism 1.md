@@ -526,3 +526,7 @@ But they got it wrong lol:
 > The only quality that can be associated with space is sound because sound requires a medium to travel, and space provides that medium. Even in the absence of air, sound can still propagate through space **(as demonstrated in experiments with sound waves in a vacuum)**. This is why in the Vedāntic understanding, sound is considered the exclusive attribute of space. Therefore, from the sāttvika aspect of space is born the organ of hearing (the ear).
 
 WTH XD.
+
+And Chitta when referred to as a fourth tattva is just the functional term for the three Antahkaranas combined. In Yoga, Chitta refers to Buddhi.
+
+Chitta is also considered the subconscious storehouse. More like the collective unconscious according to others. i.e. the sum of all people's memories not currently acti.
