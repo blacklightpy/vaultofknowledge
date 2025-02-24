@@ -54,7 +54,7 @@ Calling it Sanaathana is an attempt to say that there is one eternal kind of mor
 > **So _māyā_ is there. _Māyā_ does not want to lead the culprits. Because one who is not Kṛṣṇa conscious, he's a culprit, so _māyā_ wants to give such person more and more trouble.** But Vaiṣṇava risks his life to snatch him from the hands of _māyā._ So _māyā,_ of course, when he [she] sees that "This man, this living entity, is now corrected; he is now taking to Kṛṣṇa consciousness," then she will not disturb.
 
 ****
-About Krishna's Raasa Leela ():
+About Krishna's Raasa Leela (Nov 15 1968):
 
 > ….Madhudviṣa: Prabhupāda, could you tell us something about Kṛṣṇa’s rasa-līlā?
 > 

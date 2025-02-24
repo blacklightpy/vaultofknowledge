@@ -1,5 +1,5 @@
 # The Problem
-As I was studying Hinduism as part of creating this note: [[Trying to Consolidate Hinduism 1]], I saw in a website ([link here](https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/)) that the verse ==maha:jano ena gathas sapandha== appeared in the Mahabharatha, as a reply Arjuna gave to a Yaksha. But I was not able to find any source for it while looking at the texts, and when ChatGPT rewrote it for me, I was able to find some results, but outside of some mentions made by ISKCON/Hare Krishna founder Prabhupada.
+As I was studying Hinduism as part of creating this note: [[Trying to Consolidate Hinduism 1]], I saw in a website (link [here](https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/)) that the verse ==maha:jano ena gathas sapandha== appeared in the Mahabharatha, as a reply Arjuna gave to a Yaksha. But I was not able to find any source for it while looking at the texts, and when ChatGPT rewrote it for me, I was able to find some results, but outside of some mentions made by ISKCON/Hare Krishna founder Prabhupada.
 
 So I decided to track down the references. Actually it was my use of a simplified translation of Mahabharatha that led to me not finding it for the most part.
 
