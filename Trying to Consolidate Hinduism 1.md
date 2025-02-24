@@ -464,5 +464,38 @@ All about Tantra (Snippets from https://himalayaninstitute.org/online/enchanted-
 
 > When this creative energy is manifest, the tantrics refer to it as prana shakti, or just shakti. The unmanifest fundamental force of intelligence is called kundalini shakti. Together, prana shakti and kundalini shakti are the ultimate creative force of being—the Divine Mother.
 
-**About Nadis** (How Praana operates and forms the subtle mind)
+**About Nadis** (How Praana operates and forms the subtle body)
+
+---
+
+About Pradhana vs Mahat Tattva:
+
+> [!QUOTE]
+> Pradhan is Prakriti or Maya
+> 
+> It is referred to in Svetashvataropanishad :
+> 
+> > Pradhan purusheshvarah
+> > 
+> > Brahm, or Bhagavan, is the Lord of Pradhan and Purush (Jeevatma)
+> 
+> I’m not sure about Mahat-tattva, but I think it is the primeval and final resting place of before and after srishti, or Creation, and Mahapralaya, or final dissolution, respectively.
+> 
+> The Gyani, due to his billions of years of discriminating practices, overcomes all the principles of Maya that bind him, including mind, intellect, and ego, but is unable to overcome Mahaan (Mahat-tattva) and Pradhan. This is because Vidya-maya (Sattva-gun) is not possible to overcome by the Jeeva’s own efforts. The Divine Grace of Ishvara or Bhagavan is necessary to accomplish this.
+> 
+> All scriptures support this. The very basic practices of any serious Advaita adherent MUST include bhakti, or devotion, to any One of the Five Eternal Forms of God: Visnu, Shiva, Devi, Ganapati, or Surya-Narayana.
+> 
+> Even the Yog-sootras of Patanjali establish that the Favor of Ishvara is imperative after reaching the final stage of Samadhi, or to overcome Maya, whichever comes last.
+> 
+> This is because Maya, although inert on its own, has unimaginable Strength, being the Power of God.
+> 
+> > Daivi hysesa guna mayi mama maya duratyaya
+> > 
+> > Mam ekam prapadyante mayaam me taam tarantite
+> > 
+> > - Bhagavad Gita
+> > 
+> > This Divine Power of Mine, called Maya, is impossible to overcome. Those who surrender to Me (Sri Krsna) can easily overcome it by My Grace.
+> 
+> The bitter fact is that the Happiness which the Gyanis experience is samadhi (governed by Vidya Maya) is so immense, that it can last for several weeks, even months and years. Due to the nature of such ineffable bliss, the Gyani thinks he has attained moksha, but that is far from the truth. When he goes out in the world again, Avidya clutches him/her again.
 
