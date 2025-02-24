@@ -391,3 +391,12 @@ So when one falls out of Bhakthi, the Jnaana within him secures him by itself wi
 
 So there will be no problem of believing without reason. Of course, wisdom has to be beyond logical reasoning with worldly analogies, due to the limitations of worldly language, however it has to based on reasons that satisfy one's own mind, or else there will be internal conflicts. This is what Jnaana Yoga solves.
 
+---
+
+Verse: tatha brahmande, yatha pindande
+Translation: As in the macrocosm, so in the microcosm.
+
+Microcosm is the Human Body. Macrocosm is the Universe.
+
+Maimonaides: God's relationship to the universe is similar to the intellect's relationship to the human.
+Plato, Stoics, Neo-Platonists
