@@ -76,6 +76,11 @@ Pleasing Christians (Dec 4 1968):
 To be fair, he did claim that eating meat is okay in the sense that it had to be offered to God. But it still does raise concerns as to how it could be moral to eat another "sentient" being, something which he does not address.
 
 ---
+https://prabhupadabooks.com/sb/4/18/6?d=1&f=56621 (His translation and commentary of SB 4.18.6):
+
+> In this verse the words asadbhiḥ and adhṛta-vrataiḥ are important. **The word asadbhiḥ refers to the nondevotees. The nondevotees have been described in Bhagavad-gītā as duṣkṛtinaḥ (miscreants), mūḍhāḥ (asses or rascals), narādhamāḥ (lowest of mankind) and māyayāpahṛta-jñānāḥ (those who have lost their knowledge to the power of the illusory energy). All these persons are asat, nondevotees.** Nondevotees are also called gṛha-vrata, whereas the devotee is called dhṛta-vrata. The whole Vedic plan is that the misguided conditioned souls who have come to lord it over material nature should be trained to become dhṛta-vrata. This means that they should take a vow to satisfy their senses or enjoy material life only by satisfying the senses of the Supreme Lord. 
+
+---
 # Sites
 - Prabhupada Vani: https://prabhupadavani.org
 - Vani Quotes: https://vaniquotes.org
