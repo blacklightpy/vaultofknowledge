@@ -1,0 +1,1 @@
+For example, one can try to fit the world into their scripture, or fit their scripture to the world.
