@@ -537,5 +537,11 @@ But others say Chitta is intelligence + consciousness + mind. And they say it fo
 
 ---
 
+Saundarya Lahari and Advaita Tattva.
+
+> First 41 verses cover the detailed account of internal worship of the Mother. It consists of systematic exposition of the concept of kundalini, Sri Chakra, mantra (verses 32, 33). This depicts the Supreme Reality as non-dual but with a distinction between Shiva and Shakti, the power holder and Power, Being and Will. The Power, that is, the Mother or Maha Tripura Sundari, becomes the dominant factor and the power holder or Shiva becomes a substratum. The first verse itself clearly describes this idea. "United with Shakti, Shiva is endowed with power to create; or otherwise, he is incapable of even a movement." The same idea is brought out in verse 24, "Brahma creates the universe, Vishnu sustains, Rudra destroys, and Maheshwar absorbs every thing and assimilates into Sadashiva. On receiving mandate from thy creeper like brows, Sadasiva restores everything into activity as in the previous cycle." Such prominence of the Mother can be seen in verses 34 and 35 also. 
+
+---
+
 Tharka Shaasthra (The Science of Arguments)
 
