@@ -1,0 +1,8 @@
+- Praacheena Kavitrayam (Ancient Triumvirate Poets) (Bhakthi based)
+	- Thunchaththu Ezhuthachan
+	- Cherusseri Namboothiri
+	- Kunchan Nambier
+- Aadhunika Kavitrayam (Modern Triumvirate Poets) (Activism based)
+	- N. Kumaran Asan
+	- Vallathol Narayana Menon
+	- Ulloor S. Parameswara Iyer

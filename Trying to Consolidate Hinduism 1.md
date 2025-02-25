@@ -534,3 +534,8 @@ Chitta is also considered the subconscious storehouse. More like the collective 
 I feel like in Saankhya, Chitta (consciousness) is a part of Mahat / Buddhi itself.
 
 But others say Chitta is intelligence + consciousness + mind. And they say it forms Praana.
+
+---
+
+Tharka Shaasthra (The Science of Arguments)
+
