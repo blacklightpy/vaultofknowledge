@@ -109,7 +109,7 @@
 - Ontology (part of Schools of Thought)
 	- Principles of Nature (Tattvas)
 		- Saankhya Darshana
-			- 23 Principles (Consciousness forms the World)
+			- 23 Principles (Conscious Souls Experience the World)
 		- Advaita Darshana
 			- 36 Principles (Consciousness forms the Personal God that forms the World)
 	- Arguments and Counter Arguments (Vaada Prati-Vaada)
