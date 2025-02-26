@@ -627,3 +627,18 @@ Yoga Terminologies:
 
 ---
 
+Human Sacrifice?: https://vedabase.io/en/library/sb/5/9/ (SB 5:9 - Bharatha Maharaaja sacrificed to Kali)
+
+Avoid company of Disbelievers (SB 5:9, Description Prabhupada):
+
+> As advised by Śrī Caitanya Mahāprabhu: _asat-saṅga-tyāga — ei vaiṣṇava-ācāra._ One should strictly avoid the company of nondevotees, even though they may be family members.
+
+The "disbelivers" here were people who'd harm him for his disbelief, not typical nice people as we know.
+
+---
+
+The claim that Shankara did not allow Shoodras to study Vedas: https://hinduism.stackexchange.com/questions/17824/deadlock-in-sankaras-views
+
+- He'd consider anyone born Shoodra as his Guru if he identified with the consciousness
+- He commented on Vedaant Soothras that a Shoodra should never have access to Vedas
+
