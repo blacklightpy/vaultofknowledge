@@ -709,3 +709,26 @@ Again:
 
 Saying that God created all sciences in no way means that all publications are made by him. Science comes as a consequence of reality and perception. Science is validated based on consensus, not dogma.
 
+Truth spoken here:
+
+> The actions of a Brahmana, arising from his own nature, are serenity, self-control, austerity, purity, tolerance, honesty, knowledge of the Vedas, wisdom, and firm faith.
+> 
+> Note that this arises from birth ("arising from his own nature"), not nurture. This is the link between guNa and varNa.
+> 
+> So why doesn't this system seem to correspond to reality?
+> 
+> Well, when there is a contradiction, one of the assumptions must be wrong. Maybe the system is wrong?
+
+Casteist idiot distorting BG again:
+
+> [!QUOTE]
+> > **18.41:** Brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distinguished by the qualities born of their own natures in accordance with the material modes, O chastiser of the enemy.
+> 
+> This verse is not advocating guna-based varna theory. It is saying that members of these varnas have these (or should have) these qualities, and not that people's varnas are defined by these qualities.
+> 
+> Note that this verse uses Sanskrit words like "Karmaani" (actions and impressions of previous lives) and "Svabhaava" (inherent nature). The body that you are born into is dependent on your karma and impressions from previous lives; you didn't randomly get this body, but got it to experience the fruits associated with the birth. 
+
+Wow, he inferred "qualities born of one's nature according to their Prakrthi Tattvas" to mean that the qualities are based on the family of birth, because the body is based on Karma. True, the body is based on Karma, and perhaps even the destiny is, but one's family is not a defining character for that, simply because people are not machines.
+
+One who is born as a human has different karma than a king, than a deva, than an insect, than a plant, etc. Thus, your birth into a family, upbringing by parents, and contact with members of society close to you influences your actions and work (karmaani) and nature (guna or svabhaava). It is also true that genetics and ancestry has a huge influence on your nature.
+
