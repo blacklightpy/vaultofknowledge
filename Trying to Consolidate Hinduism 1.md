@@ -564,3 +564,8 @@ About Yogamaaya:
 പരേത = പരലോകത്തെ പ്രാപിച്ച.
 പരേത+ന്റെ എന്നേയുള്ളു. പരേതൻ ഇല്ല.
 അതിനാൽ പരേതനായ ആത്മാവ്
+
+---
+
+Samskaara: Mental Impressions
+Samskrithi: Culture
