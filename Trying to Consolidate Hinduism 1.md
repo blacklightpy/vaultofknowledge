@@ -801,6 +801,9 @@ In Nyaaya-Vaisheshika, the world is comprised of Paramaanus, and they come toget
 
 In Vaisheshika, Atman holds Karma. Adrishta (unseen force) perpetuates it. Aatmaan is a Dravya, so it has Gunas.
 
+There are 7 Padarthas (Categories).
+Guna is a category, and there are 24 Gunas. (long lists XD).
+
 ---
 
 Advaita uses the rules of Nyaaya and Saankhya in Vyavahaarika reality, but with some changes. e.g. Purusha is one, not many.
@@ -808,3 +811,19 @@ Advaita uses the rules of Nyaaya and Saankhya in Vyavahaarika reality, but with 
 Since Prakrthi is Maaya, Advaita sees the 25 tattvas (evolutes) as being temporary limiting adjuncts (Upaadhis).
 
 Also, the additional Pramaanas in Advaita are relevant (like negation).
+
+---
+
+My doubt about Mahat:
+
+Now, in Saankhya, if there are many souls, how do they get properly individuated? What's the use of Mahat? Is it the collective unconscious or something? Does it create what's the Chitta, when paired with Manas and Ahamkaara, although Mahat is often referred to as Buddhi? Is Mahat Buddhi alone, or is it the storehouse of archetypes too, with Manas being the one that collects the Vaasanas through collecting Samskaaras of Karma?
+
+> [!QUOTE] ChatGPT snippet
+> 
+> ### **Is Mahat the "Collective Unconscious"?**
+> 
+> Yes, in a sense. **Mahat is the universal matrix of intelligence**, which contains the potential for all thoughts, archetypes, and patterns that shape individual cognition.
+> 
+> Carl Jung’s **Collective Unconscious** (with its archetypes) is similar to how Mahat functions **cosmically**—it is the **reservoir of primordial patterns** from which individual minds derive their tendencies.
+
+
