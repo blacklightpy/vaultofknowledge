@@ -92,7 +92,7 @@
 
 - Cosmology (part of Shruthi)
 	- Saankhya Darshana (SB, and maybe BG)
-	- Advaita Darshana (idk sources)
+	- Advaita Darshana (Trika Shaivism)
 
 - Mythology (part of Smrithi)
 	- Creator
