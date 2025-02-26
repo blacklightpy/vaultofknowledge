@@ -730,5 +730,21 @@ Casteist idiot distorting BG again:
 
 Wow, he inferred "qualities born of one's nature according to their Prakrthi Tattvas" to mean that the qualities are based on the family of birth, because the body is based on Karma. True, the body is based on Karma, and perhaps even the destiny is, but one's family is not a defining character for that, simply because people are not machines.
 
-One who is born as a human has different karma than a king, than a deva, than an insect, than a plant, etc. Thus, your birth into a family, upbringing by parents, and contact with members of society close to you influences your actions and work (karmaani) and nature (guna or svabhaava). It is also true that genetics and ancestry has a huge influence on your nature.
+> [!QUOTE]
+> One who is born as a human has different karma than a king, than a deva, than an insect, than a plant, etc. Thus, your birth into a family, upbringing by parents, and contact with members of society close to you influences your actions and work (karmaani) and nature (guna or svabhaava). It is also true that genetics and ancestry has a huge influence on your nature.
+> 
+> Guna-based varna system doesn't work, because for example, let's take this verse:
+> 
+> > **18.42:** Peacefulness, self-control, austerity, purity, tolerance, honesty, knowledge, wisdom and religiousness – these are the natural qualities by which the brāhmaṇas work.
+> 
+> and also this verse:
+> 
+> > **18.43:** Heroism, power, determination, resourcefulness, courage in battle, generosity and leadership are the natural qualities of work for the kṣatriyas.
+> 
+> A lot of non-Hindu people have these qualities, Mlecchas (non-Vedic) and atheists can also exhibit these qualities, this doesn't mean they are Brahmins, etc. A Muslim soldier can exhibit these qualities that are associated with a kshatriya, but this doesn't qualify him to be part of the kshatriya-varna.
+> 
+> Moreover, how can you guarantee somebody has these qualities? From birth to the time of around 25 years of age most people go through phases and exhibit all sorts of qualities. It's not practical to determine somebody's varna after 25 years; that's 25 years gone to waste.
 
+Wow, but subjecting one to being a worker all their lives is not a waste of 100 years of their life? Also, yes, non-Hindu people with the same qualities won't have the same caste due to their culture. So the claim is that they are not of the same Varnas. But then are they of Shoodra Varna? Even if they are, they would live a better life than the Shoodras of India then, simply because their people are more intelligent. But if so, what Varna are they in again?
+
+What Varna is a Mleccha? Do Hindus identify as non-human species who are in the Varna fold, as opposed to the others who are like animals? If so, surely the so-called animals have a better quality of life and are more intelligent than the Indians.
