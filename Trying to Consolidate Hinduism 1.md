@@ -697,3 +697,15 @@ Here's an opinion from a fool:
 
 Indeed, this is the true delusion, or theologically speking, a delusion within the delusion. Just because there are rules in reality doesn't mean "these" rules are the rules. Traditions like these are jokes.
 
+Another fool:
+
+> Also if u disregard the birth factor entirely that means u believe that previous karmas have no link to our current birth..
+
+He says this as though people born in countries outside Indians who don't follow caste system could not be born. There are plenty of other ways for Karma to manifest other than this birth based Varna and Jaathi system.
+
+Again:
+
+> In Mahanirvana Tantra Sadashiva clearly says he is the one who created all Shastras(including Smritis) ..so u shd believe him saying so given that u declare urself as his devotee..
+
+Saying that God created all sciences in no way means that all publications are made by him. Science comes as a consequence of reality and perception. Science is validated based on consensus, not dogma.
+
