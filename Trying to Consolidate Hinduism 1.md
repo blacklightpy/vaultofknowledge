@@ -626,3 +626,4 @@ Yoga Terminologies:
 	- Prashvaasa (Irregular Exhalation)
 
 ---
+
