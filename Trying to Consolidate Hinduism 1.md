@@ -582,7 +582,21 @@ Any attempts to make that claim is just trying to appease Abrahamic dualists
 
 
 ---
-The Magnetizing Force: Karma
-The Process of Magnetization: Samsaakra
-The State of Magnetization: Vaasana
+The Magnetizing Force: Karma (Intentional Actions) (Kriya + Anubhava (Action + Impression))
+The Process of Magnetization: Samsaakra (Collecting Impressions)
+The State of Magnetization: Vaasana (Dwelling)
 The Principle of Magnetism: Samsaara
+
+---
+
+Yoga Terminologies:
+- Vritti (Thought Patterns)
+	- Pramaana (Sources of Information)
+	- Viparyaaya (Misinformation)
+	- Nidra (Sleep)
+- Klesha (Bad Thought Patterns)
+	- 
+- Vikshepa (Obstacles and Distractions)
+	- 
+- Vighna (Disturbances)
+	- 
