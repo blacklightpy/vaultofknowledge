@@ -535,6 +535,8 @@ I feel like in Saankhya, Chitta (consciousness) is a part of Mahat / Buddhi itse
 
 But others say Chitta is intelligence + consciousness + mind. And they say it forms Praana.
 
+Final Correction: Chitta is the Storehouse of Memories, while Manas is the "deliberating aspect". So I guess Manas Tattva itself has both, because it is the individual mind.
+
 ---
 
 Saundarya Lahari and Advaita Tattva.
