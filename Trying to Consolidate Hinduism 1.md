@@ -826,4 +826,8 @@ Now, in Saankhya, if there are many souls, how do they get properly individuated
 > 
 > Carl Jung’s **Collective Unconscious** (with its archetypes) is similar to how Mahat functions **cosmically**—it is the **reservoir of primordial patterns** from which individual minds derive their tendencies.
 
+---
+
+Jung said a Westerner can be easily tricked by other Westerners who claim to know about Eastern spirituality and sell snake oil. So unless someone is heroically determined, they should stick to their traditions.
+
 
