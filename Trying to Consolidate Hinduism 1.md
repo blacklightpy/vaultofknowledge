@@ -573,3 +573,9 @@ Samskrithi: Culture
 ---
 
 Gaudiya Vaishnavism: Achinthya Bhedha-Abhedha, an improvement from Vishishta Advaita, but emphasizing Krishna over Naaraayana. Is closer to dualistic schools like Dvaita.
+
+---
+
+The religion is not Sanaathana Dharma, it is Bhaaratha Samskrithi or Veda Jnaana or Vaidika Jnaana.
+Dharma means function. It cannot be eternal, it is context-dependent.
+Any attempts to make that claim is just trying to appease Abrahamic dualists.
