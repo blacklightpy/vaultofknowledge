@@ -830,4 +830,11 @@ Now, in Saankhya, if there are many souls, how do they get properly individuated
 
 Jung said a Westerner can be easily tricked by other Westerners who claim to know about Eastern spirituality and sell snake oil. So unless someone is heroically determined, they should stick to their traditions.
 
+---
+
+Yakshinis LOL: https://www.quora.com/What-does-it-mean-when-you-see-Yakshini-in-a-dream/answer/Neil-Krshna
+
+> Some Yakshinis can be extremely beautiful and irresistible to look at, the onlooker tends to be spellbound. Please ensure you mentally prepare yourself so that you do NOT have sex with her in the dream. Yakshinis have the power to swallow you whole and make you a sexual slave of hers. Eventually if you end up doing this, she will keep returning and demanding sex from you until you are exhausted and dried out. At this point she will curse you for not being able to satisfy her any more.
+
+---
 
