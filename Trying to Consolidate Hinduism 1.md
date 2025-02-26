@@ -569,3 +569,7 @@ About Yogamaaya:
 
 Samskaara: Mental Impressions
 Samskrithi: Culture
+
+---
+
+Gaudiya Vaishnavism: Achinthya Bhedha-Abhedha, an improvement from Vishishta Advaita, but emphasizing Krishna over Naaraayana. Is closer to dualistic schools like Dvaita.
