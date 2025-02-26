@@ -799,6 +799,8 @@ Nyaaya influenced Vaisheshika to include Eeshvara.
 
 In Nyaaya-Vaisheshika, the world is comprised of Paramaanus, and they come together to form the reality. Nyaaya was the one that argued that this should have an Eeshvara.
 
+In Vaisheshika, Atman holds Karma. Adrishta (unseen force) perpetuates it. Aatmaan is a Dravya, so it has Gunas.
+
 ---
 
 Advaita uses the rules of Nyaaya and Saankhya in Vyavahaarika reality, but with some changes. e.g. Purusha is one, not many.
@@ -806,4 +808,3 @@ Advaita uses the rules of Nyaaya and Saankhya in Vyavahaarika reality, but with 
 Since Prakrthi is Maaya, Advaita sees the 25 tattvas (evolutes) as being temporary limiting adjuncts (Upaadhis).
 
 Also, the additional Pramaanas in Advaita are relevant (like negation).
-
