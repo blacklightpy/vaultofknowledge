@@ -583,5 +583,6 @@ Any attempts to make that claim is just trying to appease Abrahamic dualists
 
 ---
 The Magnetizing Force: Karma
-Magnetization: Samsaakra
-State of Magnetization: Vaasana
+The Process of Magnetization: Samsaakra
+The State of Magnetization: Vaasana
+The Principle of Magnetism: Samsaara
