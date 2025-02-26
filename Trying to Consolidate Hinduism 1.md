@@ -749,3 +749,12 @@ Wow, but subjecting one to being a worker all their lives is not a waste of 100 
 
 What Varna is a Mleccha? Do Hindus identify as non-human species who are in the Varna fold, as opposed to the others who are like animals? If so, surely the so-called animals have a better quality of life and are more intelligent than the Indians.
 
+---
+
+My complex anti-caste questions based on Saankhya:
+
+- If there are multiple Purushas, they how does one justify birth based caste system as in the Purusha Suktha?
+- Aren't each Purusha identical, and therefore, doesn't everyone have to start low, rather than that each Purusha is differently born?
+- And also, why would any Purusha start low in life, is it that they went from a high point to low point? If the idea is that they got low by Karma, are there that many evil people to justify the number of animals and Shoodhras?
+- Also, why haven't all Purushas achieved liberation already in this infinite world then? Is it that liberated Purushas keep coming back to Prakrthi for a round 2? Why would they do that willingly, if life is so tough, and put themselves through trouble through a mechanical Prakrthi, as opposed to a world with an Eeshvara to rely on?
+
