@@ -206,14 +206,15 @@ Ethics
 - [Dāna](https://en.wikipedia.org/wiki/D%C4%81na "Dāna")
 - [Sources of dharma](https://en.wikipedia.org/wiki/%C5%9A%C4%81stra_pram%C4%81%E1%B9%87am_in_Hinduism "Śāstra pramāṇam in Hinduism")
 
-[Epistemology](https://en.wikipedia.org/wiki/Pramana "Pramana")
 
-- [Pratyakṣa (perception)](https://en.wikipedia.org/wiki/Pratyaksha "Pratyaksha")
-- [Anumāṇa (inference)](https://en.wikipedia.org/wiki/Pramana#Anumāṇa "Pramana")
-- [Upamāṇa (comparison, analogy)](https://en.wikipedia.org/wiki/Upam%C4%81%E1%B9%87a "Upamāṇa")
-- [Arthāpatti (postulation, presumption)](https://en.wikipedia.org/wiki/Pramana#Arthāpatti "Pramana")
-- [Anupalabdi (non-perception, negation)](https://en.wikipedia.org/wiki/Pramana#Anupalabdi "Pramana")
-- [Śabda (word, testimony)](https://en.wikipedia.org/wiki/Shabda "Shabda")
+Pramaana:
+
+- Pratyakṣa (perception)
+- Anumāṇa (inference)
+- Upamāṇa (comparison, analogy)
+- Arthāpatti (postulation, presumption)
+- Anupalabdi (non-perception, negation)
+- Śabda (word, testimony)
 
 
 
@@ -243,9 +244,11 @@ From https://www.prana-sutra.com/post/sthula-sukshma-karana-sharira:
 	- Sookshma Shareera / Linga Shareera
 		- Mano Maya Kosha
 		- Vijnaana Maya Kosha
-	- Sthula Shareera
 		- Praana Maya Kosha
+	- Sthula Shareera
 		- Anna Maya Kosha
+
+Some say that a part of Praana Maya Kosha is also in Sthula Shareera due to the connection to Vaayu. However, the Panchadasi shows a one-to-one mapping. But you get the idea at least.
 
 From https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/ (maybe available live, I'd seen this site myself too):
 
