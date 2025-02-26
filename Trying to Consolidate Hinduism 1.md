@@ -590,13 +590,34 @@ The Principle of Magnetism: Samsaara
 ---
 
 Yoga Terminologies:
+
 - Vritti (Thought Patterns)
 	- Pramaana (Sources of Information)
 	- Viparyaaya (Misinformation)
+	- Vikalpa (Fantasies)
 	- Nidra (Sleep)
+	- Smrithi (Memories)
 - Klesha (Bad Thought Patterns)
-	- 
+	- Avidya (Misunderstanding)
+	- Asmitha (Mine-ness)
+	- Raaga (Attachment)
+	- Dvesha (Dislike)
+	- Abhinivesha (Fear of Death)
 - Vikshepa (Obstacles and Distractions)
-	- 
+	- Vyaadi (Disease)
+	- Sryaana (Dullness)
+	- Samshaya (Doubt)
+	- Pramaada (Carelessness)
+	- Alasya (Laziness)
+	- Avirati (Lack of Abstaining from Addictions)
+	- Bhranti Darshana (False Perception)
+	- Alabdha Bhumikatva (Failing to Attain Stages in Journey)
+	- Anavasthitattva (Inability to Maintain the Stage / Instability)
 - Vighna (Disturbances)
-	- 
+	- Dukkha (Sorrow)
+	- Daurmanya (Depression)
+	- Angam-Ejayatva (Trembling of the Body / Nervousness)
+	- Shvaasa (Irregular Inhalation)
+	- Prashvaasa (Irregular Exhalation)
+
+---
