@@ -36,6 +36,7 @@ They can be grouped as:
 	- **Brief**
 		- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
 		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
+		- Actually, there are many **Purushas** who share one **Prakriti**
 		- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
 	- **Differences with Dualism**
 		- Western [[Dualism]] focuses on the difference between "mind" and "body"
@@ -48,8 +49,8 @@ They can be grouped as:
 		- Sankhya Sutras by Kapila Maharshi
 			- Debated, scholars date this to 9th-13th Century AD
 	- **Metaphysics**
-		- **Purusa** is part of **Prakriti**
-		- Purusa is bound to Prakriti by **Jiva**
+		- **Purusa** is not actually a part of **Prakriti**
+		- Purusa misidentifies itself as being a part of Prakriti as a **Jiva**
 		- **Moksha** is how the soul is liberated
 	- **Epistemology**
 		- Knowledge is possible through three **Pramaanas** (Means):
@@ -67,7 +68,7 @@ They can be grouped as:
 			- The Sankhya Darshana is based on **Sat-Kaarya Vaada** (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
-				- Maya has two powers (added from some source as where I got this from)
+				- Maya has two powers (an idea from Vedanta, but applies here)
 					- **Avarna** (Veiling)
 					- **Vikshepa** (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)

@@ -112,7 +112,7 @@
 			- 23 Principles (Conscious Souls Experience the World)
 		- Advaita Darshana
 			- 36 Principles (Consciousness forms the Personal God that forms the World)
-	- Arguments and Counter Arguments (Vaada Prati-Vaada)
+	- Arguments and Counter Arguments (Vaada Prati-Vaada) (Tharka Shaasthra)
 	- Subtle Elements
 	- Gross Elements
 	- Qualities
@@ -748,3 +748,4 @@ Wow, he inferred "qualities born of one's nature according to their Prakrthi Tat
 Wow, but subjecting one to being a worker all their lives is not a waste of 100 years of their life? Also, yes, non-Hindu people with the same qualities won't have the same caste due to their culture. So the claim is that they are not of the same Varnas. But then are they of Shoodra Varna? Even if they are, they would live a better life than the Shoodras of India then, simply because their people are more intelligent. But if so, what Varna are they in again?
 
 What Varna is a Mleccha? Do Hindus identify as non-human species who are in the Varna fold, as opposed to the others who are like animals? If so, surely the so-called animals have a better quality of life and are more intelligent than the Indians.
+
