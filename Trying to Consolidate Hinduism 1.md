@@ -758,3 +758,42 @@ My complex anti-caste questions based on Saankhya:
 - And also, why would any Purusha start low in life, is it that they went from a high point to low point? If the idea is that they got low by Karma, are there that many evil people to justify the number of animals and Shoodhras?
 - Also, why haven't all Purushas achieved liberation already in this infinite world then? Is it that liberated Purushas keep coming back to Prakrthi for a round 2? Why would they do that willingly, if life is so tough, and put themselves through trouble through a mechanical Prakrthi, as opposed to a world with an Eeshvara to rely on?
 
+---
+
+Purusha has both male and female qualities. So it is like a hermaphrodite. Related: Anima and Animus.
+
+There are infinite Purushas in Samkhya. Maybe that explains the ever-ongoing reality. Even in the end of the world and new Kalpas, I guess there will be a new set of Purushas. I wonder why they have to take just one experience of life. (Of course, I don't agree with this philosophy to begin with)
+
+Explanation: 
+> [!QUOTE]
+> See, the following relevant verse from the **PAtanjali Sutras SAdhana PAda**:
+> 
+> > KritArtham prati nashtamapyanashtam tadnyAsAdhArantvAth || (22)
+> 
+> **Translation** (as per SwAmi VivekAnanda; i have translated into English upon seeing his Bengali translation):
+> 
+> > Although, for one who has attained that Absolute, the Prakriti (or AgyAna or false knowledge) ceases to exist, **but for others it still is very much working.**
+> 
+> **Commentary:**
+> 
+> > The Atma or the Purusha is completely separate from the Prakriti- to make Purusha realize this- is the sole task that the Prakriti has. And when the Atma realizes this for a fact, then the Prakriti can not attract him towards it any longer. One who has been liberated, for him, the Prakriti is completely dissolved or non existent. **But there will be always infinite number of such Atmas or Purushas for whom the Prakriti will always continue to act.**
+> 
+> So, this is quite clearly talking about infinite Purushas, like they do in SAmkhya.
+> 
+> > JanmamaranakaranAnAm pratiniyamAdyugapat pravitteshcha |  
+> > Purushavahutam siddham traigunyaviparjayAcchaiva ||
+> > 
+> > Due to the difference of rules (Pratiniyama) regarding life, death and the Indriyas (Karana), due to the fact that none of these occur simultaneously [for anyone] and due to the fact that differences among the three states (Traigunya viparjaya) are everywhere seen, the multitude of the Purushas is thus been established (Purusha vahutam siddham).
+> > 
+> > **SAmkhya KArikA verse 18.**
+
+---
+
+In Vaisheshika, souls had attributes. Vaisheshika was about categories.
+
+In Nyaaya, it added more detail, and also included Eeshvara. Navya-Nyaaya emphasized Eeshvara.
+
+Nyaaya emphasized the means of knowledge (Pramaana) and debates.
+
+Nyaaya influenced Vaisheshika to include Eeshvara.
+
