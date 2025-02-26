@@ -1,0 +1,1 @@
+It'll be best to keep indices of published books, and collect PDFs of big books into another repository
