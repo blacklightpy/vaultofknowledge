@@ -642,3 +642,25 @@ The claim that Shankara did not allow Shoodras to study Vedas: https://hinduism.
 - He'd consider anyone born Shoodra as his Guru if he identified with the consciousness
 - He commented on Vedaant Soothras that a Shoodra should never have access to Vedas
 
+Same commentary continues:
+
+> From those Sûdras, however, who, like Vidura and 'the religious hunter,' acquire knowledge in consequence of the after effects of former deeds, the fruit of their knowledge cannot be withheld, since knowledge in all cases brings about its fruit.
+
+---
+
+Casteists:
+
+"If castes were based on Guna, there would be no way of identifying them":
+
+> **If we classify castes as karma or Guna based then how to determine someone castes?**
+> 
+> There is no definite answer to this.Suppose a Sudra by birth has all the attributes of a Brahmin.How is he gonna prove it?And prove it to whom ,which body etc?Should he have to pass some tests?If yes which are those tests?Are those tests mentioned in Scriptures?.Will he be allowed to wear the sacred thread then if he passes those tests?NO is the answer of course.
+
+> So birth is based on Karma of past life. Because that determines which womb we are born into.
+
+Um, so that totally ignores the population growth rates and so on. Good for keeping slave population in check.
+
+The three twice-born castes must be initiated at so and so age:
+
+
+But it is possible to identify a twice-born who should be demoted by looking at whether he performs his duties
