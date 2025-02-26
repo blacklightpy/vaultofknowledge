@@ -506,7 +506,7 @@ About Pradhana vs Mahat Tattva:
 
 From https://www.yesvedanta.com/tattva-bodha-discourses/discourse-27/:
 
-Air can be heard and felt. Fire can be heard, felt and seen. Water can be heard, felt, seen and tasted. Earth can be heard, smelt, seen, tasted and smelt. So as the elements get grosser, the easier they are to relate with, as they involve more of your senses.
+Sound can be heard. Air can be heard and felt. Fire can be heard, felt and seen. Water can be heard, felt, seen and tasted. Earth can be heard, smelt, seen, tasted and smelt. So as the elements get grosser, the easier they are to relate with, as they involve more of your senses.
 
 Thus, makes sense:
 > eteṣāṃ pañca-tattvānāṃ madhye ākāśasya sāttvikāṃśāt, śrotrendriyaṃ saṃbhūtam
@@ -796,4 +796,14 @@ In Nyaaya, it added more detail, and also included Eeshvara. Navya-Nyaaya emphas
 Nyaaya emphasized the means of knowledge (Pramaana) and debates.
 
 Nyaaya influenced Vaisheshika to include Eeshvara.
+
+In Nyaaya-Vaisheshika, the world is comprised of Paramaanus, and they come together to form the reality. Nyaaya was the one that argued that this should have an Eeshvara.
+
+---
+
+Advaita uses the rules of Nyaaya and Saankhya in Vyavahaarika reality, but with some changes. e.g. Purusha is one, not many.
+
+Since Prakrthi is Maaya, Advaita sees the 25 tattvas (evolutes) as being temporary limiting adjuncts (Upaadhis).
+
+Also, the additional Pramaanas in Advaita are relevant (like negation).
 
