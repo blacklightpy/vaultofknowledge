@@ -656,11 +656,44 @@ Casteists:
 > 
 > There is no definite answer to this.Suppose a Sudra by birth has all the attributes of a Brahmin.How is he gonna prove it?And prove it to whom ,which body etc?Should he have to pass some tests?If yes which are those tests?Are those tests mentioned in Scriptures?.Will he be allowed to wear the sacred thread then if he passes those tests?NO is the answer of course.
 
-> So birth is based on Karma of past life. Because that determines which womb we are born into.
+> Its only the Karmas that we have done in our previous births that determines.
 
-Um, so that totally ignores the population growth rates and so on. Good for keeping slave population in check.
+> So,birth based caste system is actually karma-based caste system also.
+> 
+> Similarly,what determines our gunas?Its mostly our birth only.
+> 
+> For example,just as the nature of a tree is determined by the quality of the seed and that of the soil on which the seed is being sown,similarly our gunas are dependent on our father(the seed) and our mother(the soil).
+
+Um, so that totally ignores the population growth rates and so on. Good for keeping slave population in check. Also, how mentally deranged would one have to be to make the analogy that Gunas are determined by seed? They are simply using sophistry to win over people who are not experienced in dialectics (Tharka Shaasthra).
 
 The three twice-born castes must be initiated at so and so age:
 
+> The Scriptures give us the following ages when upanayana has to be done for the 3 dvija castes:
+> 
+> Manu Smriti 2.36. **In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana**, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya
 
-But it is possible to identify a twice-born who should be demoted by looking at whether he performs his duties
+But it is possible to identify a twice-born who should be demoted by looking at whether he performs his duties:
+
+> [!QUOTE]
+> But,having said all that,caste system is not entirely based on birth either.Otherwise we won't be having the following & many similar verses in Scriptures:
+> 
+> **He who sets his face against righteousness, is but a Chandala by his acts. He gains nothing by being a mendicant, or by worshipping the household fire.**
+> 
+> > 1. **A Brahman, ignorant of the Gayatri hymn, is more unclean than even a Shoodra ;** the Brahmans who know the nature and the sanctity of the Gayatri hymn, are honored and revered by all persons.(Parashara Smriti)
+> 
+> Moreover, there is a way of segregating those who are twice borns merely by birth but who are not living their lives accordingly.They are to be treated like the outcasts only by the society.They are called by the name **Vratya** in Scriptures.
+> 
+> > Manu Smriti 10.20. Those (sons) whom the twice-born beget on wives of equal caste, but who, **not fulfilling their sacred duties, are excluded from the Savitri, one must designate by the appellation Vratyas.**
+> > 
+> > 10.21. But from a Vratya (of the) Brahmana (caste) spring the wicked Bhriggakantaka, the Avantya, the Vatadhana, the Pushpadha, and the Saikha.
+> > 
+> > 10.22. From a Vratya (of the) Kshatriya (caste), the Ghalla, the Malla, the Likkhivi, the Nata, the Karana, the Khasa, and the Dravida
+
+So there's a way to kick out, but not to bring in. Cool.
+
+Here's an opinion from a fool:
+
+> If u can go beyond maya which is the most difficult thing to do, then obviously you are free from caste-system..but till that point is reached for ordinary mortals like me we definitely need some kind of rules and that's basically what caste system is in hinduism..If we see around ourselves everywhere in nature we see differences and we also see strict observance of rules..and these rules are different for different beings different objects..so caste system makes a lot of sense to me. now to those who say "im Brahman" "i'm free " etc..I'll simply say good luck dude & move on..
+
+Indeed, this is the true delusion, or theologically speking, a delusion within the delusion. Just because there are rules in reality doesn't mean "these" rules are the rules. Traditions like these are jokes.
+
