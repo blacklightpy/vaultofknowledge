@@ -1,4 +1,4 @@
-# For a new site
+# For a new site (my trick)
 
 If you've never had a blog that used Sela in the past, all you have to do is visit this link, and create a new blog through that form:
 
@@ -10,17 +10,18 @@ https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowca
 
 I just replaced `sequential` with `sela` and visited the URL, and voila, it built me a new site with that theme, even though it claimed that Sela was dead after the procedure completed. But there was a launch site button, so when I clicked it, it built the site with Sela as the theme.
 
-# For a site that once had Sela
+# For a site that once had Sela (classic interface URL trick)
 
 I hear that it should be possible by visiting this URL: your-blog.wordpress.com/wp-admin/themes.php?search=sela
 
 https://your-blog.wordpress.com/wp-admin/themes.php should list all the themes you had installed with the classic view, and it should include retired themes you installed in the past.
 
-# For a site that never had Sela
+# For a site that never had Sela (API method)
 
-We need to use WordPress REST API here.
+> [!INFO]
+> How
 
-The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
+We need to use WordPress REST API here. The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
 
 This requires sending a POST request, with the site authentication. There are two ways to do this.
 ## Easy way: With the Development Console
@@ -38,9 +39,9 @@ When you use the Development Console, you are already logged in to WordPress.com
 - Then, there will be a section at the bottom asking you to fill in the parameters.
 - There, in the `themes` attribute, fill in `sela`.
 
-## Hard way: With API Keys
+## The hard way: with API access tokens
 
-If you are sending a POST request from outside the browser, you'll need to get an authorization key. For this, you'll need to set up a client application, and authorize it to access your blog with OAuth 2.0. It will give you a time limited code, which you have to use along with your client secrets to get a full auth token, you have to use that to send the POST request.
+If you are sending a POST request from outside the browser, you'll need to get an authorization key to prove that you are authorized to make changes to your blog. For this, you'll need to set up a client application, and authorize it to access your blog with OAuth 2.0. It will give you a time limited code, which you have to use along with your client secrets to get a full auth token, you have to use that to send the POST request.
 
 - The REST API Getting started guide is here: https://developer.wordpress.com/docs/api/getting-started/
 - The interface for creating the client secrets is here: https://developer.wordpress.com/apps/
@@ -80,9 +81,7 @@ This is the easy way to get the access token.
 - You will be redirected to http://localhost?code=YOUR_CODE&blablabla
 - Copy what appears as `YOUR_CODE`.
 
-Now make the following POST request using cURL, by running the following command in your terminal, after replacing `CLIENT_ID`, `CLIENT_SECRET` and `YOUR_CODE` with the values you copied earlier.
-
-- O
+Now make the following POST request using cURL, by running the following command in your terminal (Command Prompt, for Windows users), after replacing `CLIENT_ID`, `CLIENT_SECRET` and `YOUR_CODE` with the values you copied earlier.
 
 ```sh
 curl -X POST "https://public-api.wordpress.com/oauth2/token" -d "client_id=CLIENT_ID" -d "client_secret=CLIENT_SECRET" -d "redirect_uri=http://localhost" -d "grant_type=authorization_code" -d "code=YOUR_CODE"
@@ -92,16 +91,16 @@ curl -X POST "https://public-api.wordpress.com/oauth2/token" -d "client_id=CLIEN
 Then you will get a response in the following fashion: 
 
 ```JSON
-{"access_token":"S)QpqmmF8sWp75b6!7NbP656S#yhFO^ukfLGS#c1VR#(Ru5hc#qX@ELFh#Si4c3M","token_type":"bearer","blog_id":"87693174","blog_url":"http:\/\/your-blog.wordpress.com","scope":""}⏎
+{"access_token":"YOUR_ACCESS_TOKEN","token_type":"bearer","blog_id":"SITE_ID","blog_url":"http:\/\/your-blog.wordpress.com","scope":""}
 ```
 
 Copy the access token, blog ID and you already know the blog URL.
 
 This is the long way to get the access token.
 
-### Step 3. Change the theme
+### Step 3. Send the POST request
 
-Now run either of the following (both are the same), after replacing YOUR_SITE and YOUR_ACCESS_TOKEN. YOUR_SITE can either be the address of your site (without `https://`) or your blog ID you got earlier.
+Now run either of the following (both are the same), after replacing `YOUR_SITE` and `YOUR_ACCESS_TOKEN`. YOUR_SITE can either be the address of your site (without `https://`) or the `SITE_ID` you got earlier.
 
 Option 1:
 ```sh
@@ -113,3 +112,4 @@ Option 2:
 curl https://public-api.wordpress.com/rest/v1/sites/YOUR_SITE/themes/mine -H 'authorization: Bearer YOUR_ACCESS_TOKEN' --data-urlencode 'theme=sela'
 ```
 
+If it is successful, you'll see a JSON response with the theme ID and name of Sela.
