@@ -40,11 +40,26 @@ When you use the Development Console, you are already logged in to WordPress.com
 
 ## Hard way: With API Keys
 
-If you are sending a POST request from outside the browser, you'll need to get an authorization key. For this, you'll be using the OAuth 2.0 
+If you are sending a POST request from outside the browser, you'll need to get an authorization key. For this, you'll need to set up a client application, and authorize it to access your blog with OAuth 2.0, and use the auth token to send the POST request.
 
 - The REST API Getting started guide is here: https://developer.wordpress.com/docs/api/getting-started/
-- The documentation for creating the client secrets is here: 
+- The interface for creating the client secrets is here: https://developer.wordpress.com/apps/
 - The documentation for obtaining the OAuth token is here: https://developer.wordpress.com/docs/oauth2/
+
+### Step 1: Create the Client Application
+
+- Go to https://developer.wordpress.com/apps/
+- Fill in the title like "Theme Changer" or "bla"
+- Fill in the description (it is compulsory)
+- Fill in the website URL (make it anything, like `http://google.com`) (it is compulsory, and should have `http://` or `https://`)
+- Fill in the redirect URL as `http://localhost` (will explain why below)
+- Fill in the captcha question's answer
+- Leave the type as "Web"
+- Click "Create Application"
+- On the next page, click "Update"
+- Scroll down, and from the "OAuth Information" section, copy the Client ID and Client Secret
+
+The reason you have to put in the redirect URL as http://l
 
 ```sh
 curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
