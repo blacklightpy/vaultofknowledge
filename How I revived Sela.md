@@ -18,4 +18,20 @@ https://your-blog.wordpress.com/wp-admin/themes.php should list all the themes y
 
 # For a site that never had Sela
 
-We need to use 
+We need to use WP API here.
+- The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
+- The documentation for obtaining the OAuth token is here: https://developer.wordpress.com/docs/oauth2/
+- The documentation for creating the client secrets is here: 
+
+```sh
+curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
+-H "Authorization: Bearer YOUR_ACCESS_TOKEN" \
+-H "Content-Type: application/json" \
+-d '{"theme": "sela"}'
+```
+
+```sh
+curl https://public-api.wordpress.com/rest/v1/sites/clashofclansspeical.wordpress.com/themes/mine \
+-H 'authorization: Bearer S)QpqmmF8sWp75b6!7NbP656S#yhFO^ukfLGS#c1VR#(Ru5hc#qX@ELFh#Si4c3M' \
+--data-urlencode 'theme=sela'
+```
