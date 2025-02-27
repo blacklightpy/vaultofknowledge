@@ -1,5 +1,9 @@
 # For a new site (my trick)
 
+> [!INFO]
+> 
+> This only works when you are making a new site. If you do change the theme even once, then you cannot get it back, because legacy themes are not normally available to new sites. Only old sites can use the other methods to bring back the Sela theme.
+
 If you've never had a blog that used Sela in the past, all you have to do is visit this link, and create a new blog through that form:
 
 https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowcase&theme=sela&theme_type=free&intervalType=yearly
@@ -10,7 +14,6 @@ https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowca
 > https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowcase&theme=sequential&theme_type=free&intervalType=yearly
 > 
 > I just replaced `sequential` with `sela` and visited the URL, and voila, it built me a new site with that theme, even though it claimed that Sela was dead after the procedure completed. But there was a launch site button, so when I clicked it, it built the site with Sela as the theme.
-
 # For a site that once had Sela (classic interface URL trick)
 
 > [!INFO] How I figured this out
@@ -21,7 +24,7 @@ I hear that it should be possible by visiting this URL: your-blog.wordpress.com/
 
 https://your-blog.wordpress.com/wp-admin/themes.php should list all the themes you had installed with the classic view, and it should include retired themes you installed in the past.
 
-# For a site that never had Sela (API method)
+# For an old site that never had Sela (API method)
 
 > [!INFO] How I figured this out
 > 
@@ -76,17 +79,15 @@ The reason you have to put in the redirect URL as http://localhost is that, when
 
 So now to get this code, you need to visit this link after replacing `CLIENT_ID` with the Client ID value you copied earlier (the URL assumes you put the redirect URL as http://localhost), and RESPONSE_TYPE as either `code` or `token`. According to the documentation, `code` is preferred for server side programs where we intent to store the full OAuth token permanently, while `token` is preferred for client side programs where we need a temporary token, and that lasts for two weeks.
 
-https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=RESPONSE_TYPE
-
----
-#### Easy option: If you use RESPONSE_TYPE as token
+Link: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=RESPONSE_TYPE
+#### 2.1. A) Easy option: If you use RESPONSE_TYPE as token
 
 - After editing CLIENT_ID, visit: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=token
 - You will be redirected to http://localhost?#access_token=YOUR_TOKEN&expires_in=1209600&token_type=bearer&site_id=SITE_ID&scope=
 - Copy what appears as `YOUR_TOKEN` and `SITE_ID`.
 
-This is the easy way to get the access token.
-#### Longer option: If you use RESPONSE_TYPE as code
+This is the easy way to get the access token. This token will expire after two weeks, but it is enough for us.
+#### 2.1. B) Longer option: If you use RESPONSE_TYPE as code
 - After editing CLIENT_ID, visit: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=code
 - You will be redirected to http://localhost?code=YOUR_CODE&blablabla
 - Copy what appears as `YOUR_CODE`.
