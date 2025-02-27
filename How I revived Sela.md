@@ -40,7 +40,7 @@ When you use the Development Console, you are already logged in to WordPress.com
 
 ## Hard way: With API Keys
 
-If you are sending a POST request from outside the browser, you'll need to get an authorization key. For this, you'll need to set up a client application, and authorize it to access your blog with OAuth 2.0, and use the auth token to send the POST request.
+If you are sending a POST request from outside the browser, you'll need to get an authorization key. For this, you'll need to set up a client application, and authorize it to access your blog with OAuth 2.0. It will give you a time limited code, which you have to use along with your client secrets to get a full auth token, you have to use that to send the POST request.
 
 - The REST API Getting started guide is here: https://developer.wordpress.com/docs/api/getting-started/
 - The interface for creating the client secrets is here: https://developer.wordpress.com/apps/
@@ -59,7 +59,9 @@ If you are sending a POST request from outside the browser, you'll need to get a
 - On the next page, click "Update"
 - Scroll down, and from the "OAuth Information" section, copy the Client ID and Client Secret
 
-The reason you have to put in the redirect URL as http://l
+The reason you have to put in the redirect URL as http://localhost is that, when you authorize the application, the browser will redirect you to the address: http://your-redirect-url/code=YOUR_ACCESS_TOKEN&bla_bla_bla. So if your redirect URL is http://localhost, it will redirect the page to the invalid page, http://localhost/code=YOUR_ACCESS_TOKEN&blablabla. You could then just copy the access token from there.
+
+To authorize, you need to visit this link after replacing CLIENT_ID and CLIENT_URL with your
 
 ```sh
 curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
