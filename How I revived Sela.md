@@ -122,4 +122,4 @@ Option 2:
 curl https://public-api.wordpress.com/rest/v1/sites/YOUR_SITE/themes/mine -H 'authorization: Bearer YOUR_ACCESS_TOKEN' --data-urlencode 'theme=sela'
 ```
 
-If it is successful, you'll see a JSON response with the theme ID and name of Sela.
+If it is successful, you'll see a JSON response with the theme ID "sela".
