@@ -18,10 +18,24 @@ https://your-blog.wordpress.com/wp-admin/themes.php should list all the themes y
 
 # For a site that never had Sela
 
-We need to use WP API here.
-- The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
-- The documentation for obtaining the OAuth token is here: https://developer.wordpress.com/docs/oauth2/
+We need to use WordPress REST API here.
+
+The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
+
+This requires sending a POST request. There are two ways to do this.
+## Easy way: With Developer Console
+- Login to your Wordpress.com account
+- Visit https://developer.wordpress.com/docs/api/console/
+- Ensure that the dropdowns on the top left are selected to "WP.COM API" and "v1.1"
+- The third dropdown will be "GET". Click it and change it to "POST".
+- 
+
+## Hard way: With API Keys
+
+
+- The Getting started guide is here: https://developer.wordpress.com/docs/api/getting-started/
 - The documentation for creating the client secrets is here: 
+- The documentation for obtaining the OAuth token is here: https://developer.wordpress.com/docs/oauth2/
 
 ```sh
 curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
