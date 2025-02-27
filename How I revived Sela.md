@@ -4,13 +4,18 @@ If you've never had a blog that used Sela in the past, all you have to do is vis
 
 https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowcase&theme=sela&theme_type=free&intervalType=yearly
 
-How did I find this? Basically, I just opened up the theme selection page with another theme, Sequential, and hovered over the "choose site" button, and saw that it had this URL:
-
-https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowcase&theme=sequential&theme_type=free&intervalType=yearly
-
-I just replaced `sequential` with `sela` and visited the URL, and voila, it built me a new site with that theme, even though it claimed that Sela was dead after the procedure completed. But there was a launch site button, so when I clicked it, it built the site with Sela as the theme.
+> [!INFO] How did I find this?
+> Basically, I just opened up the theme selection page with another theme, Sequential, and hovered over the "choose site" button, and saw that it had this URL:
+> 
+> https://wordpress.com/start/with-theme/domains-theme-preselected?ref=calypshowcase&theme=sequential&theme_type=free&intervalType=yearly
+> 
+> I just replaced `sequential` with `sela` and visited the URL, and voila, it built me a new site with that theme, even though it claimed that Sela was dead after the procedure completed. But there was a launch site button, so when I clicked it, it built the site with Sela as the theme.
 
 # For a site that once had Sela (classic interface URL trick)
+
+> [!INFO] How I figured this out
+> 
+> This was easy, there were a few community posts telling you how to use this URL if you had a blog that used the theme before it was retired.
 
 I hear that it should be possible by visiting this URL: your-blog.wordpress.com/wp-admin/themes.php?search=sela
 
@@ -18,8 +23,13 @@ https://your-blog.wordpress.com/wp-admin/themes.php should list all the themes y
 
 # For a site that never had Sela (API method)
 
-> [!INFO]
-> How
+> [!INFO] How I figured this out
+> 
+> How I figured this out was, when I realized that I could create a fresh site with Sela as the starting theme by copying the URL of the "choose site" button, which would only let you create a new site with that theme, I wanted to see if I could find a similar URL to set the theme for an already existing site. But when I select a site and visit the theme selector, I only found an activate button that doesn't show the URL.
+> 
+> With a little help, I realized I could use the Developer Tools to inspect the GET/POST requests to figure out what's going on. And I saw that it was making a POST request to an endpoint with just the theme name as the payload value. And soon, I saw that this endpoint was officially documented in the WordPress.com Developer Resources.
+> 
+> And it definitely did work for legacy themes too.
 
 We need to use WordPress REST API here. The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
 
