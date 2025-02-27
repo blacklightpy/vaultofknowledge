@@ -836,7 +836,11 @@ Yakshinis LOL: https://www.quora.com/What-does-it-mean-when-you-see-Yakshini-in-
 
 > Some Yakshinis can be extremely beautiful and irresistible to look at, the onlooker tends to be spellbound. Please ensure you mentally prepare yourself so that you do NOT have sex with her in the dream. Yakshinis have the power to swallow you whole and make you a sexual slave of hers. Eventually if you end up doing this, she will keep returning and demanding sex from you until you are exhausted and dried out. At this point she will curse you for not being able to satisfy her any more.
 
-Apparently the closest beings to succubi are Apsaras who distract Rishis (like Menaka - V)
+Apparently the closest beings to succubi are Apsaras who distract Rishis (like Menaka - Vishwamithra)
+
+The spirits are Gandharvas, Kinnaras, Yakshas, Yakshinis
+
+And there's Yogini/Yakshini/Apsaras Saadhana
 
 ---
 
