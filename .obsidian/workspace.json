@@ -276,9 +276,24 @@
               "icon": "lucide-file",
               "title": "Questions to LLMs 4 - The Problem of Making Excessive Distinctions"
             }
+          },
+          {
+            "id": "767dd128bcee5f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How I revived Sela.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "How I revived Sela"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -473,11 +488,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cdad2d4dbc121f52",
+  "active": "767dd128bcee5f8c",
   "lastOpenFiles": [
+    "How I revived Sela.md",
+    "Trying to Consolidate Hinduism 1.md",
     "Questions to LLMs 4 - The Problem of Making Excessive Distinctions.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-    "Trying to Consolidate Hinduism 1.md",
     "08. External Resources/Saved Articles/Placeholder Note.md",
     "08. External Resources/Large File Backups (PDFs, etc.)/Index.md",
     "08. External Resources/Large File Backups (PDFs, etc.)",
@@ -503,7 +519,6 @@
     "06. Collected Knowledge/Project Slate - Reddit Alternative.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
     "06. Collected Knowledge/Music Players and Streaming.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Hosting Platforms.md",
     "_images/Koshas and Shareeras illustrated.png",
     "_images/Tri Shareera illustration.png",
     "05. Organized Knowldge - New Format",
