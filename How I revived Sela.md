@@ -61,7 +61,44 @@ If you are sending a POST request from outside the browser, you'll need to get a
 
 The reason you have to put in the redirect URL as http://localhost is that, when you authorize the application, the browser will redirect you to the address: http://your-redirect-url?code=abcd1234&some_bla_bla. So if your redirect URL is http://localhost, it will redirect the page to the invalid page, http://localhost?code=abcd1234&blablabla. You could then just copy the code from there (which in this example is abcd1234).
 
-So now to get this code, you need to visit this link after replacing CLIENT_ID and CLIENT_SECRET with the Client ID and Client Secret with the values you copied earlier: 
+### Step 2: Get the OAuth access token
+
+So now to get this code, you need to visit this link after replacing `CLIENT_ID` with the Client ID value you copied earlier (the URL assumes you put the redirect URL as http://localhost), and RESPONSE_TYPE as either `code` or `token`. According to the documentation, `code` is preferred for server side programs where we intent to store the full OAuth token permanently, while `token` is preferred for client side programs where we need a temporary token, and that lasts for two weeks.
+
+https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=RESPONSE_TYPE
+
+---
+#### Easy option: If you use RESPONSE_TYPE as token
+
+- After editing CLIENT_ID, visit: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=token
+- You will be redirected to http://localhost?token=YOUR_TOKEN&blablabla
+- Copy what appears as `YOUR_TOKEN`.
+#### Longer option: If you use RESPONSE_TYPE as code
+- After editing CLIENT_ID, visit: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=code
+- You will be redirected to http://localhost?code=YOUR_CODE&blablabla
+- Copy what appears as `YOUR_CODE`
+
+Now make the following POST request using cURL ()
+
+On Linux / macOS:
+
+```sh
+curl -X POST https://public-api.wordpress.com/oauth2/token \
+  -d "client_id=CLIENT_ID" \
+  -d "client_secret=CLIENT_SECRET" \
+  -d "redirect_uri=http://localhost" \
+  -d "grant_type=authorization_code" \
+  -d "code=YOUR_CODE"
+```
+
+On MS Windows 10+ (includes cURL by default, but best to keep everything in one line):
+
+```sh
+curl -X POST "https://public-api.wordpress.com/oauth2/token" -d "client_id=CLIENT_ID" -d "client_secret=CLIENT_SECRET" -d "redirect_uri=http://localhost" -d "grant_type=authorization_code" -d "code=YOUR_CODE"
+
+```
+
+---
 
 ```sh
 curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
