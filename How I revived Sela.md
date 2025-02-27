@@ -71,44 +71,45 @@ https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_u
 #### Easy option: If you use RESPONSE_TYPE as token
 
 - After editing CLIENT_ID, visit: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=token
-- You will be redirected to http://localhost?token=YOUR_TOKEN&blablabla
-- Copy what appears as `YOUR_TOKEN`.
+- You will be redirected to http://localhost?#access_token=YOUR_TOKEN&expires_in=1209600&token_type=bearer&site_id=SITE_ID&scope=
+- Copy what appears as `YOUR_TOKEN` and `SITE_ID`.
+
+This is the easy way to get the access token.
 #### Longer option: If you use RESPONSE_TYPE as code
 - After editing CLIENT_ID, visit: https://public-api.wordpress.com/oauth2/authorize?client_id=CLIENT_ID&redirect_uri=http://localhost&response_type=code
 - You will be redirected to http://localhost?code=YOUR_CODE&blablabla
-- Copy what appears as `YOUR_CODE`
+- Copy what appears as `YOUR_CODE`.
 
-Now make the following POST request using cURL ()
+Now make the following POST request using cURL, by running the following command in your terminal, after replacing `CLIENT_ID`, `CLIENT_SECRET` and `YOUR_CODE` with the values you copied earlier.
 
-On Linux / macOS:
-
-```sh
-curl -X POST https://public-api.wordpress.com/oauth2/token \
-  -d "client_id=CLIENT_ID" \
-  -d "client_secret=CLIENT_SECRET" \
-  -d "redirect_uri=http://localhost" \
-  -d "grant_type=authorization_code" \
-  -d "code=YOUR_CODE"
-```
-
-On MS Windows 10+ (includes cURL by default, but best to keep everything in one line):
+- O
 
 ```sh
 curl -X POST "https://public-api.wordpress.com/oauth2/token" -d "client_id=CLIENT_ID" -d "client_secret=CLIENT_SECRET" -d "redirect_uri=http://localhost" -d "grant_type=authorization_code" -d "code=YOUR_CODE"
 
 ```
 
----
+Then you will get a response in the following fashion: 
 
-```sh
-curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
--H "Authorization: Bearer YOUR_ACCESS_TOKEN" \
--H "Content-Type: application/json" \
--d '{"theme": "sela"}'
+```JSON
+{"access_token":"S)QpqmmF8sWp75b6!7NbP656S#yhFO^ukfLGS#c1VR#(Ru5hc#qX@ELFh#Si4c3M","token_type":"bearer","blog_id":"87693174","blog_url":"http:\/\/your-blog.wordpress.com","scope":""}⏎
 ```
 
+Copy the access token, blog ID and you already know the blog URL.
+
+This is the long way to get the access token.
+
+### Step 3. Change the theme
+
+Now run either of the following (both are the same), after replacing YOUR_SITE and YOUR_ACCESS_TOKEN. YOUR_SITE can either be the address of your site (without `https://`) or your blog ID you got earlier.
+
+Option 1:
 ```sh
-curl https://public-api.wordpress.com/rest/v1/sites/clashofclansspeical.wordpress.com/themes/mine \
--H 'authorization: Bearer S)QpqmmF8sWp75b6!7NbP656S#yhFO^ukfLGS#c1VR#(Ru5hc#qX@ELFh#Si4c3M' \
---data-urlencode 'theme=sela'
+curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/YOUR_SITE/themes/mine -H "Authorization: Bearer YOUR_ACCESS_TOKEN" -H "Content-Type: application/json" -d '{"theme": "sela"}'
 ```
+
+Option 2:
+```sh
+curl https://public-api.wordpress.com/rest/v1/sites/YOUR_SITE/themes/mine -H 'authorization: Bearer YOUR_ACCESS_TOKEN' --data-urlencode 'theme=sela'
+```
+
