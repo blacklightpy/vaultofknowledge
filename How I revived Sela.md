@@ -22,18 +22,27 @@ We need to use WordPress REST API here.
 
 The documentation for changing theme is here: https://developer.wordpress.com/docs/api/1.1/post/sites/%24site/themes/mine/
 
-This requires sending a POST request. There are two ways to do this.
-## Easy way: With Developer Console
+This requires sending a POST request, with the site authentication. There are two ways to do this.
+## Easy way: With the Development Console
+
+When you use the Development Console, you are already logged in to WordPress.com in your browser, so there is no further token required for authentication.
+
 - Login to your Wordpress.com account
 - Visit https://developer.wordpress.com/docs/api/console/
 - Ensure that the dropdowns on the top left are selected to "WP.COM API" and "v1.1"
-- The third dropdown will be "GET". Click it and change it to "POST".
-- 
+- Now, the search bar is to be used for finding the available requests. The default selection would be "GET".
+- Type in "themes/mine"
+- It will show two results, a GET request and a POST request, under the themes heading.
+- Choose the POST request (it will be `POST /site/$site/themes/mine`)
+- Then, replace the `$site` value with `your-blog.wordpress.com`
+- Then, there will be a section at the bottom asking you to fill in the parameters.
+- There, in the `themes` attribute, fill in `sela`.
 
 ## Hard way: With API Keys
 
+If you are sending a POST request from outside the browser, you'll need to get an authorization key. For this, you'll be using the OAuth 2.0 
 
-- The Getting started guide is here: https://developer.wordpress.com/docs/api/getting-started/
+- The REST API Getting started guide is here: https://developer.wordpress.com/docs/api/getting-started/
 - The documentation for creating the client secrets is here: 
 - The documentation for obtaining the OAuth token is here: https://developer.wordpress.com/docs/oauth2/
 
