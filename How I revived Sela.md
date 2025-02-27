@@ -59,9 +59,9 @@ If you are sending a POST request from outside the browser, you'll need to get a
 - On the next page, click "Update"
 - Scroll down, and from the "OAuth Information" section, copy the Client ID and Client Secret
 
-The reason you have to put in the redirect URL as http://localhost is that, when you authorize the application, the browser will redirect you to the address: http://your-redirect-url/code=YOUR_ACCESS_TOKEN&bla_bla_bla. So if your redirect URL is http://localhost, it will redirect the page to the invalid page, http://localhost/code=YOUR_ACCESS_TOKEN&blablabla. You could then just copy the access token from there.
+The reason you have to put in the redirect URL as http://localhost is that, when you authorize the application, the browser will redirect you to the address: http://your-redirect-url?code=abcd1234&some_bla_bla. So if your redirect URL is http://localhost, it will redirect the page to the invalid page, http://localhost?code=abcd1234&blablabla. You could then just copy the code from there (which in this example is abcd1234).
 
-To authorize, you need to visit this link after replacing CLIENT_ID and CLIENT_URL with your
+So now to get this code, you need to visit this link after replacing CLIENT_ID and CLIENT_SECRET with the Client ID and Client Secret with the values you copied earlier: 
 
 ```sh
 curl -X POST https://public-api.wordpress.com/rest/v1.1/sites/clashofclansspeical.wordpress.com/themes/mine \
