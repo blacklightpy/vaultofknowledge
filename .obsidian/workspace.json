@@ -370,7 +370,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "baps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -391,7 +391,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -535,10 +536,10 @@
   },
   "active": "f9251aa567c2964e",
   "lastOpenFiles": [
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "Buttermilk.md",
     "The Direction of Hate.md",
     "Study of the Ultimate Reality/Ultimate Consciousness.md",
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "06. Collected Knowledge/Consciousness.md",
     "06. Collected Knowledge/Reality.md",
     "My Interests.md",
