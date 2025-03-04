@@ -370,7 +370,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "baps",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -391,8 +391,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -534,7 +533,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f9251aa567c2964e",
+  "active": "cdad2d4dbc121f52",
   "lastOpenFiles": [
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "Buttermilk.md",
