@@ -1,0 +1,1 @@
+We know that the technological revolution happened post WW-II, and like with all prior wars.
