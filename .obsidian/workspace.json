@@ -391,7 +391,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -481,19 +482,9 @@
               "icon": "lucide-list",
               "title": "Outline of Puranas"
             }
-          },
-          {
-            "id": "8fa703b6cd12adf0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "446d57ff147250bb",
@@ -530,13 +521,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdad2d4dbc121f52",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
+    "01. Personal/Customization/Obsidian Settings.md",
     "Buttermilk.md",
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "The Direction of Hate.md",
     "Study of the Ultimate Reality/Ultimate Consciousness.md",
     "06. Collected Knowledge/Consciousness.md",
@@ -564,7 +557,6 @@
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
     "08. External Resources",
-    "Tharka Shaasthra.md",
     "_images/Koshas and Shareeras illustrated.png",
     "_images/Tri Shareera illustration.png",
     "05. Organized Knowldge - New Format",
