@@ -1,0 +1,1 @@
+Since Vinyl records record audio by rotations 
