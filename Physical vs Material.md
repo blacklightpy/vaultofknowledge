@@ -1,3 +1,3 @@
 I guess the normal definition is that physical includes energy and matter, but material only involves that which has mass.
 
-However, if I'm to use the analogy of energy vs that which is tangible, then there is the problem of defining tangibility. At the lowest levels, all things are arrangements of what is describes as energy, or
+However, if I'm to use the analogy of energy vs that which is tangible, then there is the problem of defining tangibility. At the lowest levels, all things are arrangements of what is describes as energy, or mathematical constructs. It is only at a higher level of abstraction that tangibility arises. For example, though we say that electrons are particles, they are smaller than light.
