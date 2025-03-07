@@ -396,9 +396,24 @@
               "icon": "lucide-file",
               "title": "Differences between Hinduism and Buddhism"
             }
+          },
+          {
+            "id": "807a5f282886d761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From Debate Theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "From Debate Theory"
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -585,8 +600,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8a6d9de422816aa",
+  "active": "807a5f282886d761",
   "lastOpenFiles": [
+    "From Debate Theory.md",
     "Differences between Hinduism and Buddhism.md",
     "RIght and Left.md",
     "Physical vs Material.md",
@@ -613,7 +629,6 @@
     "05. Organized Knowldge - New Format/Placeholder Note.md",
     "06. Collected Knowledge/Ideas for my Website.md",
     "Study of Reality.md",
-    "Map of Wondering.md",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
     "08. External Resources",
