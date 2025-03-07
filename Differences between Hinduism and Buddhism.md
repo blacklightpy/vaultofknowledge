@@ -1,0 +1,4 @@
+
+The main difference in Hinduism and Buddhism is that, Hinduism says that there is a permanent ultimate consciousness, while Buddhism says that the world is fleeting. Advaita Vedanta Darshana too does agree with the idea that the world is fleeting, but that's one's identity is not in the world, but in the ultimate consciousness.
+
+Another difference that arises from this is that, Buddhism considers the mind as fleeting. But even then, we are able to remember things, because through repetition, we retain ideas. And we are able to utilize these ideas to form new ideas later on. Buddhism does realize this, but considers this an unintentional happening.
