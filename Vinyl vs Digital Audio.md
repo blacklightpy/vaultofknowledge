@@ -1,1 +1,7 @@
-Since Vinyl records record audio by rotations 
+Since Vinyl records record audio by rotations and digital audio is recorded by sampling, there are some differences in the properties of the recorded sounds.
+
+Since vinyl records record audio by rotations, the rate of rotation determines the temporal resolution. The faster the rate of rotation, detail is distributed across a longer space, making it easy to read from. But the thinness of the stylus and the motive ability of the tonearm determine the ability to read well from a smaller speed recording. 
+
+What temporal resolution means is that the variations between the amplitudes and frequencies in the spectrum over time are distributed at a lower distance at shorter rotational speeds, and lower frequencies tend to have their variations more spread out, while the higher frequencies are more closely packed. This means that a slow recording played on a standard turntable would resolve higher frequencies at a lesser level of detail.
+
+On the other hand, digital audio is recorded by sampling the waveforms according to the Nyquist-Shannon sampling theorem to preserve the range of frequencies, and the variations in amplitude are preserved by the sample bit depth. So unlike a vinyl recording, a digital audio recording would not have higher frequencies condensed, but instead, would have them cut off.
