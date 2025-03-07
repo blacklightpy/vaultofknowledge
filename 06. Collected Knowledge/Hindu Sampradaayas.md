@@ -43,7 +43,7 @@ Major Sects: Shaiva, Vaishnava, Shaura, Shakta, Ganapataya, Subramaniya, Ayyapa
 | 29  |      |           |             |             |             |             |
 | 30  |      |           |             |             |             |             |
 # List 1
-![[main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg]]
+![[Hindu Sampradaayas.jpg]]
 
 # List 2
 - Valmiki Sampradaya - This is a low (Dalit) caste clan-based sect which reveres Valmiki as their ancestor and patron Saint. They take the Valmiki Ramayana and Yoga Vashishtha as their holy scriptures. Their main festival is Valmiki Jayanti. Their temples are open to all.
