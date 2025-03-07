@@ -366,24 +366,9 @@
               "icon": "lucide-file",
               "title": "Physical vs Material"
             }
-          },
-          {
-            "id": "129a19de4153e8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differences in Languages.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Differences in Languages"
-            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -436,7 +421,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -569,7 +555,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "129a19de4153e8af",
+  "active": "617382f4f4391f79",
   "lastOpenFiles": [
     "Differences in Languages.md",
     "Physical vs Material.md",
