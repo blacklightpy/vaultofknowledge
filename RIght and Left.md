@@ -6,6 +6,7 @@ In reality, the "heaven" of the right wing is a conception that exists to negate
 
 A right winger does not even necessarily believe in the God. They just want other to believe. For example, Jordan Peterson, when asked the question of faith, he simply said "I act as if God exists". He doesn't want to deal with ontology. He just wants to deal with the rigid rules that enable society, and allow him to handle daily life.
 
-You think the American elites believe in God? Well, they want the soldiers to believe in God so they can die fo
+You think the American elites believe in God? Well, they want the soldiers to believe in God so they can die defending the country.
 
-Now what separates the category of "theists" from the right wingers is that they do believe in some God. But a theist could also be a left winger, if the theist believes in an optimistic teleology (purpose) to the world. This is especially the case with Eastern religions, as well as some reform denominations of Christianity and Judaism.
+Now what separates the category of "theists" from the right wingers is that they do believe in some God. But a theist could also be a left winger, if the theist believes in an optimistic teleology (purpose) to the world. This is especially the case with Eastern religions, as well as some reform denominations of Christianity and Judaism. Not all optimists would be left wingers, because some would believe only their customs would give rise to heaven.
+
