@@ -850,3 +850,27 @@ In Ashtaadhyaayi, Panini's Vyaakarana work, he states that when grouping, words 
 Verse: इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति।।
 Translation: The Vedas should be expounded by the Ithihaasas and Puraanas. The Vedas are afraid of one of little learning, thinking they would misrepresent them.
 Sources: 1) Vasishta Dharma Soothra 27.6, 2) Vyaasa Smrithi 1.4, 3) Padma Puraana 2.51-52, 4) Skanda Puraana 5.3.122, 5) Maha Bhaaratha 1.1.204
+
+---
+
+Dvaita says Bimba (Brahmaan) and Pratibimba (Jiva) are eternally different.
+Advaita says the Upaadhi (medium) is Avidya, and when the Upaadhi is destroyed one unites with Brahmaan.
+But Dvaita says that when the Upaadhi is destroyed, Jeeva becomes extinct.
+
+I think Dvaita considers the reflectiveness of Brahmaan as the Upaadhi. While Advaita considers the misidentification of the self with the reflection as the Upaadhi. Nevertheless, 
+
+Aabhaasa Vaada: Illusion of Reflection
+Prathibimba Vaada: Reflection
+
+> In AbhAsa vAda, jIvA is defined as the combination of  chaitanyam (kUtastha), the reflecting medium (kAraNa sharIra and sUkshma sharIra), and chidAbhAsa, the reflection of chit on the reflecting medium. Ishwara is the combination of chaitanyam (nirguNa brahman), samashTI avidyA (mAyA) and the reflection of chaitanyam in mAyA.
+
+> Unlike abhAsa vAda, in pratibimba vAda, the difference between Ishvara and jIva is attributed to only one avidyA upAdhi. So there is no separate Ishvara upAdhi. The jIva is defined as the reflection of chaitanyam in the one upAdhi. Ishvara is the original chaitanyam.
+
+Source: https://www.advaita-vedanta.org/archives/advaita-l/2016-March/040512.html
+
+i.e. both recognize reflection, but differ in philosophy.
+
+Prakashatman proposed Prathibimba Vaada.
+Aabhaasa Vaada says that one must reject both Jeeva and Ishvara as illusions.
+Prathibimba Vaada says that reflections are the same, just not to be identified with.
+
