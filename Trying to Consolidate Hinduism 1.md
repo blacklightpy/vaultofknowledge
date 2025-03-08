@@ -876,3 +876,10 @@ Prakashatman proposed Prathibimba Vaada.
 Aabhaasa Vaada says that one must reject both Jeeva and Ishvara as illusions.
 Prathibimba Vaada says that reflections are the same, just not to be identified with.
 
+---
+
+About Buddha Maarga:
+This is what I hold: While I consider Vedaanta to be true, without Sidhaartha Gauthama's influence, Indian culture would have lost their way into rituals and myths of Meemaamsa and Puraanas.
+
+About Vedaangas (More: https://hinduism.stackexchange.com/a/35338/40901):
+> the importance of remembrance power, vyaakarana, nirukta, sikhsha,chandas, while understanding the phonetic Rig Veda.
