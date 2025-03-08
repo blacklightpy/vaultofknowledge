@@ -7,10 +7,13 @@ For example, if I am making a game, I want the game engine I'm using to be predi
 
 According to the knowledge of India, the ultimate reality
 
+
+
+
 A true religion cannot be dependent on history:
 
-The laws of physics are not dependent on the revelations of the scientists who formulated them.
-Likewise, the truth of reality is not dependent on someone's revelation, it is always true.
+; The laws of physics are not dependent on the revelations of the scientists who formulated them.
+; Likewise, the truth of reality is not dependent on someone's revelation, it is always true.
 
-What is possible is that a deity like Allah can reveal his will to a human. But this is only valid in Vyavahaarika Sathya.
-Paramaarthika Sathya still remains 
+; What is possible is that a deity like Allah can reveal his will to a human. But this is only valid in Vyavahaarika Sathya.
+; Paramaarthika Sathya still remains in everyone's reach. And Paramaarthika Sathya invalidates this claim about Vyavahaarika Sathya.
