@@ -883,3 +883,10 @@ This is what I hold: While I consider Vedaanta to be true, without Sidhaartha Ga
 
 About Vedaangas (More: https://hinduism.stackexchange.com/a/35338/40901):
 > the importance of remembrance power, vyaakarana, nirukta, sikhsha,chandas, while understanding the phonetic Rig Veda.
+
+About different Kalpas applied to Puraanas:
+This is called Kalpa Bheda
+
+---
+
+My final thought on Puraanas is that anything is subjective history unless they violate observations of science they themselves affirm.
