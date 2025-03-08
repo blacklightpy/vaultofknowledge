@@ -27,9 +27,10 @@
 			- **Idol Construction**
 		- **The Song of God (from The Great Bhaarat)** [==Bhagavad Geeta, from Mahaabhaarata==]
 	- **Remembered (Transmitted Writings Inspired by Scriptures)** [==Smrithi==]
-		- **Epics** [==Ithihaasa:==]
+		- **History (Epics)** [==Ithihaasa:==]
 			- **The Great Bharaat** [==Mahaabhaarata==]
 			- **The Journey of Raam** [==Raamaayana==]
+		- **Legends** [==Puraana:==]
 		- **Aphorisms** [==Soothra:==]
 			- **Ethical Aphorisms** [==Dharma Soothra:==]
 				- **Ethical Aphorisms by Apasthamba** [==Apasthamba Dharma Soothra:==]
@@ -844,3 +845,8 @@ And there's Yogini/Yakshini/Apsaras Saadhana
 
 ---
 
+In Ashtaadhyaayi, Panini's Vyaakarana work, he states that when grouping, words that have less syllables must come first. But he also states that words that are more respected must come first. Puraana has three syllables, but Ithihaasa has four. Yet the scriptures refer to them as Ithihaasa-Puraana.
+
+Verse: इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति।।
+Translation: The Vedas are expanded by the Ithihaasas and Puraanas.
+Sources: 1) Vasishta Dharma Soothra 27.6, 2) Vyaasa Smrithi 1.4, 3) Padma Puraana 2.51-52, 4) Skanda Puraana 5.3.122, 5) Maha Bhaaratha 1.1.204
