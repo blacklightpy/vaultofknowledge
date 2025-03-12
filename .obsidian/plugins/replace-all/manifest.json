@@ -1,0 +1,10 @@
+{
+	"id": "replace-all",
+	"name": "Replace All",
+	"version": "1.0.5",
+	"minAppVersion": "1.7.2",
+	"description": "Replace all in vault.",
+	"author": "patrickchiang",
+	"authorUrl": "https://github.com/patrickchiang",
+	"isDesktopOnly": false
+}

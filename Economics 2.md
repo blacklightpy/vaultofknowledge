@@ -21,7 +21,7 @@ e.g. in Sankhya, we assume a rolemodel God and try to attain oneness with it, re
 
 Shabda - Vaidika vs Laukika
 
-Bhagwan (Vishnu), Eeshvara (Shiva), Brahmaan, Purusha
+Bhagwan (Vishnu), Eeshvara (Shiva), Brahman, Purusha
 
 Purusha - Efficient Cause
 Prakriti - Material Cause

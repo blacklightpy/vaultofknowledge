@@ -1,6 +1,6 @@
 Buttermilk does not contain butter or milk. But what it is is basically the leftover when you churn butter out of milk.
 
-It is used as an analogy by Ramana Maharshi to illustrate the relationship between Brahmaan, Eeshvara and Jagat.
+It is used as an analogy by Ramana Maharshi to illustrate the relationship between Brahman, Eeshvara and Jagat.
 # The Analogy
 
 From Sayings of Sri Ramakrishna (848):
