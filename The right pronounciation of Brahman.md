@@ -35,6 +35,7 @@ Valakilyas: Tiny Sages who lived on Sun's Rays
 Pisachas: Astral Entities that feed off negative energy, and guide weak minds to do negative things / Flesh eating demons
 
 More:
-Gandharvas
-Apsaras
-Bear People: e.g. 
+Gandharvas: Celestial Singers, born to Kashyapa and Arishta
+Apsaras: 
+Bear People: (like Vanaras) (e.g. Jambavan) (lived in Kishkinda)
+Rakshasas / Daityas: Step-Brothers of Devas, born to Kashyapa and Diti
