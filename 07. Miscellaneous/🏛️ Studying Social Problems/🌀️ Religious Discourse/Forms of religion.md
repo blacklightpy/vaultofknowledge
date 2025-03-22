@@ -41,10 +41,10 @@
 ## Attribute Form
 
 - Pan-theism (All is God) (Hinduism) (Shuddha Advaita)
-- Pan-en-theism (All is in God) (Hinduism (Creator-Creation) (Achintya Bheda-Abheda (inconcievable difference and non-difference), Bheda-Abheda (difference and non-difference), Dvaita-Advaita (differential monism), Vishishta-Advaita (qualified monism), Kashmir Shaivism, Shakti/Tantra), Kabbalah/Jewish Mysticism)
+- Pan-en-theism (All is in God) (Hinduism (Creator-Creation) (Achintya Bheda-Abheda (inconcievable difference and non-difference), Bheda-Abheda (difference and non-difference), Dvaita-Advaita (differential monism), Vishishta-Advaita (qualified monism), Kashmir Shaivism, Shaktism/Tantra), Kabbalah/Jewish Mysticism)
 - Pan-deism (God became All)
 
-- Monism (There is only one thing at the deepest level) (Vedanta)
+- Monism (There is only one thing at the deepest level) (Advaita)
 - Dualism (Dvaita Vedanta, Taoism (Yin-Yang))
 
 - Ignosticism/Igtheism (God is a incomprehensible entity, hence religions are meaningless (e.g. "God created everything except Himself" is meaningless))
