@@ -15,7 +15,7 @@ Tags: #routine
 
 I started with trying to see what Raaja Yoga was, as part of my study of the types of Yogas (practices) in Indian Idealism (speaking of which, I discovered that "idealism" was the right word, just now).
 
-- Raaja Yoga
+- Raaja Yoga (Covered in a later note)
 - Types of Yoga
 	- Kundalini Yoga
 		- Chakras

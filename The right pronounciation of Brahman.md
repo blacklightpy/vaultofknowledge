@@ -8,3 +8,18 @@ Braahman (Brahmin): The priestly caste
 Brahma: The deity
 Braahmana: An area of the Vedas
 Brahmaanda: The universe (cosmic egg)
+
+
+Terms:
+Paashaanam (Poison)
+Nava Paashaanam (Nine Poison Medicine) (Closes Nava Dwaara)
+Thailam
+Nava Graha (?)
+
+Doshas: Vatam, Pittham, Kapham
+Characteristics: Praana, Tejas, Ojas
+Dhatus: Seven Principles + Ojas
+
+Upaasana (Worship)
+Seva Moorthi (Form for Worship)
+Sattvika Karma
