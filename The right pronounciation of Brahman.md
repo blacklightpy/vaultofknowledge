@@ -23,3 +23,18 @@ Dhatus: Seven Principles + Ojas
 Upaasana (Worship)
 Seva Moorthi (Form for Worship)
 Sattvika Karma
+
+Yakshas / Yakshinis: Spirits
+Kinnaras: Centaurs
+Kumpurusha: Feline People (e.g. Narasimha) (also referred to as Kinnaras)
+Nagas: Serpent People (also the Naga people of Nagaland)
+Suparnas: Eagles (e.g. Garuda) (enemies of Nagas)
+Vanaras: Monkey People (e.g. Hanuman) (lived in Kishkinda)
+Vidyadharas: Happy Fairies (lived in mountains with Yakshas and Kinnaras)
+Valakilyas: Tiny Sages who lived on Sun's Rays
+Pisachas: Astral Entities that feed off negative energy, and guide weak minds to do negative things / Flesh eating demons
+
+More:
+Gandharvas
+Apsaras
+Bear People: e.g. 
