@@ -25,10 +25,10 @@
 - Deism (God made everything and left)
 ### Belief in one god and sub-gods
 
-- Henotheism
+- Henotheism (Tantra, Bhakti (Dvaita, Vishishta-Advaita))
 ### Belief in many gods
 
-- Monolatry (Worship of only one god)
+- Monolatry (Worship of only one god) (Tantra, Bhakti (Dvaita, Vishishta-Advaita))
 - Kathenotheism (Worship one god at a time)
 - Polytheism (Worship many gods at once)
 ### Don't know what's it exactly
@@ -40,8 +40,8 @@
 - Atheism
 ## Attribute Form
 
-- Pan-theism (All is God) (Hinduism)
-- Pan-en-theism (All is in God) (Hinduism (Brahmaan-Creation) (Achintya Bheda-Abheda, Dvaitadvaita (differential monism), Vishistadvaita (qualified monism)), Kashmir Shaivism, Shakti/Tantra, Kabbalah/Jewish Mysticism)
+- Pan-theism (All is God) (Hinduism) (Shuddha Advaita)
+- Pan-en-theism (All is in God) (Hinduism (Creator-Creation) (Achintya Bheda-Abheda (inconcievable difference and non-difference), Bheda-Abheda (difference and non-difference), Dvaita-Advaita (differential monism), Vishishta-Advaita (qualified monism), Kashmir Shaivism, Shakti/Tantra), Kabbalah/Jewish Mysticism)
 - Pan-deism (God became All)
 
 - Monism (There is only one thing at the deepest level) (Vedanta)
