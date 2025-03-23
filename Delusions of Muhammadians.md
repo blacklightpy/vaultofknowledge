@@ -7,4 +7,4 @@ Therefore they say, we won't understand the the glory of fighting and dying in w
 
 This is totally based off of their delusion that 1) all others are liars 2) they are all materialists and 3) the only idea that is not materialist is their idea of dualistic theism and divine command as prescribed by Muhammad.
 
-Believing something like that itself is crazy and one would have to be deeply tied in some mental knots
+Believing something like that itself is crazy and one would have to be deeply tied in some mental deadlock-knots to think that way, and untying it is nearly impractical. This is exactly why I agree with the quote that "the fanatical frenzy of Muhammadanism is to man what Rabies is to a dog." (Winston Churchill in "The River War")
