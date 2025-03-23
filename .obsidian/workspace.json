@@ -478,13 +478,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Torah Study - Temp.md",
+                "file": "03. Culture/Culture/Hindu Culture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Torah Study - Temp"
+              "title": "Hindu Culture"
             }
           }
         ],
@@ -520,7 +520,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shulchan",
+                "query": "Brahmaan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -675,10 +675,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1e41800300685b2",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/The Hebrew Religion.md",
     "Torah Study - Temp.md",
+    "07. Miscellaneous/Religions/The Hebrew Religion.md",
     "03. Culture/Culture/Hindu Culture.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Forms of religion.md",
     "The right pronounciation of Brahman.md",
