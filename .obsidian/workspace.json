@@ -486,9 +486,24 @@
               "icon": "lucide-file",
               "title": "Hindu Culture"
             }
+          },
+          {
+            "id": "c2dfcaf661086c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Delusions of Muslims.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Delusions of Muslims"
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -675,11 +690,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "c2dfcaf661086c0b",
   "lastOpenFiles": [
+    "03. Culture/Culture/Hindu Culture.md",
+    "Delusions of Muslims.md",
     "Torah Study - Temp.md",
     "07. Miscellaneous/Religions/The Hebrew Religion.md",
-    "03. Culture/Culture/Hindu Culture.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Forms of religion.md",
     "The right pronounciation of Brahman.md",
     "07. Miscellaneous/Untitled Folder 1/What all must a person do.md",
@@ -702,7 +718,6 @@
     "07. Miscellaneous/Religions/Hinduism/Mahabharata.md",
     "Why to use Free and Open Tools.md",
     "06. Collected Knowledge/Sexual Misconduct and Marital Rape in Religions.md",
-    "01. Personal/Project Ideas/Characteristica Ultimatum.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
