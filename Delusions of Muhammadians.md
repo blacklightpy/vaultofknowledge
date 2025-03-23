@@ -6,13 +6,18 @@ Therefore they say, we won't understand the the glory of fighting and dying in w
 
 This is totally based off of their delusion that 1) all others are liars 2) they are all materialists and 3) the only idea that is not materialist is their idea of dualistic theism and divine command as prescribed by Muhammad.
 
-Believing something like that itself is crazy and one would have to be deeply tied in some mental deadlock-knots to think that way, and untying it is nearly impractical. This is exactly why I agree with the quote by Winston Churchill that's summarized as "(the fanatical frenzy of) Islam is to man what Rabies is to a dog."
+Believing something like that itself is crazy and one would have to be deeply tied in some mental deadlock-knots to think that way, and untying it is nearly impractical. This is exactly why I agree with the quote by Winston Churchill that's often summarized as "(the fanatical frenzy of) Islam is to man what Rabies is to a dog."
 
 The original quote is:
+
 > "How dreadful are the curses which Mohammedanism lays on its votaries (followers)! Besides the fanatical frenzy, which is as dangerous in a man as hydrophobia (Rabies) in a dog, there is this fearful fatalistic apathy."
 > 
 > — Winston Churchill in "The River War" (1989)
 
-I did not mention other ideas because this is the root delusion from which all others derive.
+I did not mention other ideas because this is the root delusion from which all others derive, so I can just skip them here, leaving them to studies about the religion.
 
-For example, the Samskritha Vedas posit Brahman as your singular ultimate soul, with the world as an unreal phenomenon detached from your essence.
+For example, the Samskritha Vedas posit Brahman as your singular ultimate soul, which is one without another, with the world as an unreal phenomenon detached from your essence.
+
+But even in that sense, the world is something significant on its own to be seen, rather than something to be escaped from to attain a paradise, because all worlds of dualism, which are not Brahman, are ultimately unreal, and the only realization that leads to liberation is the knowledge that you are Brahman.
+
+In that sense, death is not to be feared, and life is not ultimately significant, but in the empirical reality, life still feels meaningful, and our feelings remain valid there. And it is unlike Muhammadians who can blow themselves up or kill themselves otherwise thinking they'll attain paradise, which is not an idea shared by Indians, and for that reason, is not an idea that's moral for Indians (and almost all others) to entertain.
