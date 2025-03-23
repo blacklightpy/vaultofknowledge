@@ -1,8 +1,8 @@
 They firstly think that their religion is true and consequently that only their religion is true.
-And from that they think that all non-Muslims (non-submitters) are Kafirs (hiders), and are materialists.
+And from that they think that all non-Muslims (non-submitters) are Kaafirs (hiders), and are materialists.
 That is, they believe all people of other religions know their beliefs are false, and they are all truly materialists.
 
-Therefore they say, we won't understand the the glory of fighting and dying in war, since we are materialists. That is their rationale for pointing out how 1) they continue to fight in Gaza (when I pointed out how they claim to be victorious while they are being destroyed), and 2) how the Quraysh did not fight back and chose to give up and convert (i.e. because they are materialists who did not have the guts to fight like Muslim warriors).
+Therefore they say, we won't understand the the glory of fighting and dying in war, since we are materialists. That is their rationale for pointing out how 1) they continue to fight in Gaza (when I pointed out how they claim to be victorious while they are being destroyed), and 2) how the Quraysh people did not fight back and chose to give up and convert (i.e. because they are materialists who did not have the guts to fight like Muslim warriors).
 
 This is totally based off of their delusion that 1) all others are liars 2) they are all materialists and 3) the only idea that is not materialist is their idea of dualistic theism and divine command as prescribed by Muhammad.
 
@@ -13,3 +13,6 @@ The original quote is:
 > 
 > — Winston Churchill in "The River War" (1989)
 
+I did not mention other ideas because this is the root delusion from which all others derive.
+
+For example, the Samskritha Vedas posit Brahman as your singular ultimate soul, with the world as an unreal phenomenon detached from your essence.
