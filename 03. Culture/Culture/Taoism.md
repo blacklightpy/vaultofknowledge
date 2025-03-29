@@ -40,8 +40,8 @@ Gotta look deeper into what this is about
 
 Are texts considered revealed? Well, some are, and some are not. 
 
-There are two reifications of the Tao.
-- Lord Lao (Deified Laozi)
+There are two conceptualizations of the Tao.
+- Lord Lao, a manifestation of Daode Tianzun (Deified Laozi)
 - Tao (Non-Deified)
 
 So revealed texts are attributed to the deities, while non-revealed texts are inspired. But Taoists know that revealed or otherwise, they have passed through human hands, and texts are not the "one true path" to finding union with the Tao.
