@@ -800,7 +800,7 @@ Nyaaya influenced Vaisheshika to include Eeshvara.
 
 In Nyaaya-Vaisheshika, the world is comprised of Paramaanus, and they come together to form the reality. Nyaaya was the one that argued that this should have an Eeshvara.
 
-In Vaisheshika, Atman holds Karma. Adrishta (unseen force) perpetuates it. Aatmaan is a Dravya, so it has Gunas.
+In Vaisheshika, Atman holds Karma. Adrishta (unseen force) perpetuates it. Atman is a Dravya, so it has Gunas.
 
 There are 7 Padarthas (Categories).
 Guna is a category, and there are 24 Gunas. (long lists XD).

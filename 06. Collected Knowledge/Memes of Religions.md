@@ -156,7 +156,7 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 ### Darshana Notes
 - Astika (It is real)
 	- Should believe in Vedas (Sanskrit Books of Knowledge)
-	- Should believe in Aatmaan (Soul)
+	- Should believe in Atman (Soul)
 - Nastika (It isn't real)
 	- Everyone Else
 ### Sampradaya Notes

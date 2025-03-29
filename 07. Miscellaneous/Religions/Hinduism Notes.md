@@ -9,7 +9,7 @@ In Religion:
 - [[Hinduism Rough Notes]]
 
 > ![[Water Splash Sample Image.jpg]]
-> The analogy for the relationship between Brahmaan and Aatmaan is that of a field of water, and the ripples flowing through it. Brahmaan is the water body, and Aatmaan is the energy that forms ripples.
+> The analogy for the relationship between Brahman and Atman is that of a field of water, and the ripples flowing through it. Brahman is the water body, and Atman is the energy that forms ripples.
 ## Component Notes
 - [[Vedas]] (Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
 	- Sections

@@ -2,11 +2,11 @@
 - Simulation Hypothesis
 	- Dream Hypothesis
 		- Butterfly Dream by Zhaugzi
-			- It is one of the two foundational texts of [[Taoism]]
+			- It is the essence of Zhuangzi, one of the two foundational texts of [[Taoism]]
 		- Indian Philosophy of Maya
 			- Maya can refer to hidden principles, deception, or secret techniques - in other words, mystery.
 			- Some philosophies consider Maya to be the hidden principles by which god makes the world
-			- Advaida Vedanta school considers the world to be a manifestation of Maya, and thus illusory
+			- Advaita Vedanta school considers the world to be a manifestation of Maya, and thus illusory
 	- Relation to Solipism
 		- Solipism
 			- Only one's mind is sure to exist, all else is an illusion

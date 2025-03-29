@@ -50,7 +50,7 @@ The practice of untouchability violates the basic teaching of the Gita that such
 > 
 > Established in the unity of all existence, a Yogin who serves Me present in all beings, verily abides in Me, whatever be his mode of life. (**Gita 6.31**)
 > 
-> O Arjuna! In My view that Yogi is the best who, out of a sense of identity with others on account of the perception of the same Aatmaan in all, feels their joy and suffering as his own. (**Gita 6.32**)
+> O Arjuna! In My view that Yogi is the best who, out of a sense of identity with others on account of the perception of the same Atman in all, feels their joy and suffering as his own. (**Gita 6.32**)
 > 
 > Works like sacrifice, charity, and austerity should not be abandoned. They should be performed, for they are purifying for the wise. (**Gita 18.5**)
 

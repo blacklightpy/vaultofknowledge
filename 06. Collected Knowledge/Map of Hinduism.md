@@ -41,7 +41,7 @@ The people of Hind are called Hindus. Hinduism is a meta-religion with most of t
 				- Bheda-Abheda Vedaanta
 					- Dvaita-Advaita Vedaanta
 				- Vishishta Advaita Vedaanta
-					- Akshar-Purushottam Brahmaan Vedaanta
+					- Akshar-Purushottam Darshan
 				- Shudda Advaita Vedaanta
 				- Achintya-Bheda-Abheda Vedaanta
 				- Modern Vedaanta
@@ -103,7 +103,7 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 		- Stilling the mind and gaining insight
 		- Resting in detached awareness
 		- Liberation (Moksha) from Samsaara (Cyclic Existence) and Dukha (Sorrows)
-			- i.e. to achieve unity (Aikyam) with the divine (Brahman) or with one's self (Aatman).
+			- i.e. to achieve unity (Aikyam) with the divine (Brahman) or with one's self (Atman).
 
 - Chittha Vritthi Nirodha (Cessation of Fluctuations of the Mind)
 	- It is necessary for achieving Kaivalya
