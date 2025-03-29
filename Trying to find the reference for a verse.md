@@ -24,9 +24,13 @@ From Verse 3.9.135, Chapter 9 (The Glories of Advaita) of Chaitanya Bhaagavata b
 > 
 > **Commentary: Gauḍīya-bhāṣya by Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura:**
 > 
-> In the Mahābhārata (Vana-parva 313.117) it is stated:
+> In the Mahābhārata (Vana-parva 313.117) it is stated (as according to Prabhupada):
 > 
 > > tarko ‘pratiṣṭhaḥśrutayo vibhinnā nāsāv ṛṣir yasya mataṃ na bhinnam dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ
+> 
+> Or as stated in Gita Press edition (Romanized by IAST):
+> > tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ |
+> > dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ ||
 > 
 > Translation:
 > 
