@@ -1,6 +1,6 @@
 Similar to Sankhya, but different.
 
-Instead of one Purusha, I consider Brahmaan divides into Purusha and Sthree. Brahmaan is one, but its aspects are dual, and hence the two are dual, yet one. This is just like how water has oxygen and hydrogen, and both give different properties, yet water is one. And they are always addressed as they, but by the singular word, god.
+Instead of one Purusha, I consider Brahman divides into Purusha and Sthree. Brahman is one, but its aspects are dual, and hence the two are dual, yet one. This is just like how water has oxygen and hydrogen, and both give different properties, yet water is one. And they are always addressed as they, but by the singular word, god.
 
 Then they create a common world, which is like a dream, but not exactly, because it is a shared world. They create a nature that adheres to certain rules temporarily, to explore it playfully.
 

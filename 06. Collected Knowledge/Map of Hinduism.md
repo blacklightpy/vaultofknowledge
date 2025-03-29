@@ -103,7 +103,7 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 		- Stilling the mind and gaining insight
 		- Resting in detached awareness
 		- Liberation (Moksha) from Samsaara (Cyclic Existence) and Dukha (Sorrows)
-			- i.e. to achieve unity (Aikyam) with the divine (Brahmaan) or with one's self (Aatmaan).
+			- i.e. to achieve unity (Aikyam) with the divine (Brahman) or with one's self (Aatman).
 
 - Chittha Vritthi Nirodha (Cessation of Fluctuations of the Mind)
 	- It is necessary for achieving Kaivalya

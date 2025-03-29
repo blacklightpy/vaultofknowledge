@@ -254,7 +254,7 @@ Some say that a part of Praana Maya Kosha is also in Sthula Shareera due to the 
 From https://web.archive.org/web/20210120002556/http://sanatanadhara.com/antakarana/ (maybe available live, I'd seen this site myself too):
 
 ![[Koshas and Shareeras illustrated.png]]
-Manas cannot know Brahmaan. As Brahmaan, you must treat Manas as a pet. Since it forms the Sookshma Shareera, it will determine the state of the Sthula Shareera (Upaadhi, meaning, form), even in rebirths. That is, even when the Sthula Shareera wears out, the Sookshma Shareera may not be ready to dissolve.
+Manas cannot know Brahman. As Brahman, you must treat Manas as a pet. Since it forms the Sookshma Shareera, it will determine the state of the Sthula Shareera (Upaadhi, meaning, form), even in rebirths. That is, even when the Sthula Shareera wears out, the Sookshma Shareera may not be ready to dissolve.
 
 Manas always seeks sensory pleasures based on Raaga (likes) and Dvesha (dislikes).
 
@@ -381,13 +381,13 @@ My Philosophy: Achintya Bheda-Abheda
 - Has Distinctions between Creator and Creation
 - Ultimately, everything arises from one Reality
 
-But I hear Achintya Bheda Abheda actually considers reality as Brahmaan + his Potencies.
+But I hear Achintya Bheda Abheda actually considers reality as Brahman + his Potencies.
 
 ---
 
 Prabhupada's Mistake, According to Me:
 
-He says Jnaana Yoga is not a path to devotion, only Bhakthi Yoga is. He says with Bhakthi, one performs Karma Yoga as well, and that leads to the attainment of Brahmaan. However, he says that only Bhakthi can secure oneself to this state, and without it, one will fall out of it.
+He says Jnaana Yoga is not a path to devotion, only Bhakthi Yoga is. He says with Bhakthi, one performs Karma Yoga as well, and that leads to the attainment of Brahman. However, he says that only Bhakthi can secure oneself to this state, and without it, one will fall out of it.
 
 This is where Raaja Yoga becomes important. Jnaana Yoga leads us to understanding of not just Non-Duality, but also Duality. And this leads us to Bhakthi Yoga, and Karma Yoga emerges as a result of this. When all three are done together, it is called Raaja Yoga.
 
@@ -397,7 +397,7 @@ So there will be no problem of believing without reason. Of course, wisdom has t
 
 ---
 
-Verse: tatha brahmande, yatha pindande
+Verse: tatha brahmande, yatha pindande (more like an aphorism from some verse)
 Translation: As in the macrocosm, so in the microcosm.
 
 Microcosm is the Human Body. Macrocosm is the Universe.
@@ -405,8 +405,8 @@ Microcosm is the Human Body. Macrocosm is the Universe.
 Maimonaides: God's relationship to the universe is similar to the intellect's relationship to the human.
 Plato, Stoics, Neo-Platonists
 
-Saguna Brahmaan: Theos (God) / Ousia (Divine Nature)
-Nirguna Brahmaan: To Hen (The One) / Hyper-Ousious (Beyond Nature)
+Saguna Brahman: Theos (God) / Ousia (Divine Nature)
+Nirguna Brahman: To Hen (The One) / Hyper-Ousious (Beyond Nature)
 
 Apophatic Theology (Negating), proposed by Pseudo-Dionysius the Areopagite
 
@@ -853,8 +853,8 @@ Sources: 1) Vasishta Dharma Soothra 27.6, 2) Vyaasa Smrithi 1.4, 3) Padma Puraan
 
 ---
 
-Dvaita says Bimba (Brahmaan) and Pratibimba (Jiva) are eternally different.
-Advaita says the Upaadhi (medium) is Avidya, and when the Upaadhi is destroyed one unites with Brahmaan.
+Dvaita says Bimba (Brahman) and Pratibimba (Jiva) are eternally different.
+Advaita says the Upaadhi (medium) is Avidya, and when the Upaadhi is destroyed one unites with Brahman.
 But Dvaita says that when the Upaadhi is destroyed, Jeeva becomes extinct.
 
 I think Dvaita considers the reflectiveness of Brahman as the Upaadhi. While Advaita considers the misidentification of the self with the reflection as the Upaadhi. Nevertheless, the fact remains that the reflections and the reflective surface exist eternally.reflection
