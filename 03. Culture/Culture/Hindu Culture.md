@@ -145,7 +145,7 @@ Gunas (Attributes)
 Dharmas (Morals)
 Sanskaras (Cultural Traditions)
 Poojas (Worship Rituals)
-Concepts of God (Maya, Jiva, Aatmaan, Param Aatmaan, Prakriti, Brahman, etc.)
+Concepts of God (Maya, Jiva, Atman, Param Atman, Prakriti, Brahman, etc.)
 
 - Concepts
 	- Brahman (The Ultimate Reality and Self)

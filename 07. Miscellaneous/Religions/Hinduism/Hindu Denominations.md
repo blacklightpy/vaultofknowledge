@@ -304,7 +304,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- Four types of Atoms
 				- Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**)
 			- Five types of Substances
-				- Space (**Aakaasha**), Time (**Kaala**), Direction (**Disha**), Infinity of Souls (**Aatmaan**), Mind (**Manas**).
+				- Space (**Aakaasha**), Time (**Kaala**), Direction (**Disha**), Infinity of Souls (**Atman**), Mind (**Manas**).
 		- Categories
 			- It states that all things that exist can be classified into seven **Padaarthas** (Categories):
 				- **Dravya** (Substance)
@@ -358,7 +358,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- Brahma Sutras by Vyasa Maharshi
 	- **General Description**
 		- **Koshas** (Sheaths)
-			- Aatmaan is covered up by different sheaths
+			- Atman is covered up by different sheaths
 			- There are five sheaths, called **Pancha Koshas** that are divided into three **Shareeras** (Bodies)
 			- The bodies and sheaths organized from gross to fine are:
 				- **Sthula Sharira** (Gross Body):
