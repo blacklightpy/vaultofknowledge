@@ -1,5 +1,7 @@
 I first heard of this from Alan Watts
 Gotta look deeper into what this is about
+
+While Buddhism considers desires are to be eliminated, Taoism considers that desires distract one from finding unity with the material world as it is. Further, Mahayana, Zen and Vajra Yaana consider the ego as non-existent and the material world as an illusion, while Taoism considers the ego as a part of the material world.
 # Foundational Books
 - Books
 	- Tao Te Ching
