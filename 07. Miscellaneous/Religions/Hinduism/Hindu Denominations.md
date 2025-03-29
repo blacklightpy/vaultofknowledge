@@ -353,7 +353,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- **Brief**
 		- It focuses on the later parts of the Vedas, or the Upanishads, that deal with philosophy
 		- It is like the opposite of Sankhya school of thought
-			- It sees the world as a manifestation of Brahmaan
+			- It sees the world as a manifestation or projection of Brahman
 	- **Foundational Texts**
 		- Brahma Sutras by Vyasa Maharshi
 	- **General Description**

@@ -36,19 +36,19 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Gunas (Qualities)
 ---
 # Ideas
-Para Brahmaan is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
+Para Brahman is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
 
 Nirguna - No attributes
 Saguna - All good attributes
 
 - In Advaita Vedanta
-	- Para Brahmaan = Nirguna Brahmaan (no attributes)
+	- Para Brahman = Nirguna Brahman (no attributes)
 - In Dvaita Vedanta
-	- Para Brahmaan = Saguna Brahmaan (All good attributes)
+	- Para Brahman = Saguna Brahman (All good attributes)
 - In Vishista Dvatia Vedanta
-	- Para Brahmaan = Saguna Brahmaan (All good attributes)
+	- Para Brahman = Saguna Brahman (All good attributes)
 - By Bhakti Traditions (Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship)
-	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahmaan
+	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
 ## Hindu denominations / Sampradayas
 - Bhakti Traditions
 	- Paramashiva Worship
@@ -145,13 +145,13 @@ Gunas (Attributes)
 Dharmas (Morals)
 Sanskaras (Cultural Traditions)
 Poojas (Worship Rituals)
-Concepts of God (Maya, Jiva, Aatmaan, Param Aatmaan, Prakriti, Brahmaan, etc.)
+Concepts of God (Maya, Jiva, Aatmaan, Param Aatmaan, Prakriti, Brahman, etc.)
 
 - Concepts
-	- Brahmaan (The Universe)
+	- Brahman (The Ultimate Reality and Self)
 	- Om (The Initial Sound)
 	- Eeshvara (God)
-	- Aatmaan (The Soul)
+	- Aatman (The Soul)
 	- Maaya (The World)
 	- Karma (Actions)
 	- Samsaara (Cyclic Existence)

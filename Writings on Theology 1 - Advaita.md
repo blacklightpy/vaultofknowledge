@@ -2,7 +2,7 @@
 I wrote this for a person who did not understand the idea of "you are God".
 
 # Content
-In the Hindu traditions, saying "you are God" does not mean that you can choose to create anything, like the "manifestation trend" says. Rather, in Hinduism, reality, or Brahmaan is eternal and transforms through a cycle of creation and destruction (which can be a less concrete, such as how civilizations rise and fall too). So the role of God, or Eeshvara is one that's understood in different ways - the one that you mentioned and what's in the Abrahamic tradition is that God is separate from his creation. But since that is familiar to everyone, I'll explain the "you are God" part.
+In the Hindu traditions, saying "you are God" does not mean that you can choose to create anything, like the "manifestation trend" says. Rather, in Hinduism, reality, or Brahman is eternal and transforms through a cycle of creation and destruction (which can be a less concrete, such as how civilizations rise and fall too). So the role of God, or Eeshvara is one that's understood in different ways - the one that you mentioned and what's in the Abrahamic tradition is that God is separate from his creation. But since that is familiar to everyone, I'll explain the "you are God" part.
 
 (Firstly, note that the term "Hindu" is an exonym for the residents of the region marked by the river Sindhu, or Indus, and the land was called "Hind". When we are talking about the religion, we are referring to the orthodox traditions which follow the Vedas written in Sanskrit. Veda translates to "Knowledge", and a more correct term for the religion would be Vaidika (Vedic) or Aastika (Soul Affirming) traditions of India).
 

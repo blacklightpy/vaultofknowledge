@@ -857,9 +857,9 @@ Dvaita says Bimba (Brahmaan) and Pratibimba (Jiva) are eternally different.
 Advaita says the Upaadhi (medium) is Avidya, and when the Upaadhi is destroyed one unites with Brahmaan.
 But Dvaita says that when the Upaadhi is destroyed, Jeeva becomes extinct.
 
-I think Dvaita considers the reflectiveness of Brahmaan as the Upaadhi. While Advaita considers the misidentification of the self with the reflection as the Upaadhi. Nevertheless, the fact remains that the reflections and the reflective surface exist eternally.reflection
+I think Dvaita considers the reflectiveness of Brahman as the Upaadhi. While Advaita considers the misidentification of the self with the reflection as the Upaadhi. Nevertheless, the fact remains that the reflections and the reflective surface exist eternally.reflection
 
-Now the nature of reflections is such that, it is always lacking. For example, others don't see you the same way you see your reflections. They see you the same way you see your photos, because it is laterally flipped. Likewise, something about the reflection is always lacking in Brahmaan, so you end up finding it.
+Now the nature of reflections is such that, it is always lacking. For example, others don't see you the same way you see your reflections. They see you the same way you see your photos, because it is laterally flipped. Likewise, something about the reflection is always lacking in Brahman, so you end up finding it.
 
 Aabhaasa Vaada: Illusion of Reflection
 Prathibimba Vaada: Reflection
