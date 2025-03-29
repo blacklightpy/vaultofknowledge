@@ -38,8 +38,9 @@ Gotta look deeper into what this is about
 		- A secondary copy was later located in Shanghai.
 	- Zhuanzhou Daozang (2003) by the Chinese Daoist Association
 
-Revelation?
+Are texts considered revealed? Well, some are, and some are not. 
 
+There are two reifications of the Tao.
 - Lord Lao (Deified Laozi)
 - Tao (Non-Deified)
 
