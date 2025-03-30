@@ -361,14 +361,14 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- Atman is covered up by different sheaths
 			- There are five sheaths, called **Pancha Koshas** that are divided into three **Shareeras** (Bodies)
 			- The bodies and sheaths organized from gross to fine are:
-				- **Sthula Sharira** (Gross Body):
+				- **Sthula Shareera** (Gross Body):
 					- **Annamaya Kosha** (Food-rich Sheath)
-				- **Sukshma Sharira** (Subtle Body)
+				- **Sukshma Shareera** (Subtle Body)
 					- **Pranamaya Kosha** (Life-rich Sheath)
 					- **Manomaya Kosha** (Mind-rich Sheath)
 					- **Vijnanamaya Kosha** (Knowledge-rich Sheath)
-				- **Kaarana Sharira** (Causal Body)
-					- **Ananadamaya Kosha** (Bliss-rich Sheath)
+				- **Kaarana Shareera** (Causal Body)
+					- **Ananadamaya Kosha** (Bliss-rich Sheath / Deep Sleep)
 		- Cosmic Evolution
 			- This is the same as Sankhya, but the Antahkarana is comprised of four Tattvas
 			- **Antahkarana** (Inner Instruments)

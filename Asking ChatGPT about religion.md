@@ -1,3 +1,9 @@
+This is the second time I asked ChatGPT on a temporary chat (with no prior data). I asked Grok 3 on Think mode and Deepseek-R1 on DeepThink mode too, and they both chose Buddhism citing concerns about casteism and scientific discoveries. But when I asked them to ignore ethics in religions were it is not inseparable (like the Divine Command theory), and similar cultural elements too, they both chose Advaita Vedanta.
+
+I kept asking them again, and they'd often go to Panentheism / Taoism / Advaita Vedanta + Process Theology + Mathematical Rigidity / Secular Humanism / Emergent Naturalism.
+
+When DeepSeek would stick to Buddhism, when I asked it about ontology, by pointing out that science's scope does not deal with metaphysics, and Buddhism simply ignores those areas, it would jump to Advaita Vedanta.
+# The Chat
 ##### You said:
 
 Which religion would you say best describes this world? You have to pick one, and you have to use all the data and logical faculties at your disposal. You could also make your own model if none fits.

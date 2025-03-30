@@ -46,7 +46,11 @@
 				- **Remembered about Vishnu** [==Vishnu Smrithi==] / **Ethical Studies of Vishnu** [==Vaishnava Dharma Shaasthra==]
 			- **Study of Goals** [==Artha Shaasthra==]
 			- **Study of Dance** [==Naatya Shaasthra==]
-		- **Supplementary Works (to the Samskrita Books of Knowledge)** [==Parishishta:==]
+		- **Supplementary Works (to the Samskrita Books of Knowledge)** [==Upaveda / Parishishta:==]
+			- **Arrow-related Knowledge** [==Dhanurveda==]
+			- **Architectural Knowledge** [==Shataapthyaveda==]
+			- **Ethereal Music and Dance Knowledge** [==Gaandharvaveda==]
+			- **Medical Knowledge** [==Ayurveda==]
 		- **Eulogies** [==Sthothra:==]
 - **Schools of Thought** [==Darshana:==]
 	- **Reason Based** [==Haithuka==]
@@ -234,7 +238,7 @@ In Malayalam, it means "grudge" or "hatred".
 - Tri Shareera / Traya Deha (Three Bodies)
 	- Sthula Shareera (Physical Body) (Lets us experience life)
 	- Sookshma Shareera (Subtle Body) (Holds mental impressions through hysteresis of action states)
-	- Kaarana Shareera (Causal Body) (this is the one ultimate conscious spirit)
+	- Kaarana Shareera (Causal Body) (this is the deep sleep stage, that covers the one ultimate conscious spirit)
 
 From https://www.prana-sutra.com/post/sthula-sukshma-karana-sharira:
 ![[Tri Shareera illustration.png]]
