@@ -238,13 +238,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asking ChatGPT about religion.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Asking ChatGPT about religion"
+              "title": "Trying to Consolidate Hinduism 1"
             }
           }
         ],
@@ -280,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kosha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asking ChatGPT about religion.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Asking ChatGPT about religion"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -341,12 +341,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asking ChatGPT about religion.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Asking ChatGPT about religion"
+              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asking ChatGPT about religion.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Asking ChatGPT about religion"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           }
         ]
@@ -436,6 +436,7 @@
   },
   "active": "dc07fdd041779b22",
   "lastOpenFiles": [
+    "Asking ChatGPT about religion.md",
     "Trying to Consolidate Hinduism 1.md",
     "Torah Study - Temp.md",
     "Nature of physis in Christianity.md",
@@ -452,7 +453,6 @@
     "Physical vs Material.md",
     "RIght and Left.md",
     "Why Communists hate Liberals.md",
-    "Asking ChatGPT about religion.md",
     "My Religion.md",
     "07. Miscellaneous/Exploring Ideas 2/My Philosophy of Religion.md",
     "ChatGPT's take on idealistic ontology.md",
