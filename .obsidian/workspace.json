@@ -296,10 +296,15 @@
             "id": "ef18f62f8070dd99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dialectical Materialism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dialectical Materialism"
             }
           }
         ],
@@ -376,6 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dialectical Materialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +391,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Dialectical Materialism"
             }
           },
           {
@@ -394,11 +400,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dialectical Materialism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Dialectical Materialism"
             }
           },
           {
@@ -436,12 +443,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dialectical Materialism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dialectical Materialism"
             }
           }
         ]
@@ -487,6 +495,7 @@
   },
   "active": "ef18f62f8070dd99",
   "lastOpenFiles": [
+    "Dialectical Materialism.md",
     "Trying to Consolidate Hinduism 1.md",
     "History of Christianity.md",
     "Torah Study - Temp.md",
@@ -512,7 +521,6 @@
     "Differences between Hinduism and Buddhism.md",
     "Why to use Free and Open Tools.md",
     "Uniting Buddhism and Hinduism.md",
-    "01. Personal/Daily Notes/Entry of 22nd Mar, 2025.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
