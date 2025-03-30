@@ -15,8 +15,8 @@
               "state": {
                 "file": "History of Christianity.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "History of Christianity"
@@ -60,8 +60,8 @@
               "state": {
                 "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Electroweak Theory"
@@ -75,8 +75,8 @@
               "state": {
                 "file": "Study of Reality.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Study of Reality"
@@ -188,51 +188,6 @@
             }
           },
           {
-            "id": "9ae178487ae551e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Taking Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Note Taking Theory"
-            }
-          },
-          {
-            "id": "9b0c894cb5bf3d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Forms of religion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Forms of religion"
-            }
-          },
-          {
-            "id": "579497e35d0ab01b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Problems with ISKCON and its founder Prabhupada"
-            }
-          },
-          {
             "id": "ae7060ed13aa3c5e",
             "type": "leaf",
             "state": {
@@ -336,9 +291,19 @@
               "icon": "lucide-file",
               "title": "Trying to Consolidate Hinduism 1"
             }
+          },
+          {
+            "id": "ef18f62f8070dd99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -411,7 +376,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -421,7 +385,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Problems with ISKCON and its founder Prabhupada"
+              "title": "Backlinks"
             }
           },
           {
@@ -430,12 +394,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Problems with ISKCON and its founder Prabhupada"
+              "title": "Outgoing links"
             }
           },
           {
@@ -473,13 +436,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problems with ISKCON and its founder Prabhupada"
+              "title": "Outline"
             }
           }
         ]
@@ -523,12 +485,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "579497e35d0ab01b",
+  "active": "ef18f62f8070dd99",
   "lastOpenFiles": [
+    "Trying to Consolidate Hinduism 1.md",
+    "History of Christianity.md",
+    "Torah Study - Temp.md",
+    "Metaphysics of different Philosophers.md",
+    "Local AI Requirements.md",
+    "Study of Reality.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "03. Culture/Culture/Hindu Culture.md",
+    "01. Personal/Daily Notes/Entry of 13th Feb, 2025.md",
+    "Note Taking Theory.md",
+    "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Forms of religion.md",
+    "Problems with ISKCON and its founder Prabhupada.md",
     "The Problem of Making Excessive Distinctions.md",
     "Tour.md",
-    "Trying to Consolidate Hinduism 1.md",
     "RIght and Left.md",
     "The right pronounciation of Brahman.md",
     "Physical vs Material.md",
@@ -541,16 +513,6 @@
     "Why to use Free and Open Tools.md",
     "Uniting Buddhism and Hinduism.md",
     "01. Personal/Daily Notes/Entry of 22nd Mar, 2025.md",
-    "The Paradox of Being Cool vs Being Peaceful.md",
-    "03. Culture/Culture/Taoism.md",
-    "Trying to find the reference for a verse.md",
-    "Metaphysics of different Philosophers.md",
-    "07. Miscellaneous/Untitled Folder 1/What all must a person do.md",
-    "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
-    "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
-    "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
-    "01. Personal/Daily Notes/Entry of 3rd Feb, 2025.md",
-    "01. Personal/Daily Notes/Entry of 7th Feb, 2025.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
