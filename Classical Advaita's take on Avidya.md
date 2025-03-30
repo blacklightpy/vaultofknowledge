@@ -22,3 +22,7 @@ Let me guess. Brahman generates many patterns, kind of like shadows. Some shadow
 ### Inside a Spherical Mirror
 
 The action lab had a video. When the object is at the center, the mirror shows a dark space. When the object is off center, we get multiple reflections. Cool.
+
+Another video showed how we can pass through our own reflections.
+
+And general mirror rooms too show many reflections.
