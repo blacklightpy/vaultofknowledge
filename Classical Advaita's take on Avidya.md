@@ -1,5 +1,7 @@
 It takes the red crystal analogy. A colourless crystal (non-dual ultimate) appears as red due to the presence of a flower (lack of knowledge). When the flower is removed, the colour disappears.
 
+(It also gives the pot-space analogy, but here, I'm focusing just on the red crystal analogy.)
+
 I asked, where does the flower exist then?
 
 ChatGPT said, the flower does not, it is the perception of the crystal as red that makes you feel a flower exists. Upon seeing the true nature of the crystal as not being coloured, the flower disappears.
@@ -11,11 +13,13 @@ ChatGPT said, Avidya is Anaadi (beginningless, which in Advaita circles mean its
 So when you ask when it began, it's a wrong question, because it is Avidya that causes "beginnings" and "ends" themselves.
 
 ---
+### About the Red Crystal Analogy
 
-The crystal **never actually becomes red**—it only **appears red to an observer** who sees it through a condition (Upādhi).  
-🔹 But who is the observer? **Jīva.**
+Let me guess. Brahman generates many patterns, kind of like shadows. Some shadows perceive, but they see the reality as made of shadows, because they are only shadows. Brahman doesn't cause shadows, because they just appear due to it's reflective and projective nature.
 
-Let me guess. Brahman generates many patterns, kind of like shadows. Some shadows percieve, but they see the reality as made of shadows, because they are only shadows. Brahman doesn't cause shadows, because they just appear due to it's reflective and projective nature.
+i.e. the mind is only a pattern, yet it is perceiving, but its perception is limited by its own limited nature as a pattern. So it sees the crystal as red, although it isn't. **The mind here is the flower**, and the crystal is real.
+
+**That clears that analogy up!** I thought the flower was something other than the "mind" itself. I totally missed it when others said it, and kept looking for some other cause for the world.
 
 ---
 
