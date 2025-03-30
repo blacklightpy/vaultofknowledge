@@ -13,18 +13,18 @@
 				- **Branches of Transmissions** [==Shaakhas==]
 				- **Disciplines of the Samskrita Books of Knowledge** [==Vedaanga==]
 					- **Phonetics**
-					- **Prosody**
+					- **Prosody** 
 					- **Grammar**
 					- **Etymology and Linguistics**
 					- **Astrology**
 					- **Rituals and Rites of Passage**
 		- **Arriving Knowledge (Traditions)** [==Aagama==]
-			- [==Tantra:==]
-			- [==Yantra:==]
-			- [==Upaasana==]
-			- [==Diksha==]
-			- **Temple Construction**
-			- **Idol Construction**
+			- **Techniques** [==Tantra:==]
+			- **Devices** [==Yantra:==]
+			- **Worship** [==Upaasana==]
+			- **Transmission of Traditions** [==Diksha==]
+			- **Temple and House Construction** [==Vaasthu Shaasthra==]
+			- **Idol Construction** [==Shilpa Shaasthra]
 		- **The Song of God (from The Great Bhaarat)** [==Bhagavad Geeta, from Mahaabhaarata==]
 	- **Remembered (Transmitted Writings Inspired by Scriptures)** [==Smrithi==]
 		- **History (Epics)** [==Ithihaasa:==]

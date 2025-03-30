@@ -1,0 +1,1 @@
+Non-Dualism (Advaita) + Process Philosophy (Evolution, not Decay)
