@@ -1,0 +1,1 @@
+I asked ChatGPT to make its own view of how the non-dual comes into being.
