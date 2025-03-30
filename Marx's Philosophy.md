@@ -1,2 +1,2 @@
-- [[Dialectical Materialism]] (Based on Hegel's Dialectical Idealismdi)
+- [[Dialectical Materialism]] (Based on Hegel's Dialectical Idealism)
 - Labour Theory of Value (LTV)

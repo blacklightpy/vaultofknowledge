@@ -1,4 +1,4 @@
-Marx developed dialectical materialism based off of Hegel's dialectical idealism, but while using a materialist ontology. He believed social and economic conditions shape ideas, not the other way around. He saw dialectical materialism not as an abstract philosophy, but as a tool for studying social change and as a revolutionary tool for praxis (practice, but more like what we think and say than what we do).
+Marx developed dialectical materialism based off of Hegel's [[dialectical idealism]], but while using a materialist ontology. He believed social and economic conditions shape ideas, not the other way around. He saw dialectical materialism not as an abstract philosophy, but as a tool for studying social change and as a revolutionary tool for praxis (practice, but more like what we think and say than what we do).
 
 ### 1. Contradictions
 
