@@ -248,21 +248,6 @@
             }
           },
           {
-            "id": "515bd1951694c7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Problem of Making Excessive Distinctions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Problem of Making Excessive Distinctions"
-            }
-          },
-          {
             "id": "2a3932f1d4bac210",
             "type": "leaf",
             "state": {
@@ -290,51 +275,6 @@
               },
               "icon": "lucide-file",
               "title": "My Interests"
-            }
-          },
-          {
-            "id": "cc6c5aa61053e94c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study of the Ultimate Reality/Ultimate Consciousness.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ultimate Consciousness"
-            }
-          },
-          {
-            "id": "c257ff862e8446a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Direction of Hate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Direction of Hate"
-            }
-          },
-          {
-            "id": "f9251aa567c2964e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buttermilk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Buttermilk"
             }
           },
           {
@@ -383,112 +323,22 @@
             }
           },
           {
-            "id": "b8a6d9de422816aa",
+            "id": "a77f5b19303c40f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differences between Hinduism and Buddhism.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Differences between Hinduism and Buddhism"
-            }
-          },
-          {
-            "id": "2eeeeb068bf37244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why to use Free and Open Tools.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Why to use Free and Open Tools"
-            }
-          },
-          {
-            "id": "c881de521fc049a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Paradox of Being Cool vs Being Peaceful.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Paradox of Being Cool vs Being Peaceful"
-            }
-          },
-          {
-            "id": "864f0609b5f08181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The right pronounciation of Brahman.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The right pronounciation of Brahman"
-            }
-          },
-          {
-            "id": "d035ed1bede9a62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Culture/Culture/Taoism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Taoism"
-            }
-          },
-          {
-            "id": "382fb9b742c60468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trying to find the reference for a verse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Trying to find the reference for a verse"
-            }
-          },
-          {
-            "id": "43f0b88831de405b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metaphysics of different Philosophers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Metaphysics of different Philosophers"
+              "title": "Trying to Consolidate Hinduism 1"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -561,7 +411,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metaphysics of different Philosophers.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -571,7 +421,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metaphysics of different Philosophers"
+              "title": "Backlinks for Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -580,12 +430,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metaphysics of different Philosophers.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metaphysics of different Philosophers"
+              "title": "Outgoing links from Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -623,13 +473,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metaphysics of different Philosophers.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Metaphysics of different Philosophers"
+              "title": "Outline of Problems with ISKCON and its founder Prabhupada"
             }
           }
         ]
@@ -673,34 +523,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43f0b88831de405b",
+  "active": "579497e35d0ab01b",
   "lastOpenFiles": [
-    "Metaphysics of different Philosophers.md",
-    "Trying to find the reference for a verse.md",
-    "03. Culture/Culture/Taoism.md",
+    "03. Culture/Culture/Hindu Culture.md",
+    "The Problem of Making Excessive Distinctions.md",
+    "Tour.md",
+    "Trying to Consolidate Hinduism 1.md",
+    "RIght and Left.md",
     "The right pronounciation of Brahman.md",
+    "Physical vs Material.md",
+    "06. Collected Knowledge/Hindu Sampradaayas.md",
+    "My Interests.md",
+    "Study of the Ultimate Reality/Ultimate Consciousness.md",
+    "The Direction of Hate.md",
+    "Buttermilk.md",
+    "Differences between Hinduism and Buddhism.md",
     "Why to use Free and Open Tools.md",
+    "Uniting Buddhism and Hinduism.md",
+    "01. Personal/Daily Notes/Entry of 22nd Mar, 2025.md",
+    "The Paradox of Being Cool vs Being Peaceful.md",
+    "03. Culture/Culture/Taoism.md",
+    "Trying to find the reference for a verse.md",
+    "Metaphysics of different Philosophers.md",
     "07. Miscellaneous/Untitled Folder 1/What all must a person do.md",
     "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
     "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
     "01. Personal/Daily Notes/Entry of 3rd Feb, 2025.md",
     "01. Personal/Daily Notes/Entry of 7th Feb, 2025.md",
-    "01. Personal/Daily Notes/Entry of 3rd Mar, 2025.md",
-    "03. Culture/Culture/Hindu Culture.md",
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-    "07. Miscellaneous/Religions/Hinduism/Hinduism Index.md",
-    "06. Collected Knowledge/List of Upanishads.md",
-    "06. Collected Knowledge/Translating Religious Terminologies.md",
-    "06. Collected Knowledge/Memes of Religions.md",
-    "Trying to Consolidate Hinduism 1.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Casteism and Verses.md",
-    "06. Collected Knowledge/Map of Hinduism.md",
-    "07. Miscellaneous/Religions/Hinduism Notes.md",
-    "03. Culture/Culture/Zen.md",
-    "07. Miscellaneous/Exploring Ideas 1/Isn't using technology built by atheists wrong for religious people.md",
-    "06. Collected Knowledge/Digital Physics.md",
-    "06. Collected Knowledge/Existential Theories.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",

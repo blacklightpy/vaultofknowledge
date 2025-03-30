@@ -4,12 +4,13 @@ Gotta look deeper into what this is about
 While Buddhism considers desires are to be eliminated, Taoism considers that desires distract one from finding unity with the material world as it is. Further, Mahayana, Zen and Vajra Yaana consider the ego as non-existent and the material world as an illusion, while Taoism considers the ego as a part of the material world.
 # Foundational Books
 - Books
-	- Tao Te Ching
-	- Zhuangzi
+	- Main Books
+		- Tao Te Ching
+		- Zhuangzi
 	- Other ~1500 books
 		- Baopuzi by Ge Hong (Philosophy, Esotericism, Alchemy and Magic)
 		- Taipingjing (Grand Pacification: Formulas for making the elixir of immortality, how to make the perfect kingdom)
-		- Other Categories
+		- Other Books as Categories
 			- Liturgical Texts
 			- Techniques for Meditation and Visualization
 			- Histories and Places
@@ -22,7 +23,7 @@ While Buddhism considers desires are to be eliminated, Taoism considers that des
 			- Alchemy
 - Translations
 	- Stephen R. Bokenkamp's Early Daoist Scriptures (small sampling from major traditions)
-- Canons (Daozang)
+- Daoist Canons (Daozang)
 	- Three Cavern System (with "True Scriptures" and "Yet to be Revealed") by Lu Xiujing
 		- Cavern of Perfection from the Highest Clarity School
 		- Cavern of Mystery from the Numinous Treasure School

@@ -7,7 +7,7 @@ Another difference that arises from this is that, Buddhism considers the mind as
 
 Ultimate consciousness is a substance that can reflect its own radiance, because it all there is to reflect off of. But just as a circular mirror is not its own reflection, 
 
-[This analogy is mine, but it has been shown in Trika Shaivism, and some schools of Vedanta too. The idea of the world being the radiance of Brahman is common, especially in Vishishta Advaita, but also even in most dualistic religions. The idea of reflection is a less common idea in Advaita.]
+[This analogy is mine, but it has been shown in Thrika Shaivism, and some schools of Vedanta too. The idea of the world being the radiance of Brahman is common, especially in Vishishta Advaita, but also even in most dualistic religions. The idea of reflection is a less common idea in Advaita.]
 
 For another analogy, when a blind man touches himself, he feels himself. But this feeling is not him. This feeling allows him to recognize himself, yet it is not him. And this feeling is the world.
 
