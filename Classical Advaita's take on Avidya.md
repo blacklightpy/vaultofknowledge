@@ -16,3 +16,9 @@ The crystal **never actually becomes red**—it only **appears red to an observe
 🔹 But who is the observer? **Jīva.**
 
 Let me guess. Brahman generates many patterns, kind of like shadows. Some shadows percieve, but they see the reality as made of shadows, because they are only shadows. Brahman doesn't cause shadows, because they just appear due to it's reflective and projective nature.
+
+---
+
+### Inside a Spherical Mirror
+
+The action lab had a video. When the object is at the center, the mirror shows a dark space. When the object is off center, we get multiple reflections. Cool.
