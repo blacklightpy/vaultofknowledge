@@ -1,9 +1,9 @@
 
 ## Indian
 - Badrayana (Brahma Soothras)
-- Adi Shankara (Advaita Vedanta)
-- Abhinavagupta (Prathyaabhinja school of Kashmir Shaiva Sampradaaya)
-
+- Adi Shankara (Advaita Vedanta) (The world of duality is a misapprehension of the non-dual reality)
+- Abhinavagupta (Prathyaabhinja school of Kashmir Shaiva Sampradaaya) (Reality is an unfolding of Shiva)
+- Asanga (Yogaachaara school of Mahaa Yaana Buddha Maarga) (Mind Only)
 ## Western
 - Plato (Platonic Idealism)
 ### German
@@ -14,7 +14,11 @@
 - Lotze (Teleological Idealism)
 
 # Different Types of Idealism
-- Transcendental: 
+- Platonic Idealism: The fundamental principles of reality are ideas, not materials.
+- Metaphysical Idealism (Advaita): Material things do not exist, but as mental conceptions.
+- Transcendental Idealism (Kant): Ultimate reality is beyond our understanding
+- Absolute Idealism (Advaita, Hegel): Ultimate reality is within the scope of our understanding.
+- Marxist idea of idealism: Marx says it's like saying that if people stopped believing in gravity, people would stop falling to their deaths, and so people would go around telling people to stop believing in gravity. But I say Marx too makes a [[Misguided Arguments against Idealism|misguided argument against idealism]].
 
 ---
 # Asking ChatGPT about my doubt: Isn't dialectical idealism the same as Karma?
