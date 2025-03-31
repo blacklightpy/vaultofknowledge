@@ -7,7 +7,7 @@
 ## Western
 - Plato (Platonic Idealism)
 ### German
-- Leibniz (approached idealism)
+- Leibniz (came close to idealism)
 - Immanuel Kant (Transcendental Idealism)
-- Hegel
-- Schopenhauer
+- Hegel (Dialectical Idealism) (Doubt: Isn't dialectical idealism the same as Karma)
+- Schopenhauer (Irrational Will)
