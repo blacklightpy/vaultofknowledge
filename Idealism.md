@@ -3,7 +3,11 @@
 - Badrayana (Brahma Soothras)
 - Adi Shankara (Advaita Vedanta)
 - Abhinavagupta (Kashmir Shaiva Sampradaaya)
-## German
+
+## Western
+- Plato (Platonic Idealism)
+### German
+- Leibniz (approached idealism)
 - Immanuel Kant (Transcendental Idealism)
 - Hegel
 - Schopenhauer
