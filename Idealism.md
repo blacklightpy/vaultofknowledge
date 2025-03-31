@@ -2,7 +2,7 @@
 ## Indian
 - Badrayana (Brahma Soothras)
 - Adi Shankara (Advaita Vedanta)
-- Abhinavagupta (Kashmir Shaiva Sampradaaya)
+- Abhinavagupta (Prathyaabhinja school of Kashmir Shaiva Sampradaaya)
 
 ## Western
 - Plato (Platonic Idealism)
@@ -13,12 +13,14 @@
 - Schopenhauer (Irrational Will)
 - Lotze (Teleological Idealism)
 
+# Different Types of Idealism
+- Transcendental: 
+
 ---
 # Asking ChatGPT about my doubt: Isn't dialectical idealism the same as Karma?
 
 ## Summary
 Basically, yes. But I continued the conversation till ChatGPT itself brought it to a halt.
-
 ## Conversation
 ##### You said:
 
