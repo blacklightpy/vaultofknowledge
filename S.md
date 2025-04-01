@@ -387,6 +387,8 @@ Day, moon and fire, the essence of the three worlds, the infinite and original o
 Who in this world can attain peace by appeasing the immortal and immortal Rudra? 98 ||
 [Nalyze Grammer]
 
+---
+
 Indra said |
 What is your reason again, O Lord, for cause and effect?
 By which you desire no grace from anyone but the gods || 99 ||
@@ -417,6 +419,8 @@ Having thus spoken to the lord of the gods his senses were agitated with grief
 Rudra is not pleased with me thinking what is this
 Then in an instant I saw him again || 105 ||
 [Nalyze Grammer]
+
+---
 
 It resembles the swan, the lotus and the moon, and the brightness of the lotus and the lily
 He assumed the form of a bull and looked like a milky ocean 106 ||
