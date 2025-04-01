@@ -1,0 +1,1 @@
+Why doesn't the mouth generate toothpaste, if it was seen evolutionarily that having cleaner teeth allow you to live longer?
