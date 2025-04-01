@@ -398,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -472,7 +472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +482,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S"
+              "title": "Backlinks for Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -491,12 +491,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S"
+              "title": "Outgoing links from Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -534,13 +534,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S.md",
+                "file": "Problems with ISKCON and its founder Prabhupada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S"
+              "title": "Outline of Problems with ISKCON and its founder Prabhupada"
             }
           },
           {
@@ -604,7 +604,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "202404f05fd977f9",
+  "active": "fb8af11ce4047418",
   "lastOpenFiles": [
     "S.md",
     "Problems with ISKCON and its founder Prabhupada.md",
