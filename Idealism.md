@@ -1,4 +1,3 @@
-
 ## Indian
 - Badrayana (Brahma Soothras)
 - Adi Shankara (Advaita Vedanta) (The world of duality is a misapprehension of the non-dual reality)

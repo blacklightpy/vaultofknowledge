@@ -1,4 +1,5 @@
 ## Idealists
+See [[idealism]].
 ### 1. Hegel
 History is the unfolding of the Ultimate Reality going from confusion to self-consciousness through a dialectic process.
 ### 2. Kant
