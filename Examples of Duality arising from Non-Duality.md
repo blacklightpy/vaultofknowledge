@@ -4,4 +4,4 @@ Traditional Examples: Water and Ripples. I deny this, stating ripples only exist
 - Circle and its Elements - Sectors, etc. (Sectors are part of the circle, they are not separate from it)
 
 
-If people say God is beyond space, so he can create space out of nothingness, by command
+If people say God is beyond space, so he can create space out of nothingness, by command, 
