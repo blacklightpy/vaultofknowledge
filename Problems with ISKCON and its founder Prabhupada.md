@@ -152,7 +152,7 @@ From his Chaitanya Charithra Madhya Leela 25.27:
 > > 
 > > (Source : (broken URL))
 > 
-> **The great prophet denying Evolution(Like another Abrahamic great Prophet):**  
+> **The great prophet denying Evolution (Like another Abrahamic great Prophet):**  
 > 
 > > Darwin's theory stating that no human beings existed from the beginning but that humans evolved after many, many years is simply nonsensical.
 > > 
@@ -183,3 +183,4 @@ From his Chaitanya Charithra Madhya Leela 25.27:
 > > **Hari-sauri**: Yes. If they do get money, they just buy it.
 > 
 > Source: ([Prabhupada on Racism](https://www.quora.com/Why-does-Srila-Prabhupada-abuse-Vivekananda-and-Aurobindo-as-rascals/answer/Diptarko-Sharma "www.quora.com"))
+
