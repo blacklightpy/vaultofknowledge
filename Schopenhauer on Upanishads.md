@@ -4,4 +4,4 @@ Schopenhauer affirmed that his philosophy was known even before Kant, in the Upa
 > 
 > — Chapter 4 of "On the Basis of Morality"
 
-I would say the reason that Schopenhauer considered the noumenal as an irrational will that has primacy over the intellect wass because he did not study Sanskrit himself, and thus thought that was what was mentioned in the Vedas. In actuality, the Vedas said that 
+I would say the reason that Schopenhauer considered the noumenal as an irrational will that has primacy over the intellect wass because he did not study Sanskrit himself, and thus thought that is what was mentioned in the Vedas. In actuality, the Vedas say that the ultimate will is beyond rationality or irrationality, but it is the ego that is irrational. The will of the ego is to be transcended, but the ultimate self is beyond will, and it's will is not to be transcended.
