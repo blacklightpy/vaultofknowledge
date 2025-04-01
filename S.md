@@ -388,6 +388,9 @@ Who in this world can attain peace by appeasing the immortal and immortal Rudra?
 [Nalyze Grammer]
 
 ---
+(BORI CE)
+
+KM Ganguli Sanskrit: This is derived from electronic files created by Prof. Muneo Tokunaga of Kyoto and edited by John D. Smith.
 
 Indra said |
 What is your reason again, O Lord, for cause and effect?
