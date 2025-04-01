@@ -8,7 +8,9 @@ Then when the ultimate reality decides something, it doesn't have to think it ov
 
 ---
 
-Is the perfect will one or many? Well, this is an open question, because while Tao affirms the possibility of multiple paths in every situation, can all these paths go on forever backwards or forwards? That is, people know the analogy of how altering the timeline would result in them not being born. But looking in the other direction, if you would consider another imagined timeline, then that timeline could not be traced back to their birth, and 
+Is the perfect will one or many?
+
+Well, this is an open question, because while Tao affirms the possibility of multiple paths in every situation, can all these paths go on forever backwards or forwards? That is, people know the analogy of how altering the timeline would result in them not being born. But looking in the other direction, if you would consider another imagined timeline, then that timeline could not be traced back to their birth, and that would make that timeline invalid. From this, one can infer that in the long scale of time, only a few of the imagined timelines can be valid. That brings us to the question of whether multiple timelines can exist in the possibility space.
 
 For example, take the idea that Fourier Series equations can generate artworks. This is not a perfect analogy, but just consider equations that generate patterns at some areas, but they go on for infinity. A batman diagram or circle does not count, because they are cyclic.
 
