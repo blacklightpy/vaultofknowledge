@@ -2,11 +2,13 @@ Free will, as it is understood by beings of the dualistic world, does not apply 
 
 The ultimate will is free, perfect and unchanging.
 
-These three qualities are self-supporting and complete. For example, humans may have a desire to finish a task, but external realities may hinder them. But their will is to accomplish the task. If they were not affected by something external to them, their reality would have been in accordance with their will. A human desires something because they will it.
+These three qualities are self-supporting and complete. For example, humans may have a desire to finish a task, but external realities may hinder them. But their will is to accomplish the task. If they were not affected by something external to them, their reality would have been in accordance with their will. A human desires something because they find it to be ideal. Likewise, the ultimate will would be in accordance with the ultimate ideal, so it would always be perfect, even when it is free.
 
 Then when the ultimate reality decides something, it doesn't have to think it over. Because thinking comes from a limited mind's perspective, where they need to consider more data. In that way, the ultimate will is unchanging.
 
 ---
+
+Is the perfect will one or many? Well, this is an open question, because while Tao affirms the possibility of multiple paths in every situation, can all these paths go on forever backwards or forwards? That is, people know the analogy of how altering the timeline would result in them not being born. But looking in the other direction, if you would consider another imagined timeline, then that timeline could not be traced back to their birth, and 
 
 For example, take the idea that Fourier Series equations can generate artworks. This is not a perfect analogy, but just consider equations that generate patterns at some areas, but they go on for infinity. A batman diagram or circle does not count, because they are cyclic.
 
