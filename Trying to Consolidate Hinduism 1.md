@@ -914,7 +914,7 @@ My final thought on Puraanas is that anything is subjective history unless they 
 	- Seva Moorthi (Form for Worship)
 	- Sattvika Karma (Good Actions)
 
-- Beings
+- Spiritual Beings
 	- Yakshas / Yakshinis: Spirits
 	- Kinnaras: Centaurs
 	- Kumpurusha: Feline People (e.g. Narasimha) (also referred to as Kinnaras)

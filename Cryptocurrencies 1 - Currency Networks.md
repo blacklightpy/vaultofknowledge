@@ -15,7 +15,7 @@
 
 ## N.5. Features
 
-## N.6. Lightning Network
+## N.6. Layer 2 Networks
 
 ### N.6.1. Concepts
 
@@ -23,7 +23,7 @@
 # 1. Bitcoin
 ## 1.1. Concepts
 ### 1.1.1. Basics
-- UTxOs (Unspent Transaction )
+- UTxOs (Unspent Transaction Outputs)
 - Bitcoins
 - Blockchain
 - Wallet
