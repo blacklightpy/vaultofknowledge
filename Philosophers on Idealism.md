@@ -2,7 +2,7 @@
 
 See [[Schopenhauer on Upanishads]]
 
-### 2. Nietzche
+### 2. Nietzsche
 
 He argues in Beyond Good and Evil:
 

@@ -403,13 +403,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophers on Idealism.md",
+                "file": "Idealism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Philosophers on Idealism"
+              "title": "Idealism"
             }
           }
         ],
@@ -487,7 +487,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophers on Idealism.md",
+                "file": "Idealism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -497,7 +497,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Philosophers on Idealism"
+              "title": "Backlinks for Idealism"
             }
           },
           {
@@ -506,12 +506,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophers on Idealism.md",
+                "file": "Idealism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Philosophers on Idealism"
+              "title": "Outgoing links from Idealism"
             }
           },
           {
@@ -549,13 +549,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophers on Idealism.md",
+                "file": "Idealism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Philosophers on Idealism"
+              "title": "Outline of Idealism"
             }
           },
           {
@@ -621,10 +621,10 @@
   },
   "active": "9227b14f750989b5",
   "lastOpenFiles": [
-    "Schopenhauer on Upanishads.md",
-    "Philosophers on Idealism.md",
-    "Idealism.md",
     "Metaphysics of different Philosophers.md",
+    "Idealism.md",
+    "Philosophers on Idealism.md",
+    "Schopenhauer on Upanishads.md",
     "Toothpaste Argument against Evolution.md",
     "Problems with ISKCON and its founder Prabhupada.md",
     "S.md",
