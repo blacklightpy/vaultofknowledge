@@ -231,9 +231,19 @@
               "icon": "lucide-file",
               "title": "Trying to Consolidate Hinduism 1"
             }
+          },
+          {
+            "id": "3497884dc69b32f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -306,7 +316,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +325,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying to Consolidate Hinduism 1"
+              "title": "Backlinks"
             }
           },
           {
@@ -325,12 +334,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -368,13 +376,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying to Consolidate Hinduism 1"
+              "title": "Outline"
             }
           },
           {
@@ -439,10 +446,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77f5b19303c40f2",
+  "active": "3497884dc69b32f0",
   "lastOpenFiles": [
-    "Examples of Duality arising from Non-Duality.md",
     "Trying to Consolidate Hinduism 1.md",
+    "Examples of Duality arising from Non-Duality.md",
     "Flaws in Dualistic Theological Arguments 1.md",
     "Free Will.md",
     "Study of Reality.md",
