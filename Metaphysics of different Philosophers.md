@@ -14,3 +14,8 @@ The Ultimate Reality projects the world.
 Materialism.
 ### 2. Haeckel
 All reality is part of a single material substance. He rejected religious dualism.
+
+## Perspectivists
+
+### 1. Neitzche
+Models of reality are grounded on perspectives, and thus have human error.
