@@ -4,7 +4,7 @@
 - Abhinavagupta (Prathyaabhinja school of Kashmir Shaiva Sampradaaya) (Reality is an unfolding of Shiva)
 - Asanga (Yogaachaara school of Mahaa Yaana Buddha Maarga) (Mind Only)
 ## Western
-- Plato (Platonic Idealism)
+- Plato (Classical Idealism) (Matter is real, but set in motion by the mind)
 ### German
 - Leibniz (came close to idealism)
 - Immanuel Kant (Transcendental Idealism) (like Paramaarthika Sathya vs Vyavahaarika Sathya)

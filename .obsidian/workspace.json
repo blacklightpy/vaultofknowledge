@@ -398,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -472,7 +472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
+                "file": "Idealism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +482,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Problems with ISKCON and its founder Prabhupada"
+              "title": "Backlinks for Idealism"
             }
           },
           {
@@ -491,12 +491,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
+                "file": "Idealism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Problems with ISKCON and its founder Prabhupada"
+              "title": "Outgoing links from Idealism"
             }
           },
           {
@@ -534,13 +534,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems with ISKCON and its founder Prabhupada.md",
+                "file": "Idealism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problems with ISKCON and its founder Prabhupada"
+              "title": "Outline of Idealism"
             }
           },
           {
@@ -604,15 +604,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb8af11ce4047418",
+  "active": "8ee52128b838557f",
   "lastOpenFiles": [
-    "S.md",
+    "Schopenhauer on Upanishads.md",
+    "Toothpaste Argument against Evolution.md",
     "Problems with ISKCON and its founder Prabhupada.md",
+    "S.md",
     "Free Will.md",
     "Examples of Duality arising from Non-Duality.md",
     "The Importance of Teaching Classification Theory.md",
-    "Schopenhauer on Upanishads.md",
-    "Toothpaste Argument against Evolution.md",
     "Trying to Consolidate Hinduism 1.md",
     "Does Tao have one timeline or many.md",
     "Study of Reality.md",
