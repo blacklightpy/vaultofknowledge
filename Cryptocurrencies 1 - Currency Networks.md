@@ -23,7 +23,7 @@
 # 1. Bitcoin
 ## 1.1. Concepts
 ### 1.1.1. Basics
-- UTXOs
+- UTxOs (Unspent Transaction )
 - Bitcoins
 - Blockchain
 - Wallet
