@@ -263,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -336,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Free Will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +346,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying to Consolidate Hinduism 1"
+              "title": "Backlinks for Free Will"
             }
           },
           {
@@ -355,12 +355,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Free Will.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
+              "title": "Outgoing links from Free Will"
             }
           },
           {
@@ -398,13 +398,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Free Will.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying to Consolidate Hinduism 1"
+              "title": "Outline of Free Will"
             }
           },
           {
@@ -469,8 +469,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77f5b19303c40f2",
+  "active": "33e9ffbc704a1a93",
   "lastOpenFiles": [
+    "Examples of Duality arising from Non-Duality.md",
+    "Trying to Consolidate Hinduism 1.md",
     "Study of Reality.md",
     "Moment of Inertia.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
@@ -480,10 +482,8 @@
     "My Interests.md",
     "Physical vs Material.md",
     "RIght and Left.md",
-    "Trying to Consolidate Hinduism 1.md",
     "Idealism.md",
     "Tour.md",
-    "Examples of Duality arising from Non-Duality.md",
     "06. Collected Knowledge/Religion.md",
     "The Importance of Teaching Classification Theory.md",
     "Free Will.md",

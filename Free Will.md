@@ -19,3 +19,5 @@ All mathematical equations are unchanging, so when we use them as the models, we
 A sine wave is cyclic and repeating. So if we consider the ultimate will to be like a sine wave, it accounts for perfection and unchangingness, but it is not free.
 
 But if we take a function that generates some fancy phenomena at some interval, it still collapses towards the regions away from them. So if we consider the case of some fancy phenomena appearing in graphs, they still collapse towards infinity.
+
+So in that sense, it is harder to define a function such that it generates unique phenomena at different points without significant repetition, 
