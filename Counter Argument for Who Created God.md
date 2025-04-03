@@ -53,3 +53,5 @@ Ethics only exists to be in harmony in the illusion. The illusion is always a co
 > 
 > **Translation:**
 > "A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing.
+
+Why Dhrita Jnaanis need not do Karma or Upaasana: http://www.vicharasagara.com/2015/04/a-drdha-jnanin-requires-no-sadhana.html
