@@ -261,19 +261,9 @@
               "icon": "lucide-file",
               "title": "Chariot Analogy of Life"
             }
-          },
-          {
-            "id": "7239cb2f08afcfd4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -346,6 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chariot Analogy of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +346,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chariot Analogy of Life"
             }
           },
           {
@@ -364,11 +355,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chariot Analogy of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Chariot Analogy of Life"
             }
           },
           {
@@ -406,12 +398,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Chariot Analogy of Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chariot Analogy of Life"
             }
           },
           {
@@ -476,10 +469,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7239cb2f08afcfd4",
+  "active": "052d92aafcbfad06",
   "lastOpenFiles": [
-    "Counter Argument for Who Created God.md",
+    "New Idea of Arranging my Vault (2025).md",
     "Chariot Analogy of Life.md",
+    "Counter Argument for Who Created God.md",
     "Requirements to Criticize a Religion.md",
     "Delusions of Muhammadians.md",
     "My Objection to Classical Advaita Vedanta.md",
@@ -503,7 +497,6 @@
     "Toothpaste Argument against Evolution.md",
     "Schopenhauer on Upanishads.md",
     "Problems with ISKCON and its founder Prabhupada.md",
-    "S.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
