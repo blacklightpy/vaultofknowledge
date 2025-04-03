@@ -236,10 +236,15 @@
             "id": "3497884dc69b32f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Counter Argument for Who Created God.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Counter Argument for Who Created God"
             }
           }
         ],
@@ -316,6 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Counter Argument for Who Created God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +331,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Counter Argument for Who Created God"
             }
           },
           {
@@ -334,11 +340,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Counter Argument for Who Created God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Counter Argument for Who Created God"
             }
           },
           {
@@ -376,12 +383,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Counter Argument for Who Created God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Counter Argument for Who Created God"
             }
           },
           {
@@ -448,6 +456,7 @@
   },
   "active": "3497884dc69b32f0",
   "lastOpenFiles": [
+    "Counter Argument for Who Created God.md",
     "Trying to Consolidate Hinduism 1.md",
     "Examples of Duality arising from Non-Duality.md",
     "Flaws in Dualistic Theological Arguments 1.md",
@@ -473,7 +482,6 @@
     "Philosophers on Idealism.md",
     "Cryptocurrencies 1 - Currency Networks.md",
     "Metaphysics of different Philosophers.md",
-    "Does Tao have one timeline or many.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
