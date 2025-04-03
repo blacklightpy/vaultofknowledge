@@ -17,6 +17,7 @@ Anyways the point here was to show that what's intended by the super-natural is 
 
 The personal deity is then just the ultimate reality beyond the world as viewed from the world of illusions.
 
+---
 
 My takes on Advaita (rough):
 Canvas-Area (Brahman) / Painting (Maya) / Object Area (Duality)
@@ -29,3 +30,16 @@ It depends on how you see Para Brahman.
 If it is Krishna, the world is Leela.
 If it is Shiva-Shakthi, the world is Maaya of Shakthi.
 If it is Vishnu, it is his dream.
+
+But, why doesn't Maya change?
+Can I change it, being Brahman?
+Are there procedures (Tantra, Manifestation)?
+Can they be valid (Tantra, Manifestation), when I was given a reality without it?
+
+Tell em (Discord):
+
+As far as Hinduism is concerned, this world is an illusion. It's not even a test, it's just an illusion. And Brahman alone is real.
+
+There are those who say All is God, as you guys say that Hindus say that cow is God, etc. They are all misguided.
+
+There is no concern of what happens after death, because your soul is one. Life and death are part of the illusion. The self remains.
