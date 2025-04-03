@@ -1,0 +1,7 @@
+The argument that God is beyond space and time does not seem to resonate with the atheists.
+
+I'd like to make a different argument from the Indian perspective. What the Indians define God to be is the ultimate reality. Let's explain that.
+
+The materialist sees that the world has so and so fundamental materials and forces. But they do not have any explanation saying that these specific materials and forces are the one valid set, nor do they hold that perspective. That means, they would believe that there are other worlds with other laws. That would imply that this world is one among many possible worlds, and that would be the ultimate reality. However, when pressed to define what kinds of realities would exist in that ultimate reality, the materialist would often say that it contains all possibilities. But that would mean there is a reality in which someone is holding a child and suddenly the child turns into a ball of fire and dies. That's an absurd situation, and even common rationality tells them that the specific world we are in would not lead to such events, because if it did, the entire field of science would not be valid.
+
+Then there are laws like the past of least action pointing out that even if many outcomes existed, only the most efficient path would be taken, and that explains how sudden deviations in laws don't happen. But it still does not explain why we have these specific initial laws, and why they remain consistent instead of changing over time.
