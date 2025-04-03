@@ -16,3 +16,16 @@ Anyways the point here was to show that what's intended by the super-natural is 
 
 
 The personal deity is then just the ultimate reality beyond the world as viewed from the world of illusions.
+
+
+My takes on Advaita (rough):
+Canvas-Area (Brahman) / Painting (Maya) / Object Area (Duality)
+Since the Object Area as seen by the Object Areas is always structured and not chaotic, the Canvas Area (Eeshvara) maintains control.
+That means, the painting cannot be arbitrary.
+
+For this reason, I say that Brahman has Shakthi, and that Shakthi imposes Maya on to Brahman.
+
+It depends on how you see Para Brahman.
+If it is Krishna, the world is Leela.
+If it is Shiva-Shakthi, the world is Maaya of Shakthi.
+If it is Vishnu, it is his dream.
