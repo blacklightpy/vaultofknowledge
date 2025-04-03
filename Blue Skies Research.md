@@ -1,0 +1,1 @@
+Studying for the sake of fun, and not a goal. Like answering, "why is the sky blue?"
