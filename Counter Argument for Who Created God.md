@@ -55,3 +55,8 @@ Ethics only exists to be in harmony in the illusion. The illusion is always a co
 > "A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing.
 
 Why Dhrita Jnaanis need not do Karma or Upaasana: http://www.vicharasagara.com/2015/04/a-drdha-jnanin-requires-no-sadhana.html
+
+Main concern 1: I just read while studying Anirvachaniya Khatya, that Maya is Anirvachaniya from Paramarthika just as a Mirage is Anirvachaniya from Reality, as it is only an illusion. That clearly makes sense. But we (minds) from a higher reality (Vyavaharika) know why mirages (Prathibasika) happen due to effects of the Vyavaharika. But we are not able to describe, from Brahman's perspective why Vyavaharika happens due to the effects in the Paramarthika. If we say ignorance, it must have some validity in Parmarthika (because it is ultimate) in order to explain the Vyavaharika. And what is that?
+
+Kashmir Shaivism: Shakti actively manifests reality, so there's no contradiction.
+Viśiṣṭādvaita: The world is Brahman’s body, so there’s no question of illusion at all.
