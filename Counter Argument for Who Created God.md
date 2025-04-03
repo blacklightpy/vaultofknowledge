@@ -44,4 +44,4 @@ There are those who say All is God, as you guys say that Hindus say that cow is 
 
 There is no concern of what happens after death, because your soul is one. Life and death are part of the illusion. The self remains.
 
-Ethics only exists to be in harmony in the illusion.
+Ethics only exists to be in harmony in the illusion. The illusion is always a combination of three qualities.
