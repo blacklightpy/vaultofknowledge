@@ -45,3 +45,11 @@ There are those who say All is God, as you guys say that Hindus say that cow is 
 There is no concern of what happens after death, because your soul is one. Life and death are part of the illusion. The self remains.
 
 Ethics only exists to be in harmony in the illusion. The illusion is always a combination of three qualities.
+
+> **Chaithanya Charithamritha, Anthya Leela, Adhyaaya 4, Shloka 85:**
+> 
+> kāṣṭhera putalī yena kuhake nācāya
+> āpane nā jāne, putalī kibā nāce gāya!
+> 
+> **Translation:**
+> "A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing.
