@@ -261,9 +261,19 @@
               "icon": "lucide-file",
               "title": "Chariot Analogy of Life"
             }
+          },
+          {
+            "id": "7239cb2f08afcfd4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -336,7 +346,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counter Argument for Who Created God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +355,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Counter Argument for Who Created God"
+              "title": "Backlinks"
             }
           },
           {
@@ -355,12 +364,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counter Argument for Who Created God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Counter Argument for Who Created God"
+              "title": "Outgoing links"
             }
           },
           {
@@ -398,13 +406,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counter Argument for Who Created God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Counter Argument for Who Created God"
+              "title": "Outline"
             }
           },
           {
@@ -469,10 +476,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3497884dc69b32f0",
+  "active": "7239cb2f08afcfd4",
   "lastOpenFiles": [
-    "Chariot Analogy of Life.md",
     "Counter Argument for Who Created God.md",
+    "Chariot Analogy of Life.md",
     "Requirements to Criticize a Religion.md",
     "Delusions of Muhammadians.md",
     "My Objection to Classical Advaita Vedanta.md",
