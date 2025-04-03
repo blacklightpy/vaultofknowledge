@@ -60,3 +60,11 @@ Main concern 1: I just read while studying Anirvachaniya Khatya, that Maya is An
 
 Kashmir Shaivism: Shakti actively manifests reality, so there's no contradiction.
 Viśiṣṭādvaita: The world is Brahman’s body, so there’s no question of illusion at all.
+
+> Advaita tries to answer this by introducing **Īśvara, the cosmic controller**:
+> 
+> - **Īśvara (God) is Brahman seen through Māyā.**
+> - Māyā is universal, not just personal ignorance.
+> - The **multiple paintings (worlds, experiences) arise due to the collective dream of Māyā**, not individual ignorance.
+
+Avidya is about identification. Something causes Maya though.
