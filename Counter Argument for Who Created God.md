@@ -43,3 +43,5 @@ As far as Hinduism is concerned, this world is an illusion. It's not even a test
 There are those who say All is God, as you guys say that Hindus say that cow is God, etc. They are all misguided.
 
 There is no concern of what happens after death, because your soul is one. Life and death are part of the illusion. The self remains.
+
+Ethics only exists to be in harmony in the illusion.
