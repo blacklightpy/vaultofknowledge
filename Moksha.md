@@ -1,0 +1,1 @@
+It is the liberation from accumulated ideas. That is, remembering that it's only a game.
