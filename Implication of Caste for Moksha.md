@@ -7,3 +7,6 @@ The 4th Prapaathaka (Chapter) of Chandogya Upanishad deals with a boy named Saty
 Now some people do interpret this to mean that the Guru realized that he was born to a Braahmana. But his mother was a Kshoodra, and the son of a Kshoodra and a Braahmana is a Chandaala as per the Dharma Shaasthras.
 
 And secondly, the same people point out that this is how Parashuraama found Karna to be a Kshathriya. But then, seeing one's qualities does not imply that it should come only through the "bloodline." This is an ancient mistake, which is disproven by current social awareness.
+
+### Special Objection: Brahma Soothras
+The Brahma Soothras have a section dealing with the possibility of initiation of Shoodras
