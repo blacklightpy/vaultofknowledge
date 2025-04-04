@@ -313,13 +313,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline of Sages in Hinduism.md",
+                "file": "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Timeline of Sages in Hinduism"
+              "title": "Evils in Hinduism 3 - Untouchability"
             }
           }
         ],
@@ -355,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pada\"",
+                "query": "mixed caste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -397,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline of Sages in Hinduism.md",
+                "file": "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +407,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Timeline of Sages in Hinduism"
+              "title": "Backlinks for Evils in Hinduism 3 - Untouchability"
             }
           },
           {
@@ -416,12 +416,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline of Sages in Hinduism.md",
+                "file": "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Timeline of Sages in Hinduism"
+              "title": "Outgoing links from Evils in Hinduism 3 - Untouchability"
             }
           },
           {
@@ -459,13 +459,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline of Sages in Hinduism.md",
+                "file": "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Timeline of Sages in Hinduism"
+              "title": "Outline of Evils in Hinduism 3 - Untouchability"
             }
           },
           {
@@ -530,11 +530,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "91f8ac65a38b2f5b",
   "lastOpenFiles": [
+    "07. Miscellaneous/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
+    "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
+    "Timeline of Sages in Hinduism.md",
     "Implication of Caste for Moksha.md",
     "07. Miscellaneous/Religions/Hinduism/Dharma Shastra.md",
-    "Timeline of Sages in Hinduism.md",
     "07. Miscellaneous/Religions/Hinduism/Dharma Soothras.md",
     "06. Collected Knowledge/Rough Notes X.md",
     "06. Collected Knowledge/Map of Hinduism.md",
@@ -545,7 +547,6 @@
     "Problems with ISKCON and its founder Prabhupada.md",
     "Swami Vivekananda's criticism of Shankara Aachaarya.md",
     "06. Collected Knowledge/Hindu Sampradaayas.md",
-    "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
     "07. Miscellaneous/Religions/Hinduism/Castes in Kerala.md",
     "The WIll of Jyothish.md",
     "06. Collected Knowledge/Tantras.md",
@@ -557,7 +558,6 @@
     "Flaws in Dualistic Theological Arguments 1.md",
     "Examples of Duality arising from Non-Duality.md",
     "Chariot Analogy of Life.md",
-    "Blue Skies Research.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
