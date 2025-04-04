@@ -929,3 +929,11 @@ My final thought on Puraanas is that anything is subjective history unless they 
 		- Apsaras: Celestial Beautiful Women
 		- Bear People: (like Vanaras) (e.g. Jambavan) (lived in Kishkinda)
 		- Rakshasas / Daityas: Step-Brothers of Devas, born to Kashyapa and Diti
+
+---
+
+Three Levels of Reality:
+
+1. Vishva / Viraat / Vaishvanaara: Spirit of the External World
+2. Hiranyagarbha / Taijasa: Spirit of the Inner Planes
+3. Prajna / Eeshvara: The Superconscient Spirit
