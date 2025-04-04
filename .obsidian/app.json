@@ -22,5 +22,5 @@
   "newFileFolderPath": "Collected Knowledge",
   "readableLineLength": true,
   "rightToLeft": false,
-  "showLineNumber": false
+  "showLineNumber": true
 }

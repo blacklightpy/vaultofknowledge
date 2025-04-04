@@ -293,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -325,7 +325,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "brahmande",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -367,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying to Consolidate Hinduism 1"
+              "title": "Backlinks for Tantras"
             }
           },
           {
@@ -386,12 +386,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
+              "title": "Outgoing links from Tantras"
             }
           },
           {
@@ -429,13 +429,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying to Consolidate Hinduism 1"
+              "title": "Outline of Tantras"
             }
           },
           {
@@ -500,8 +500,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77f5b19303c40f2",
+  "active": "8f1c109c6535e318",
   "lastOpenFiles": [
+    "ffs.md",
+    "Trying to Consolidate Hinduism 1.md",
     "06. Collected Knowledge/Tantras.md",
     "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "Right and Left.md",
@@ -514,7 +516,6 @@
     "New Idea of Arranging my Vault (2025).md",
     "Requirements to Criticize a Religion.md",
     "Delusions of Muhammadians.md",
-    "Trying to Consolidate Hinduism 1.md",
     "Free Will.md",
     "Study of Reality.md",
     "Moment of Inertia.md",
@@ -527,7 +528,6 @@
     "Idealism.md",
     "Tour.md",
     "06. Collected Knowledge/Religion.md",
-    "The Importance of Teaching Classification Theory.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
