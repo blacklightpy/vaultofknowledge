@@ -68,3 +68,5 @@ Viśiṣṭādvaita: The world is Brahman’s body, so there’s no question of 
 > - The **multiple paintings (worlds, experiences) arise due to the collective dream of Māyā**, not individual ignorance.
 
 Avidya is about identification. Something causes Maya though.
+
+I hear Drishti Srishti Vaada explains the existence of the world after Moksha (from http://www.vicharasagara.com/2015/07/does-brahma-jnana-destroy-prarabdha.html).
