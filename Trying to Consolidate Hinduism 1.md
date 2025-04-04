@@ -941,3 +941,7 @@ Three Levels of Reality:
 3. Prajna / Eeshvara: The Superconscient Spirit
 	- Supports Kaarana Consciousness
 4. Kutaastha: Supra-Cosmic Consciousness
+
+---
+
+Abhinavagupta only commented on Bhagavad Geetha, and wrote other Tantra related books. Tantraloka is the compilation of the 64 Tantras, and Tantrasara is the condensed version of it.

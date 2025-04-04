@@ -293,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -367,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06. Collected Knowledge/Tantras.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tantras"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -386,12 +386,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06. Collected Knowledge/Tantras.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tantras"
+              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -429,13 +429,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06. Collected Knowledge/Tantras.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tantras"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -500,11 +500,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f1c109c6535e318",
+  "active": "a77f5b19303c40f2",
   "lastOpenFiles": [
+    "06. Collected Knowledge/Tantras.md",
     "ffs.md",
     "Trying to Consolidate Hinduism 1.md",
-    "06. Collected Knowledge/Tantras.md",
     "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "Right and Left.md",
     "Counter Argument for Who Created God.md",
