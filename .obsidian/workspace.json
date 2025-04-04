@@ -316,7 +316,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -469,7 +470,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3497884dc69b32f0",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Chariot Analogy of Life.md",
     "Blue Skies Research.md",
