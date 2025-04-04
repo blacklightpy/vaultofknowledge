@@ -21,7 +21,7 @@
 # Castes
 ## Fishermen Caste
 
-The word Dheevara is of Sanskrit origin, and has been used to describe fishermen in Gautama Dharmasutra and Mahabharata.
+The word Dheevara is of Sanskrit origin, and has been used to describe fishermen in Gautama Dharma Soothra and Mahabharata.
 
 The Dheevara community was formed by Arayan, Valan and other castes to lobby for the fishers' rights, and to seek caste-based reservations in government jobs.
 

@@ -3,7 +3,7 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Folk Hinduism, based on local traditions and cults of local deities prior to the Vedic Age
 - Shrauta or Vedic ritual-oriented Hinduism as practised by Traditionalist Brahmins
 - Vedantic Hinduism, including Advaita Vedanta (Smartism), based on the philosophical approach of the Upanishads
-- Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
+- Yogic Hinduism, especially the sect based on the Yoga Soothras of Patanjali
 - "Dharmic" Hinduism or "Daily Morality", based on Karma and upon societal norms such as Vivaaha (Hindu marriage customs)
 - Bhakti or Devotional practices
 
@@ -224,8 +224,8 @@ Concepts of God (Maya, Jiva, Atman, Param Atman, Prakriti, Brahman, etc.)
 	- Manusmriti
 	- Naaradasmṛti
 	- Yajnavalkya Smriti
-- Sutras
-	- Yoga Sutras of Patanjali
+- Soothras
+	- Yoga Soothras of Patanjali
 - Stotras
 - Subhashita
 - Tantras

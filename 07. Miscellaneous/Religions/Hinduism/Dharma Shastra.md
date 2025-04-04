@@ -1,4 +1,4 @@
-The Dharma Shastras are based on the difficult to read [[Dharma Sutras]].
+The Dharma Shastras are based on the difficult to read [[Dharma Soothras]].
 # Introduction
 The textual corpus of Dharma Shastras were composed in poetic verses, are part of the Hindu Smritis, constituting divergent commentaries and treatises on duties, responsibilities and ethics to oneself, to family and as a member of society.
 

@@ -94,7 +94,7 @@ Purusa Sukta:
 - Kalpa Sutras
 	- Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
 	- Griha Sutras (Household Rites)
-	- [[Dharma Sutras]] (Moral Code)
+	- [[Dharma Soothras]] (Moral Code)
 	- Shulba Sutras (Rope Measurement Techniques)
 ## Prior to 200 BC
 - Manu Smriti (Laws of Manu)

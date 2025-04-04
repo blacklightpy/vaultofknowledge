@@ -3,14 +3,14 @@ While there is stupidity in Hindu verses, it is not as much as what goes into Is
 
 I'll only consider the Vedas and Geeta in this section.
 # Okay
+
 **Claim: "If she is not willing to give her body, he should buy her over; and if she is still unyielding, he should strike her with a stick or with the hand and proceed" - Brihadaranyaka Upanishad 6.4.7**
 
 **Truth:** This portion of the Upanishad is firstly a Smriti Ritual, which is not of value considering the essence of Advaita Vedanta. This is also described by Adi Shankara's commentary at the beginning of Brihadarnyaka Upanishad (didn't add here).
-## Text from Kenneth Jaques Advaita Vedanta Philosophy Ashram
+## Text from Kenneth Jaques's Advaita Vedanta Philosophy Ashram
 
 **Text**: Shankara Bhashya of Brihadaranyaka Upanishad
 **Translated By**: Swami Madhavananda
-
 ### Section 4
 
 > **Section 4.**
@@ -56,6 +56,7 @@ I'll only consider the Vedas and Geeta in this section.
 ## From "Shankara Bhashya of Brihadaranyaka Upanishad"
 
 **Text**: Shankara Bhashya of Brihadaranyaka Upanishad, with an introduction by Maha Maho Padhyaya Prof. S Kuppuswami Shastri
+
 **Translated By**: Swami Madhavananda
 
 > **Section 3.**
@@ -72,4 +73,4 @@ I'll only consider the Vedas and Geeta in this section.
 > 
 > Reply: The Sruti here is merely repeating the Smrti. Were it a Vedic ceremony, it would be related to the Jyotistoma sacrifice as a part is to a whole, and as such must conform to all the characteristics of the main sacrifice. But it is not a Vedic ceremony. For this reason it is also to be performed in the Avasathya (household) fire; and the entire procedure is to be in accordance with the Smrti. So the vow in question is that of living on milk.
 > 
-> Collect in a cup or bowl made of fig wood, in a vessel of this wood, whether shaped like a cup or a bowl — the option being with regard to the shape, and not the material, which must be fig wood — all herbs that are available and within one's means: The ten cultivated species such as rice and barley, to be enumerated later on, must be included ; there is no harm in having more. And their grains, as far as available and within one's means. The word 'iti' is suggestive of the collection of all the materials, that is to say, including all other things that are to be collected. The order of procedure should be understood to be in accordance with the Grhya1 Sutras. Sweep and plaster : These are cleaning the ground. Bring in the fire : It is implied that the sacrifice is to be performed in the Avasathya fire, for the word is in the singular, and there is mention of the fire being brought in, which is only possible of a fire that already exists.2 Spread the Kusa grass. Purify the offerings in the prescribed manner : Since the ceremony is in accordance with the Smrti, the manner referred to is that of the 'Sthalipaka.'3 Under a male constellation, one having a masculine name, associated with the auspicious, day. Interpose the Mantha : Having crushed all those herbs and grains, soaked them in curd, honey and clarified butter in that fig bowl, and rubbed them up with a rod, place the paste between himself and the fire. And offer oblations, with a fig ladle, in a part of the fire prescribed for this purpose, with the following Mantras, beginning with, 'O Fire, to all those gods,' etc.
+> Collect in a cup or bowl made of fig wood, in a vessel of this wood, whether shaped like a cup or a bowl — the option being with regard to the shape, and not the material, which must be fig wood — all herbs that are available and within one's means: The ten cultivated species such as rice and barley, to be enumerated later on, must be included ; there is no harm in having more. And their grains, as far as available and within one's means. The word 'iti' is suggestive of the collection of all the materials, that is to say, including all other things that are to be collected. The order of procedure should be understood to be in accordance with the Grhya Sutras. Sweep and plaster : These are cleaning the ground. Bring in the fire : It is implied that the sacrifice is to be performed in the Avasathya fire, for the word is in the singular, and there is mention of the fire being brought in, which is only possible of a fire that already exists.2 Spread the Kusa grass. Purify the offerings in the prescribed manner : Since the ceremony is in accordance with the Smrti, the manner referred to is that of the 'Sthalipaka.'3 Under a male constellation, one having a masculine name, associated with the auspicious, day. Interpose the Mantha : Having crushed all those herbs and grains, soaked them in curd, honey and clarified butter in that fig bowl, and rubbed them up with a rod, place the paste between himself and the fire. And offer oblations, with a fig ladle, in a part of the fire prescribed for this purpose, with the following Mantras, beginning with, 'O Fire, to all those gods,' etc.

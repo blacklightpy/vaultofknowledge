@@ -23,7 +23,7 @@ In Religion:
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
 - Aagamas (Tradition / What has come down)
 - [[Sutras]]
-	- [[Dharma Sutras]]
+	- [[Dharma Soothras]]
 	- [[Dharma Shastra]]
 - [[Puranas]]
 - Ithihasas

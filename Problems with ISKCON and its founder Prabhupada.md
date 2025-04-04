@@ -111,7 +111,7 @@ https://www.reddit.com/r/AdvaitaVedanta/comments/15ve7ft/why_is_iskcon_so_agains
 ---
 # From his Texts
 
-From his Narada Bhakthi Sutra [here](https://gitabase.com/eng/NBS/75), it considers logic as useless, and Guru-Shishya Parampara as the one true path.
+From his Narada Bhakthi Soothra [here](https://gitabase.com/eng/NBS/75), it considers logic as useless, and Guru-Shishya Parampara as the one true path.
 
 > [!NOTE] Snippet
 > The bhakti method of receiving truth is by paramparā, or disciplic succession. It is confirmed by a checks-and-balances system of hearing from guru, śāstra, and sādhu. On the other hand, one who rejects the paramparā system and persists in hearing argumentation will never understand the Absolute Truth. As Lord Kṛṣṇa states, bhaktyā mām abhijānāti: "One can understand Me only by devotional service" (Bg. [18.55](https://gitabase.com/eng/bg/18/55)).
