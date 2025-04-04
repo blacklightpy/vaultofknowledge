@@ -1,5 +1,4 @@
-I saw on one example that Mantras acquired without permission are not useful. But then, who can acquire Mantras via Deeksha? I wondered if Kshoodras were permitted.
-
+I saw on one example that Mantras acquired without permission are not useful. But then, who can acquire Mantras via Deeksha? I wondered if Shoodras were permitted.
 # Cases from Shruthi
 ## Initiation of Satyakaama Jaabaala
 The 4th Prapaathaka (Chapter) of Chandogya Upanishad deals with a boy named Satyakaama Jaabaala, who is of unknown lineage since his mother was a prostitute, but was accepted as a Braahmana based on his honesty.
@@ -7,7 +6,6 @@ The 4th Prapaathaka (Chapter) of Chandogya Upanishad deals with a boy named Saty
 Now some people do interpret this to mean that the Guru realized that he was born to a Braahmana. But his mother was a Kshoodra, and the son of a Kshoodra and a Braahmana is a Chandaala as per the Dharma Shaasthras.
 
 And secondly, the same people point out that this is how Parashuraama found Karna to be a Kshathriya. But then, seeing one's qualities does not imply that it should come only through the "bloodline." This is an ancient mistake, which is disproven by current social awareness.
-
 ### Special Objection: Brahma Soothras
 The Brahma Soothras have a section dealing with the possibility of initiation of Shoodras
 
@@ -37,5 +35,6 @@ The original story referred in the Soothras is in Chandogya Upanishad IV.4.3-5.
 > 
 > Gautama said to him: ‘No non-brāhmin could speak like this. [Therefore, you must be a brāhmin.] O Somya, go and get me some fuel [for the sacrificial fire]. I will initiate you [as a brāhmin by presenting you with the sacred thread], as you have not deviated from truth.’ After the initiation, he selected four hundred feeble and famished cows. Addressing Satyakāma, Gautama said, ‘O Somya, take these cows away [and look after them].’ As Satyakāma was taking them away, he said, ‘I will not come back until there are a thousand of them.’ He lived away for many years until they had become a thousand.
 
-
 Swaami Vivekaananda also criticized Shankara Aachaarya for enforcing caste. Since it's lengthy, I moved it to a separate note, [[Swami Vivekananda's criticism of Shankara Aachaarya|here]].
+
+More criticism (long): https://muktipadablog.wordpress.com/2015/12/10/vedic-study-is-open-for-all/
