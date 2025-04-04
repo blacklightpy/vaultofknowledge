@@ -38,5 +38,6 @@ The original story referred in the Soothras is in Chandogya Upanishad IV.4.3-5.
 Swaami Vivekaananda also criticized Shankara Aachaarya for enforcing caste. Since it's lengthy, I moved it to a separate note, [[Swami Vivekananda's criticism of Shankara Aachaarya|here]].
 
 More criticism (long): https://muktipadablog.wordpress.com/2015/12/10/vedic-study-is-open-for-all/
+Also (medium): https://hinduism.stackexchange.com/a/43845/40901
 
 Also, what about adopted children? Adopted children in myths are treated as of the same Varna.

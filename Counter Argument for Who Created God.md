@@ -59,7 +59,7 @@ About the Nature of Jeevas:
 > **Translation:**
 > "A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing.
 
-Why Dhrita Jnaanis need not do Karma or Upaasana: http://www.vicharasagara.com/2015/04/a-drdha-jnanin-requires-no-sadhana.html
+Why Dhrita Jnaanis need not do Karma or Upaasana: http://www.vicharasagara.com/2015/04/a-drdha-jnanin-requires-no-sadhana.html (Vichaara Saagara = The Metaphysics of the Upanishads)
 
 Main concern 1 (About the Anirvachaniya nature of Maya): I just read while studying Anirvachaniya Khatya, that Maya is Anirvachaniya from Paramarthika just as a Mirage is Anirvachaniya from Reality, as it is only an illusion. That clearly makes sense. But we (minds) from a higher reality (Vyavaharika) know why mirages (Prathibasika) happen due to effects of the Vyavaharika. But we are not able to describe, from Brahman's perspective why Vyavaharika happens due to the effects in the Paramarthika. If we say ignorance, it must have some validity in Parmarthika (because it is ultimate) in order to explain the Vyavaharika. And what is that?
 
