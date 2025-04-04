@@ -69,4 +69,4 @@ Viśiṣṭādvaita: The world is Brahman’s body, so there’s no question of 
 
 Avidya is about identification. Something causes Maya though.
 
-I hear Drishti Srishti Vaada explains the existence of the world after Moksha (from http://www.vicharasagara.com/2015/07/does-brahma-jnana-destroy-prarabdha.html).
+I hear Drishti Srishti Vaada explains the existence of the world after Moksha (from http://www.vicharasagara.com/2015/07/does-brahma-jnana-destroy-prarabdha.html). It is the same as solipsism (i.e. the waking world is also a dream). This is specifically Drishti Sama Samayaa Srishti, while Drishti Eva Srishti posits that all experience is insignificant, and only the ultimate reality is real.
