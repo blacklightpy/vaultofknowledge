@@ -935,5 +935,9 @@ My final thought on Puraanas is that anything is subjective history unless they 
 Three Levels of Reality:
 
 1. Vishva / Viraat / Vaishvanaara: Spirit of the External World
+	- Supports Sthoola Consciousness
 2. Hiranyagarbha / Taijasa: Spirit of the Inner Planes
+	- Supports Sookshma Consciousness
 3. Prajna / Eeshvara: The Superconscient Spirit
+	- Supports Kaarana Consciousness
+4. Kutaastha: Supra-Cosmic Consciousness
