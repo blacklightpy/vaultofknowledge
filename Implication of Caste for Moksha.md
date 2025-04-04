@@ -19,9 +19,23 @@ The Brahma Soothras have a section dealing with the possibility of initiation of
 > तदभावनिर्धारणे च प्रवृत्तेः ॥ ३७॥
 > श्रवणाध्ययनार्थप्रतिषेधात् स्मृतेश्च ॥ ३८॥
 
+The original story referred in the Soothras is in Chandogya Upanishad IV.4.3-5.
 
-The source is in Chandogya Upanishad IV.4.3-5.
+> **Chandogya Upanishad, IV.4.3-5**
 > 
+> sa ha hāridrumataṃ gautamametyovāca brahmacaryaṃ bhagavati vatsyāmyupeyāṃ bhagavantamiti || 4.4.3 ||
+> 
+> taṃ hovāca kiṃgotro nu somyāsīti sa hovāca nāhametadveda bho yadgotro'hamasmyapṛcchaṃ mātaraṃ sā mā pratyabravīdbahvahaṃ carantī paricariṇī yauvane tvāmalabhe sāhametanna veda yadgotrastvamasi jabālā tu nāmāhamasmi satyakāmo nāma tvamasīti so'haṃ satyakāmo jābālo'smi bho iti || 4.4.4 ||
+> 
+> taṃ hovāca naitadabrāhmaṇo vivaktumarhati samidhaṃ somyāharopa tvā neṣye na satyādagā iti tamupanīya kṛśānāmabalānāṃ catuḥśatā gā nirākṛtyovācemāḥ somyānusaṃvrajeti tā abhiprasthāpayannuvāca nāsahasreṇāvarteyeti sa ha varṣagaṇaṃ provāsa tā yadā sahasraṃ sampeduḥ || 4.4.5 || || iti caturthaḥ khaṇḍaḥ ||
+> 
+> **Translation:**
+> 
+> Satyakāma went to Gautama, the son of Haridrumata, and said: ‘Revered sir, I wish to live with you as a celibate. I have come, revered sir, to be your disciple’.
+> 
+> Gautama asked him, ‘O Somya, what is your lineage?’ Satyakāma said: ‘Sir, I do not know what my lineage is. When I asked my mother, she said to me: “I was very busy serving many people when I was young, and I had you. As this was the situation, I know nothing about your lineage. My name is Jabālā, and your name is Satyakāma.” So, sir, I am Satyakāma Jābāla’.
+> 
+> Gautama said to him: ‘No non-brāhmin could speak like this. [Therefore, you must be a brāhmin.] O Somya, go and get me some fuel [for the sacrificial fire]. I will initiate you [as a brāhmin by presenting you with the sacred thread], as you have not deviated from truth.’ After the initiation, he selected four hundred feeble and famished cows. Addressing Satyakāma, Gautama said, ‘O Somya, take these cows away [and look after them].’ As Satyakāma was taking them away, he said, ‘I will not come back until there are a thousand of them.’ He lived away for many years until they had become a thousand.
 
-Swaami Vivekaananda also criticized Shankara Aachaarya for enforcing caste.
 
+Swaami Vivekaananda also criticized Shankara Aachaarya for enforcing caste. Since it's lengthy, I moved it to a separate note, [[Swami Vivekananda's criticism of Shankara Aachaarya|here]].
