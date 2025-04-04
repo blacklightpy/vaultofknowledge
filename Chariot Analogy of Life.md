@@ -8,10 +8,17 @@ A philosopher can guide the two horses well.
 
 ### 2. Katha Upanishad
 
-### 3. Sreemad Bhaagavatha
+### 3. Bhagavad Geetha
+
+Passenger: Individual
+Charioteer: Intellect
+Reins: Mind
+Horses: Senses
+
+### 4. Sreemad Bhaagavatha
 
 Chariot: Body
 Horses: Senses
-Reins: Controlling Reins
+Controlling Reins: Mind
 Obstacles: Sense Objects
 Charioteer: Intellect
