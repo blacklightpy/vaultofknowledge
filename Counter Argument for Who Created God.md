@@ -36,6 +36,7 @@ Can I change it, being Brahman?
 Are there procedures (Tantra, Manifestation)?
 Can they be valid (Tantra, Manifestation), when I was given a reality without it?
 
+---
 Tell em (Discord):
 
 As far as Hinduism is concerned, this world is an illusion. It's not even a test, it's just an illusion. And Brahman alone is real.
