@@ -10,6 +10,7 @@ A philosopher can guide the two horses well.
 
 ### 3. Bhagavad Geetha
 
+Bhagavad Geet
 Passenger: Individual
 Charioteer: Intellect
 Reins: Mind
