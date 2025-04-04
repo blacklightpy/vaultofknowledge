@@ -308,7 +308,7 @@
             }
           },
           {
-            "id": "5ac57b98fdda8376",
+            "id": "91f8ac65a38b2f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -356,7 +356,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -530,10 +530,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ac57b98fdda8376",
+  "active": "91f8ac65a38b2f5b",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Dharma Soothras.md",
+    "Implication of Caste for Moksha.md",
+    "07. Miscellaneous/Religions/Hinduism/Dharma Shastra.md",
     "Timeline of Sages in Hinduism.md",
+    "07. Miscellaneous/Religions/Hinduism/Dharma Soothras.md",
     "06. Collected Knowledge/Rough Notes X.md",
     "06. Collected Knowledge/Map of Hinduism.md",
     "06. Collected Knowledge/Hindu Verses in the right Context (Vedas and Geeta).md",
@@ -545,7 +547,6 @@
     "06. Collected Knowledge/Hindu Sampradaayas.md",
     "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
     "07. Miscellaneous/Religions/Hinduism/Castes in Kerala.md",
-    "Implication of Caste for Moksha.md",
     "The WIll of Jyothish.md",
     "06. Collected Knowledge/Tantras.md",
     "ffs.md",
@@ -557,7 +558,6 @@
     "Examples of Duality arising from Non-Duality.md",
     "Chariot Analogy of Life.md",
     "Blue Skies Research.md",
-    "New Idea of Arranging my Vault (2025).md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
