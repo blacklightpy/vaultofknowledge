@@ -43,10 +43,10 @@ Also (medium): https://hinduism.stackexchange.com/a/43845/40901
 
 Also, what about adopted children? Adopted children in are treated as of the same Varna, for example, how Seetha was adopted by Janaka.
 
-## My Logical Argument
+## My General Argument
 
 The assumption on which this system lies is that a Shoodra-to-be would only be born in a Shoodra family, and that a Braahmana-to-be would only be born in a Braahmana family. That is, since one's mental state is based on their Gunas as shaped by their past Karma (actions), the assumption made is that someone with a specific Guna will only be born to parents who have those Gunas.
 
 However, this is not true, since if we simply take any quality that's empirically verifiable, we see that parentage does not always correlate to one's inclinations. For example, a carpenter's son may be a musician.
 
-Then, the caste system which was from the onset an extra addition to what should've just been explainable by the Gunas, and is immediately removed by the Occam's Razor principle, was only kept to ensure the social hierarchy. Some people justify this by saying that this is the only stable system they can think of. I say that it is their lack of imagination, which is exactly the rea
+Then, the caste system which was from the onset an extra addition to what should've just been explainable by the Gunas, and is immediately removed by the Occam's Razor principle, was only kept to ensure the social hierarchy. Some people justify this by saying that this is the only stable system they can think of. I say that it is their lack of imagination, which is exactly the reason why they as a society developed a reliance on an educated caste.
