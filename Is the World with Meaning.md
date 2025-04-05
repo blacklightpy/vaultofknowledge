@@ -4,4 +4,4 @@ Simply, if you look at the complexity of phonetics, and language, and fields lik
 
 In fact, this is exactly how Leibniz thought as he tried to define the Characteristica Universalis and proposed the binary number system for computing it, and also for finding the idea l language to describe Creatio Ex Nihilo.
 
-Though it may seem that the world is an arbitrary combination of three qualities when you study Advaita Vedaanta or that it is a simple test when you follow Muhammadianity, 
+Though it may seem that the world is an arbitrary combination of three qualities when you study Advaita Vedaanta or that it is a simple test when you follow Muhammadianity, when you step back and look at the principles that you used to be curious about in the past, you would see that there is deep meaning in all of them, especially if you were a curious child.
