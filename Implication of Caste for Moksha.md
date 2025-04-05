@@ -1,7 +1,7 @@
 I saw on one example that Mantras acquired without permission are not useful. But then, who can acquire Mantras via Deeksha? I wondered if Shoodras were permitted.
 # Cases from Shruthi
 ## Initiation of Satyakaama Jaabaala
-The 4th Prapaathaka (Chapter) of Chandogya Upanishad deals with a boy named Satyakaama Jaabaala, who is of unknown lineage since his mother was a prostitute, but was accepted as a Braahmana based on his honesty.
+The 4th Prapaathaka (Chapter) of Chaandogya Upanishad deals with a boy named Satyakaama Jaabaala, who is of unknown lineage since his mother was a prostitute, but was accepted as a Braahmana based on his honesty.
 ### Objections and my Dismissals
 Now some people do interpret this to mean that the Guru realized that he was born to a Braahmana. But his mother was a Kshoodra, and the son of a Kshoodra and a Braahmana is a Chandaala as per the Dharma Shaasthras.
 
@@ -17,9 +17,9 @@ The Brahma Soothras have a section dealing with the possibility of initiation of
 > तदभावनिर्धारणे च प्रवृत्तेः ॥ ३७॥
 > श्रवणाध्ययनार्थप्रतिषेधात् स्मृतेश्च ॥ ३८॥
 
-The original story referred in the Soothras is in Chandogya Upanishad IV.4.3-5.
+The original story referred in the Soothras is in Chaandogya Upanishad IV.4.3-5.
 
-> **Chandogya Upanishad, IV.4.3-5**
+> **Chaandogya Upanishad, IV.4.3-5**
 > 
 > sa ha hāridrumataṃ gautamametyovāca brahmacaryaṃ bhagavati vatsyāmyupeyāṃ bhagavantamiti || 4.4.3 ||
 > 

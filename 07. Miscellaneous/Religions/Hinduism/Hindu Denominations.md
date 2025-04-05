@@ -45,9 +45,8 @@ They can be grouped as:
 			- This is closer to the idea of "Brain in a Vat", except without a physical Brain or Vat.
 			- I guess I'll fix this idea by adding nuances between monism and dualism in their relevant pages
 	- **Foundational Texts**
-		- Saankhya Karika by Eeshvara Krishna (4th-5th Century BC)
-		- Saankhya Soothras by Kapila Maharshi
-			- Debated, scholars date this to 9th-13th Century AD
+		- Saankhya Soothras by Kapila Maharshi (lost)
+		- Saankhya Karika by Eeshvara Krishna (4th-5th Century CE)
 	- **Metaphysics**
 		- **Purusa** is not actually a part of **Prakriti**
 		- Purusa misidentifies itself as being a part of Prakriti as a **Jiva**
@@ -67,10 +66,11 @@ They can be grouped as:
 		- Cause and Effect
 			- The Saankhya Darshana is based on **Sat-Kaarya Vaada** (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
-				- The effect seems distinct from the cause due to an illusion, or Maya
-				- Maya has two powers (an idea from Vedanta, but applies here)
-					- **Avarna** (Veiling)
-					- **Vikshepa** (Projection)
+				- Definition as in Advaita Vedaanta (a different Darshana)
+					- The effect seems distinct from the cause due to an illusion, or Maya
+					- Maya has two powers (an idea from Vedanta, but applies here)
+						- **Avarna** (Veiling)
+						- **Vikshepa** (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
 			- Saankhya Darshana explains Sat-Kaarya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
 		- Cosmic Evolution
@@ -125,7 +125,7 @@ They can be grouped as:
 		- It is based on the Saankhya school of thought
 		- It derives ontology and epistemology from Saankhya, but adds the concept of Eeshvara (God)
 	- **Foundational Texts**
-		- Yoga Sutras of Patanjali (Main) (1st century AD)
+		- Yoga Soothras of Patanjali (Main) (1st century AD)
 			- **Sections**
 				- Samadhi Pada (Chapter on Samadhi)
 				- Sadhana Pada (Chapter on Practice)
@@ -181,7 +181,7 @@ They can be grouped as:
 						- It is just the second limb of the Ashtaanga Yoga
 		- Yoga Bhaashya
 		- Yoga Vasishta
-		- Bhagavad Gita
+		- Bhagavad Geetha
 	- **Metaphysics**
 		- Asmita (Not Smiling / Masked / Egoism due to identification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
 	- **Epistemology**
@@ -291,7 +291,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- It postulated that everything is made of atoms
 		- It aimed to fix the atheistic nature of Sankhya and the problems with Nyaaya
 	- **Foundational Texts**
-		- Vaisheshika Sutra by Kanaada Maharshi (2nd Century AD)
+		- Vaisheshika Soothra by Kanaada Maharshi (2nd Century AD)
 	- **Metaphysics**
 		- 
 	- **Epistemology**
@@ -324,11 +324,11 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 
 - 5. Meemaamsa / Purva Meemaamsa
 	- **Brief**
-		- By Prabhakara and Bhatta
+		- Has variants by Prabhakara and Bhatta
 		- It focuses on the early parts of the Vedas, that deals with rituals
 	- **Foundational Texts**
-		- Purva Meemaamsa Sutra by Jaimini (200 BC)
-		- Purva Meemaamsa Sutra Bhashya by Shabara
+		- Purva Meemaamsa Soothra by Jaimini (200 BC)
+		- Purva Meemaamsa Soothra Bhashya by Shabara
 	- **Metaphysics**
 		- 
 	- **Types of Epistemology**
@@ -355,7 +355,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- It is like the opposite of Sankhya school of thought
 			- It sees the world as a manifestation or projection of Brahman
 	- **Foundational Texts**
-		- Brahma Sutras by Vyasa Maharshi
+		- Brahma Soothras by Vyasa Maharshi / Baadaraayana
 	- **General Description**
 		- **Koshas** (Sheaths)
 			- Atman is covered up by different sheaths

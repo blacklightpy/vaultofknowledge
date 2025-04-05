@@ -20,7 +20,7 @@ Here's the list (Source: https://www.templepurohit.com/upanishads-details-list-1
 10. **Nadabindu**: The Nadabindu Upanishad is an ancient Sanskrit literature that is considered one of Hinduism’s minor Upanishads. It is one of the four Vedas’ twenty Yoga Upanishads. Amrita Nada Bindu Upanishad is another name for it.
 # Sama Veda
 1.  **Kena**: The Kena Upanishad is a Vedic Sanskrit literature that is part of the Samaveda’s Talavakara Brahmanam and is considered as one of the basic or Mukhya Upanishads. The Muktik, Hinduism’s canon of the 108 Upanishads, lists it at number two.
-2. **Chandogya**: The Chandogya Upanishad is a Sanskrit literature included in the Hindu Sama Veda’s Chandogya Brahmana. One of the most ancient Upanishads. The Muktika canon of 108 Upanishads ranks it at number 9.
+2. **Chaandogya**: The Chaandogya Upanishad is a Sanskrit literature included in the Hindu Sama Veda’s Chaandogya Brahmana. One of the most ancient Upanishads. The Muktika canon of 108 Upanishads ranks it at number 9.
 3. **Mahat**: The Maha Upanishad is a Sanskrit literature that is one of Hinduism’s minor Upanishads. A Samanya Upanishad is the title given to the text.
 4. **Maitrayani**: The Maitrayaniya Upanishad’s etymological origin is unknown. This has resulted in a number of names and spellings for this Upanishad throughout history. The terms Maitra and Maitri are connected and indicate “kindly, beneficent, good will, amity, friend of all things.”
 5. **Vajrasuci**: The Vajrasuchi Upanishad is a Hindu Upanishad and an important Sanskrit literature. It is regarded as a Vedanta work and is one of the 22 Samanya (universal) Upanishads. It belongs to the Samaveda.

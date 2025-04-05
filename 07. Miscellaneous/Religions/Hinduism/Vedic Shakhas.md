@@ -103,7 +103,7 @@ The White recensions have separate Brahmanas, while the Black ones have their (m
 - **Samhita**: Edited, Recited by all over North and in South India
 - **Brahmana**: Edited (8 Brahmanas in all), no accents
 - **Aranyaka**: None. The Samhita itself has the 'Aranyaka'
-- **Upanishad**: Chandogya Upanishad
+- **Upanishad**: Chaandogya Upanishad
 - **Kalpa Sutras**
 	- **Shrauta Sutra**: 
 	- **Griha Sutra**: 

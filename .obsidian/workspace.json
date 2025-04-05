@@ -298,62 +298,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Collected Knowledge/Map of Hinduism.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Map of Hinduism"
-            }
-          },
-          {
-            "id": "a2f7747243443722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/Map of Hinduism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Map of Hinduism"
-            }
-          },
-          {
-            "id": "8aec9068f01b0eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hindu Denominations"
-            }
-          },
-          {
-            "id": "c460eb3fe8245a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jyothish Standard for Devanagari Transliteration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jyothish Standard for Devanagari Transliteration"
+              "title": "Trying to Consolidate Hinduism 1"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -385,7 +340,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"non-dualism\" \"three\"",
+                "query": "\"advaita\" \"tantra\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -427,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jyothish Standard for Devanagari Transliteration.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,7 +392,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jyothish Standard for Devanagari Transliteration"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -446,12 +401,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jyothish Standard for Devanagari Transliteration.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jyothish Standard for Devanagari Transliteration"
+              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -489,13 +444,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jyothish Standard for Devanagari Transliteration.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jyothish Standard for Devanagari Transliteration"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -560,15 +515,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c460eb3fe8245a63",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
+    "06. Collected Knowledge/Map of Hinduism.md",
     "Jyothish Standard for Devanagari Transliteration.md",
+    "Timeline of Sages in Hinduism.md",
+    "Implication of Caste for Moksha.md",
+    "07. Miscellaneous/Religions/Hinduism/Vedas.md",
+    "07. Miscellaneous/Religions/Hinduism/Vedic Shakhas.md",
+    "06. Collected Knowledge/List of Upanishads.md",
     "Phonetics.md",
     "06. Collected Knowledge/Phonetics.md",
     "The Will of Jyothish.md",
     "Trying to Consolidate Hinduism 1.md",
-    "06. Collected Knowledge/Map of Hinduism.md",
     "07. Miscellaneous/Religions/Hinduism Notes.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Index.md",
     "Hinduism.md",
@@ -578,16 +538,11 @@
     "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "Counter Argument for Who Created God.md",
     "Chariot Analogy of Life.md",
-    "Implication of Caste for Moksha.md",
     "My Objection to Classical Advaita Vedanta.md",
-    "Timeline of Sages in Hinduism.md",
     "Moksha.md",
     "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
     "07. Miscellaneous/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "07. Miscellaneous/Religions/Hinduism/Dharma Shastra.md",
-    "07. Miscellaneous/Religions/Hinduism/Dharma Soothras.md",
-    "06. Collected Knowledge/Hindu Verses in the right Context (Vedas and Geeta).md",
-    "03. Culture/Culture/Hindu Culture.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",

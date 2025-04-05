@@ -64,11 +64,11 @@ They mean "Great Sayings", and these four are handpicked from Upanishads of the 
 	- प्रज्ञानं ब्रह्म
 - "Aham Brahm Asmi" - "I am Reality" (Brihadaranyaka Upanishad of Sama Veda, 1.4.10)
 	- अहं ब्रह्म अस्मि
-- "Tat Tvam Asi" - "That (Reality) and You are the Same" (Chandogya Upanishad of Yajur Veda, 6.8.7)
+- "Tat Tvam Asi" - "That (Reality) and You are the Same" (Chaandogya Upanishad of Yajur Veda, 6.8.7)
 	- तत्त्वमसि
 - "Ayam Atma Brahma" - "This Soul is Reality" (Mandukya Upanishad of Atharva Veda, 4.4.5)
 	- अयम् आत्मा ब्रह्म
-- "Sarvam Khalvidam Brahma" - "All that exists is Reality" (Chandogya Upanishad of Yajur Veda, 3.14.1)
+- "Sarvam Khalvidam Brahma" - "All that exists is Reality" (Chaandogya Upanishad of Yajur Veda, 3.14.1)
 	- सर्वं खल्विदं ब्रह्म
-- "Ekam Evadvitiyam" - "(Reality is) One Alone, Without a Second" (Chandogya Upanishad 6.2.1)
+- "Ekam Evadvitiyam" - "(Reality is) One Alone, Without a Second" (Chaandogya Upanishad 6.2.1)
 	- एकमेवाद्वितीयम्
