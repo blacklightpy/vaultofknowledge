@@ -32,7 +32,7 @@ They can be grouped as:
 
 ### Detailed Description
 
-- 1. Sankhya (Digital)
+- 1. Saankhya (Digital)
 	- **Brief**
 		- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
 		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
@@ -40,13 +40,13 @@ They can be grouped as:
 		- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
 	- **Differences with Dualism**
 		- Western [[Dualism]] focuses on the difference between "mind" and "body"
-		- Sankhya Darshana focuses on the difference between the "witness consciousness" and the "physical world", which includes the outside nature, one's feelings and sensations
+		- Saankhya Darshana focuses on the difference between the "witness consciousness" and the "physical world", which includes the outside nature, one's feelings and sensations
 		- The main difference being, "mind" in Dualism considers the mind of an individual person, but "witness consciousness" in Sankhya considers only one observer to the entire world, and "body" in Dualism refers to to a person's body, while the "physical world" encompasses one's body, sensations and the surroundings.
 			- This is closer to the idea of "Brain in a Vat", except without a physical Brain or Vat.
 			- I guess I'll fix this idea by adding nuances between monism and dualism in their relevant pages
 	- **Foundational Texts**
-		- Sankhya Karika by Ishvara Krishna (4th-5th Century BC)
-		- Sankhya Sutras by Kapila Maharshi
+		- Saankhya Karika by Eeshvara Krishna (4th-5th Century BC)
+		- Saankhya Soothras by Kapila Maharshi
 			- Debated, scholars date this to 9th-13th Century AD
 	- **Metaphysics**
 		- **Purusa** is not actually a part of **Prakriti**
@@ -65,16 +65,16 @@ They can be grouped as:
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
 			- **Moksha** (Liberation) is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on **Sat-Kaarya Vaada** (Proposition that Effects are Existent)
+			- The Saankhya Darshana is based on **Sat-Kaarya Vaada** (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
 				- Maya has two powers (an idea from Vedanta, but applies here)
 					- **Avarna** (Veiling)
 					- **Vikshepa** (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
-			- Sankhya Darshana explains Sat-Kaarya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
+			- Saankhya Darshana explains Sat-Kaarya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
 		- Cosmic Evolution
-			- According to Sankhya, Nature is the source of the world becoming
+			- According to Saankhya, Nature is the source of the world becoming
 			- Nature is pure potentiality that evolves into 24 **Tattvas** (Fundamental Elements)
 			- The evolution happens due to tensions of the three **Gunas** (Traits) of Nature
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
@@ -115,15 +115,15 @@ They can be grouped as:
 
 	- **Arguments against God by Sankhya philosophers**
 		- If the existence of Karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without Karma. If however, he is assumed to be within the law of Karma, then Karma itself would be the giver of consequences and there would be no need of a God.
-		- Even if Karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Sankhya Darshana, is an attribute of Prakriti and cannot be thought to grow in God. The testimony of the Vedas, according to Sankhya Darshana, also confirms this notion.
-		- Despite arguments to the contrary, if God is still assumed to contain unfulfilled desires, this would cause him to suffer pain and other similar human experiences. Such a worldly God would be no better than Samkhya's notion of higher self.
+		- Even if Karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Saankhya Darshana, is an attribute of Prakriti and cannot be thought to grow in God. The testimony of the Vedas, according to Saankhya Darshana, also confirms this notion.
+		- Despite arguments to the contrary, if God is still assumed to contain unfulfilled desires, this would cause him to suffer pain and other similar human experiences. Such a worldly God would be no better than Saankhya's notion of higher self.
 		- Furthermore, there is no proof of the existence of God. He is not the object of perception, there exists no general proposition that can prove him by inference and the testimony of the Vedas speak of Prakriti as the origin of the world, not God.
-	- Therefore, Sankhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
+	- Therefore, Saankhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
 
 - 2. Yoga (Connection with Reality)
 	- **Brief**
-		- It is based on the Sankhya school of thought
-		- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
+		- It is based on the Saankhya school of thought
+		- It derives ontology and epistemology from Saankhya, but adds the concept of Eeshvara (God)
 	- **Foundational Texts**
 		- Yoga Sutras of Patanjali (Main) (1st century AD)
 			- **Sections**
@@ -275,8 +275,8 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- It postulates Asat-Kaarya-Vaada (Proposition of Non-Existent Effect)
 			- i.e. Phenomena do not already exist, but are only created when an event happens.
 	- **Foundational Texts**
-		- Nyaaya Sutra by Aksapada Gautama Maharshi
-		- Nyaaya Sutra Bhashya by Vatsyayana (5th century AD)
+		- Nyaaya Soothra by Aksapada Gautama Maharshi
+		- Nyaaya Soothra Bhaashya by Vatsyayana (5th century AD)
 	- **Metaphysics**
 		- 
 	- **Epistemology**
