@@ -306,9 +306,24 @@
               "icon": "lucide-file",
               "title": "Wikipedia Hinduism Organization"
             }
+          },
+          {
+            "id": "27926f20c5656e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tantra List Classifying.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tantra List Classifying"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -340,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"aagama\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -382,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+                "file": "Tantra List Classifying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +407,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wikipedia Hinduism Organization"
+              "title": "Backlinks for Tantra List Classifying"
             }
           },
           {
@@ -401,12 +416,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+                "file": "Tantra List Classifying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wikipedia Hinduism Organization"
+              "title": "Outgoing links from Tantra List Classifying"
             }
           },
           {
@@ -444,13 +459,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+                "file": "Tantra List Classifying.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wikipedia Hinduism Organization"
+              "title": "Outline of Tantra List Classifying"
             }
           },
           {
@@ -515,8 +530,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ca5218b46ac59cb",
+  "active": "27926f20c5656e0c",
   "lastOpenFiles": [
+    "Tantra List Classifying.md",
+    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "Trying to Consolidate Hinduism 1.md",
     "Paths in Hinduism.md",
     "06. Collected Knowledge/Map of Hinduism.md",
@@ -537,12 +554,10 @@
     "06. Collected Knowledge/Rough Notes X.md",
     "06. Collected Knowledge/Tantras.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
-    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "Counter Argument for Who Created God.md",
     "Chariot Analogy of Life.md",
     "My Objection to Classical Advaita Vedanta.md",
     "Moksha.md",
-    "06. Collected Knowledge/Evils in Hinduism 3 - Untouchability.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
