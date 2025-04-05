@@ -323,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -397,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06. Collected Knowledge/Tantras.md",
+                "file": "Tantra List Classifying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +407,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tantras"
+              "title": "Backlinks for Tantra List Classifying"
             }
           },
           {
@@ -416,12 +416,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06. Collected Knowledge/Tantras.md",
+                "file": "Tantra List Classifying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tantras"
+              "title": "Outgoing links from Tantra List Classifying"
             }
           },
           {
@@ -459,13 +459,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06. Collected Knowledge/Tantras.md",
+                "file": "Tantra List Classifying.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tantras"
+              "title": "Outline of Tantra List Classifying"
             }
           },
           {
@@ -530,10 +530,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ca5218b46ac59cb",
+  "active": "27926f20c5656e0c",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "06. Collected Knowledge/Tantras.md",
     "Tantra List Classifying.md",
+    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "Trying to Consolidate Hinduism 1.md",
     "Paths in Hinduism.md",
     "06. Collected Knowledge/Map of Hinduism.md",
@@ -552,7 +553,6 @@
     "07. Miscellaneous/Religions/Hinduism/Hinduism Index.md",
     "Hinduism.md",
     "06. Collected Knowledge/Rough Notes X.md",
-    "06. Collected Knowledge/Tantras.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
     "Counter Argument for Who Created God.md",
     "Chariot Analogy of Life.md",
