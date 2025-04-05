@@ -91,6 +91,7 @@ So basically,
 			- Aranyakas
 			- Upanishads
 		- Aagama Pustakas
+			- Tantras (Rituals and Meditation Techniques)
 	- Smriti (Remembered)
 		- Ithihasas
 			- Mahabharata
@@ -98,7 +99,6 @@ So basically,
 			- Ramayana
 		- Dharma Shastras (Law Codes)
 		- Puranas (Mythological and Historical Accounts)
-		- Tantras (Rituals and Meditation Techniques)
 
 
 * **Darshanas**: the six major philosophies of Hinduism, including Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta
