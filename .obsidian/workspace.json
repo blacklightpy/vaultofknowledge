@@ -298,13 +298,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wikipedia Hinduism Organization"
+              "title": "Tantras"
             }
           },
           {
@@ -323,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -397,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tantra List Classifying.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +407,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tantra List Classifying"
+              "title": "Backlinks for Tantras"
             }
           },
           {
@@ -416,12 +416,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tantra List Classifying.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tantra List Classifying"
+              "title": "Outgoing links from Tantras"
             }
           },
           {
@@ -459,13 +459,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tantra List Classifying.md",
+                "file": "06. Collected Knowledge/Tantras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tantra List Classifying"
+              "title": "Outline of Tantras"
             }
           },
           {
@@ -530,10 +530,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27926f20c5656e0c",
+  "active": "7ca5218b46ac59cb",
   "lastOpenFiles": [
-    "Tantra List Classifying.md",
     "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "Tantra List Classifying.md",
     "Trying to Consolidate Hinduism 1.md",
     "Paths in Hinduism.md",
     "06. Collected Knowledge/Map of Hinduism.md",
