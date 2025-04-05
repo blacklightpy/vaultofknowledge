@@ -263,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -337,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Objection to Classical Advaita Vedanta.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Objection to Classical Advaita Vedanta"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -356,12 +356,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Objection to Classical Advaita Vedanta.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from My Objection to Classical Advaita Vedanta"
+              "title": "Outgoing links from Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -399,13 +399,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Objection to Classical Advaita Vedanta.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Objection to Classical Advaita Vedanta"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -470,10 +470,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39d039cbc0e300a3",
+  "active": "a77f5b19303c40f2",
   "lastOpenFiles": [
-    "Implication of Caste for Moksha.md",
     "My Objection to Classical Advaita Vedanta.md",
+    "Implication of Caste for Moksha.md",
     "Counter Argument for Who Created God.md",
     "Trying to Consolidate Hinduism 1.md",
     "Timeline of Sages in Hinduism.md",
