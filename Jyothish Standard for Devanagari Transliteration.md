@@ -1,2 +1,3 @@
-I hate IAST and ITRANS, though I'm glad they did exist. So I'm making my own.
+I hate IAST and ITRANS, though I'm glad they did exist. So I'm making my own. And this is also because त is pronounced as "ta" instead of "tha" as it is in pronounced in Malayalam, and ठ is pronounced as "ṭha" instead of "ta" or "ṭa". That also implies थ is "tha" and ट is "ṭa", which are both fine.
 
+This means in my system, I'll be using double a-s to show pronounced sounds, but both त and थ would be "tha" and both ट and ठ would be "ṭa". This does not differentiate the two in writing, and that's because it is not possible to do so using the English script without diacritics. The goal of my system is to help people pronounce the words correctly, while also being able to type them in the same manner easily using commonly used characters. If the goal is to 
