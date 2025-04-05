@@ -35,13 +35,21 @@ The benefit is simply that a new reader who is not familiar with diacritics may 
 
 ### Diacritics
 
-| Devanaagari | IAST | My System |     |
-| ----------- | ---- | --------- | --- |
-| ं           | ṁ    | m         |     |
-| ः           | ḥ    | h         |     |
-| ँ           | m̐   | m         |     |
-| ऽ           | '    | '         |     |
-
+| Devanaagari | IAST | My System |
+| ----------- | ---- | --------- |
+| ए / े       | e    | e         |
+| ओ / ो       | o    | o         |
+| ऎ / ॆ       | ĕ    | ai        |
+| ऒ / ॆ       | ŏ    | au        |
+| ऋ / ृ       | ṛ    | r         |
+| ॠ / ॄ       | ṝ    | r         |
+| ऌ / ॢ       | ḷ    | l         |
+| ॡ / ॣ       | ḹ    | l         |
+| ळ           | ḻ    | l         |
+| ं           | ṁ    | m         |
+| ः           | ḥ    | h         |
+| ँ           | m̐   | m         |
+| ऽ           | '    | '         |
 ### Consonants
 
 The Devanaagari standalone consonant letters are followed by an implicit schwa (/Ə/). In all of the transliteration systems, that /Ə/ must be represented explicitly using an 'a' or any equivalent of schwa.
