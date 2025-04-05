@@ -18,66 +18,68 @@ Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 2. Muṇḍamaalaatantra
 3. Taaraatantra
 4. Nirvaaṇatantra
-5. Śivasaaratantra Vīratantra
-6. Lijhlaarcanatantra
-7. Lataarcanatantra
-8. Tōḍalatantra
-9. Nīlatantra
-10. Raadhaatantra
-11. Viśvasaaratantra
-12. Bhairava- tantra
-13. Bhairavītantra
-14. Siddhēśvaratantra
-15. Maatr̥kaabhēdatantra
-16. Samayaatantra
-17. Guptasaadhanatantra
-18. Maatr̥kaa-tantra
-19. Maayaatantra
-20. Mahaamaayaatantra
-21. Akṣayaatantra
-22. Kumaarītantra
-23. Mahatūtantra
-24. Kulaarṇavatantra
-25. Kaalikaakulasarvasvatanatra
-26. Kaalikaakalpatantra
-27. Varaahītantra
-28. Yōginītantra
-29. Yoginīhadaya-tantra
-30. Sanatr̥kumaaratantra
-31. Tripuraasaaratantra
-32. Yōginī Vijayatantra
-33. Maalinītantra
-34. Kukkuṭatantra
-35. Śrīgaṇēśatantra
-36. Bhūtatantra
-37. Uḍḍīśatantra
-38. Kaamadhēnutantra
-39. Vīrabhadratantra
-40. Vaamakēśvaratantra
-41. Kulacūṛaamaṇitantra
-42. Bhaavacūṛaamaṇitantra
-43. Jñaanaarṇavatantra
-44. Varadaatantra
-45. Tantra-cintaamaṇitantra
-46. Kaalīvilaasatantra
-47. Hansatantra
-48. Cidaambarataṭatantra
-49. Vijñaapanatantra
-50. Phētkaariṇītantra
-51. Nityaatantra
-52. Uttaratantra
-53. Naaraayaṇītantra
-54. Urdhvaamnaayakatantra
-55. Jñaanadvīpa-tantra
-56. Gautamīyatantra
-57. Nirūttaratantraṁ
-58. Gaandharvatantra
-59. Kujjikaatantra
-60. Tantramuktaavalītantra
-61. Br̥hatatantra
-62. Śrīkramatantra
-63. Yonitantra
-64. Kaamaakhyaatantra.
+5. Śivasaaratantra
+6. Vīratantra
+7. Lingaarchanatantra
+8. Lataarcanatantra
+9. Tōḍalatantra
+10. Nīlatantra
+11. Raadhaatantra
+12. Viśvasaaratantra
+13. Bhairava- tantra
+14. Bhairavītantra
+15. Siddhēśvaratantra
+16. Maatr̥kaabhēdatantra
+17. Samayaatantra
+18. Guptasaadhanatantra
+19. Maatr̥kaa-tantra
+20. Maayaatantra
+21. Mahaamaayaatantra
+22. Akṣayaatantra
+23. Kumaarītantra
+24. Mahatūtantra
+25. Kulaarṇavatantra
+26. Kaalikaakulasarvasvatanatra
+27. Kaalikaakalpatantra
+28. Varaahītantra
+29. Yōginītantra
+30. Yoginīhadaya-tantra
+31. Sanatr̥kumaaratantra
+32. Tripuraasaaratantra
+33. Yōginī Vijayatantra
+34. Maalinītantra
+35. Kukkuṭatantra
+36. Śrīgaṇēśatantra
+37. Bhūtatantra
+38. Uḍḍīśatantra
+39. Kaamadhēnutantra
+40. Vīrabhadratantra
+41. Vaamakēśvaratantra
+42. Kulacūṛaamaṇitantra
+43. Bhaavacūṛaamaṇitantra
+44. Jñaanaarṇavatantra
+45. Varadaatantra
+46. Tantra-cintaamaṇitantra
+47. Kaalīvilaasatantra
+48. Hansatantra
+49. Cidaambarataṭatantra
+50. Vijñaapanatantra
+51. Phētkaariṇītantra
+52. Nityaatantra
+53. Uttaratantra
+54. Naaraayaṇītantra
+55. Urdhvaamnaayakatantra
+56. Jñaanadvīpa-tantra
+57. Gautamīyatantra (?)
+58. Nirūttaratantraṁ (?)
+59. Gaandharvatantra
+60. Kujjikaatantra
+61. Tantramuktaavalītantra
+62. Br̥hatatantra
+63. Śrīkramatantra
+64. Yonitantra
+65. Kaamaakhyaatantra
+66. Prokta Tantra (?)
 
 From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 
@@ -88,8 +90,11 @@ From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 	- (4) Siddha-hhairava, (5) Vatukahhqirava, (6) Kankctla-bhairava, (7) Kalabhairava, (8) Kalagni'bhairava, (9) Yogim-bhairava, (10) Mahabhairavay (11) Sakti-bhaimva —
 	- the eight Tantras having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kapahka doctrines. 
 - 12-19. Bahu Ruupaashtakas
-	- (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnav (16) Vara (17) Mahendn, (18) Camunda, (19) Stva-dutl— the -eight Tantra-s constituting the Bahu-rupastaka, wherein importance is attached to the eight Shakti-s. Even these are reprehensible, as they stray far away from the Vedic path, a.lthough they involve some knowledge of the Shri-vidya incidentally,
+	- (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnav (16) Vara (17) Mahendn, (18) Camunda, (19) Stva-dutl—
+	- the -eight Tantra-s constituting the Bahu-rupastaka, wherein importance is attached to the eight Shakti-s. Even these are reprehensible, as they stray far away from the Vedic path, a.lthough they involve some knowledge of the Shri-vidya incidentally,
 - 20-27. Yamalaashtakaas
+	- (20) Brahma-yamalaf (21) Visnu-yamala, (22) Rudra-yamala, (23) LaksmJ^amalai (24) Mma-yamala, (25) Skanda-yamalat (26) Ganes^a-yamala^ (27) ' Jayadratha-yamala —
+	- the eight arts relating to Yamala, otherwise known as Kamasiddha, aimmg at the gratification of several desires, which, not having the sanction of the Veda*s, are considered objectionable,
 - 28. Cchandra Vigjnaana
 - 29. Maalini Vidya enabling the crossing of Oceans
 - 30. Maha Sammohana 
@@ -97,62 +102,36 @@ From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 - 32. Maha Deva
 - 33. Baatula
 - 34. Baatulottara
-- 35. Hridbheda
-- 36. Tantra Bheda
-- 37. Guhya Yaatra
-- 38. Kaamika
-- 39. Kala Vaada
-- 40. Kala Saara
-- 41. Kubjo Maata
-- 42. Tan trottara
-- 43. Beena Tantra
-- 44. Shrotala
-- 45. Shrotalottara
-- 46. Panchaamrita
-- 47. Rupabheda
-- 48. Bhutongkaamara
-- 49. Kulasaara
-- 50. Kulongkeesha
-- 51. Kula Choodaamani
-- 52. Sarva Jnaanottara
-- 53. Maha Kaali Mata
-- 54. Arunesha
-- 55. Modineesha / Mohineesha
-- 56. Vikuntheshvara
-- 57. Purvaamnaaya
-- 58. Dakshinaamnaaya
-- 59. Uttaraamnaaya
-- 60. Niruttaamnaaya
-- 61. Vimala
-- 62. Vimalotya
-- 63. Devi Matha
-
-- 1. महामायाशम्बरं 
-- 2. योगिनीजालशम्बरम्‌
-- 3. तत्त्वशभ्बरकं 
-- 4-11. भैरवाष्टकमेव
-- 12-19. बहुरूपा्ष्टकं
-- 20-27. यमळाष्टकमेव
-- 28. चन्द्रज्ञानं
-29. मालिनी
-30. महासम्मोहनं
-31. वामजुष्टं
-32. महादेवं
-33. वातुलं
-34. वातुलोत्तरम्‌
-35. हृध्देदं
-36. तन्त्रमेदं
-37. गुह्यातन्त्रे
-38. कामिकम्‌
-39. कलावादं
-40. कलासारं तथान्यत्‌ कुण्डिकामतम्‌ ॥ मतोत्तरं च वीणाख्यं त्रोतलं त्रोतलोत्तरम्‌ । पञ्चामृतं रूपभेदं भूतोड्डामरमेव च ॥ कुलसारं कुलोड्डीशं कुल्चूडामणिस्तथा । सर्वज्ञानोत्तरं चैव महुकाळीमतं तथा ॥ अरुणेशं मोदिनीशं विकुण्ठेश्वरमेव च । पूर्वपश्चिमदक्षं च उत्तरं च निरुत्तरम्‌ ॥ विमलं विमलोत्थं च देवीमतमत:परम्‌ ॥
-
-
-With the sixty -Jour Tantra-s— the sixty-four Tantra-s are : (l) Maha-maya'S^ambara—hdiving as its aim the deluding of the senses and the intellect. (2) Yogint 'jala - s'amham — legerdemain, involving the agency of Yogini-s, accomplished by resorting to the erematory and other ways of a repulsive nature and adopting questionable practices. (3) Tattvas'ambara—hy causing the elements to appear as though mutually transforming themselves. (4) Siddha-hhairava, (5) Vatukahhqirava, (6) Kankctla-bhairava, (7) Kala*bhairava, (8) Kalagni'bhairava, (9) Yogim-bhairava, (lO) Mahabhairavay (11) Sakti-bhaimva— the eight Tantra-s having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kapahka doctrines. (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnavl^ (16) VaraM^ (17) Mahendn, (18) Camunda, (19) Stva-dutl— the -eight Tantra-s constituting the Bahu-rupastaka, wherein importance is attached to the eight S'akti-s. Even these are reprehensible, as they stray far away from the Vedic path, a.lthough they involve some knowledge of the S'ri-vidya incidentally, (20) Brahma-yamalaf (21) Visnu-yamala, (22) Rudra-yamala, (23) LaksmJ^amalai (24) Mma-yamala, (25) Skanda-yamalat (26) Ganes^a-yamala^ (27) ' Jayadratha-yamala — ^the eight arts relating to Yamala, otherwise known as Kamasiddha, aimmg at the gratification of several desires, ■which, not having the sanction of the Veda*s, are
-
-118 SAUNDARYA-LAHARi
-
-considered objectionable, so much so that even the sixtyfour Tantra-s are sometimes spoken of collectively as Yamala. (28) Candra-jTiana— which expounds the sixteen Nitya-s and is however considered objectionable, as smacking of Kapahka tenents. There is also a Tan^ra of the same name, which has nothing to do with any of the sixty-four Tantra-s herein mentioned. (29) MalinJ-vidya — wherewith oceans could be crossed. (30) Mc^/ja-sawmohana— -which brings on sleep in persons even during their waking state. As this involves the cutting of the tongue of a child to render the acquisition of such power possible, it IS reprehensible. (31) Vama-justa, (32) Maha-deva — productive of awkward habits and tendencies, which may be characterized as Vamacara, filthy conduct. (33) Vatulq^^ (34) Vatulottara^ (35) Kamika — incidentally expounding the rules relating to the procedure to be adopted for the several processes connected with the erection of temples, etc., commencing from the withdrawal and ending with the establishment of powers, ^tc, but involving features not countenanced by the Veda. (36) Hrd-bheda-t antra — which, though aiming at bursting through the six lotuses from Muladhara onwards to the thousand-petalled one, falls within the province of 'the Kapahka- tantra, as it has recourse to the adoption of Vamacara. (37) Tantra-bheda, (38) Guhya-tanfra'—which involve retaliatory processes, both overt and covert, aiming at the destruction of what has been achieved by other Tantra-s and the causation of severe pain to living beings, 
+- 35. Kamika — incidentally expounding the rules relating to the procedure to be adopted for the several processes connected with the erection of temples, etc, commencing from the withdrawal and ending with the establishment of powers, etc, but involving features not countenanced by the Veda.
+- 36. Hridbheda
+- 37. Tantra Bheda
+- 38. Guhya Yaatra
+- 39. Kaamika
+- 40. Kala Vaada
+- 41. Kala Saara
+- 42. Kubjo Maata
+- 43. Tan trottara
+- 44. Beena Tantra
+- 45. Shrotala
+- 46. Shrotalottara
+- 47. Panchaamrita
+- 48. Rupabheda
+- 49. Bhutongkaamara
+- 50. Kulasaara
+- 51. Kulongkeesha
+- 52. Kula Choodaamani
+- 53. Sarva Jnaanottara
+- 54. Maha Kaali Mata
+- 55. Arunesha
+- 56. Modineesha / Mohineesha
+- 57. Vikuntheshvara
+- 58. Purvaamnaaya
+- 59. Dakshinaamnaaya
+- 60. Uttaraamnaaya
+- 61. Niruttaamnaaya
+- 62. Vimala
+- 63. Vimalotya
+- 64. Devi Matha
 
 ---
 
