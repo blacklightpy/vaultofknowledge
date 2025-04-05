@@ -32,7 +32,7 @@ They can be grouped as:
 
 ### Detailed Description
 
-- 1. Saankhya (Digital)
+- 1. Saankhya (Enumeration)
 	- **Brief**
 		- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
 		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**

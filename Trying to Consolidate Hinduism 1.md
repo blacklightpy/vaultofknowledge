@@ -950,3 +950,5 @@ Three Levels of Reality:
 ---
 
 Abhinavagupta only commented on Bhagavad Geetha, and wrote other Tantra related books. Tantraloka is the compilation of the 64 Tantras, and Tantrasara is the condensed version of it.
+
+Tantra adopts Saankhya's abstract dualism and modifies it into a male-female dualism of Vishnu and Lakshmi or Shiva and Shakthi. The image of Shakthi standing over Shiva indicates the grip of reality on the Purusha. Tantra seeks to unite the male and female parts. But Saankhya and Vedaanta seek liberation from Prakrithi.
