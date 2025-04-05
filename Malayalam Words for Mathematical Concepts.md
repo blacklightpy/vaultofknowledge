@@ -1,4 +1,4 @@
-I'd need to eventually discover the Characteristica Universalis for cultures to properly communicate concepts.
+I'd need to eventually discover the [[Characteristica Universalis]] for cultures to properly communicate concepts.
 
 Anyways, this is what we'll use: [[Areas of Mathematics]].
 

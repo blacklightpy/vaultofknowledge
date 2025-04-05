@@ -263,37 +263,22 @@
             }
           },
           {
-            "id": "fe52e2d8f98fec25",
+            "id": "b6e4c1734ef41e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don't Worry About The Future.md",
+                "file": "Malayalam Words for Mathematical Concepts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Don't Worry About The Future"
-            }
-          },
-          {
-            "id": "714cf9e9a25dfe76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My thoughts on Jesus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "My thoughts on Jesus"
+              "title": "Malayalam Words for Mathematical Concepts"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -312,7 +297,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -346,8 +331,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -367,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My thoughts on Jesus.md",
+                "file": "Malayalam Words for Mathematical Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +361,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My thoughts on Jesus"
+              "title": "Backlinks for Malayalam Words for Mathematical Concepts"
             }
           },
           {
@@ -386,12 +370,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My thoughts on Jesus.md",
+                "file": "Malayalam Words for Mathematical Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from My thoughts on Jesus"
+              "title": "Outgoing links from Malayalam Words for Mathematical Concepts"
             }
           },
           {
@@ -429,13 +413,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My thoughts on Jesus.md",
+                "file": "Malayalam Words for Mathematical Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My thoughts on Jesus"
+              "title": "Outline of Malayalam Words for Mathematical Concepts"
             }
           },
           {
@@ -500,18 +484,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714cf9e9a25dfe76",
+  "active": "b6e4c1734ef41e45",
   "lastOpenFiles": [
-    "My thoughts on Jesus.md",
-    "Don't Worry About The Future.md",
-    "Is the World with Meaning.md",
     "My Objection to Classical Advaita Vedanta.md",
+    "Counter Argument for Who Created God.md",
+    "Don't Worry About The Future.md",
+    "My thoughts on Jesus.md",
+    "Is the World with Meaning.md",
     "The Absurdity of Denying Mistakes in Scripture.md",
     "Christianism.md",
     "Meccaism.md",
     "Trying to Consolidate Hinduism 1.md",
     "Implication of Caste for Moksha.md",
-    "Counter Argument for Who Created God.md",
     "Timeline of Sages in Hinduism.md",
     "06. Collected Knowledge/Tantras.md",
     "Tantra List Classifying.md",

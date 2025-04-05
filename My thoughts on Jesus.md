@@ -2,7 +2,9 @@ By principles of causality, I have to hold the view that his actions are meaning
 
 But I do not believe that the reports by his disciples match what he said. That also means I do not believe in the Holy Spirit, and the idea that belief in him is necessary for salvation.
 
-What I believe is limited to how knowledge of his actions will give you salvation, as one realizes that the body is not the true self, and the Kingdom of God is within you. When he died while correcting corruption selflessly, he achieved true liberation from his body, unlike others who would've suffered as they identified with the body.
+What I believe is limited to how the knowledge of his actions will give you salvation, as one realizes that the body is not the true self, and the Kingdom of God is within you. When he died while correcting corruption selflessly, he achieved true liberation from his body, unlike others who would've suffered as they identified with the body.
+
+Now this "identification" is a complex topic, and one that's been explored by many religions. It should be studied separately, or as Japanese artist Hasegawa said about Zen, you'll either get it in 3 seconds or 30 years.
 
 ---
 ### Imagining him as a Jew
