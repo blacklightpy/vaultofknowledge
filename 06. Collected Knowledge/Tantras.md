@@ -4,6 +4,8 @@ Master List of Shakta Tantras: https://hinduism.stackexchange.com/questions/4516
 
 Notes on Tantras and Aagamas: https://indiafacts.org/demystifying-tantra-saiva-vai%E1%B9%A3%E1%B9%87ava-tantras/
 
+# Attempts at proper classification
+See [[Tantra List Classifying]].
 # Arbitrary List (Tradition > Some List)
 - Shaiva–Sadashiva (Shivagama), Vaama or Tumburu, Dakshina or Bhairava
 	- Kularnava Tantra

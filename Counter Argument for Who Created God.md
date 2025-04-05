@@ -18,6 +18,7 @@ Anyways the point here was to show that what's intended by the super-natural is 
 The personal deity is then just the ultimate reality beyond the world as viewed from the world of illusions.
 
 ---
+# Rough Notes
 
 My takes on Advaita (rough):
 Canvas-Area (Brahman) / Painting (Maya) / Object Area (Duality)

@@ -1,3 +1,7 @@
+## Intro
+
+Some notes:
+
 > Besides attempts at classification, we often find in the Tantras assessments of the size of Tantric literature. While the Samhitas of the Pāñcarātra were traditionally counted as one hundred and eight, and the Śaiva Āgamas as twenty-eight, the accepted number of Tantras is sixty-four. Our earliest authority for this figure is probably the Vīṇāśikha Tantra (st.9) which says that there were sixty-four "disciples in the Tantras".
 > 
 > Abhinavagupta points out that the Trika philosophy is the essence of the Lord's teachings which are divided over the series often, eighteen and sixty-four texts. The “ten” are the Śaivāgamas: Kāmika etc. and the "eighteen" are the Rudrāgamas: Vijaya etc. These two groups together make up the "classic" series of Āgamas; the Śaivāgamas are held to be dualistic, the Rudrāgamas to keep an intermediate position between monism and dualism, and the sixty-four "Bhairavāgamas" are said to teach pure monism. The latter number thus became canonical for Tantric literature.
@@ -8,7 +12,7 @@
 > 
 > The list from the Śrīkaṇṭhī is neatly structured into eight groups of eight texts connected with the standard series of eight Bhairavas; first come the eight Bhairavatantras, likewise taught by the Bhairavas: Svacchanda etc.; secondly, eight Yāmalas (Brahma etc.); thirdly, the Mata’s (Rakta etc.); fourthly, the Maṅgalas (Bhairavī etc.); fifthly, eight Cakras; these are followed by the Bahurūpas, the Vagīśas and the Śikhās.
 > 
-> All this is scarcely realistic; we may assume that the principle of division according to the last element of the title was at work also here, enriched by a tendency to fill out schemes with additional titles referring to deities.
+> **All this is scarcely realistic; we may assume that the principle of division according to the last element of the title was at work also here, enriched by a tendency to fill out schemes with additional titles referring to deities.**
 > 
 > The Nityāṣoḍaśikārṇava list looks somewhat less artificial. But here also, we find the "eight Bhairavas", "eight Bahurūpas" and "eight Yāmalas" and, besides, five Āmnāyas. Among other items are the Mahāmāyā (or Mahāmāyāśamvara) at the beginning (the Nos. 1-4 are four Śamvaras), and the Candrajñāna, Vātula, Kāmika, Vāmakeśvara, Kubjikāmata, Vīṇā, Bhūtaḍāmara, Kulacūḍāmaṇi, Siddhayogeśvarī and Vīrāvali, all of them without doubt ancient texts quoted elsewhere or even preserved. However, several authoritative works such as the Mālinīvijaya (if not identical with the Siddhayogeśvarī), Netra, Kulārṇava, Kaulajñānavinirnaya and many texts quoted by Abhinavagupta in his Tantrāloka are absent from this list. Some of them may be of later date, but the conclusion is unavoidable that the accepted number of sixty-four already at an early date was not sufficient to include all the extant texts. Besides, many were probably omitted on purpose because they did not belong to a tradition respected by the compilers who might have been prone to accept doctrinal affinity rather than historical fact. A late and apocryphal list of 192 Tantras ordered according to the threefold division into Krantas is ascribed to the Mahāsiddhasāratantra.
 
@@ -340,10 +344,7 @@ Kraanta 3: Ashva Kraantaa:
 61. Ujjashaaka Tantra
 62. Dhoomaavati Tantra
 63. Shiva Tantra
-
-
-
-
+## List 4
 
 Some texts don't appear in the list but are considered higly authorative. These are
 
@@ -390,7 +391,7 @@ The Vaaraahi Tantra also cites the following texts as Shaaktaagamas :
 10. Mridaani Tantra
 11. Naaraayani Tantra
 
----
+The 6 damara texts and the 6 yaamala texts have also been cited by the Vaaraahi Tantra. They are:
 
 The 6 damara texts:
 1. Yogadaamara
@@ -400,15 +401,13 @@ The 6 damara texts:
 5. Gandharvadaamara
 6. Brahmadaamara
 
-and the 6 yaamala texts:
+ The 6 yaamala texts:
 1. Aadiyaamala
 2. Brahmayaamala
 3. Vishnuyaamala
 4. Rudrayaamala
 5. Ganeshayaamala
 6. Adityayaamala
-
-have also been cited by the Vaaraahi Tantra.
 
 Outside these 6 yaamalas, there also exists:
 1. Umaayaamala
@@ -461,6 +460,7 @@ Besides Aagamavaagisha also quoted from Vaishnava Taantrika Nibandhas like
 3. Govindavrindaavana
 
 ---
+## List 5
 
 Kulacūḍaamaṇi Tantra (I.4-13) gives us a list of the "sixty-four most excellent Tantras". Vaamakeśvara Tantra (I.13-21) also gives a list of "the sixty-four excellent Tantras of the Mother".
 
@@ -512,5 +512,6 @@ From Kulacūḍaamaṇi Tantra, I.4-13:
 - 63. Mohinīśa
 - 64. Viśuddheśvara
 
-### List 
+### List 6
+
 https://hinduism.stackexchange.com/questions/56354/what-are-the-principal-saiva-tantras
