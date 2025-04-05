@@ -1,3 +1,17 @@
+> Besides attempts at classification, we often find in the Tantras assessments of the size of Tantric literature. While the Samhitas of the Pāñcarātra were traditionally counted as one hundred and eight, and the Śaiva Āgamas as twenty-eight, the accepted number of Tantras is sixty-four. Our earliest authority for this figure is probably the Vīṇāśikha Tantra (st.9) which says that there were sixty-four "disciples in the Tantras".
+> 
+> Abhinavagupta points out that the Trika philosophy is the essence of the Lord's teachings which are divided over the series often, eighteen and sixty-four texts. The “ten” are the Śaivāgamas: Kāmika etc. and the "eighteen" are the Rudrāgamas: Vijaya etc. These two groups together make up the "classic" series of Āgamas; the Śaivāgamas are held to be dualistic, the Rudrāgamas to keep an intermediate position between monism and dualism, and the sixty-four "Bhairavāgamas" are said to teach pure monism. The latter number thus became canonical for Tantric literature.
+> 
+> When it comes to filling up this number with real titles, important differences can be noticed. The two oldest lists preserved are those from the Nityāṣoḍaśikārṇava (1,13f.) and from the Śrīkaṇṭhī or Śrīkaṇṭhasaṃhitā quoted by Jayaratha on Tantrāloka 1,18 (ed., p. 42).
+> 
+> The Nityāṣoḍaśikārṇava list was taken over with variants by the Kulacūḍāmaṇi Tantra (l,4f.) and by Lakṣmīdhara in his commentary on the Saundaryalaharī. More recent, and very different, lists can be found in the Sarvollāsa and the Āgamatattvavilāsa.
+> 
+> The list from the Śrīkaṇṭhī is neatly structured into eight groups of eight texts connected with the standard series of eight Bhairavas; first come the eight Bhairavatantras, likewise taught by the Bhairavas: Svacchanda etc.; secondly, eight Yāmalas (Brahma etc.); thirdly, the Mata’s (Rakta etc.); fourthly, the Maṅgalas (Bhairavī etc.); fifthly, eight Cakras; these are followed by the Bahurūpas, the Vagīśas and the Śikhās.
+> 
+> All this is scarcely realistic; we may assume that the principle of division according to the last element of the title was at work also here, enriched by a tendency to fill out schemes with additional titles referring to deities.
+> 
+> The Nityāṣoḍaśikārṇava list looks somewhat less artificial. But here also, we find the "eight Bhairavas", "eight Bahurūpas" and "eight Yāmalas" and, besides, five Āmnāyas. Among other items are the Mahāmāyā (or Mahāmāyāśamvara) at the beginning (the Nos. 1-4 are four Śamvaras), and the Candrajñāna, Vātula, Kāmika, Vāmakeśvara, Kubjikāmata, Vīṇā, Bhūtaḍāmara, Kulacūḍāmaṇi, Siddhayogeśvarī and Vīrāvali, all of them without doubt ancient texts quoted elsewhere or even preserved. However, several authoritative works such as the Mālinīvijaya (if not identical with the Siddhayogeśvarī), Netra, Kulārṇava, Kaulajñānavinirnaya and many texts quoted by Abhinavagupta in his Tantrāloka are absent from this list. Some of them may be of later date, but the conclusion is unavoidable that the accepted number of sixty-four already at an early date was not sufficient to include all the extant texts. Besides, many were probably omitted on purpose because they did not belong to a tradition respected by the compilers who might have been prone to accept doctrinal affinity rather than historical fact. A late and apocryphal list of 192 Tantras ordered according to the threefold division into Krantas is ascribed to the Mahāsiddhasāratantra.
+
 Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 
 1. Kaalītantra
@@ -71,7 +85,10 @@ From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 - 2. Yogini Jaala Shambara
 - 3. Tatwa Shaambara or the Vidya with the ability and facility of awakening and revolving among the Tatvas
 - 4 - 11. Bhairava Ashtakas
+	- (4) Siddha-hhairava, (5) Vatukahhqirava, (6) Kankctla-bhairava, (7) Kalabhairava, (8) Kalagni'bhairava, (9) Yogim-bhairava, (10) Mahabhairavay (11) Sakti-bhaimva —
+	- the eight Tantras having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kapahka doctrines. 
 - 12-19. Bahu Ruupaashtakas
+	- (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnav (16) Vara (17) Mahendn, (18) Camunda, (19) Stva-dutl— the -eight Tantra-s constituting the Bahu-rupastaka, wherein importance is attached to the eight Shakti-s. Even these are reprehensible, as they stray far away from the Vedic path, a.lthough they involve some knowledge of the Shri-vidya incidentally,
 - 20-27. Yamalaashtakaas
 - 28. Cchandra Vigjnaana
 - 29. Maalini Vidya enabling the crossing of Oceans
@@ -129,6 +146,13 @@ From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 38. कामिकम्‌
 39. कलावादं
 40. कलासारं तथान्यत्‌ कुण्डिकामतम्‌ ॥ मतोत्तरं च वीणाख्यं त्रोतलं त्रोतलोत्तरम्‌ । पञ्चामृतं रूपभेदं भूतोड्डामरमेव च ॥ कुलसारं कुलोड्डीशं कुल्चूडामणिस्तथा । सर्वज्ञानोत्तरं चैव महुकाळीमतं तथा ॥ अरुणेशं मोदिनीशं विकुण्ठेश्वरमेव च । पूर्वपश्चिमदक्षं च उत्तरं च निरुत्तरम्‌ ॥ विमलं विमलोत्थं च देवीमतमत:परम्‌ ॥
+
+
+With the sixty -Jour Tantra-s— the sixty-four Tantra-s are : (l) Maha-maya'S^ambara—hdiving as its aim the deluding of the senses and the intellect. (2) Yogint 'jala - s'amham — legerdemain, involving the agency of Yogini-s, accomplished by resorting to the erematory and other ways of a repulsive nature and adopting questionable practices. (3) Tattvas'ambara—hy causing the elements to appear as though mutually transforming themselves. (4) Siddha-hhairava, (5) Vatukahhqirava, (6) Kankctla-bhairava, (7) Kala*bhairava, (8) Kalagni'bhairava, (9) Yogim-bhairava, (lO) Mahabhairavay (11) Sakti-bhaimva— the eight Tantra-s having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kapahka doctrines. (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnavl^ (16) VaraM^ (17) Mahendn, (18) Camunda, (19) Stva-dutl— the -eight Tantra-s constituting the Bahu-rupastaka, wherein importance is attached to the eight S'akti-s. Even these are reprehensible, as they stray far away from the Vedic path, a.lthough they involve some knowledge of the S'ri-vidya incidentally, (20) Brahma-yamalaf (21) Visnu-yamala, (22) Rudra-yamala, (23) LaksmJ^amalai (24) Mma-yamala, (25) Skanda-yamalat (26) Ganes^a-yamala^ (27) ' Jayadratha-yamala — ^the eight arts relating to Yamala, otherwise known as Kamasiddha, aimmg at the gratification of several desires, ■which, not having the sanction of the Veda*s, are
+
+118 SAUNDARYA-LAHARi
+
+considered objectionable, so much so that even the sixtyfour Tantra-s are sometimes spoken of collectively as Yamala. (28) Candra-jTiana— which expounds the sixteen Nitya-s and is however considered objectionable, as smacking of Kapahka tenents. There is also a Tan^ra of the same name, which has nothing to do with any of the sixty-four Tantra-s herein mentioned. (29) MalinJ-vidya — wherewith oceans could be crossed. (30) Mc^/ja-sawmohana— -which brings on sleep in persons even during their waking state. As this involves the cutting of the tongue of a child to render the acquisition of such power possible, it IS reprehensible. (31) Vama-justa, (32) Maha-deva — productive of awkward habits and tendencies, which may be characterized as Vamacara, filthy conduct. (33) Vatulq^^ (34) Vatulottara^ (35) Kamika — incidentally expounding the rules relating to the procedure to be adopted for the several processes connected with the erection of temples, etc., commencing from the withdrawal and ending with the establishment of powers, ^tc, but involving features not countenanced by the Veda. (36) Hrd-bheda-t antra — which, though aiming at bursting through the six lotuses from Muladhara onwards to the thousand-petalled one, falls within the province of 'the Kapahka- tantra, as it has recourse to the adoption of Vamacara. (37) Tantra-bheda, (38) Guhya-tanfra'—which involve retaliatory processes, both overt and covert, aiming at the destruction of what has been achieved by other Tantra-s and the causation of severe pain to living beings, 
 
 ---
 
