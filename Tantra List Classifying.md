@@ -5,6 +5,8 @@ Tantras in which Shiva tells Shakthi are called Aagma. Tantras in which Shiva li
 Dhumavathi and Vaarthaali are not evil deities. In fact, there are no evil deities in Indian philosophy, like the devil.
 
 Kaarya Swaroopa Moorthis: Narasimha, Varaaha, Kaali, Saraswathi, etc. (when you worship for something).
+
+Black magic is about exploiting someone's weaknesses, since in Tantric philosophy, all beings are connected by subtle energies.
 ## Intro
 
 Some notes:
