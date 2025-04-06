@@ -88,7 +88,7 @@ Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 66. Prokta Tantra (?)
 
 ## List 2
-From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
+From Saundarya Lahari, commentary by Lakshmidhara (quoted from Vaamakeshvara Thanthra):
 
 - 1. Mahaa Maaya Shambara
 - 2. Yogini Jaala Shambara
@@ -139,29 +139,41 @@ From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 - 39. Kala Vaada
 - 40. Kala Saara
 - 41. Kundika Maata
-
-- 43. Mathotthara
-- 44. Veenaakhya
-- 45. Throthala
-- 46. Throthalotthara
-- 47. Panchaamritha
-- 48. Roopa Bheda
-- 49. Bhootongkaamara
-- 50. Kulasaara
-- 51. Kulongkeesha
-- 52. Kula Choodaamani
-- 53. Sarva Jnaanottara
-- 54. Maha Kaali Mata
-- 55. Arunesha
-- 56. Modineesha / Mohineesha
-- 57. Vikuntheshvara
-- 58. Purvaamnaaya
+- 42. Mathotthara
+- 43. Veenaakhya
+- 44. Throthala
+- 45. Throthalotthara
+- 46. Panchaamritha
+- 47. Roopa Bheda
+- 48. Bhoothoddaamara
+- 49. Kula Saara
+- 50. Kuloddeesha
+- 51. Kula Choodaamani
+- 52. Sarva Jnaanottara
+- 53. Maha Kaali Matha
+- 54. Arunesha
+- 55. Modineesha / Mohineesha
+- 56. Vikuntheshvara
+- 57. Purvaamnaaya
+- 58. Paschimaamnaaya
 - 59. Dakshinaamnaaya
 - 60. Uttaraamnaaya
 - 61. Niruttaamnaaya
 - 62. Vimala
 - 63. Vimalotya
 - 64. Devi Matha
+
+Bhaaskara Raaya, the reputed commentator of the same treatise, however, differs from Lakshmidhara in the enumeration of the Thanthra-s and treats 4-11 the Bhairavaashta as one Tantra, and 31-31, Vaama Jushta and Maha Deva as a single Thanthra giving the name of Mahocchushman to it, and includes eight Tantra-s not enumerated by Lakshmidhara:
+
+- 1. Maha Lakshmi Mata
+- 2. Siddha Yogeeshvari Mata
+- 3. Ku Roopika Mata
+- 4. Deva Roopika Mata
+- 5. Sarva Veera Mata
+- 6. Vimalaa Mata
+- 7. Jnaanaarnava
+- 8. Veera Vali
+
 
 ---
 ## List 3
