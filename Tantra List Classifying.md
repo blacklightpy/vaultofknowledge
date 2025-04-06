@@ -775,6 +775,9 @@ From Dancing with Shiva, the 18 Rudra Aagamas are:
 
 # List 7 (Vaishnava)
 
+Paancharaathra:
+(List skipped due to easy availability)
+
 Vaikhaansa:
 
 (Mostly used in temples in TN, Karnataka, USA, etc.)

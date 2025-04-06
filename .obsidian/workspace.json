@@ -268,28 +268,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saamaanya Varna.md",
+                "file": "Tantra List Classifying.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Saamaanya Varna"
-            }
-          },
-          {
-            "id": "0e90b564c11bced2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wikipedia Hinduism Organization"
+              "title": "Tantra List Classifying"
             }
           },
           {
@@ -308,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -515,13 +500,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "240dc3cb209876a2",
+  "active": "0610efa04dade84a",
   "lastOpenFiles": [
-    "Commentary on the Indian Constitution and Penal Code.md",
-    "Saamaanya Varna.md",
-    "Tantra List Classifying.md",
     "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "Tantra List Classifying.md",
+    "Saamaanya Varna.md",
     "My Objection to Classical Advaita Vedanta.md",
+    "Commentary on the Indian Constitution and Penal Code.md",
+    "Thinking of Allah as the Upaasana Moorthi.md",
     "Homonymic Samskritha Words.md",
     "06. Collected Knowledge/List of Upanishads.md",
     "The Will of Jyothish.md",
@@ -542,7 +528,6 @@
     "06. Collected Knowledge/Map of Hinduism.md",
     "06. Collected Knowledge/Hindu Sampradaayas.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-    "Jyothish Standard for Devanagari Transliteration.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
