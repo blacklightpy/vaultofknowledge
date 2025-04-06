@@ -4,7 +4,3 @@ That is, by the rope-snake analogy, you are taught that the rope does not have a
 
 Yet, a curious mind wishes to both know the ultimate reality as well as the nature of the empirical reality that emerges from it. While Saankhya-Yoga and Nyaaya-Vaisheshika attempted to define this in more detail, Western philosophers and scientists have made progress on this front.
 
-Qn.
-
-Is Jeeva the Upaadhi of Maaya?
-Is Antahkarana the Upaadhi of Maaya?
