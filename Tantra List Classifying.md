@@ -7,6 +7,9 @@ Dhumavathi and Vaarthaali are not evil deities. In fact, there are no evil deiti
 Kaarya Swaroopa Moorthis: Narasimha, Varaaha, Kaali, Saraswathi, etc. (when you worship for something).
 
 Black magic is about exploiting someone's weaknesses, since in Tantric philosophy, all beings are connected by subtle energies.
+
+See more: https://wiki.phalkefactory.net/index.php?title=Tantra
+
 ## Intro
 
 Some notes:
@@ -759,5 +762,23 @@ Vijaya, 2. Parameśa, 3. Nihśvāsa, 4. Prodgita, 4. Mukhabimba, 5. Siddhamata, 
 ### List 6A.2
 
 From Dancing with Shiva, the 18 Rudra Aagamas are:
+(From https://hinduism.stackexchange.com/questions/54697/what-are-the-28-%C5%9Aaiva-%C4%80gamas)
 
 > List: 11) Vijaya, 12) Niḥśvāsa, 13) Svāyambhuva, 14) Aṇala, 15) Vīra (Bhadra), 16) Raurava, 17) Makuta, 18) Vimala, 12) Chandrajñāna (or Chandrahāsa), 20) Mukhabimba (or Bimba), 21) Prodgītā (or Udgītā), 22) Lalita, 23) Siddha, 13) Santāna, 25) Sarvokta (Narasimha), 26) Paramesvara, 27) Kirana and 28) Vätula (or Parahita).
+
+> Rishi Tirumular, in his Tirumantiram, refers to 28 Āgamas and mentions nine by name. Eight of these Kāraṇa, Kāmika, Vīra, Chintya, Vätula, Vimala, Suprabheda and Makuta—are in the above list of 28 furnished by the French Institute of Indology, Pondicherry. The ninth, Kalottāra, is presently regarded as an Upagama, or secondary text, of Vätula. The Kamika is the Agama most widely followed in Tamil Śaiva temples, because of the availability of Aghorasiva's manual- commentary (paddhati) on it. Vīra Šaivites especially refer to the Vatula and Vīra Agamas. The Saiva Agama scriptures, above all else, are the connecting strand through all the schools of Saivism. The Agamas themselves express that they are entirely consistent with the teachings of the Veda, that they contain the essence of the Veda, and must be studied with the same high degree of devotion. See: Agamas, Vedas.
+
+# List 7 (Vaishnava)
+
+Vaikhaansa:
+
+> The extant texts of Vaikhānasa Agama number 28 in total and are known from the texts Vimānārcakakalpa and Ānanda saṃhitā, both composed by Marīci, which enumerate them. They are:
+> 
+> The 13 Adhikaras authored by Bhrigu are khilatantra, purātantra, vāsādhikāra, citrādhikāra, mānādhikāra, kriyādhikāra, arcanādhikāra, yajnādhikāra, varṇādhikāra, prakīrnṇādhikāra, pratigrṛhyādhikāra, niruktādhikāra and khilādhikāra. However, ānanda saṃhitā attributes ten works to Bhrigu, namely khila, khilādhikāra, purādhikāra, vāsādhikāraṇa, arcanādhikaraṇa, mānādhikaraṇa, kriyādhikāra, niruktādhikāra, prakīrnṇādhikāra and yajnādhikāra.
+> 
+> The eight Saṃhitās authored by Marīci are Jaya saṃhitā, Ananda saṃhitā, Saṃjnāna saṃhitā, Vīra saṃhitā, Vijaya saṃhitā, Vijita saṃhitā, Vimala saṃhitā and Jnāna saṃhitā. However, ānanda saṃhitā attributes the following works to Marīci: jaya saṃhitā, ānanda saṃhitā, saṃjnāna saṃhitā, vīra saṃhitā, vijaya saṃhitā, vijita saṃhitā, vimala saṃhitā and kalpa saṃhitā.
+> 
+> The three Kandas authored by Kashyapa are Satyakāṇḍa, Tarkakāṇḍa, Jnānakāṇḍa. However, Ananda Saṃhitā attributes the satyakāṇḍa, karmakāṇḍa and jnānakāṇḍa to Kashyapa.
+> 
+> The four tantras authored by Atri are Pūrvatantra, Atreyatantra, Viṣṇutantra and Uttaratantra. However, Ananda Saṃhitā attributes the pūrvatantra, viṣṇutantra, uttaratantra and mahātantra to Atri.
+
