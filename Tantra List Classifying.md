@@ -677,67 +677,69 @@ From Vaamakeśvara Tantra I.13-21:
 
 ### List 6
 
+92 Shaiva Tantras and Aagamas
 
-
-NINETY TWO SAIVA TANTRAS AND AGAMAS
-TANTRAS
+### List 6.1
 
 (A) EIGHTFOLD CLASSIFICATION OF THE SIXTYFOUR BHAIRAVA TANTRAS
 
+This list is based on the description provided by Jayaratha in his commentary, Viveka, of Tantraloka I.18.
+
 I. Bhairavāştaka
 
-    Svacchanda, 2. Canda, 3. Bhairava, 4. Krodha, 5. Unmattabhairava, 6. Asitānga, 7. Mahocchuşma, 8. Kapālīśa
+1. Svacchanda, 2. Canda, 3. Bhairava, 4. Krodha, 5. Unmattabhairava, 6. Asitānga, 7. Mahocchuşma, 8. Kapālīśa
 
 II. Yamalāştaka
 
-    Brahmayāmala, 2. Visnuyāmala, 3. Svacchanda, 4. Ruru, 5. Ātharvana, 6. Rudra, 7. Vetāla, 8. **
+1. Brahmayāmala, 2. Visnuyāmala, 3. Svacchanda, 4. Ruru, 5. Ātharvana, 6. Rudra, 7. Vetāla, 8. **
 
 III. Matākhyāstaka
 
-    Rakta, 2. Lampata, 3. Mata, 4. Lakşmi, 5. Calikā, 6. Pingalā, 7. Utphullaka, 8. Viśvādya
+1. Rakta, 2. Lampata, 3. Mata, 4. Lakşmi, 5. Calikā, 6. Pingalā, 7. Utphullaka, 8. Viśvādya
 
 IV. Mangalāstaka
 
-    Picubhairavi, 2. Tantrabhairavi, 3. Tatabhairavi, 4. Brāhmikalā, 5. Vijayā, 6. Candrākhyā, 7. Mangala, 8. Sarvamangalā
+1. Picubhairavi, 2. Tantrabhairavi, 3. Tatabhairavi, 4. Brāhmikalā, 5. Vijayā, 6. Candrākhyā, 7. Mangala, 8. Sarvamangalā
 
 V. Cakrāstaka
 
-    Mantracakra, 2. Varnacakrn, 3. Sakticakra, 4. Kalacakra, 5. Vinducakra, 6. Nādacakra, 7. Guhyacakra, 8. Khacakra
+1. Mantracakra, 2. Varnacakrn, 3. Sakticakra, 4. Kalacakra, 5. Vinducakra, 6. Nādacakra, 7. Guhyacakra, 8. Khacakra
 
 VI. Bahurūpāstaka
 
-    Andhaka, 2. Rurubheda, 3. Aja, 4. Mūla, 5. Varnabhantha, 6. Vidanga, 7. Javālin, 8. Mātrrodana
+1. Andhaka, 2. Rurubheda, 3. Aja, 4. Mūla, 5. Varnabhantha, 6. Vidanga, 7. Javālin, 8. Mātrrodana
 
 VII. Vāgiśāstaka
 
-    Bhairavi, 2. Citrikā, 3. Hamsa, 4. Kadambikā, 5. Hrllekā, 6. Candralekhā, 7. Vidullekhā, 8. Vidumat
+1. Bhairavi, 2. Citrikā, 3. Hamsa, 4. Kadambikā, 5. Hrllekā, 6. Candralekhā, 7. Vidullekhā, 8. Vidumat
 
 VIII. Śikhāstaka
 
-    Bhairavaviśākhā, 2. Vinā, 3. Viņāmaņi, 4. Sammoha, 5. Dāmara, 6. Atharvaka, 7. Kabandha, 8. Siraścheda
+1. Bhairavaviśākhā, 2. Vinā, 3. Viņāmaņi, 4. Sammoha, 5. Dāmara, 6. Atharvaka, 7. Kabandha, 8. Siraścheda
 
-    This list is based on the description provided by Jayaratha in his commentary Viveka [TA I.18].
+### List 6.2
 
 (B) Vāmakeśvara Tantra or Nityāsodasikārņava Tantra (I. 13-20) enumerates the following sixty-four tantra:
 
 1.Mahāmayāśambara or Mahāmāyā Tantra, 2. Yoginijālasambara or Jālasambaratantra, 3-10. Bhairavāstaka (8), 11-18. Bahurupastaka (8), 19-26. Yāmālistaka (8), 27. Candrajñāna, 28. Vāsuki, 29. Mahāsammohana, 30. Mahocchuşma, 31. Mahadeva, 32. Vātula, 33. Vātulottara, 34. Hrdbheda, 35. Mātrbheda, 36. Guhya, 37. Kāmika, 38. Kalāvāda, 39. Kalāsāra, 40. Kubjikā, 41. Matottara, 42. Vāņā, 43. Trotala, 44. Trotalottar, 45-49. Pañcāmrta, 50. Rūpabheda, 51. Bhuta, 52. Dāmara, 53. Kulasārā, 54. Sarvajñānottara, 55. Mahākāli, 56. Mahālakṣmi, 57. Siddhayogiśvari, 58. Kurūpikā, 59. Rūpikāmata, 60. Sarvavira, 61. Vimala, 62. Aruneśa, 63. Mohiniśa, 64. Visuddheśvara
-AGAMAS
 
-(C) TEN DUALIST TANTRA (or Saivagamas)
+## List 6A (Aagamas)
+
+TEN DUALIST TANTRA (or Saivagamas)
 
 According to the details provided by Räjänaka Jayaratha:
 
-    Kāmika, 2. Yogaja, 3. Cintya, 4. Mukuta, 5. Anśmān 6. Dīpta, 7. Ajita, 8. Sūksma, 9. Sahasra, 10. Sūprabheda.
+Kāmika, 2. Yogaja, 3. Cintya, 4. Mukuta, 5. Anśmān 6. Dīpta, 7. Ajita, 8. Sūksma, 9. Sahasra, 10. Sūprabheda.
 
 According to Kiranāgama:
 
-    Kāmika, 2. Yogaja, 3. Cintya, 4. Kāraņa, 5. Ajita, 6. Dīpta, 7. Sūkşma, 8. Sahastra, 9. Sūprabheda, 10. Anśumat.
+Kāmika, 2. Yogaja, 3. Cintya, 4. Kāraņa, 5. Ajita, 6. Dīpta, 7. Sūkşma, 8. Sahastra, 9. Sūprabheda, 10. Anśumat.
 
-(D) EIGHTEEN DUALIST-CUM-NON-DUALIST TANTRA (or Rudragamas)
+EIGHTEEN DUALIST-CUM-NON-DUALIST TANTRA (or Rudragamas)
 
-    Vijaya, 2. Niḥśvāsa, 3. Madagīta (in some places it is prodgīta), 4. Pārameśvara, 5. Mukhabimba, 6. Siddha, 7. Santāna, 8. Nāsimha, 9. Candrānśu, 10. Vīrabbadra, 11. Āgneya, 12. Śambhū, 13. Visara, 14. Raurava, 15. Vimala, 16. Kirana, 17. Lalita, 18. Saumeya.
+Vijaya, 2. Niḥśvāsa, 3. Madagīta (in some places it is prodgīta), 4. Pārameśvara, 5. Mukhabimba, 6. Siddha, 7. Santāna, 8. Nāsimha, 9. Candrānśu, 10. Vīrabbadra, 11. Āgneya, 12. Śambhū, 13. Visara, 14. Raurava, 15. Vimala, 16. Kirana, 17. Lalita, 18. Saumeya.
 
 Kiraṇāgama enumerates as follows:
 
-    Vijaya, 2. Parameśa, 3. Nihśvāsa, 4. Prodgita, 4. Mukhabimba, 5. Siddhamata, 6. Santāna, 7. Nārasimha, 8. Candrahāsa, 9. Bhadra, 10. Svāyambhuva, 11. Virakta, 12. Kauravya, 13. Mukuta, 14. Kirana, 15. Lalita, 16. Āgneya, 17. Para
+Vijaya, 2. Parameśa, 3. Nihśvāsa, 4. Prodgita, 4. Mukhabimba, 5. Siddhamata, 6. Santāna, 7. Nārasimha, 8. Candrahāsa, 9. Bhadra, 10. Svāyambhuva, 11. Virakta, 12. Kauravya, 13. Mukuta, 14. Kirana, 15. Lalita, 16. Āgneya, 17. Para
 
