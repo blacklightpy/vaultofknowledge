@@ -744,9 +744,12 @@ EIGHTEEN DUALIST-CUM-NON-DUALIST TANTRA (or Rudragamas)
 
 Vijaya, 2. Niḥśvāsa, 3. Madagīta (in some places it is prodgīta), 4. Pārameśvara, 5. Mukhabimba, 6. Siddha, 7. Santāna, 8. Nāsimha, 9. Candrānśu, 10. Vīrabbadra, 11. Āgneya, 12. Śambhū, 13. Visara, 14. Raurava, 15. Vimala, 16. Kirana, 17. Lalita, 18. Saumeya.
 
-13) Svāyambhuva, 14) Aṇala, 15)  16) , 17) Makuta, 18) , 19) ), 22) , 23) 26) , 27)  and 28) Vätula (or Parahita).
-
 Kiraṇāgama enumerates as follows:
 
 Vijaya, 2. Parameśa, 3. Nihśvāsa, 4. Prodgita, 4. Mukhabimba, 5. Siddhamata, 6. Santāna, 7. Nārasimha, 8. Candrahāsa, 9. Bhadra, 10. Svāyambhuva, 11. Virakta, 12. Kauravya, 13. Mukuta, 14. Kirana, 15. Lalita, 16. Āgneya, 17. Para
 
+### List 6A.2
+
+From Dancing with Shiva, the 18 Rudra Aagamas are:
+
+> List: 11) Vijaya, 12) Niḥśvāsa, 13) Svāyambhuva, 14) Aṇala, 15) Vīra (Bhadra), 16) Raurava, 17) Makuta, 18) Vimala, 12) Chandrajñāna (or Chandrahāsa), 20) Mukhabimba (or Bimba), 21) Prodgītā (or Udgītā), 22) Lalita, 23) Siddha, 13) Santāna, 25) Sarvokta (Narasimha), 26) Paramesvara, 27) Kirana and 28) Vätula (or Parahita).
