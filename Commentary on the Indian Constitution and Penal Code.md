@@ -1,0 +1,3 @@
+I was looking for cheap spa options (i.e. with the intention of finding something that is non-sexual) around Kochi. I remember having looked this up and finding some good options in 2021. But suddenly I saw that a spa named Moksha Ayurvedic Spa was raided by police on the account of "reprehensible activities," implying "sex work."
+
+Now, I'm a person who believes that prostitution is wrong, but not for the reasons a theocrat would think.
