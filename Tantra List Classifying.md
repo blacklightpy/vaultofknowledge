@@ -1,3 +1,4 @@
+This is a list of Shaaktha Thanthras, and List 6A lists Rudra and Shaiva Aagamas.
 ## Intro
 
 Some notes:
@@ -86,6 +87,19 @@ Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 64. Yonitantra
 65. Kaamaakhyaatantra
 66. Prokta Tantra (?)
+
+Gautamīyatantra, Nirūttaratantraṁ,
+
+Gāndharvatantra, Kujjikātantra, Tantramuktāvalītantra, Br̥hatatantra, Śrīkramatantra, Yonitantra & Kaamaakhyaatantra
+
+1. Gāndharva Tantra
+2. Kuñjikā Tantra
+3. Tantra Muktabalī Tantra
+4. Bṛhat Tantra
+5. Śrīkrama Tantra
+6. Yonī Tantra,
+7. Kāmākhyā Tantra,
+8. Prokta Tantra
 
 ## List 2
 
