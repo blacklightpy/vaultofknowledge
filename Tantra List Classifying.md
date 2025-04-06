@@ -94,7 +94,13 @@ From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 - 2. Yogini Jaala Shambara
 - 3. Tatwa Shaambara or the Vidya with the ability and facility of awakening and revolving among the Tatvas
 - 4 - 11. Bhairava Ashtakas
-	- (4) Siddha-hhairava, (5) Vatukahhqirava, (6) Kankctla-bhairava, (7) Kalabhairava, (8) Kalagni'bhairava, (9) Yogim-bhairava, (10) Mahabhairavay (11) Sakti-bhaimva —
+	- 4. Siddha Bhairava
+	- 5. Vatuka Bhairava
+	- 6. Kankctla-bhairava
+	- 7. Kalabhairava
+	- 8. Kalagni'bhairava
+	- 9. Yogim-bhairava
+	- 10. Mahabhairavay (11) Sakti-bhaimva —
 	- the eight Tantras having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kapahka doctrines. 
 - 12-19. Bahu Ruupaashtakas
 	- (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnav (16) Vara (17) Mahendn, (18) Camunda, (19) Stva-dutl—
