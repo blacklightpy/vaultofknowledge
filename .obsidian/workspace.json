@@ -276,21 +276,6 @@
               "icon": "lucide-file",
               "title": "Tantra List Classifying"
             }
-          },
-          {
-            "id": "240dc3cb209876a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commentary on the Indian Constitution and Penal Code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Commentary on the Indian Constitution and Penal Code"
-            }
           }
         ],
         "currentTab": 17
@@ -325,7 +310,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "28 shaiva",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -502,11 +487,11 @@
   },
   "active": "0610efa04dade84a",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "Tantra List Classifying.md",
-    "Saamaanya Varna.md",
     "My Objection to Classical Advaita Vedanta.md",
+    "Tantra List Classifying.md",
     "Commentary on the Indian Constitution and Penal Code.md",
+    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "Saamaanya Varna.md",
     "Thinking of Allah as the Upaasana Moorthi.md",
     "Homonymic Samskritha Words.md",
     "06. Collected Knowledge/List of Upanishads.md",

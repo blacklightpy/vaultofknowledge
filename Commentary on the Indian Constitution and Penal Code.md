@@ -4,6 +4,8 @@ Now, I'm a person who believes that prostitution is wrong, but not for the reaso
 
 However, since that is a religious ethical code, it will require initiation. However, the Indian Constitution and Penal Code (Bhaarateeya Nyaaya Samhitha of 2024) are currently in action. So, to have a strong effect, one needs to make a commentary on these texts directly to reform them. This is the only way to solve the problems of this federal state, without creating an entirely new state on the basis of religion.
 
+I'll call this Jyothish Bhaashya of the Indian Constitution and the Bhaarateeya Nyaaya Samhitha.
+
 
 
 
