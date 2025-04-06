@@ -1,14 +1,14 @@
 - **Scriptures**
 	- **Heard (Eternal Wisdom)** [==Shruthi==]
 		- **Sought Knowledge (Revelation)** [==Nigama==] / **Samskrita Books of Knowledge** [==Vedaaha:==]
-			- Sections
+			- Divisions
 				- **Action Section** [==Karma Kaanda==]
-					- **Collections of Manthras** [==Samhitha / Manthra Samhithaaha:==]
+					- **Collections of Manthras** [==Samhithaaha / Manthra Samhithaaha==]
 					- **Works about Reality** [==Braahmanam==]
 				- **Worship Section** [==Upaasana Kaanda==] + **Wisdom Section** [==Jnaana Kaanda==]
 					- **Works from the Forests** [==Aranyakam==]
 				- **Wisdom Section** [==Jnaana Kaanda==]
-					- **Works Close and Down to Earth** [==Upanishad:==]
+					- **Works Close and Down to Earth** [==Upanishadam==]
 			- Fields
 				- **Branches of Transmissions** [==Shaakhas==]
 				- **Disciplines of the Samskrita Books of Knowledge** [==Vedaanga==]
