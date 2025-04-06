@@ -1,4 +1,6 @@
 This is a list of Shaaktha Thanthras, and List 6A lists Rudra and Shaiva Aagamas.
+
+Tantras in which Shiva tells Shakthi are called Aagma. Tantras in which Shiva listens to Shakthi are called Nigama.
 ## Intro
 
 Some notes:
