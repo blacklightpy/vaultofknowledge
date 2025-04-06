@@ -88,7 +88,11 @@ Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 66. Prokta Tantra (?)
 
 ## List 2
-From Saundarya Lahari, commentary by Lakshmidhara (quoted from Vaamakeshvara Thanthra):
+
+Note that Lakshmidhara's commentary gives descriptions of these Tantras, but I only pasted the descriptions of some of them.
+
+### List 2.1
+From Saundarya Lahari, commentary by Lakshmidhara (apparently, quoted from Vaamakeshvara Thanthra, but the list doesn't seem to match someone else's direct quotation in List 5.2):
 
 - 1. Mahaa Maaya Shambara
 - 2. Yogini Jaala Shambara
@@ -162,6 +166,7 @@ From Saundarya Lahari, commentary by Lakshmidhara (quoted from Vaamakeshvara Tha
 - 62. Vimala
 - 63. Vimalotya
 - 64. Devi Matha
+### List 2.2
 
 Bhaaskara Raaya, the reputed commentator of the same treatise, however, differs from Lakshmidhara in the enumeration of the Thanthra-s and treats 4-11 the Bhairavaashta as one Tantra, and 31-31, Vaama Jushta and Maha Deva as a single Thanthra giving the name of Mahocchushman to it, and includes eight Tantra-s not enumerated by Lakshmidhara:
 
@@ -174,12 +179,81 @@ Bhaaskara Raaya, the reputed commentator of the same treatise, however, differs 
 - 7. Jnaanaarnava
 - 8. Veera Vali
 
+So the full list from Bhaaskara Raaya's commentary is:
+
+- 1. Mahaa Maaya Shambara
+- 2. Yogini Jaala Shambara
+- 3. Tattva Shambara or the Vidya with the ability and facility of awakening and revolving among the Tattvas
+- 4. Bhairavaashta
+- 5-12. Bahu Roopaashtaka
+	- 5. Brahmi
+	- 6. Maheshvari
+	- 7. Kaumaari
+	- 8. Vaishnavi
+	- 9. Vaaraahi
+	- 10. Maahendri
+	- 11. Chaamunda
+	- 12. Shiva Doothi
+- 13-20. Yamalaashtakaas
+	- 13. Brahma Yaamala
+	- 14. Vishnu Yaamala
+	- 15. Rudra Yaamala 
+	- 16. Lakshmi Yaamala
+	- 17. Uma Yaamala
+	- 18. Skanda Yaamala
+	- 19. Ganesha Yaamala
+	- 20. Jayadratha Yaamala
+- 21. Chandra Vijnaana
+- 22. Maalini Vidya
+- 23. Maha Sammohana 
+- 24. Mahocchushman
+- 25. Vaatula
+- 26. Vaatulottara
+- 27. Kaamika
+- 28. Hridbheda
+- 29. Tantra Bheda
+- 30. Guhya Tantra
+- 31. Kala Vaada
+- 32. Kala Saara
+- 33. Kundika Maata
+- 34. Mathotthara
+- 35. Veenaakhya
+- 36. Throthala
+- 37. Throthalotthara
+- 38. Panchaamritha
+- 39. Roopa Bheda
+- 40. Bhoothoddaamara
+- 41. Kula Saara
+- 42. Kuloddeesha
+- 43. Kula Choodaamani
+- 44. Sarva Jnaanottara
+- 45. Maha Kaali Matha
+- 46. Arunesha
+- 47. Modineesha / Mohineesha
+- 48. Vikuntheshvara
+- 49. Purvaamnaaya
+- 50. Paschimaamnaaya
+- 51. Dakshinaamnaaya
+- 52. Uttaraamnaaya
+- 53. Niruttaamnaaya
+- 54. Vimala
+- 55. Vimalotya
+- 56. Devi Matha
+- 57. Maha Lakshmi Mata
+- 58. Siddha Yogeeshvari Mata
+- 59. Ku Roopika Mata
+- 60. Deva Roopika Mata
+- 61. Sarva Veera Mata
+- 62. Vimalaa Mata
+- 63. Jnaanaarnava
+- 64. Veera Vali
 
 ---
 ## List 3
 
 Principles of Tantra, translation of Tantra Thatthva by Shiva Chandra Vidyaarnava states that each Kraanta has 64 sets of Shaaktha Aagamas. There are 3 Kraantaas in total, so 192 Shaaktha Aagamas.
 
+### List 3.1
 Kraanta 1: Vishnu Kraantaa:
 
 1. Siddheshvara Tantra
@@ -247,6 +321,7 @@ Kraanta 1: Vishnu Kraantaa:
 63. Kaaleevilaasa Tantra
 64. Maaya Tantra
 
+### List 3.2
 Kraanta 2: Ratha Kraantaa:
 
 1. Chinmaya Tantra
@@ -314,6 +389,7 @@ Kraanta 2: Ratha Kraantaa:
 63. Mahaakaalasamhita
 64. Bhootabhairava Tantra
 
+### List 3.3
 Kraanta 3: Ashva Kraantaa:
 
 1. Bhootasuddhi Tantra
@@ -501,14 +577,15 @@ Kulacūḍaamaṇi Tantra (I.4-13) gives us a list of the "sixty-four most excel
 
 These two lists are quite similar, but not identical. Few names are different. Also, remember that the list differs slightly between different manuscripts of the same Tantra.
 
+### List 5.1
 From Kulacūḍaamaṇi Tantra, I.4-13:
 
 - 1. Mahaamaaya
 - 2. Mahaasaarasvata
 - 3. Yoginijaalaśambara
 - 4. Tattvaśambara
-- 5 - 12. Bhairavaaṣṭaka (Eight Tantras dedicated to eight Bhairavas: Asitaaṅga, Ruru, Caṇḍa, Krodha, Unmatta, Kapaalī, Bhīṣaṇa, Saṃhaara)
-- 13 - 20. Bahurūpaaṣṭaka (Eight Tantras of seven Maatrikaas [Braahmi, Maheshvari, Kumaari, Vaishnavī, Varaahi, Indraanī and Caamundaa)] and Śivadūtī)
+- 5 - 12. Bhairavaaṣṭaka (Eight Tantras dedicated to eight Bhairavas: Asitaaṅga, Ruru, Chaṇḍa, Krodha, Unmatta, Kapaalī, Bhīṣaṇa, Saṃhaara)
+- 13 - 20. Bahurūpaaṣṭaka (Eight Tantras of seven Maatrikaas [Braahmi, Maheshvari, Kumaari, Vaishnavī, Varaahi, Indraanī and Chaamundaa] and Śivadūtī)
 - 21 - 28. Yaamalaṣṭaka (Brahmayaamala, Viṣṇuyaamala, Rudrayaamala, Lakṣmīyaamala, Skandayaamala, Gaṇeśayaamala, Grahayaamala, Umaayaamala)
 - 29. Tantrajñaana
 - 30. Vaasuki
@@ -547,6 +624,120 @@ From Kulacūḍaamaṇi Tantra, I.4-13:
 - 63. Mohinīśa
 - 64. Viśuddheśvara
 
+### List 5.2
+Vāmakśvara list corresponds with the above list except for the nine items at numbers 2, 29, 30, 31, 33, 39, 48, 50 and 61. Vāmakeśvara gives the following names in those places - 
+
+So the full list is:
+
+From Vaamakeśvara Tantra I.13-21:
+
+- 1. Mahaamaaya
+- 2. Śambara
+- 3. Yoginijaalaśambara
+- 4. Tattvaśambara
+- 5 - 12. Bhairavaaṣṭaka (Eight Tantras dedicated to eight Bhairavas: Asitaaṅga, Ruru, Chaṇḍa, Krodha, Unmatta, Kapaalī, Bhīṣaṇa, Saṃhaara)
+- 13 - 20. Bahurūpaaṣṭaka (Eight Tantras of seven Maatrikaas [Braahmi, Maheshvari, Kumaari, Vaishnavī, Varaahi, Indraanī and Chaamundaa] and Śivadūtī)
+- 21 - 28. Yaamalaṣṭaka (Brahmayaamala, Viṣṇuyaamala, Rudrayaamala, Lakṣmīyaamala, Skandayaamala, Gaṇeśayaamala, Grahayaamala, Umaayaamala)
+- 29. Mahocchuṣma
+- 30. Vātula
+- 31. Vātulottara
+- 32. Hṛdbheda
+- 33. Tantrabheda
+- 34. Guhya
+- 35. Kaamika
+- 36. Kaalapaada
+- 37. Kaalasaara
+- 38. Kubjikaa
+- 39. Tantrottara
+- 40. Vinaa
+- 41. Troḍala
+- 42. Troḍalattara
+- 43. Pañcaamṛta
+- 44. Rūpabheda
+- 45. Bhūtoḍaamara
+- 46. Kulosaara
+- 47. Kuloḍḍiśa
+- 48. Kulacūḍāmaṇi
+- 49. Sarvajñaattora
+- 50. Mahākālīmata
+- 51. Mahaalakṣmīmata
+- 52. Siddhayogīśvarīmata
+- 53. Kurūpikaamata
+- 54. Devarūpikaamata
+- 55. Sarvavīramata
+- 56. Vimalaamata
+- 57. Pūrvamnaaya, Paścimaamnaaya, Dakṣinaamnaaya and Uttaraamnaaya
+- 58. Niruttara
+- 59. Vaiśeṣika
+- 60. Jñaanarṇva
+- 61. Vīrābalī
+- 62. Aruṇeśa
+- 63. Mohinīśa
+- 64. Viśuddheśvara
+
 ### List 6
 
-https://hinduism.stackexchange.com/questions/56354/what-are-the-principal-saiva-tantras
+
+
+NINETY TWO SAIVA TANTRAS AND AGAMAS
+TANTRAS
+
+(A) EIGHTFOLD CLASSIFICATION OF THE SIXTYFOUR BHAIRAVA TANTRAS
+
+I. Bhairavāştaka
+
+    Svacchanda, 2. Canda, 3. Bhairava, 4. Krodha, 5. Unmattabhairava, 6. Asitānga, 7. Mahocchuşma, 8. Kapālīśa
+
+II. Yamalāştaka
+
+    Brahmayāmala, 2. Visnuyāmala, 3. Svacchanda, 4. Ruru, 5. Ātharvana, 6. Rudra, 7. Vetāla, 8. **
+
+III. Matākhyāstaka
+
+    Rakta, 2. Lampata, 3. Mata, 4. Lakşmi, 5. Calikā, 6. Pingalā, 7. Utphullaka, 8. Viśvādya
+
+IV. Mangalāstaka
+
+    Picubhairavi, 2. Tantrabhairavi, 3. Tatabhairavi, 4. Brāhmikalā, 5. Vijayā, 6. Candrākhyā, 7. Mangala, 8. Sarvamangalā
+
+V. Cakrāstaka
+
+    Mantracakra, 2. Varnacakrn, 3. Sakticakra, 4. Kalacakra, 5. Vinducakra, 6. Nādacakra, 7. Guhyacakra, 8. Khacakra
+
+VI. Bahurūpāstaka
+
+    Andhaka, 2. Rurubheda, 3. Aja, 4. Mūla, 5. Varnabhantha, 6. Vidanga, 7. Javālin, 8. Mātrrodana
+
+VII. Vāgiśāstaka
+
+    Bhairavi, 2. Citrikā, 3. Hamsa, 4. Kadambikā, 5. Hrllekā, 6. Candralekhā, 7. Vidullekhā, 8. Vidumat
+
+VIII. Śikhāstaka
+
+    Bhairavaviśākhā, 2. Vinā, 3. Viņāmaņi, 4. Sammoha, 5. Dāmara, 6. Atharvaka, 7. Kabandha, 8. Siraścheda
+
+    This list is based on the description provided by Jayaratha in his commentary Viveka [TA I.18].
+
+(B) Vāmakeśvara Tantra or Nityāsodasikārņava Tantra (I. 13-20) enumerates the following sixty-four tantra:
+
+1.Mahāmayāśambara or Mahāmāyā Tantra, 2. Yoginijālasambara or Jālasambaratantra, 3-10. Bhairavāstaka (8), 11-18. Bahurupastaka (8), 19-26. Yāmālistaka (8), 27. Candrajñāna, 28. Vāsuki, 29. Mahāsammohana, 30. Mahocchuşma, 31. Mahadeva, 32. Vātula, 33. Vātulottara, 34. Hrdbheda, 35. Mātrbheda, 36. Guhya, 37. Kāmika, 38. Kalāvāda, 39. Kalāsāra, 40. Kubjikā, 41. Matottara, 42. Vāņā, 43. Trotala, 44. Trotalottar, 45-49. Pañcāmrta, 50. Rūpabheda, 51. Bhuta, 52. Dāmara, 53. Kulasārā, 54. Sarvajñānottara, 55. Mahākāli, 56. Mahālakṣmi, 57. Siddhayogiśvari, 58. Kurūpikā, 59. Rūpikāmata, 60. Sarvavira, 61. Vimala, 62. Aruneśa, 63. Mohiniśa, 64. Visuddheśvara
+AGAMAS
+
+(C) TEN DUALIST TANTRA (or Saivagamas)
+
+According to the details provided by Räjänaka Jayaratha:
+
+    Kāmika, 2. Yogaja, 3. Cintya, 4. Mukuta, 5. Anśmān 6. Dīpta, 7. Ajita, 8. Sūksma, 9. Sahasra, 10. Sūprabheda.
+
+According to Kiranāgama:
+
+    Kāmika, 2. Yogaja, 3. Cintya, 4. Kāraņa, 5. Ajita, 6. Dīpta, 7. Sūkşma, 8. Sahastra, 9. Sūprabheda, 10. Anśumat.
+
+(D) EIGHTEEN DUALIST-CUM-NON-DUALIST TANTRA (or Rudragamas)
+
+    Vijaya, 2. Niḥśvāsa, 3. Madagīta (in some places it is prodgīta), 4. Pārameśvara, 5. Mukhabimba, 6. Siddha, 7. Santāna, 8. Nāsimha, 9. Candrānśu, 10. Vīrabbadra, 11. Āgneya, 12. Śambhū, 13. Visara, 14. Raurava, 15. Vimala, 16. Kirana, 17. Lalita, 18. Saumeya.
+
+Kiraṇāgama enumerates as follows:
+
+    Vijaya, 2. Parameśa, 3. Nihśvāsa, 4. Prodgita, 4. Mukhabimba, 5. Siddhamata, 6. Santāna, 7. Nārasimha, 8. Candrahāsa, 9. Bhadra, 10. Svāyambhuva, 11. Virakta, 12. Kauravya, 13. Mukuta, 14. Kirana, 15. Lalita, 16. Āgneya, 17. Para
+
