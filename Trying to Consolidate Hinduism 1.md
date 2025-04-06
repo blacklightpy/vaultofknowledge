@@ -4,11 +4,11 @@
 			- Divisions
 				- **Action Section** [==Karma Kaanda==]
 					- **Collections of Manthras** [==Samhithaaha / Manthra Samhithaaha==]
-					- **Works about Reality** [==Braahmanam==]
+					- **Works about Reality** [==Braahmanaha==]
 				- **Worship Section** [==Upaasana Kaanda==] + **Wisdom Section** [==Jnaana Kaanda==]
-					- **Works from the Forests** [==Aranyakam==]
+					- **Works from the Forests** [==Aranyakaha==]
 				- **Wisdom Section** [==Jnaana Kaanda==]
-					- **Works Close and Down to Earth** [==Upanishadam==]
+					- **Works Close and Down to Earth** [==Upanishadah==]
 			- Fields
 				- **Branches of Transmissions** [==Shaakhas==]
 				- **Disciplines of the Samskrita Books of Knowledge** [==Vedaanga==]
