@@ -90,46 +90,63 @@ Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 ## List 2
 From Saundarya Lahari, commentary by Lakshmidhara (one is missing):
 
-- 1. Maha Maya Shaambara
+- 1. Mahaa Maaya Shambara
 - 2. Yogini Jaala Shambara
-- 3. Tatwa Shaambara or the Vidya with the ability and facility of awakening and revolving among the Tatvas
+- 3. Tattva Shambara or the Vidya with the ability and facility of awakening and revolving among the Tattvas
 - 4 - 11. Bhairava Ashtakas
 	- 4. Siddha Bhairava
 	- 5. Vatuka Bhairava
-	- 6. Kankctla-bhairava
-	- 7. Kalabhairava
-	- 8. Kalagni'bhairava
-	- 9. Yogim-bhairava
-	- 10. Mahabhairavay (11) Sakti-bhaimva —
-	- the eight Tantras having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kapahka doctrines. 
-- 12-19. Bahu Ruupaashtakas
-	- (12) Brahma, (13) Mahes'varit (14) Kauman, (5) Vaisnav (16) Vara (17) Mahendn, (18) Camunda, (19) Stva-dutl—
-	- the -eight Tantra-s constituting the Bahu-rupastaka, wherein importance is attached to the eight Shakti-s. Even these are reprehensible, as they stray far away from the Vedic path, a.lthough they involve some knowledge of the Shri-vidya incidentally,
+	- 6. Kankaatla Bhairava
+	- 7. Kaala Bhairava
+	- 8. Kaalaagni Bhairava
+	- 9. Yogini Bhairava
+	- 10. Maha Bhairava
+	- 11. Sakthi Bhairava
+	- Notes
+	- the eight Tantra-s having as their presiding deities the eight-fold aspects of Bhairava, which, although apparently serving some useful purpose to man, such as the finding of a treasuretrove, etc, are considered objectionable, as they partake of Kaapaalika doctrines. 
+- 12-19. Bahu Roopaashtaka
+	- 12. Brahmi
+	- 13. Maheshvari
+	- 14. Kaumaari
+	- 15. Vaishnavi
+	- 16. Vaaraahi
+	- 17. Maahendri
+	- 18. Chaamunda
+	- 19. Shiva Doothi
+	- Notes
+	- the eight Tantra-s constituting the Bahu Roopashtaka, wherein importance is attached to the eight Shakti-s. Even these are reprehensible, as they stray far away from the Vedic path, although they involve some knowledge of the Shri Vidya incidentally,
 - 20-27. Yamalaashtakaas
-	- (20) Brahma-yamalaf (21) Visnu-yamala, (22) Rudra-yamala, (23) LaksmJ^amalai (24) Mma-yamala, (25) Skanda-yamalat (26) Ganes^a-yamala^ (27) ' Jayadratha-yamala —
-	- the eight arts relating to Yamala, otherwise known as Kamasiddha, aimmg at the gratification of several desires, which, not having the sanction of the Veda*s, are considered objectionable,
-- 28. Cchandra Vigjnaana
-- 29. Maalini Vidya enabling the crossing of Oceans
+	- 20. Brahma Yaamala
+	- 21. Vishnu Yaamala
+	- 22. Rudra Yaamala 
+	- 23. Lakshmi Yaamala
+	- 24. Uma Yaamala
+	- 25. Skanda Yaamala
+	- 26. Ganesha Yaamala
+	- 27. Jayadratha Yaamala —
+	- the eight arts relating to Yaamala, otherwise known as Kaama Siddha, aiming at the gratification of several desires, which, not having the sanction of the Vedas, are considered objectionable, so much so that even the sixty-four Tantra-s are sometimes spoken of collectively as Yaamala.
+- 28. Chandra Vijnaana
+- 29. Maalini Vidya, which enables the crossing of Oceans
 - 30. Maha Sammohana 
 - 31. Vaamajushta
 - 32. Maha Deva
-- 33. Baatula
-- 34. Baatulottara
-- 35. Kamika — incidentally expounding the rules relating to the procedure to be adopted for the several processes connected with the erection of temples, etc, commencing from the withdrawal and ending with the establishment of powers, etc, but involving features not countenanced by the Veda.
+- 33. Vaatula
+- 34. Vaatulottara
+- 35. Kaamika — incidentally expounding the rules relating to the procedure to be adopted for the several processes connected with the erection of temples, etc, commencing from the withdrawal and ending with the establishment of powers, etc, but involving features not countenanced by the Veda.
 - 36. Hridbheda
 - 37. Tantra Bheda
-- 38. Guhya Yaatra
-- 39. Kaamika
-- 40. Kala Vaada
-- 41. Kala Saara
-- 42. Kubjo Maata
-- 43. Tan trottara
-- 44. Beena Tantra
-- 45. Shrotala
-- 46. Shrotalottara
-- 47. Panchaamrita
-- 48. Rupabheda
-- 49. Bhutongkaamara
+- 38. Guhya Tantra
+- 39. Kala Vaada
+- 40. Kala Saara
+- 41. Kundika Maata
+
+- 43. Mathotthara
+- 44. Veenaakhya
+- 45. Throthala
+- 46. Throthalotthara
+- 47. Panchaamritha
+- 48. Roopa Bheda
+- 49. Bhootongkaamara
 - 50. Kulasaara
 - 51. Kulongkeesha
 - 52. Kula Choodaamani
