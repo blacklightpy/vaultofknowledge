@@ -428,7 +428,7 @@ The Vaaraahi Tantra also cites the following texts as Shaaktaagamas :
 
 The 6 damara texts and the 6 yaamala texts have also been cited by the Vaaraahi Tantra. They are:
 
-The 6 damara texts:
+The 6 Yamara texts:
 1. Yogadaamara
 2. Shivadaamara
 3. Durgaadaamara
@@ -436,7 +436,7 @@ The 6 damara texts:
 5. Gandharvadaamara
 6. Brahmadaamara
 
- The 6 yaamala texts:
+ The 6 Yaamala texts:
 1. Aadiyaamala
 2. Brahmayaamala
 3. Vishnuyaamala
@@ -444,17 +444,17 @@ The 6 damara texts:
 5. Ganeshayaamala
 6. Adityayaamala
 
-Outside these 6 yaamalas, there also exists:
+Outside these 6 Taamalas, there also exists:
 1. Umaayaamala
 2. Skandayaamala
-3. Jayadrathayaamala.
+3. Jayadrathayaamala
 
-Some nibandhas like
+Some Nibandhas like:
 1. Shreevidyaarnava Tantra of Vidyaaranya
 2. Shaaradaatilaka Tantra of Lakshmana Deshikendra along with it's various commentaries
-3. Shaaktaanandatarangini & Taaraarahasya of Brahmaananda Giree
+3. Shaaktaanandatarangini & Taaraarahasya of Brahmaananda Giri
 4. Mantramahodadhi of Maheedhara
-5. Brihat Tantrasaara of Krishnaananda Aagamavaagishaa
+5. Brihat Tantrasaara of Krishnaananda Aagamavaagisha
 6. Taaraabhaktisudhaarnava
 7. Taarineekrama
 8. Mahaavidya Prakarana
@@ -465,17 +465,17 @@ Some nibandhas like
 13. Parashuraama Kalpasootra along with the Saubhagyashubhodaya commentary by Raameshvara
 14. Kaalikaabhaktirasaayana
 15. Kaulagajamardana
-16. Tantrasiddhaantakaumudee
+16. Tantrasiddhaantakaumudi
 17. Dakshinaachaaradeepikaa
 18. Mantrachandrikaa
 19. Yantrachandrika of Kaasheenatha Bhatta
-20. alongside the works of Raaghavaananda, Viroopaaksha, Govindabhatta like Raamaarchanachandrikaa
+20. alongside the works of Raaghavaananda, Viroopaaksha, Govindabhatta like Raamaarchanachandrika
 21. Tripuraasaarasamuchchaya
 22. Svachchhandasamgrahasaarasamuchchaya
 23. Bhuvaneshvareepaarijaata
-24. Mantramuktaavalee
+24. Mantramuktaavali
 25. Mantratantraprakaasha
-26. Somabhujangaavalee
+26. Somabhujangaavali
 
 are worth mentionable in this regard.
 
