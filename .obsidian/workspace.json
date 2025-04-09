@@ -323,22 +323,22 @@
             }
           },
           {
-            "id": "d51381137eaedf4d",
+            "id": "6880b2e6286ae626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Add to how I learnsdf.md",
+                "file": "Add to How I Learn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Add to how I learnsdf"
+              "title": "Add to How I Learn"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -391,8 +391,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -524,7 +523,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -544,10 +544,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d51381137eaedf4d",
+  "active": "d4f880a985673fb9",
   "lastOpenFiles": [
-    "Add to how I learnsdf.md",
+    "Add to How I Learn.md",
     "How I find stuff.md",
+    "01. Personal/Daily Notes/Entry of 9th Apr, 2025.md",
+    "Add to how I learnsdf.md",
     "Add to How I Learn",
     "About \"We are Good People\".md",
     "Classical Advaita's take on Avidya.md",
@@ -571,8 +573,6 @@
     "Christianism.md",
     "Meccaism.md",
     "Implication of Caste for Moksha.md",
-    "Timeline of Sages in Hinduism.md",
-    "06. Collected Knowledge/Tantras.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
