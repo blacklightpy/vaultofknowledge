@@ -1,0 +1,1 @@
+Why are Shaiva Tantras called Aagama, and Shaaktha Tantras called Nigama? What is the meaning of some Tantras being Aagama, and others being Nigama?
