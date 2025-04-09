@@ -326,10 +326,15 @@
             "id": "d51381137eaedf4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Add to how I learnsdf.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Add to how I learnsdf"
             }
           }
         ],
@@ -541,6 +546,7 @@
   },
   "active": "d51381137eaedf4d",
   "lastOpenFiles": [
+    "Add to how I learnsdf.md",
     "How I find stuff.md",
     "Add to How I Learn",
     "About \"We are Good People\".md",
