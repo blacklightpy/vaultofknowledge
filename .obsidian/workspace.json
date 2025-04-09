@@ -371,10 +371,15 @@
             "id": "47c4a401ba1a7642",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Can a Soul be Cut.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Can a Soul be Cut"
             }
           }
         ],
@@ -410,7 +415,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agama ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -585,8 +590,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "47c4a401ba1a7642",
   "lastOpenFiles": [
+    "Can a Soul be Cut.md",
     "Question about Tantras.md",
     "Trying to Consolidate Hinduism 1.md",
     "Add to How I Learn.md",
@@ -613,7 +619,6 @@
     "My thoughts on Jesus.md",
     "Is the World with Meaning.md",
     "The Absurdity of Denying Mistakes in Scripture.md",
-    "Christianism.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
