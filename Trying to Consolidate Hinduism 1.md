@@ -862,7 +862,7 @@ Sources: 1) Vasishta Dharma Soothra 27.6, 2) Vyaasa Smrithi 1.4, 3) Padma Puraan
 
 ---
 
-Dvaita says Bimba (Brahman) and Pratibimba (Jiva) are eternally different.
+Dvaita says Bimba (Brahman) and Prathibimba (Jiva) are eternally different.
 Advaita says the Upaadhi (medium) is Avidya, and when the Upaadhi is destroyed one unites with Brahman.
 But Dvaita says that when the Upaadhi is destroyed, Jeeva becomes extinct.
 

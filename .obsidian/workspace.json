@@ -323,6 +323,21 @@
             }
           },
           {
+            "id": "ced8df4fafd1ef4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trying to Consolidate Hinduism 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Trying to Consolidate Hinduism 1"
+            }
+          },
+          {
             "id": "6880b2e6286ae626",
             "type": "leaf",
             "state": {
@@ -338,7 +353,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -370,7 +385,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crystal",
+                "query": "prathibimb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -391,7 +406,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -544,10 +560,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f880a985673fb9",
+  "active": "ced8df4fafd1ef4a",
   "lastOpenFiles": [
-    "Add to How I Learn.md",
+    "Idealism.md",
+    "Trying to Consolidate Hinduism 1.md",
     "How I find stuff.md",
+    "Add to How I Learn.md",
     "01. Personal/Daily Notes/Entry of 9th Apr, 2025.md",
     "Add to how I learnsdf.md",
     "Add to How I Learn",
@@ -563,7 +581,6 @@
     "Homonymic Samskritha Words.md",
     "06. Collected Knowledge/List of Upanishads.md",
     "The Will of Jyothish.md",
-    "Trying to Consolidate Hinduism 1.md",
     "01. Personal/Daily Notes/Entry of 6th Apr, 2025.md",
     "Malayalam Words for Mathematical Concepts.md",
     "Don't Worry About The Future.md",
@@ -572,7 +589,6 @@
     "The Absurdity of Denying Mistakes in Scripture.md",
     "Christianism.md",
     "Meccaism.md",
-    "Implication of Caste for Moksha.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
