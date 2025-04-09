@@ -321,9 +321,19 @@
               "icon": "lucide-file",
               "title": "How I find stuff"
             }
+          },
+          {
+            "id": "d51381137eaedf4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -509,8 +519,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -530,9 +539,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f880a985673fb9",
+  "active": "d51381137eaedf4d",
   "lastOpenFiles": [
     "How I find stuff.md",
+    "Add to How I Learn",
     "About \"We are Good People\".md",
     "Classical Advaita's take on Avidya.md",
     "Counter Argument for Who Created God.md",
@@ -557,7 +567,6 @@
     "Implication of Caste for Moksha.md",
     "Timeline of Sages in Hinduism.md",
     "06. Collected Knowledge/Tantras.md",
-    "Paths in Hinduism.md",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
     "08. External Resources/Saved Articles",
