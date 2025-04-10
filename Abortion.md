@@ -1,6 +1,9 @@
+# In Christianity
+
+Abortion is wrong as the soul enters upon quickening, a theory formed in the 20th century.
 # In Hindu-ism
 
-## Shruthi
+## Shruthi (Says it's all the same)
 
 **Bhagavad Geetha, Chapter 18:**
 
@@ -10,7 +13,9 @@ Says: Every action is faulty, and it is better to perform faulty actions by one'
 > 
 > 48] O son of Kunti, trivial(natural) Karma should never be given up, even though [it is] faulty; All initiations [of Karma] are faulty, like how smoke covers the fire.
 
-## Smrithi
+## Smrithi (Most them say it's an unforgivable sin, but some have ways out)
+
+### Condemnations
 
 **Vishnu Puraana Book 2, Chapter 6:**
 
@@ -83,20 +88,25 @@ Says: Every action is faulty, and it is better to perform faulty actions by one'
 > **BORI CE Translation:**
 > If a person kills a foetus, he is purified if he is slain through a weapon in the midst of a battle. Or one must offer oneself as kindling into a blazing fire and thereby purify oneself.
 
-**Srimad Devi Bhagavatham / Devi Bhagavatha Purana, Book 11, Chapter 19:**
-
-> In this way if the Gâyatrî be repeated one thousand times, the sins arising from killing a cow, father, mother, from causing abortions, going to the wife of one’s Guru, stealing a Brâhmana’s property, a Brâhman’s field, drinking wine, etc., all are destroyed.
-
-**Mahabharatha, Parva 1 (Adi Parva), Section 1:**
-
-> Sins such as killing the embryo in the womb, are destroyed assuredly by this (reciting the Mahabharatha, since it is great, as mentioned in verses 1-3).
+### Neutral
 
 **Valmiki Ramayana, Book 5 (Sundara Kanda), Chapter 28 (Seetha Recollects the Time Limit):**
 
 > nūnaṃ mamāṅgānyacirādanāryaḥ| śastraiḥ śitai śchetsyati rākṣasendraḥ| tasminnanāgacchati lokanāthe| garbhasthajantoriva śalyakṛntaḥ || 6 |
 > 
 > 6] If Rama the Ruler of the world does not come here, the evil Ravana, the king of Demons will cut off my limbs with his sharpened weapons, even as a surgeon would cut the limbs of a lifeless foetus.
-## People
+### Solutions
+
+**Mahabharatha, Parva 1 (Adi Parva), Section 1:**
+
+> Sins such as killing the embryo in the womb, are destroyed assuredly by this (reciting the Mahabharatha, since it is great, as mentioned in verses 1-3).
+
+**Srimad Devi Bhagavatham / Devi Bhagavatha Purana, Book 11, Chapter 19:**
+
+> In this way if the Gâyatrî be repeated one thousand times, the sins arising from killing a cow, father, mother, from causing abortions, going to the wife of one’s Guru, stealing a Brâhmana’s property, a Brâhman’s field, drinking wine, etc., all are destroyed.
+## People's Opinions
+
+### Condemnations (And my Opinions)
 
 **Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):**
 
@@ -104,10 +114,12 @@ Says: Every action is faulty, and it is better to perform faulty actions by one'
 
 My criticism: He has said that no one should question anyone's faith because it hurts their feelings and it cannot be repaired. I call it bullshit. It is naive and naivety is dangerous. Likewise, here too, he speaks on the basis of feelings.
 
-**Osho:**
+**Osho Rajneesh:**
 
 [[Osho on Abortion]]. He nailed this part haha.
 
 **Prabhupada, in Hare Krishna Explosion by Hayagriva Das, Chapter 3:**
 
 > Abortion, birth control: “They are killing the baby in the womb. How cruel! In this age of unwanted population, man is losing his compassion. When you kill a living entity, even an ant, you are interfering with its spiritual evolution, its progress. That living entity must again take on that same life form to complete its designated life term in that body. And the killer must return to pay for damages.…
+
+My criticism: See [[Problems with ISKCON and its founder Prabhupada]]. To not to simply be ad-hominem, he totally misrepresents the nuances of the topic anyways. Abortion doesn't exist because people want to kill kids for fun. Also, the theory of Karma, I do not follow it. See [[Osho on Stupidities of the Karma-Rebirth Theory]].

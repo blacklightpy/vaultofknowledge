@@ -49,7 +49,6 @@ I disagree. Bonobos are homosexual. Clownfishes change gender.
 > 
 > But this is not just about one priest I am saying this: all the priests have to do it! We are forcing them to do it. We respect their celibacy, and that respect is a bribe to remain celibate. And their biology does not know about your respectability; their biology has its own laws and it follows its own laws.
 > 
-> 
 
 
 Fundamental difference between the right and the left.
@@ -80,6 +79,6 @@ Far leftists are usually artistically inclined, and lack the scientific rigour o
 
 The most moderate of the leftists are called liberals. They are of two categories. There are those who believe that, like the right, some principles define co-existence, and unless they are met, there is no co-existence. Then there is the other category whoever performs the most violence is wrong. In my view, the latter are less informed. Some among the first are communists (not socialists, i.e. not authoritarians), and others are capitalists. The ones that are capitalists are called libertarians or anarcho-capitalists. The communists are called anarcho-communists. The other first category tend to be "social democrats".
 
-Between the moderate left and the far left lies the Marxist spectrum. Marxists believe that history is explained through the ways in which people learn to distribute wealth. The wild is anarchic, but as man had intellect, he chose to control property. This began with the change from primitive communism, to slave society, to feudalism (a few own all the resources) to capitalism, and he proposed this will turn into socialism (state owns all the property) and then back to the more educated communism. Vladimir Lenin was the one who first tried to implement this with the October Revolution, and he believed that until communism happens, there should be a dictatorship of the Communist Party.
+Between the moderate left and the far left lies the Marxist spectrum. Marxists believe that history is explained through the ways in which people learn to distribute wealth. The wild is anarchic, but as man had intellect, he chose to control property. This began with the change from primitive communism, to slave society, to feudalism (a few own all the resources) to capitalism, and he proposed this will turn into socialism (state owns all the property) and then back to the more educated communism. Vladimir Lenin was the one who first tried to implement this next stage of socialism with the October Revolution, and he believed that until communism happens, there should be a dictatorship of the Communist Party.
 
 Aurora Aksnes is a far leftist (anarchist). I'm an anarcho-communist, but I realize hierarchy is important, as polity is not possible when people are not all equally educated. So I prefer an aristocracy (not oligarchy) as a safe layer to protect the structure of the anarcho-communist polity.
