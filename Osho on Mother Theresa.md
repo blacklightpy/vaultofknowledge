@@ -102,6 +102,8 @@ This talks about topics like:
 2. Anti-Abortion being an example of that (also quoted in [[Osho on Abortion]]).
 3. A Protestant family being denied adoption of the orphan they chose because they were Protestant while Mother Theresa raised them Catholic, despite the orphan being Hindu by birth.
 
+> The politician uses the same strategy. The politicians and the priests have always been in deep conspiracy. They have divided man: the politician rules the outside, and the priest rules the inside; the politician the exterior and the priest the interior. They are joined in a deep conspiracy against humanity. They may not even be aware of what they are doing – I don’t suspect their intentions, they may be absolutely unconscious.
+> 
 >  Just the other day I received a letter from Mother Teresa. I have no intention of saying anything against her sincerity; whatsoever she wrote in the letter is sincere, but it is unconscious. She is not aware of what she is writing; it is mechanical, it is robot-like. She says, "I have just received a cutting of your speech. I feel very sorry for you that you could speak as you did. Reference: the Nobel Prize. For the adjectives you add to my name I forgive you with great love."
 > 
 > She is feeling very sorry for me... I enjoyed the letter! She has not even understood the adjectives that I have used about her. But she is not aware, otherwise she would have felt sorry for herself.

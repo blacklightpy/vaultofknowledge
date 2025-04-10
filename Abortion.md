@@ -53,3 +53,7 @@ My criticism: He has said that no one should question anyone's faith because it 
 **Osho:**
 
 [[Osho on Abortion]]. He nailed this part haha.
+
+**Prabhupada, in Hare Krishna Explosion by Hayagriva Das, Chapter 3:**
+
+> Abortion, birth control: “They are killing the baby in the womb. How cruel! In this age of unwanted population, man is losing his compassion. When you kill a living entity, even an ant, you are interfering with its spiritual evolution, its progress. That living entity must again take on that same life form to complete its designated life term in that body. And the killer must return to pay for damages.…
