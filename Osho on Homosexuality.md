@@ -68,13 +68,13 @@ Fundamental difference between the right and the left.
 
 Left:
 
-- Anarchy is the natural state.
+- Anarchy (no authority) is the natural state.
 - And it is peace.
 - Setting rigid conditions that disturbs this peace causes war.
 
 Right:
 
-- Anarchy is the natural state.
+- Anarchy (no authority) is the natural state. (Exception: Islam, thinks law is the natural state)
 - And it is chaos.
 - When certain rigid conditions are met, it leads to peace.
 
@@ -88,8 +88,8 @@ I'm on the position of the moderate left, while also being someone having spirit
 
 **More on Left:**
 
-Far leftists are usually artistically inclined, and lack the scientific rigour of moderate left (and accuse them of being right wingers), or the moral assertiveness of the right. Since even the wild world has principles, and we cannot live safely among tigers, their views never work out in the modern civilization. They are loud and lack discernment, and support Islamists thinking since they seem less rigid, they are better than the West. But little do they know Islam is a strategic religion where they stay silent like a wolf and pounce on you when the opportunity arrives. There are two mindsets when they support Islam. One is fooled by their rhetoric and thinks that they are a religion that emphasizes love, and believes ISIS is Mossad and 9/11 was by the Jews. In my view, they (Muslims) emphasize love, but only in-so-far as you cry as you read the Qur'aan. They love their family, so much that they kill those who leave this "family". The other, knows Islam is bad, but does not know how bad in detail, and foolishly thinks that the Western Christian nationalists can only be countered using Islamists, instead of fighting on their own. I view this as cowardice, in addition to it being grounded on foolishness, because if the Islamists take over, they will lose all they had. Though there are dangerous theocrats in the West, the distribution of problematic people is very less among Christians as compared to Muslims.
+Far leftists are usually artistically inclined, and lack the scientific rigour of moderate left (and accuse them of being right wingers), or the moral assertiveness of the right. Since even the wild world has principles, and we cannot live safely among tigers, their views never work out in the modern civilization. They are loud and lack discernment, and support Islamists thinking since they seem less rigid, they are better than the West. But little do they know Islam is a strategic religion where they stay silent like a wolf and pounce on you when the opportunity arrives. There are two mindsets when they support Islam. One is fooled by their rhetoric and thinks that they are a religion that emphasizes love, and believes ISIS is Mossad and 9/11 was by the Jews. In my view, they (Muslims) emphasize love, but only in-so-far as you cry as you read the Qur'aan. They love their family, so much that they kill those who leave this "family". The other, knows Islam is bad, but does not know how bad in detail, and foolishly thinks that the Western Christian nationalists can only be countered using Islamists, instead of fighting on their own. I view this as cowardice, in addition to it being grounded on foolishness, because if the Islamists take over, they will lose all they had. Though there are dangerous theocrats in the West, the distribution of problematic people is very less among Christians as compared to Muslims. The far left are 
 
-The most moderate of the leftists are called liberals. They are of two categories. There are those who believe that, like the right, some principles define co-existence, and unless they are met, there is no co-existence. Then there is the other category whoever performs the most violence is wrong. In my view, the latter are less informed. Some among the first are communists (not socialists, i.e. not authoritarians), and others are capitalists. The ones that are capitalists are called libertarians. The communists, and the other leftists are called left-liberals.
+The most moderate of the leftists are called liberals. They are of two categories. There are those who believe that, like the right, some principles define co-existence, and unless they are met, there is no co-existence. Then there is the other category whoever performs the most violence is wrong. In my view, the latter are less informed. Some among the first are communists (not socialists, i.e. not authoritarians), and others are capitalists. The ones that are capitalists are called libertarians or anarcho-capitalists. The communists, and the other leftists are called anarcho-communists.
 
-Aurora Aksnes is a far leftist. I'm a left-liberal.
+Aurora Aksnes is a far leftist (anarchist). I'm an anarcho-communist.
