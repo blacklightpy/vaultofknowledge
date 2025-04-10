@@ -1,7 +1,7 @@
 
 **The Last Testament, Vol. I, Chapter 27 (War Is Meaningless):**
 
-(After [[Osho on Abortion]])
+After [[Osho on Abortion]].
 
 > **Interviewer:** The earlier pope?
 > 

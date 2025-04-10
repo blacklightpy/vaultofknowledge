@@ -19,3 +19,4 @@ After [[Osho on Homosexuality]].
 > If you teach people for thousands of years that it is your bad actions in past lives which create poverty, you are stopping them from revolting, you are stopping them from doing something to change their situation. You are telling them, “Just accept the situation in which you are.” And that’s how the East has accepted, and remained poor.
 > 
 > And still you want that I should not speak against these people – Buddha, Mahavira? I have to speak. To me these are far bigger criminals than Adolf Hitler and Benito Mussolini, because those people have done very little harm. Adolf Hitler killed six million Jews, but how many poor people has Mahavira killed? And living in poverty is far more dangerous, is far more of a suffering, than dying in a beautifully, scientifically-managed gas chamber in Germany. Within seconds you are smoke – holy smoke! – rather than suffering for millions of years.
+
