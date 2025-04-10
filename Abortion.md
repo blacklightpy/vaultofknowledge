@@ -55,9 +55,13 @@ In Hinduism:
 
 > 8] (These are) stealing (gold), crimes whereby one becomes an Abhisasta, homicide, neglect of the Vedas, causing abortion, incestuous connection with relations born from the same womb as one's mother or father, and with the offspring of such persons, drinking spirituous liquor, and intercourse with persons the intercourse with whom is forbidden.
 
-**Mahabharatha by KM Ganguli, Udyoga Parva, Section 35:**
+**Mahabharatha, Udyoga Parva, Section 35:**
 
+> **KM Ganguli Translation:**
 > One that setteth fire to a dwelling house, an administerer of poison, a pander, a vendor of the Soma-juice, a maker of arrows, an astrologer, one that injureth friends, an adulterer, one that causeth abortion, a violater of his preceptor's bed, a Brahmana addicted to drink, one that is sharp-speeched, a raker of old sores, an atheist, a reviler of the Vedas, and taker of bribes, one whose investiture with the sacred thread has been delayed beyond the prescribed age, one that secretly slayeth cattle, and one that slayeth him who prayeth for protection,--these all are reckoned as equal in moral turpitude as the slayers of Brahmanas.
+> 
+> **BORI CE:**
+> An arsonist, a poisoner, a pimp, a seller of soma, one who makes arrows, a soothsayer, one who injures friends, one who consorts with another’s wife, an abortionist, one who violates his preceptor’s bed, a brahmana who drinks liquor, one who is unnecessarily harsh in use of words, a base person, an atheist, one who criticizes the Vedas, a bribe-taker, an outcast, one who is niggardly despite possessing riches and one who injures when asked for protection—these are the equals of those of who kill brahmanas.
 
 **Mahabharatha by KM Ganguli, Shanthi Parva, Section 65:**
 
