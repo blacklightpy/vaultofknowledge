@@ -12,6 +12,3 @@ That is, what the mind intuits is meaningful, and that's not just because everyt
 
 That is why when you identify something, you feel good. It is not just because that's evolutionary good, because people who are ascetic or less inclined to activities that are reproductionarily or evolutionarily beneficiary still have these qualities. Well, they are evolutionarily benefeciary in the mental sense, not of the material world. That is because the goalless material world has no will to govern itself towards evolution.
 
----
-
-

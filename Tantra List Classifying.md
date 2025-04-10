@@ -10,9 +10,10 @@ Black magic is about exploiting someone's weaknesses, since in Tantric philosoph
 
 Aagamas are used in temples for construction. Most Kerala temples are based on some Aagamas.
 
-See more: https://wiki.phalkefactory.net/index.php?title=Tantra
-https://en.wikipedia.org/wiki/Hindu_tantric_literature
-https://dharmawiki.org/index.php/Tantra_(%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (Has notes on Shaiva Aagamas and Shaiva Siddhaantha and Kashmir Shaivism)
+See more:
+- https://wiki.phalkefactory.net/index.php?title=Tantra
+- https://en.wikipedia.org/wiki/Hindu_tantric_literature
+- https://dharmawiki.org/index.php/Tantra_(%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (Has notes on Shaiva Aagamas, Shaiva Siddhaantha and Kashmir Shaivism)
 
 https://www.celextel.org/articles-and-summary/tantra-mother-worship/ (lot of ideas, including [[Saamaanya Varna]]).
 ## Intro

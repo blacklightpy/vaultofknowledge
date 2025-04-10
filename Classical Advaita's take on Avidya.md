@@ -21,11 +21,13 @@ i.e. the mind is only a pattern, yet it is perceiving, but its perception is lim
 
 **That clears that analogy up!** I thought the flower was something other than the "mind" itself. I totally missed it when others said it, and kept looking for some other cause for the world.
 
+(This is not a ChatGPT answer, though I bolded some stuff)
+
 ---
 
 ### Inside a Spherical Mirror
 
-The action lab had a video. When the object is at the center, the mirror shows a dark space. When the object is off center, we get multiple reflections. Cool.
+The Action Lab had a video. When the object is at the center, the mirror shows a dark space. When the object is off center, we get multiple reflections. Cool.
 
 Another video showed how we can pass through our own reflections.
 
