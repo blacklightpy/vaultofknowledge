@@ -26,9 +26,12 @@ This is sort of like combining two words to form something that is beyond the tw
 
 - Word (Vaakya)
 - Meaning of a Word (Vaachya / Shakhya)
+- Indirect Meaning of a Word (Lakshya)
 - Association between a word and its meaning (Vritthi)
-
+- Association between the Direct Meaning and Indirect Meaning (Lakshya)
 ## 1.1. Types of associations of words and their meanings
+
+They are of 4 types:
 
 - Association of Words and their Direct Meanings (Shakthi Vritthi)
 - Association of Words and their Indirect Meanings (Lakshana Vritthi)
@@ -46,15 +49,37 @@ This is sort of like combining two words to form something that is beyond the tw
 - Vyangya Vritthi: Suggestive or Evocative association in poetry ("water" in "feel the water, in her body")
 	- It's an Aurora song lyric. "Water" feels like "tranquility".
 
-### 1.1.1. Types of associations of words and their direct meanings
+### 1.1.1. Association of words and their direct meanings (Shakthi Vritthi)
 
-- Association of a word with its direct meaning which is based on its constituents
-- Association of a word with its direct meaning when the word has no constituents
-- Association of a word with its direct meaning which is not based on its constituents
+This is called Shakthi Vritthi.
 
-#### 1.1.1.1. Types o
-	- Yoga Shakthi Vritthi: Meaning is derived by the component ("riverbank" is "river" + "bank")
-	- Roodhi Shakthi Vritthi: Meaning is not based on components (the meaning of "house" is not the sum of any words, even in etymology / it stands on its own)
-	- Yoga Roodhi Shakthi Vritthi: Meaning is not the sum of its components ("greenhouse" is not "green" + "house", but refers to a house that grows plants)
-### 1.1.2. Types of associations of words and their indirect meanings
+e.g. "river" meaning "river"
 
+They are of 3 types:
+
+- Association of a word with its direct meaning which is based on its constituents (Yoga Shakthi Vritthi)
+- Association of a word with its direct meaning when the word has no constituents (Roodhi Shakthi Vritthi)
+- Association of a word with its direct meaning which is not based on its constituents (Yoga Roodhi Shakthi Vritthi)
+#### 1.1.1.1. Association of a word with its direct meaning which is based on its constituents (Yoga Shakthi Vritthi)
+
+This is called Yoga Shakthi Vritthi.
+
+e.g. "Riverbank" is "river" + "bank".
+#### 1.1.1.2. Association of a word with its direct meaning when the word has no constituents (Roodhi Shakthi Vritthi)
+
+This is called Roodhi Shakthi Vritthi.
+
+e.g. "House" is not comprised of any constituents, even etymologically.
+#### 1.1.1.3. Association of a word with its direct meaning which is not based on its constituents (Yoga Roodhi Shakthi Vritthi)
+
+This is called Yoga Roodhi Shakthi Vritthi.
+
+e.g. "Greenhouse" is not "green" + "house", but refers to a house that grows plants.
+### 1.1.2. Associations of words and their indirect meanings (Lakshana Vritthi)
+
+### 1.1.3. Associations of words and their metaphorical meanings (Guna Vritthi)
+
+### 1.1.4. Associations of words and their suggestive or evocative meanings as used in poetry (Vyangya Vritthi)
+
+Suggestive or Evocative association in poetry ("water" in "feel the water, in her body")
+	- It's an Aurora song lyric. "Water" feels like "tranquility".
