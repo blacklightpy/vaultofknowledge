@@ -24,4 +24,13 @@ Parashara Smrithi Chapter 9:
 > 
 > (i.e. killing a complete unborn calf is twice as sinful as killing a born cow).
 
+Gautama Dharma Sutra, Chapter 12:
+
+> 4] To be an outcast means to be deprived of the right to follow the lawful occupations of twice-born men.
+> 
+> 9] A woman becomes an outcast by procuring abortion, by connection with a (man of) lower (caste) and (the like heinous crimes, like killing a Brahmana or serving a slayer of a Brahmana).
+
+Manu Smrithi, Chapter 5:
+
+> 90] To women who have joined a heretical sect, who through lust live (with many men), who have caused an abortion, have killed their husbands, or drink spirituous liquor.
 
