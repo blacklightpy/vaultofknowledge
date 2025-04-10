@@ -4,6 +4,19 @@ In Hinduism:
 
 # Sources Personally Checked.
 
+## Shruthi
+
+
+
+**Bhagavad Geetha, Chapter 18:**
+
+> 47] Faulty Swa-Dharma (self tendency) is better than well performed Para-Dharma (other's tendency); Naturally prescribed performance of Karma never achieves sinful reactions.
+> 
+> 48] O son of Kunti, trivial(natural) Karma should never be given up, even though [it is] faulty; All initiations [of Karma] are faulty, like how smoke covers the fire.
+
+BG 18.47 — 
+
+
 ## Smrithi
 
 **Vishnu Puraana Book 2, Chapter 6:**
@@ -57,29 +70,39 @@ In Hinduism:
 
 > 8] (These are) stealing (gold), crimes whereby one becomes an Abhisasta, homicide, neglect of the Vedas, causing abortion, incestuous connection with relations born from the same womb as one's mother or father, and with the offspring of such persons, drinking spirituous liquor, and intercourse with persons the intercourse with whom is forbidden.
 
-**Mahabharatha, Udyoga Parva, Section 35:**
+**Mahabharatha, Parva 5 (Udyoga Parva), Section 35:**
 
+> Vidura said:
+> 
 > **KM Ganguli Translation:**
 > One that setteth fire to a dwelling house, an administerer of poison, a pander, a vendor of the Soma-juice, a maker of arrows, an astrologer, one that injureth friends, an adulterer, one that causeth abortion, a violater of his preceptor's bed, a Brahmana addicted to drink, one that is sharp-speeched, a raker of old sores, an atheist, a reviler of the Vedas, and taker of bribes, one whose investiture with the sacred thread has been delayed beyond the prescribed age, one that secretly slayeth cattle, and one that slayeth him who prayeth for protection,--these all are reckoned as equal in moral turpitude as the slayers of Brahmanas.
 > 
-> **BORI CE:**
+> **BORI CE Translation:**
 > An arsonist, a poisoner, a pimp, a seller of Soma, one who makes arrows, a soothsayer, one who injures friends, one who consorts with another’s wife, an abortionist, one who violates his preceptor’s bed, a Brahmana who drinks liquor, one who is unnecessarily harsh in use of words, a base person, an atheist, one who criticizes the Vedas, a bribe-taker, an outcast, one who is niggardly despite possessing riches and one who injures when asked for protection—these are the equals of those of who kill Brahmanas.
 
-**Mahabharatha by KM Ganguli, Shanthi Parva, Section 65:**
+**Mahabharatha, Parva 12 (Shanthi Parva), Section 65:**
 
+> Bhishma said:
+> 
 > **KM Ganguli Translation:**
 > One guilty of foeticide becomes cleansed if he dies of wounds received in battle fought for the sake of kine and Brahmanas. He may also be cleansed by casting his person on a blazing fire.
 > 
-> **BORI CE:**
+> **BORI CE Translation:**
 > If a person kills a foetus, he is purified if he is slain through a weapon in the midst of a battle. Or one must offer oneself as kindling into a blazing fire and thereby purify oneself.
 
 **Srimad Devi Bhagavatham / Devi Bhagavatha Purana, Book 11, Chapter 19:**
 
 > In this way if the Gâyatrî be repeated one thousand times, the sins arising from killing a cow, father, mother, from causing abortions, going to the wife of one’s Guru, stealing a Brâhmana’s property, a Brâhman’s field, drinking wine, etc., all are destroyed.
 
+**Mahabharatha, Parva 1 (Adi Parva), Section 1:**
 
+> Sins such as killing the embryo in the womb, are destroyed assuredly by this (reciting the Mahabharatha, since it is great, as mentioned in verses 1-3).
 
+**Valmiki Ramayana, Book 5 (Sundara Kanda), Chapter 28 (Seetha Recollects the Time Limit):**
 
+> nūnaṃ mamāṅgānyacirādanāryaḥ| śastraiḥ śitai śchetsyati rākṣasendraḥ| tasminnanāgacchati lokanāthe| garbhasthajantoriva śalyakṛntaḥ || 6 |
+> 
+> 6] If Rama the Ruler of the world does not come here, the evil Ravana, the king of Demons will cut off my limbs with his sharpened weapons, even as a surgeon would cut the limbs of a lifeless foetus.
 ## People
 
 **Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):**
