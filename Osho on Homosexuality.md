@@ -68,8 +68,22 @@ Fundamental difference between the right and the left.
 
 Left:
 
-Anarchy is the natural state. And it is peace. Certain conditions that disturb this peace causes war.
+- Anarchy is the natural state.
+- And it is peace.
+- Setting conditions that disturbs this peace causes war.
 
 Right:
 
-Anarchy or chaos is the natural state. When certain conditions are met, it causes peace.
+- Anarchy is the natural state.
+- And it is chaos.
+- When certain conditions are met, it leads to peace.
+
+Theists say God has commanded them to follow XYZ laws.
+Atheists say "Common Sense", defined as the sense of the majority and tradition defines these laws.
+
+On the other hand, the far-left believes in anarchism.
+The moderate left believes that people have believed numerous foolish things and have caused large scale wars and exploitation, so one must define what's right purely based on scientific evidence. This leads to materialism.
+
+I'm on the position of the moderate left, while also being someone having spiritual knowledge. I believe materialism can only lead to peace when defined under the framework of non-dualistic spirituality.
+
+Far leftists are usually artistically inclined, and lack the scientific rigour of moderate left, or the moral assertiveness of the right. Since even the wild world has principles, and we cannot live safel
