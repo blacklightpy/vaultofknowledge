@@ -70,13 +70,13 @@ Left:
 
 - Anarchy is the natural state.
 - And it is peace.
-- Setting conditions that disturbs this peace causes war.
+- Setting rigid conditions that disturbs this peace causes war.
 
 Right:
 
 - Anarchy is the natural state.
 - And it is chaos.
-- When certain conditions are met, it leads to peace.
+- When certain rigid conditions are met, it leads to peace.
 
 Theists say God has commanded them to follow XYZ laws.
 Atheists say "Common Sense", defined as the sense of the majority and tradition defines these laws.
@@ -86,4 +86,10 @@ The moderate left believes that people have believed numerous foolish things and
 
 I'm on the position of the moderate left, while also being someone having spiritual knowledge. I believe materialism can only lead to peace when defined under the framework of non-dualistic spirituality.
 
-Far leftists are usually artistically inclined, and lack the scientific rigour of moderate left, or the moral assertiveness of the right. Since even the wild world has principles, and we cannot live safel
+**More on Left:**
+
+Far leftists are usually artistically inclined, and lack the scientific rigour of moderate left (and accuse them of being right wingers), or the moral assertiveness of the right. Since even the wild world has principles, and we cannot live safely among tigers, their views never work out in the modern civilization.
+
+They are loud and lack discernment, and support Islamists thinking since they seem less rigid, they are better than the West. But little do they know Islam is a strategic religion where they stay silent like a wolf and pounce on you when the opportunity arrives. There are two mindsets when they support Islam. One is fooled by their rhetoric and thinks that they are a religion that emphasizes love, and believes ISIS is Mossad and 9/11 was by them. In my view, they emphasize love, but only in-so-far as you cry as you read the Qur'aan. They love their family, so much that they kill those who leave this "family". The other, knows Islam is bad, but foolishly think that the Western theocratic regime can only be countered using Islamists, instead of fighting on their own. I view this as cowardice, in addition to it being grounded on foolishness, because if the Islamists take over, the
+
+The most moderate of the leftists are called liberals. They are of two categories. There are those who believe that, like the right, some principles define co-existence, and unless they are met, there is no co-existence. Then there is the other category who thinks all violence is 
