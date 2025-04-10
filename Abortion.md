@@ -38,6 +38,8 @@ In Hinduism:
 
 **Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 95 (Duties of Householders):**
 
+>  Yaanjavalkya said:
+>  
 >  20] She, who wilfully brings; about an abortion, except for the purposes of purifying herself after having committed an act of adultery, commits the sin of killing her own husband born in her womb in the shape of the fœtus. Polluted is the person of such a murderess.
 
 **Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 105 (Prayaschitta):**
@@ -61,11 +63,23 @@ In Hinduism:
 > One that setteth fire to a dwelling house, an administerer of poison, a pander, a vendor of the Soma-juice, a maker of arrows, an astrologer, one that injureth friends, an adulterer, one that causeth abortion, a violater of his preceptor's bed, a Brahmana addicted to drink, one that is sharp-speeched, a raker of old sores, an atheist, a reviler of the Vedas, and taker of bribes, one whose investiture with the sacred thread has been delayed beyond the prescribed age, one that secretly slayeth cattle, and one that slayeth him who prayeth for protection,--these all are reckoned as equal in moral turpitude as the slayers of Brahmanas.
 > 
 > **BORI CE:**
-> An arsonist, a poisoner, a pimp, a seller of soma, one who makes arrows, a soothsayer, one who injures friends, one who consorts with another’s wife, an abortionist, one who violates his preceptor’s bed, a brahmana who drinks liquor, one who is unnecessarily harsh in use of words, a base person, an atheist, one who criticizes the Vedas, a bribe-taker, an outcast, one who is niggardly despite possessing riches and one who injures when asked for protection—these are the equals of those of who kill brahmanas.
+> An arsonist, a poisoner, a pimp, a seller of Soma, one who makes arrows, a soothsayer, one who injures friends, one who consorts with another’s wife, an abortionist, one who violates his preceptor’s bed, a Brahmana who drinks liquor, one who is unnecessarily harsh in use of words, a base person, an atheist, one who criticizes the Vedas, a bribe-taker, an outcast, one who is niggardly despite possessing riches and one who injures when asked for protection—these are the equals of those of who kill Brahmanas.
 
 **Mahabharatha by KM Ganguli, Shanthi Parva, Section 65:**
 
+> **KM Ganguli Translation:**
 > One guilty of foeticide becomes cleansed if he dies of wounds received in battle fought for the sake of kine and Brahmanas. He may also be cleansed by casting his person on a blazing fire.
+> 
+> **BORI CE:**
+> If a person kills a foetus, he is purified if he is slain through a weapon in the midst of a battle. Or one must offer oneself as kindling into a blazing fire and thereby purify oneself.
+
+**Srimad Devi Bhagavatham / Devi Bhagavatha Purana, Book 11, Chapter 19:**
+
+> In this way if the Gâyatrî be repeated one thousand times, the sins arising from killing a cow, father, mother, from causing abortions, going to the wife of one’s Guru, stealing a Brâhmana’s property, a Brâhman’s field, drinking wine, etc., all are destroyed.
+
+
+
+
 ## People
 
 **Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):**
