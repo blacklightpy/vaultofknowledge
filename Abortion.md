@@ -43,7 +43,9 @@ In Hinduism:
 > **Another translation without basis:**
 > 48] Willful abortion and hatred of the husband are great sins in women without any expiation.
 
->  She, who wilfully brings; about an abortion, except for the purposes of purifying herself after having committed an act of adultery, commits the sin of killing her own husband born in her womb in the shape of the fœtus. Polluted is the person of such a murderess.
+**Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 95 (Duties of Householders):**
+
+>  20] She, who wilfully brings; about an abortion, except for the purposes of purifying herself after having committed an act of adultery, commits the sin of killing her own husband born in her womb in the shape of the fœtus. Polluted is the person of such a murderess.
 
 **Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):**
 
