@@ -10,7 +10,7 @@ In Hinduism:
 
 **Parashara Smrithi Chapter 4:**
 
-> 20] What sin is incurred in killing a Brahman, abortion causes a sin twice as great ; there is no atonement for that sin. The abandonment of such a woman has been ordained by law.
+> 20] What sin is incurred in killing a Brahman, abortion causes a sin twice as great; there is no atonement for that sin. The abandonment of such a woman has been ordained by law.
 
 **Parashara Smrithi Chapter 9:**
 
@@ -43,6 +43,7 @@ In Hinduism:
 > **Another translation without basis:**
 > 48] Willful abortion and hatred of the husband are great sins in women without any expiation.
 
+>  She, who wilfully brings; about an abortion, except for the purposes of purifying herself after having committed an act of adultery, commits the sin of killing her own husband born in her womb in the shape of the fœtus. Polluted is the person of such a murderess.
 
 **Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):**
 
