@@ -6,16 +6,13 @@ In Hinduism:
 
 ## Shruthi
 
-
-
 **Bhagavad Geetha, Chapter 18:**
+
+Says: Every action is faulty, and it is better to perform faulty actions by one's own opinion than by someone else's opinion.
 
 > 47] Faulty Swa-Dharma (self tendency) is better than well performed Para-Dharma (other's tendency); Naturally prescribed performance of Karma never achieves sinful reactions.
 > 
 > 48] O son of Kunti, trivial(natural) Karma should never be given up, even though [it is] faulty; All initiations [of Karma] are faulty, like how smoke covers the fire.
-
-BG 18.47 — 
-
 
 ## Smrithi
 
