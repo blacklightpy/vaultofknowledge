@@ -36,6 +36,11 @@ Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 105 (Prayaschitta):
 
 > Yaanjavalkya said:
 > 
+> 23] The sin which is incidental to bringing about the abortion of a pregnant woman, may be expiated by doing a penance which is laid down in respect of an act of destroying a fœtus or a child of the same caste.
+> 
+> 48] Wilful miscarriage of a foetus, and speaking ill of her husband, are the acts which degrade a woman, whose very presence should be shunned from a distance.
+> 
+> **Another translation without basis:**
 > 48] Willful abortion and hatred of the husband are great sins in women without any expiation.
 
-> Wilful miscarriage of a foetus, and speaking ill of her husband, are the acts which degrade a woman, whose very presence should be shunned from a distance.
+
