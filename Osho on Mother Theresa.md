@@ -1,5 +1,10 @@
 **Zen: Zest, Zip, Zap and Zing, Chapter 13 (Godliness: An Experience of Immediate Joy):**
 
+Talks about topics like:
+1. Poverty is not being solved because they are interested in using it for religious growth.
+2. Anti-Abortion being an example of that (also quoted in [[Osho on Abortion]]).
+3. A Protestant family being denied adoption of the orphan they chose because they were Protestant while Mother Theresa raised them Catholic, despite the orphan being Hindu by birth.
+
 >  Just the other day I received a letter from Mother Teresa. I have no intention of saying anything against her sincerity; whatsoever she wrote in the letter is sincere, but it is unconscious. She is not aware of what she is writing; it is mechanical, it is robot-like. She says, "I have just received a cutting of your speech. I feel very sorry for you that you could speak as you did. Reference: the Nobel Prize. For the adjectives you add to my name I forgive you with great love."
 > 
 > She is feeling very sorry for me... I enjoyed the letter! She has not even understood the adjectives that I have used about her. But she is not aware, otherwise she would have felt sorry for herself.
@@ -171,3 +176,4 @@
 > I have been calling her Mother Teresa, but I think I should stop calling her Mother Teresa because I am not very gentlemanly but I have to respond adequately. She calls me Dear Mr Rajneesh, so from now onwards I will call her Dear Miss Teresa - just to be gentlemanly, mannerly!
 > 
 > The ego can come in from the back door. Alfred, don't try to throw it out. 
+
