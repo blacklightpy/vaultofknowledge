@@ -18,10 +18,13 @@ This is sort of like combining two words to form something that is beyond the tw
 				- Yoga Roodhi Shakthi Vritthi: Meaning is not the sum of its components ("greenhouse" is not "green" + "house", but refers to a house that grows plants)
 		- Lakshana Vritthi: Indirect Meaning ("river" in "house is on the river" meaning "river bank")
 			- "river" also means "river bank" in this context.
+			- Lakshana Vritthi is only applied when Shakthi Vritthi cannot be applied.
 			- **Types**
 				- Jahat Lakshana Vritthi: Indirect Meaning does not contain the Direct Meaning at all (when "river" means "riverbank", it does not mean "river" at all, only the "bank")
 				- Ajahat Lakshana Vritthi: Indirect Meaning does contain Direct Meaning too (in "all hands on the deck", "hands" implies "bodies", which includes "hands" too)
-				- Bhaaga-Thyaaga Lakshana Vritthi: Indirect Meaning contains one aspect of the Direct Meaning, but omits another aspect of it (in "the snake is just a rope", "snake" implies the existent nature of "snake", but not the )
+				- Bhaaga-Thyaaga Lakshana Vritthi: Indirect Meaning contains one aspect of the Direct Meaning, but omits another aspect of it (in "the snake is just a rope", "snake" implies the existent nature of "snake", but not the "animal" nature of the "snake")
+					- Unlike Jahat Lakshana Vritthi and Ajahat Lakshana Vritthi, the Direct Meaning and the Indirect Meaning is always of the same kind. The Direct Meaning is an entity with an attribute, and the Indirect Meaning is a substantive entity.
+					- This attribute-substantive relationship is called Aashrayatva-Sambandha.
 		- Guna Vritthi: Metaphorical Meaning ("lion" meaning "fierce" in "the man is a lion")
 			- "lion" never means "fierce", it is a metaphor alone.
 		- Vyangya Vritthi: Suggestive or Evocative association in poetry ("water" in "feel the water, in her body")
@@ -69,11 +72,27 @@ e.g. "Greenhouse" is not "green" + "house", but refers to a house that grows pla
 
 e.g. "river" in "house is on the river" meaning "river bank" (the word "river" also means "river bank")
 
+Lakshana Vritthi is only used when Shakthi Vritthi does not work.
+
 They are of 3 types:
 
-- A
-- B
-- C
+- Association of a word and its indirect meaning such that the indirect meaning does not contain the direct meaning at all (Jahat Lakshana Vritthi)
+- Association of a word and its indirect meaning such that the indirect meaning contains the direct meaning (Ajahat Lakshana Vritthi)
+- Association of a word and its indirect meaning such that the indirect meaning contains one aspect of the direct meaning, and omits another aspect of it (Bhaaga Thyaaga Lakshana Vritthi)
+
+#### 1.1.2.1. Association of a word and its indirect meaning such that the indirect meaning does not contain the direct meaning at all (Jahat Lakshana Vritthi)
+
+e.g. when "river" means "riverbank", it does not mean "river" at all, only the "bank"
+
+#### 1.1.2.2. Association of a word and its indirect meaning such that the indirect meaning contains the direct meaning (Ajahat Lakshana Vritthi)
+
+e.g. in "all hands on the deck", "hands" implies "bodies", which includes "hands" too
+
+#### 1.1.2.3. Association of a word and its indirect meaning such that the indirect meaning contains one aspect of the direct meaning, and omits another aspect of it (Bhaaga Thyaaga Lakshana Vritthi)
+
+e.g. in "the snake is just a rope", "snake" implies the existent nature of "snake", but not the "animal" nature of the "snake"
+
+Unlike Jahat Lakshana Vritthi and Ajahat Lakshana Vritthi, the Direct Meaning and the Indirect Meaning is always of the same kind. The Direct Meaning is an entity with an attribute, and the Indirect Meaning is a substantive entity. This attribute-substantive relationship is called Aashrayatva-Sambandha.
 ### 1.1.3. Associations of words and their metaphorical meanings (Guna Vritthi)
 
 e.g. "lion" meaning "fierce" in "the man is a lion" ("lion" never means "fierce", it is a metaphor alone)
