@@ -61,41 +61,49 @@ Further he goes on to say homosexuality is immoral. I'll address it in a separat
 
 **The Last Testament, Vol. II, Chapter 33 (To Be Enlightened Is To Know Myself):**
 
-**Interviewer:** I've heard you have little respect for people like the pope, Mother Teresa, Mahatma Gandhi and a host of others. Is there anyone that you can name?  
+> **Interviewer:** I've heard you have little respect for people like the pope, Mother Teresa, Mahatma Gandhi and a host of others. Is there anyone that you can name?  
+> 
+> **Osho:** No.
+> 
+> **Interviewer:** I just wanted to get it straight.
+> 
+> **Osho:** I don't look up to anybody and I don't want anybody else to look up to me.  
+> 
+> **Interviewer:** So it's one plain.
+> 
+> **Osho:** It is just one horizontal existence, no vertical hierarchy. And you said that, "You have very little respect." That is wrong. I don't have any respect, not even very little. I have very great disrespect, because these people are criminals. And their crimes are far bigger than the people you go on hanging or giving them electric chairs. These people are real criminals.
+> 
+> For example, Mother Teresa. You reward this woman with Nobel Prize. Universities go on giving her D.Litts. Countries go on pouring on... awards on her. And what she is doing? All she is doing is collecting orphans and converting them into Catholicism.
+> 
+> One of the men went to Mother Teresa's one of the centers in Calcutta. The secretary asked, "What do you want?" He said, "I want to adopt one child." 
+> 
+> Seeing that he is a white man, must be a Christian, she said, "We have seven hundred orphans. You can choose any. But first fill this form."
+> 
+> In that form he had to fill his religion, and he filled Protestant Christianity. And the girl said, "You just wait. I will have to ask Mother Teresa about it."
+> 
+> And back came Mother Teresa herself and said, "We are sorry, we don't have any orphans here. When we have, we will inform you. Just leave your address."
+> 
+> Just a minute before, there were seven hundred, but because he is not a Catholic....
+> 
+> He wrote letters to the newspapers. According to his letter, I criticized Mother Teresa in a public meeting. She wrote a letter to me that, "The real reason is that the children who are brought up in a certain atmosphere -- religious, psychological -- they should be given to a family where they are not misfits. That's why we had refused."
+> 
+> I asked her that, "All these children have come from either Hindu, Mohammedan or other Indian religions. None of them has come from Catholic religion. On what grounds you are teaching them Catholicism? You should teach a Hindu child Hinduism and give it to a Hindu family if you are sincere and honest."
+> 
+> And in her letter she has written also that, "For you I will pray to God that he forgives you."
+> 
+> So I said, "About the second statement, you have to take your words back. Otherwise I will sue you in the court. I don't believe in any God in the first place. And who are you to pray on my behalf? I have not given you my attorney authority. And what I have done that God has to forgive me?
+> 
+> "In fact, if he meets, he has to ask me to be forgiven, because it is he who has created this world ugly. It is he who has created Adolf Hitler, who killed ten million people, Josef Stalin, Benito Mussolini. He has to give explanations why these people were created by him, if he is the creator.
+> 
+> "I have not done anything wrong. Just to question you, is it a crime? And your answer is just bogus."
+> 
+> And these people go on teaching in a poor country like India against birth control methods, against the pill, against abortion, for the simple reason because if there is abortion, if there is birth control, if the pill is available freely to poor people, from where Mother Teresa is going to have more orphans? The supply of orphans is needed urgently for more Catholics.
+> 
+> That's why I call this woman is a criminal. And anybody who is teaching around the world -- and she is one of them -- celibacy is teaching homosexuality or lesbianism, and the ultimate result is AIDS. And these are the people responsible for it.
+> 
+> Nobody can be celibate scientifically. And I am simply amazed. There are millions of scientists around the world, doctors around the world, and nobody says clearly that celibacy is impossible. Because it is part of your biology, and biology is not in the control of your mind. It is not that when you want to perspire you can, or you can decide that, "I take the vow that I will not perspire any more." It is not within your mind. Your body has its own program, which is absolutely determined from your birth.
+> 
+> So all your celibate saints are simply hypocrites. There has been no celibate ever, and there cannot be any celibate in future. So the ultimate result of talking celibacy and teaching that it is something holy, sacred, causes homosexuality, sodomy, masturbation, nocturnal emissions and thousands of perversions.
+> 
+> Even Mahatma Gandhi at the age of seventy was suffering from nocturnal emissions. And you are teaching a young boy fourteen years of age that, "You have to be celibate" when he is full of sexual energy. Near about eighteen the boy comes to his peak of sexual energy. He can have from three to five love affairs in the night. But after forty-two even one is enough. And after fifty-two, once in a week.
 
-**Osho:** No.
-
-**Interviewer:** I just wanted to get it straight.
-
-**Osho:** I don't look up to anybody and I don't want anybody else to look up to me.  
-
-**Interviewer:** So it's one plain.
-
-**Osho:** It is just one horizontal existence, no vertical hierarchy. And you said that, "You have very little respect." That is wrong. I don't have any respect, not even very little. I have very great disrespect, because these people are criminals. And their crimes are far bigger than the people you go on hanging or giving them electric chairs. These people are real criminals.
-
-For example, Mother Teresa. You reward this woman with Nobel Prize. Universities go on giving her D.Litts. Countries go on pouring on... awards on her. And what she is doing? All she is doing is collecting orphans and converting them into Catholicism.
-
-One of the men went to Mother Teresa's one of the centers in Calcutta. The secretary asked, "What do you want?" He said, "I want to adopt one child."  
-Seeing that he is a white man, must be a Christian, she said, "We have seven hundred orphans. You can choose any. But first fill this form."  
-In that form he had to fill his religion, and he filled Protestant Christianity. And the girl said, "You just wait. I will have to ask Mother Teresa about it."  
-And back came Mother Teresa herself and said, "We are sorry, we don't have any orphans here. When we have, we will inform you. Just leave your address."
-
-Just a minute before, there were seven hundred, but because he is not a Catholic....  
-He wrote letters to the newspapers. According to his letter, I criticized Mother Teresa in a public meeting. She wrote a letter to me that, "The real reason is that the children who are brought up in a certain atmosphere -- religious, psychological -- they should be given to a family where they are not misfits. That's why we had refused."
-
-I asked her that, "All these children have come from either Hindu, Mohammedan or other Indian religions. None of them has come from Catholic religion. On what grounds you are teaching them Catholicism? You should teach a Hindu child Hinduism and give it to a Hindu family if you are sincere and honest."  
-And in her letter she has written also that, "For you I will pray to God that he forgives you."  
-So I said, "About the second statement, you have to take your words back. Otherwise I will sue you in the court. I don't believe in any God in the first place. And who are you to pray on my behalf? I have not given you my attorney authority. And what I have done that God has to forgive me?
-
-"In fact, if he meets, he has to ask me to be forgiven, because it is he who has created this world ugly. It is he who has created Adolf Hitler, who killed ten million people, Josef Stalin, Benito Mussolini. He has to give explanations why these people were created by him, if he is the creator.  
-"I have not done anything wrong. Just to question you, is it a crime? And your answer is just bogus."
-
-And these people go on teaching in a poor country like India against birth control methods, against the pill, against abortion, for the simple reason because if there is abortion, if there is birth control, if the pill is available freely to poor people, from where Mother Teresa is going to have more orphans? The supply of orphans is needed urgently for more Catholics.
-
-That's why I call this woman is a criminal. And anybody who is teaching around the world -- and she is one of them -- celibacy is teaching homosexuality or lesbianism, and the ultimate result is AIDS. And these are the people responsible for it.
-
-Nobody can be celibate scientifically. And I am simply amazed. There are millions of scientists around the world, doctors around the world, and nobody says clearly that celibacy is impossible. Because it is part of your biology, and biology is not in the control of your mind. It is not that when you want to perspire you can, or you can decide that, "I take the vow that I will not perspire any more." It is not within your mind. Your body has its own program, which is absolutely determined from your birth.
-
-So all your celibate saints are simply hypocrites. There has been no celibate ever, and there cannot be any celibate in future. So the ultimate result of talking celibacy and teaching that it is something holy, sacred, causes homosexuality, sodomy, masturbation, nocturnal emissions and thousands of perversions.
-
-Even Mahatma Gandhi at the age of seventy was suffering from nocturnal emissions. And you are teaching a young boy fourteen years of age that, "You have to be celibate" when he is full of sexual energy. Near about eighteen the boy comes to his peak of sexual energy. He can have from three to five love affairs in the night. But after forty-two even one is enough. And after fifty-two, once in a week.
