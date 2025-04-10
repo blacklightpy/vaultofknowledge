@@ -10,7 +10,7 @@ This is sort of like combining two words to form something that is beyond the tw
 - Vaachya / Shakhya: Meaning of a word
 - Lakshya: Indirect Meaning of a word
 - Vritthi: Association between a word and its meaning.
-	- Types
+	- **Types**
 		- Shakthi Vritthi: Direct Meaning ("river" meaning "river")
 			- **Types**
 				- Yoga Shakthi Vritthi: Meaning is derived by the component ("riverbank" is "river" + "bank")
@@ -18,8 +18,10 @@ This is sort of like combining two words to form something that is beyond the tw
 				- Yoga Roodhi Shakthi Vritthi: Meaning is not the sum of its components ("greenhouse" is not "green" + "house", but refers to a house that grows plants)
 		- Lakshana Vritthi: Indirect Meaning ("river" in "house is on the river" meaning "river bank")
 			- "river" also means "river bank" in this context.
-			- Types
-				- 
+			- **Types**
+				- Jahat Lakshana Vritthi: 
+				- Ajahat Lakshana Vritthi: 
+				- Bhaaga-Thyaaga Lakshana Vritthi: 
 		- Guna Vritthi: Metaphorical Meaning ("lion" meaning "fierce" in "the man is a lion")
 			- "lion" never means "fierce", it is a metaphor alone.
 		- Vyangya Vritthi: Suggestive or Evocative association in poetry ("water" in "feel the water, in her body")
