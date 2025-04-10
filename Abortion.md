@@ -2,6 +2,10 @@ In Hinduism:
 
 - https://hinduism.stackexchange.com/questions/15904/what-is-hinduisms-view-on-abortion (Says sin, but analyze sources)
 
+# Sources Personally Checked.
+
+## Smrithi
+
 **Vishnu Puraana Book 2, Chapter 6:**
 
 > Parashara said:
@@ -32,6 +36,10 @@ In Hinduism:
 > 
 > 90] To women who have joined a heretical sect, who through lust live (with many men), who have caused an abortion, have killed their husbands, or drink spirituous liquor.
 
+**Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 95 (Duties of Householders):**
+
+>  20] She, who wilfully brings; about an abortion, except for the purposes of purifying herself after having committed an act of adultery, commits the sin of killing her own husband born in her womb in the shape of the fœtus. Polluted is the person of such a murderess.
+
 **Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 105 (Prayaschitta):**
 
 > Yaanjavalkya said:
@@ -43,9 +51,18 @@ In Hinduism:
 > **Another translation without basis:**
 > 48] Willful abortion and hatred of the husband are great sins in women without any expiation.
 
-**Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 95 (Duties of Householders):**
+**Apasthambha Dharma Shaasthra, Prashna I, Patala 7, Khanda 21.**
 
->  20] She, who wilfully brings; about an abortion, except for the purposes of purifying herself after having committed an act of adultery, commits the sin of killing her own husband born in her womb in the shape of the fœtus. Polluted is the person of such a murderess.
+> 8] (These are) stealing (gold), crimes whereby one becomes an Abhisasta, homicide, neglect of the Vedas, causing abortion, incestuous connection with relations born from the same womb as one's mother or father, and with the offspring of such persons, drinking spirituous liquor, and intercourse with persons the intercourse with whom is forbidden.
+
+**Mahabharatha by KM Ganguli, Udyoga Parva, Section 35:**
+
+> One that setteth fire to a dwelling house, an administerer of poison, a pander, a vendor of the Soma-juice, a maker of arrows, an astrologer, one that injureth friends, an adulterer, one that causeth abortion, a violater of his preceptor's bed, a Brahmana addicted to drink, one that is sharp-speeched, a raker of old sores, an atheist, a reviler of the Vedas, and taker of bribes, one whose investiture with the sacred thread has been delayed beyond the prescribed age, one that secretly slayeth cattle, and one that slayeth him who prayeth for protection,--these all are reckoned as equal in moral turpitude as the slayers of Brahmanas.
+
+**Mahabharatha by KM Ganguli, Shanthi Parva, Section 65:**
+
+> One guilty of foeticide becomes cleansed if he dies of wounds received in battle fought for the sake of kine and Brahmanas. He may also be cleansed by casting his person on a blazing fire.
+## People
 
 **Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):**
 
