@@ -44,3 +44,6 @@ Garuda Puraana Book 1 (Agasthya Samhitha), Chapter 105 (Prayaschitta):
 > 48] Willful abortion and hatred of the husband are great sins in women without any expiation.
 
 
+Sathya Sai Baba on Journey to God: Part II, Page 88 (Referenced from Page 1, Section "Abortion" of A Compendium of the Teachings of Sri Sathya Sai Baba):
+
+> When asked the question, “When does the soul enter the body?”, Swami replied, “The soul enters the body on or after the fifth month.” When asked about abortion after the fifth month, He answered: “No abortion!”. When asked about abortion before the fifth month, Swami said, “No! No! Even before - abortion is bad... Mind control... Use mind control."
