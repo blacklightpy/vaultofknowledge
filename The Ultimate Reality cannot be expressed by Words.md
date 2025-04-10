@@ -19,9 +19,9 @@ This is sort of like combining two words to form something that is beyond the tw
 		- Lakshana Vritthi: Indirect Meaning ("river" in "house is on the river" meaning "river bank")
 			- "river" also means "river bank" in this context.
 			- **Types**
-				- Jahat Lakshana Vritthi: 
-				- Ajahat Lakshana Vritthi: 
-				- Bhaaga-Thyaaga Lakshana Vritthi: 
+				- Jahat Lakshana Vritthi: Indirect Meaning does not contain the Direct Meaning at all (when "river" means "riverbank", it does not mean "river" at all, only the "bank")
+				- Ajahat Lakshana Vritthi: Indirect Meaning does contain Direct Meaning too (in "all hands on the deck", "hands" implies "bodies", which includes "hands" too)
+				- Bhaaga-Thyaaga Lakshana Vritthi: Indirect Meaning contains one aspect of the Direct Meaning, but omits another aspect of it (in "the snake is just a rope", "snake" implies the existent nature of "snake", but not the )
 		- Guna Vritthi: Metaphorical Meaning ("lion" meaning "fierce" in "the man is a lion")
 			- "lion" never means "fierce", it is a metaphor alone.
 		- Vyangya Vritthi: Suggestive or Evocative association in poetry ("water" in "feel the water, in her body")
