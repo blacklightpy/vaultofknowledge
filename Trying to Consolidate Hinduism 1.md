@@ -1,6 +1,6 @@
 - **Scriptures**
 	- **Heard (Eternal Wisdom)** [==Shruthi==]
-		- **Sought Knowledge (Revelation)** [==Nigama==] / **Samskrita Books of Knowledge** [==Vedaaha:==]
+		- **Sought Knowledge (Revelation)** [==Nigama==] / **Samskrita Books of Knowledge** [==Vedaha==]
 			- Divisions
 				- **Action Section** [==Karma Kaanda==]
 					- **Collections of Manthras** [==Samhithaaha / Manthra Samhithaaha==]
