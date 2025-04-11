@@ -306,9 +306,39 @@
               "icon": "lucide-file",
               "title": "The Ultimate Reality cannot be expressed by Words"
             }
+          },
+          {
+            "id": "feaf3dd99ef8d95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vyavahaarika Sathya.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vyavahaarika Sathya"
+            }
+          },
+          {
+            "id": "cf4c6b5fb0a4c456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Master List of Words in Saṃskṛtam"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -361,8 +391,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -515,10 +544,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ad36f3f9df5a5cb",
+  "active": "cf4c6b5fb0a4c456",
   "lastOpenFiles": [
-    "Trying to find the reference for a verse.md",
+    "Vyavahaarika Sathya.md",
+    "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
+    "08. External Resources/Dictionaries/Saṃskṛtam",
+    "08. External Resources/Dictionaries",
     "The Ultimate Reality cannot be expressed by Words.md",
+    "Trying to find the reference for a verse.md",
     "Osho on Homosexuality.md",
     "01. Personal/Daily Notes/Entry of 10th Apr, 2025.md",
     "Question about Tantras.md",
@@ -541,8 +574,6 @@
     "Crazy Penances in Hinduism.md",
     "Osho on Mother Theresa.md",
     "Prabhupada on NASA.md",
-    "Osho on Stupidities of the Karma-Rebirth Theory.md",
-    "Can a Soul be Cut.md",
     "Add to How I Learn",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
@@ -554,8 +585,6 @@
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
     "03. Culture/Life Forms",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Marine Engineering",
     "_images/Hindu Sampradaayas.jpg",
     "_images/adfsdfads.jpg",
     "_images/Water Splash Sample Image.jpg",
