@@ -1,7 +1,21 @@
 Only include words that aren't separate notes here. For example, [[Upanishads]] have a separate note, but Śiva doesn't.
 
 ### IAST Words
+- Vēdaḥ
+- Ṛ́c
+- Ṛg
+- Mantra
+- Nigama
+- Agama
+- Tantra
 - Brahman
+- Ṛtaṃ
+- Dharmam
+- Sat
+- Satya
+- Asat
+- Asatya
+- Mithya
 
 - Śiva
 - Viṣṇu
@@ -19,24 +33,32 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Mīmāṃsā
 - Vedānta
 - Advaita
+- Bheda
+- Abheda
+- Dvaita
+- Svābhāvika
+- Akṣara
+- Puruṣottama
 - Viśiṣṭā
+- Śuddha
+- Acintya
 
-    Bhedabheda, as early as the 7th century CE,[54] or even the 4th century CE.[62]
-        Dvaitādvaita or Svabhavikabhedabheda (Vaishnava), founded by Nimbarka and Srinivasacharya in the 7th century CE[63][64]
-    Advaita (monistic), many scholars of which most prominent are Gaudapada (~500 CE)[65] and Adi Shankaracharya (8th century CE)[66]
-    Vishishtadvaita (Vaishnava), prominent scholars are Nathamuni, Yāmuna and Ramanuja (1017–1137 CE)
-        Akshar-Purushottam Darshan, based on the teachings of Swaminarayan (1781-1830 CE) and rooted in Ramanuja's Vishishtadvaita;[h] propagated most notably by BAPS[67][68][69][70]
-    Tattvavada (Dvaita) (Vaishnava), founded by Madhvacharya (1199–1278 CE). The prominent scholars are Jayatirtha (1345-1388 CE), and Vyasatirtha (1460–1539 CE)
-    Suddhadvaita (Vaishnava), founded by Vallabha (1479–1531 CE)
-    Achintya Bheda Abheda (Vaishnava), founded by Chaitanya Mahaprabhu (1486–1534 CE),[71] propagated by Gaudiya Vaishnava
+- Tattva
+- Puruṣa
+- Prakṛti 
+- Guṇa
+- Sattva
+- Rajas
+- Tamas
 
+- Pramāna
 - Pratyakṣa
 - Anumāṇa
 - Upamāṇa
 - Arthāpatti
 - Anupalabdi
 - Śabda
-
+- Jīva
 
 - Prasthāna
 - Trayī
@@ -45,6 +67,7 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - 
 
 - Īśvara
+- Upāsanā
 - Mūrti
 - Pūjā
 
