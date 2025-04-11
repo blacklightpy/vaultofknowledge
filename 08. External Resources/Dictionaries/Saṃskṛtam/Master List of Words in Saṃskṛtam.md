@@ -25,6 +25,7 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Eeshvara
 - Upaasana
 - Upanishad
+- Samhitha
 - Brahmana
 - Aranyaka
 - Poorva
@@ -40,7 +41,9 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Shreemad
 - Bhaagavatha
 - Devi
-
-
-
-ā, Ā, ī, Ī, ū, Ū, ḥ, Ḥ, ṁ, Ṁ, ṭ, Ṭ, ḍ, Ḍ, ṇ, Ṇ, ś, Ś, r̥, R̥, l̥, L̥ -
+- Jnaana
+- Karma
+- Kaanda
+- Manthra
+- Thanthra
+- Shree

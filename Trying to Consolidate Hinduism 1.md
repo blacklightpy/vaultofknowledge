@@ -22,7 +22,7 @@
 			- **Techniques** [==Tantra:==]
 			- **Devices** [==Yantra:==]
 			- **Worship** [==Upaasana==]
-			- **Transmission of Traditions** [==Diksha==]
+			- **Transmission of Traditions** [==Deeksha==]
 			- **Temple and House Construction** [==Vaasthu Shaasthra==]
 			- **Idol Construction** [==Shilpa Shaasthra==]
 		- **The Song of God (from The Great Bhaarat)** [==Bhagavad Geeta, from Mahaabhaarata==]
@@ -47,10 +47,10 @@
 			- **Study of Goals** [==Artha Shaasthra==]
 			- **Study of Dance** [==Naatya Shaasthra==]
 		- **Supplementary Works (to the Samskrita Books of Knowledge)** [==Parishishta:==]
-				- **Supplementary Collections** [==Parishishta Samhitha:==]
-				- **Supplementary Works about Reality** [==Parishishta Braahmana:==]
-				- **Supplementary Works from the Forests** [==Parishishta Aranyaka:==]
-				- **Supplementary Close and Down to Earth Works** [==Parishishta Upanishad:==]
+			- **Supplementary Collections** [==Parishishta Samhitha:==]
+			- **Supplementary Works about Reality** [==Parishishta Braahmana:==]
+			- **Supplementary Works from the Forests** [==Parishishta Aranyaka:==]
+			- **Supplementary Close and Down to Earth Works** [==Parishishta Upanishad:==]
 		- **Minor Books of Knowledge (associated with the Samskritha Books of Knowledge)** [==Upaveda==]
 			- **Arrow-related Knowledge** [==Dhanurveda==]
 			- **Architectural Knowledge** [==Shataapthyaveda==]
@@ -106,23 +106,23 @@
 
 - Mythology (part of Smrithi)
 	- Creator
-	- Lokas
-	- Devas / Devis (Gods)
-	- Devatas (gods)
-		- Vana Devatas
-		- Apsaras
-		- Gandharvas
-	- Asuras
-	- Yakshas (nature spirits)
-	- Rakshasas (Demons)
+	- Loka-s
+	- Deva-s / Devi-s (Gods)
+	- Devatha-s (gods)
+		- Vana Devatha-s
+		- Apsara-s
+		- Gandharva-s
+	- Asura-s
+	- Yaksha-s (nature spirits)
+	- Rakshasa-s (Demons)
 
 - Ontology (part of Schools of Thought)
-	- Principles of Nature (Tattvas)
+	- Principles of Nature (Tattva-s)
 		- Saankhya Darshana
 			- 23 Principles (Conscious Souls Experience the World)
 		- Advaita Darshana
 			- 36 Principles (Consciousness forms the Personal God that forms the World)
-	- Arguments and Counter Arguments (Vaada Prati-Vaada) (Tharka Shaasthra)
+	- Arguments and Counter Arguments (Vaada Prathi-Vaada) (Tharka Shaasthra)
 	- Subtle Elements
 	- Gross Elements
 	- Qualities
@@ -168,7 +168,7 @@
 	- Cyclic Existence
 	- Liberation
 
-Shuddhadvaita: World is real, and all is one
+Shuddha Advaita: World is real, and all is one
 Advaita: World is unreal (like a dream), and all is one
 Vishishta Advaita: World is transformed
 Dvaita Advaita (Svaabhaavika Bhedha-Abhedha): World exists in both states
