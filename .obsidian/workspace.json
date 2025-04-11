@@ -306,54 +306,9 @@
               "icon": "lucide-file",
               "title": "The Ultimate Reality cannot be expressed by Words"
             }
-          },
-          {
-            "id": "feaf3dd99ef8d95a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vyavahaarika Sathya.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vyavahaarika Sathya"
-            }
-          },
-          {
-            "id": "cf4c6b5fb0a4c456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Master List of Words in Saṃskṛtam"
-            }
-          },
-          {
-            "id": "181d87d78ed5d280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Trying to Consolidate Hinduism 1"
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -385,7 +340,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visnu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -406,8 +361,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -560,15 +514,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "4ad36f3f9df5a5cb",
   "lastOpenFiles": [
+    "Vyavahaarika Sathya.md",
+    "The Ultimate Reality cannot be expressed by Words.md",
     "Trying to Consolidate Hinduism 1.md",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
-    "Vyavahaarika Sathya.md",
     "Writings on Theology 1 - Advaita.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
     "08. External Resources/Dictionaries",
-    "The Ultimate Reality cannot be expressed by Words.md",
     "Trying to find the reference for a verse.md",
     "Osho on Homosexuality.md",
     "01. Personal/Daily Notes/Entry of 10th Apr, 2025.md",

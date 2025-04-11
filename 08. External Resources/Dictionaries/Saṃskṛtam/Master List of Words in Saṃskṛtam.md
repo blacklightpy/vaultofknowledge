@@ -1,9 +1,15 @@
 Only include words that aren't separate notes here. For example, [[Upanishads]] have a separate note, but Śiva doesn't.
 
+(Should I even develop this page, or will it be bloat?)
 ### IAST Words
-- Vēdaḥ
-- Ṛ́c
-- Ṛg
+- Vēda / Vēdaḥ
+- Ṛ́c / Ṛ́ca
+- Sūktas
+- Mandalas
+- Śākhā
+- Śruti
+- Smṛti
+
 - Mantra
 - Nigama
 - Agama
@@ -16,6 +22,9 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Asat
 - Asatya
 - Mithya
+- Śāstra
+- Artha
+- 
 
 - Śiva
 - Viṣṇu
