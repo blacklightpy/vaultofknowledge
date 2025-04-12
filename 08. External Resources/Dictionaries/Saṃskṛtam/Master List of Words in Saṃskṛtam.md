@@ -1,3 +1,5 @@
+Now one ought to know, the word Sanskrit itself is actually written as Saṃskṛtam (read Samskritham).
+
 Only include words that aren't separate notes here. For example, [[Upanishads]] have a separate note, but Śiva doesn't.
 
 (Should I even develop this page, or will it be bloat?)

@@ -431,6 +431,13 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - Communism and Cleanliness / Repurposing
 	- Navy Seal Advice
 
+- Coherence Theory
+	- This is the basal principle on which this system is built
+	- Basically, it posits that if a system of belief is consistent with all the propositions made by itself, then it is a valid perspective to hold
+- Soft Rationalism
+	- It is the form of rationalism that acknowledges the limitations of logic, and therefore only refuses to hold arguments that are irrational.
+	- That is, it does not mind holding arguments that are not rational, unless they are proven to be irrational.
+
 #rough (My dad asked me to study Oman road symbols hehe)
 - All Signs
 	- Order Signs: 2
