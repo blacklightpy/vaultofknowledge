@@ -23,12 +23,12 @@
 	- Getting Kicked Out
 - Events at Medina
 	- Battles Mohammed started
-		- Battle of Badr [Mohammed won against Quraysh]
-		- Battle of Uhud [Mohammed lost against Quraysh]
+		- Battle of Badr <span style="color:lightblue">[Mohammed won against Quraysh]</span>
+		- Battle of Uhud <span style="color:lightblue">[Mohammed lost against Quraysh]</span>
 		- Exile of Banu Qaynuqa
 		- Exile of Banu Nadir
-		- Battle of Trench [Mohammed won against Quraysh]
-		- Genocide of Banu Qurayzah [For allying with Banu Quraysh; by a false interpretation of Halakha]
+		- Battle of Trench <span style="color:lightblue">[Mohammed won against Quraysh]</span>
+		- Genocide of Banu Qurayzah <span style="color:lightblue">[For allying with Banu Quraysh; by a false interpretation of Halakha]</span>
 		- 
 	- Having a dream to do Hajj (or to capture it?)
 	- Treaty at Hudaibiyyah and his Violation of It

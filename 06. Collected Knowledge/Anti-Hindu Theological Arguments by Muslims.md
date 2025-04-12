@@ -7,15 +7,15 @@ Fix: These Muslims have to be taught some metaphysics.
 
 e.g.
 - Dualism
-	- God is Separate from the Universe (And is Jealous) [Abrahamic]
-	- God is Separate from the Universe (And is not Jealous) [Dvaita Vedanta]
-	- God is Separate from the Universe (And has left it) [Deism]
-	- Multiple Gods Exist (And people respect all of them) [Polytheism]
-	- Multiple Gods Exist (And people worship one of them) [Monolatry]
-	- God has created Gods to Manage Realities [Sanskrit Vedas]
+	- God is Separate from the Universe (And is Jealous) <span style="color:lightblue">[Abrahamic]</span>
+	- God is Separate from the Universe (And is not Jealous) <span style="color:lightblue">[Dvaita Vedanta]</span>
+	- God is Separate from the Universe (And has left it) <span style="color:lightblue">[Deism]</span>
+	- Multiple Gods Exist (And people respect all of them) <span style="color:lightblue">[Polytheism]</span>
+	- Multiple Gods Exist (And people worship one of them) <span style="color:lightblue">[Monolatry]</span>
+	- God has created Gods to Manage Realities <span style="color:lightblue">[Sanskrit Vedas]</span>
 - Monism
-	- Everything is God (And God is Active) [Advaita Vedanta / Pan-Theism]
-	- Everything is God (And God is Inactive) [Pan-Desim]
+	- Everything is God (And God is Active) <span style="color:lightblue">[Advaita Vedanta / Pan-Theism]</span>
+	- Everything is God (And God is Inactive) <span style="color:lightblue">[Pan-Desim]</span>
 - Between Monism and Dualism
-	- Everything is a Part of God [Pan-En-Theism]
-	- We Cannot Know the Difference Between God and Nature [Achintya Bheda Abhedha]
+	- Everything is a Part of God <span style="color:lightblue">[Pan-En-Theism]</span>
+	- We Cannot Know the Difference Between God and Nature <span style="color:lightblue">[Achintya Bheda Abhedha]</span>

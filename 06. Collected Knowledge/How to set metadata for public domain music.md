@@ -1,5 +1,5 @@
 #### Technical Metadata
-- [NEW] Available Formats: Lossless, MP3 320K, MP3 256K
+- <span style="color:lightblue">[NEW]</span> Available Formats: Lossless, MP3 320K, MP3 256K
 - Current Format: OGG
 - Bits Per Sample: 
 - Sample Rate: 
@@ -7,8 +7,8 @@
 - Duration: 
 - Bitrate: 
 - Filesize: 
-- [NEW]\* Compression Ratio: 
-- [NEW]\* Loss Ratio: 
+- <span style="color:lightblue">[NEW]</span>\* Compression Ratio: 
+- <span style="color:lightblue">[NEW]</span>\* Loss Ratio: 
 
 \* We can compute the compression and loss ratios only by knowing what was filtered out in the frequency domain.
 #### Metadata

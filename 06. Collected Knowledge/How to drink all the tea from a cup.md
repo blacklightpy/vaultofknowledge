@@ -15,7 +15,7 @@ Until You reach the first mutt
 
 Also, the shape of the triangle was elongated for a reason
 
-[volume remains the same, but length differs]
+<span style="color:lightblue">[volume remains the same, but length differs]</span>
 # Applications
 
 #incomplete

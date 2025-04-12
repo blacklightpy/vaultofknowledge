@@ -38,3 +38,4 @@ Apparently, it's only confirmed that most will get at least two, while Mujahids 
 > [al-Maa’idah 5:50 – interpretation of the meaning]
 > 
 > Narrated by Ahmad, 18827; classed as saheeh by Ibn Hibbaan, 16/443; and by Shaykh al-Albaani in Saheeh al-Jaami’, 1627.
+
