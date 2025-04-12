@@ -161,7 +161,8 @@ They can be grouped as:
 								- Aasana (Postures)
 									- Source
 										- **Reference:** Chapter 2, Verse 46
-										- **Verse:** स्थिरसुखमासनम् ॥
+										- **Verse:** <span style="font-size:145%">स्थिरसुखमासनम् ॥</span>
+										- **Verse:** stir-sukhamasanam
 										- **Translation:** The meditation posture should be steady and comfortable.
 									- List
 
@@ -173,8 +174,8 @@ They can be grouped as:
 					- Kriya Yoga
 						- **Source**
 							- Yoga Sutras of Patanjali 2.1 describes three types of kriya (action):
-								- **Verse:** योगश्चित्तवृत्तिनिरोधः ॥
-								- **Transliteration:** yogash-chitta-vritthi-nirodhaḥ.
+								- **Verse:** <span style="font-size:165%">योगश्चित्तवृत्तिनिरोधः ॥</span>
+								- **Trans:** yogash-chitta-vritthi-nirodhaḥ.
 								- **Translation:** "Yoga is the inhibition (Nirodha) of the modifications (Vritthi) of the mind (Chittha)"
 								- **Meaning:** The yoga of action (Kriya Yoga) is: asceticism (tapas), recitation (svadhyaya), and devotion (pranidhana) to Ishvara (the lord).
 							- The steps are contained in Chapter 1, Chapter 2 Verses 1-27, Chapter 3 except Verse 54 and Chapter 4

@@ -11,11 +11,7 @@ The Brahma Soothras have a section dealing with the possibility of initiation of
 
 > **Brahma Soothras, Adhyaaya I, Pada 3, Adhikarana 9 (Soothras 34-38):**
 > 
-> शुगस्य तदनादरश्रवणात्तदाद्रवणात्सूच्यते हि ॥ ३४॥
-> क्षत्रियत्वागतेश्चोत्तरत्र चैत्ररथेन लिङ्गात् ॥ ३५॥
-> संस्कारपरामर्शात्तदभावाभिलापाच्च ॥ ३६॥
-> तदभावनिर्धारणे च प्रवृत्तेः ॥ ३७॥
-> श्रवणाध्ययनार्थप्रतिषेधात् स्मृतेश्च ॥ ३८॥
+> <span style="font-size:145%">शुगस्य तदनादरश्रवणात्तदाद्रवणात्सूच्यते हि ॥ ३४॥<br>क्षत्रियत्वागतेश्चोत्तरत्र चैत्ररथेन लिङ्गात् ॥ ३५॥<br>संस्कारपरामर्शात्तदभावाभिलापाच्च ॥ ३६॥<br>तदभावनिर्धारणे च प्रवृत्तेः ॥ ३७॥<br>श्रवणाध्ययनार्थप्रतिषेधात् स्मृतेश्च ॥ ३८॥</span>
 
 The original story referred in the Soothras is in Chaandogya Upanishad IV.4.3-5.
 

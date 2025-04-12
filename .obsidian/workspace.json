@@ -313,32 +313,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trying to find the reference for a verse.md",
+                "file": "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trying to find the reference for a verse"
-            }
-          },
-          {
-            "id": "4be615cdeed6e3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "History of Operating Systems"
+              "title": "Hindu Denominations"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -370,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"<span style=\\\"color:lightblue\\\">\"",
+                "query": "॥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -524,7 +509,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -544,34 +530,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "757f733310d15a0b",
   "lastOpenFiles": [
+    "Trying to find the reference for a verse.md",
+    "Varna is based on Guna, not Birth.md",
+    "Implication of Caste for Moksha.md",
+    "06. Collected Knowledge/Animism vs Abrahamic Religions.md",
+    "Problems with ISKCON and its founder Prabhupada.md",
+    "Nature of physis in Christianity.md",
+    "06. Collected Knowledge/Random Hindu Text Excerpts.md",
+    "07. Miscellaneous/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
+    "01. Personal/Daily Notes/Entry of 31st Jan, 2025.md",
+    "07. Miscellaneous/Religions/Hinduism Notes.md",
+    "07. Miscellaneous/Religions/Hinduism/Castes in Kerala.md",
+    "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
+    "06. Collected Knowledge/Map of Hinduism.md",
+    "06. Collected Knowledge/List of Upanishads.md",
+    "Crazy Penances in Hinduism.md",
+    "Abortion.md",
+    "Trying to Consolidate Hinduism 1.md",
+    "Free Will.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
     "06. Collected Knowledge/Hoors for Jihad.md",
     "Identifiers for Operating Systems.md",
     "06. Collected Knowledge/Free Games.md",
     "06. Collected Knowledge/List of Chapters in the Quran.md",
     "06. Collected Knowledge/Jet Propulsion.md",
     "06. Collected Knowledge/Invasion of Palestine by Arabs.md",
-    "06. Collected Knowledge/Islaam - Post.md",
-    "06. Collected Knowledge/Flow of Electricity - Rough.md",
-    "06. Collected Knowledge/Diagramming Linux Internals using Eraser.io.md",
-    "06. Collected Knowledge/Building DDE, KDE Plasma and GNOME.md",
-    "06. Collected Knowledge/Genres of Music.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-    "02. To Share/Retro/Retro Gaming/Retro Emulation.md",
-    "06. Collected Knowledge/Evolution of Engineering.md",
-    "06. Collected Knowledge/Web App Frameworks.md",
-    "04. Organized Knowledge - Old Format/Business and Finance/Finance/Compond Interest.md",
-    "03. Culture/Fun and Activities/Photography/Aberration.md",
-    "03. Culture/Fun and Activities/Photography/EV.md",
-    "04. Organized Knowledge - Old Format/Marketplace and Creations/Software Implementations/Git.md",
-    "06. Collected Knowledge/Enable Show Desktop Button.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations/Internet Engineering Task Force.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spacetime.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Hatred of Idol Worship.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Arguments against Islam.md",
-    "06. Collected Knowledge/Rices I want to try out.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Mechanics/Special Relativity.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
     "08. External Resources/Dictionaries",
     "Add to How I Learn",
