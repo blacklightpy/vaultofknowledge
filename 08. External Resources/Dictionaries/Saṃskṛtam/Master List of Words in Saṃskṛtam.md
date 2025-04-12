@@ -14,19 +14,21 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 
 - Mantra
 - Nigama
-- Agama
+- Āgama
 - Tantra
 - Brahman
 - Ṛtaṃ
-- Dharmam
 - Sat
 - Satya
 - Asat
 - Asatya
 - Mithya
 - Śāstra
+
+- Dharma
 - Artha
-- 
+- Kāma
+- Mokṣa
 
 - Śiva
 - Viṣṇu
@@ -75,35 +77,20 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Trayī
 
 - Pūrva
-- 
+- Uttara
 
 - Īśvara
 - Upāsanā
 - Mūrti
 - Pūjā
 
+
+
+
 - Āstika
 - Nāstika
 ### Words to make IAST
-- Vishnu
-- Brahma
-- Lalitha
-- Sahasra
-- Naamam
-- Saankhya
-- Yoga
-- Nyaaya
-- Vaisheshika
-- Meemaamsa
-- Vedaantha
-- Advaitha
-- Dvaitha
-- Vishishta
-- Bhedha
-- Abhedha
-- Akshar
-- Purushottham
-- Eeshvara
+
 - Upaasana
 - Upanishad
 - Samhitha
