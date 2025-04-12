@@ -1,5 +1,4 @@
-> शैवाश्च वैष्णवाश्चैव सौराः शाक्तास्तथैव च।
-> गाणपत्या आगमाश्च प्रणीताः शङ्करेण तु ॥३०॥
+> <span style="font-size:145%">शैवाश्च वैष्णवाश्चैव सौराः शाक्तास्तथैव च।<br>गाणपत्या आगमाश्च प्रणीताः शङ्करेण तु ॥३०॥</span>
 > 
 > Translation: Lord Shankar composed Shaiva, Vaishnava, Shaura, Shakta and Ganapatya Agamas.
 > 

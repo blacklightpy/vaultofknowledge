@@ -10,8 +10,7 @@ The Baudhaayana Shulba Sutras of the Tattiriya Shaakha, of Krisha Yajur Veda had
 			- This part was dealing with the construction of Mahaa Vedi, a sacrificial altar
 			- Measurements of Vedis and Yoopas were critical to religion, for sanctity
 		- **Sanskrit:**
-			- दीर्घचतुरस्रस्याक्ष्णया रज्जुः पार्श्वमानी तिर्यग् मानी
-			  च यत् पृथग् भूते कुरूतस्तदुभयं करोति ॥
+			- <span style="font-size:145%">दीर्घचतुरस्रस्याक्ष्णया रज्जुः पार्श्वमानी तिर्यग् मानी<br>च यत् पृथग् भूते कुरूतस्तदुभयं करोति ॥</span>
 		- **Transliteration:**
 			- deergha chatursrasyaakshanayaa rajjuh paarshvamaanee, tiryagmaanee,
 			  cha yatprthagbhoote kurutastadubhayaan karoti.

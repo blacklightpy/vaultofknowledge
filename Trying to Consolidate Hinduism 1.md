@@ -854,7 +854,7 @@ And there's Yogini/Yakshini/Apsaras Saadhana
 
 In Ashtaadhyaayi, Panini's Vyaakarana work, he states that when grouping, words that have less syllables must come first. But he also states that words that are more respected must come first. Puraana has three syllables, but Ithihaasa has four. Yet the scriptures refer to them as Ithihaasa-Puraana.
 
-Verse: इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति।।
+Verse: <span style="font-size:145%">इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति॥</span>
 Translation: The Vedas should be expounded by the Ithihaasas and Puraanas. The Vedas are afraid of one of little learning, thinking they would misrepresent them.
 Sources: 1) Vasishta Dharma Soothra 27.6, 2) Vyaasa Smrithi 1.4, 3) Padma Puraana 2.51-52, 4) Skanda Puraana 5.3.122, 5) Maha Bhaaratha 1.1.204
 

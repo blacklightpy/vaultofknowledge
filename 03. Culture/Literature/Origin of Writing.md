@@ -121,9 +121,7 @@ While I was at it, I decided to see the etymology of the words "palates" and "as
 > From (https://en.wikipedia.org/wiki/Murti)
  > While murti are an easily and commonly visible aspect of Hinduism, they are not necessary to Hindu worship.[45] Among Hindus, states Gopinath Rao,[76] one who has realised Self (Soul, Atman) and the Universal Principle (Brahman, god) within himself, there is no need for any temple or divine image for worship. Those who have yet to reach this height of realisation, various symbolic manifestations through images, idols and icons as well as mental modes of worship are offered as one of the spiritual paths in the Hindu way of life. This belief is repeated in ancient Hindu scriptures. For example, the Jabaladarshana Upanishad states:[76]
 > 
->    शिवमात्मनि पश्यन्ति प्रतिमासु न योगिनः |
->    अज्ञानं भावनार्थाय प्रतिमाः परिकल्पिताः || ५९ ||
->    - जाबालदर्शनोपनिषत्
+>    <span style="font-size:145%">शिवमात्मनि पश्यन्ति प्रतिमासु न योगिनः |<br>अज्ञानं भावनार्थाय प्रतिमाः परिकल्पिताः || ५९ ||<br>- जाबालदर्शनोपनिषत्</span>
 >
 >    A yogin perceives god (Siva) within himself,
 >    images are for those who have not reached this knowledge. (Verse 59)
