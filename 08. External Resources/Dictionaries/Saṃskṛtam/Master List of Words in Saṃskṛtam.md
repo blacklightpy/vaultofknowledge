@@ -3,12 +3,16 @@ Now one ought to know, the word Sanskrit itself is actually written as Saṃsk�
 Only include words that aren't separate notes here. For example, [[Upanishads]] have a separate note, but Śiva doesn't.
 
 (Should I even develop this page, or will it be bloat?)
+
+(And do I need links to two pages - like for Paramaarthika, Param + Artha?)
 ### IAST Words
 - Vēda / Vēdaḥ
 - Ṛ́c / Ṛ́ca
 - Sūktas
 - Mandalas
+- Kāṇḍa
 - Śākhā
+- Vidya
 - Śruti
 - Smṛti
 
@@ -16,7 +20,8 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Nigama
 - Āgama
 - Tantra
-- Brahman
+- Brahman / Brahma
+- Para
 - Ṛtaṃ
 - Sat
 - Satya
@@ -24,6 +29,7 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Asatya
 - Mithya
 - Śāstra
+- Sūtra
 
 - Dharma
 - Artha
@@ -31,6 +37,7 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Mokṣa
 
 - Śiva
+- Śakti
 - Viṣṇu
 - Brahmā
 
@@ -38,6 +45,10 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Sahasra
 - Nāma
 
+- Prasthāna
+- Trayī
+
+- Ṣaḍ
 - Darśana
 - Sāṃkhya
 - Yoga
@@ -73,9 +84,6 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Śabda
 - Jīva
 
-- Prasthāna
-- Trayī
-
 - Pūrva
 - Uttara
 
@@ -92,11 +100,6 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Āstika
 - Nāstika
 - Mahā
-
-- Vāda
-- Prati
-### Words to make IAST
-
 - Bhāratha
 - Itihāsa
 - Purāna
@@ -105,9 +108,71 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Śrīmad 
 - Bhāgavatam
 - Devi
-- Jñāna
+- Śrī
 - Karma
-- Kaanda
-- Manthra
-- Thanthra
-- Shree
+- Bhakti
+- Jñāna
+
+- Vāda
+- Prati
+- Tarka
+- Driṣti
+### Words to make IAST
+
+- Shareera
+	- Sthoola
+	- Sookshma
+	- Kaarana
+
+- Kosha
+	- Maya
+	- Anna
+	- Praana
+	- Mano
+	- Vijnaana
+	- Aananda
+
+- Ayur
+- Yajus
+- Sama
+- Atharva
+
+- Mahat
+- Buddhi
+- Ahamkaara
+- Manas
+- Pancha
+- Bhoota
+- 
+
+- Kanchuka
+	- Kaala
+	- Vidya
+	- Raaga
+	- Niyati
+	- Kala
+
+- Vidhi
+- Dosha
+- Klesha
+
+- Aasana
+- Saadhana
+- Yama
+- Niyama
+
+- Viveka
+- Vairaagya
+- Mumukshuttvam
+- Sampatti
+- Catuṣṭaya
+
+- Shravana
+- Manana
+- Nididhyaasana
+
+- Yaamala
+- Daamara
+
+- Vyavahaara
+- Prathibhaasa
