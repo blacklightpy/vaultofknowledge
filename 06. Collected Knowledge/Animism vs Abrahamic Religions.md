@@ -12,7 +12,8 @@ Yoni never comes into play.
 Lingam means symbol.
 The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 
-Lingam is used to refer to Shiva as the generator, and Yoni is used to refer to Shakthi as the womb (as Jagat-Yoni), but the analogies are different from the material world, as they are formless and not the same as the human body. In other words, the divine
+**Later understanding:**
+Lingam is used to refer to Shiva as the generator, and Yoni is used to refer to Shakthi as the womb (as Jagat-Yoni), but the analogies are different from the material world, as they are formless and not the same as the human body. In other words, the divine masculine or feminine is not the same as the living masculine or feminine.
 
 **Puranas:**
 - Shiv Mahapurana 1.11 (Shiv and Parvathi (Pitham) Union)
@@ -21,18 +22,18 @@ Lingam is used to refer to Shiva as the generator, and Yoni is used to refer to 
 - Tattiriya Aranyaka of Yajurveda 10.16.2 (Namaha to Atmalinga, Shivlinga, Jwalalinga, etc.)
 ## Bestiality
 
-**Ithihasas:**
+**Ithihaasas:**
 - Mahabharata Adi Parva Chapter 95 (Pandu killed a Rishi who was having mating in the form of a deer)
 - Ramayana 1.14.33-34 (Kausaylya performed Aswamedha)
 	- Claim: Aswamedha is a ritual in which a horse is killed, and the queen will insert it's penis into her vagina, and say horse, give seed.
 	- Truth: It's too wildly interpreted, and is unlikely to be true
 
-**Smritis:**
-- Vishnu Smriti 5:40-44
+**Smrithis:**
+- Vishnu Smrithi 5:40-44
 	- Bestiality has the same fine as intercourse with lower caste women
 	- Who has intercourse with the lowest caste of women should be put to death
-- Narada Smriti
-- Manu Smriti 10:69-72 (72: Men born of animals become sages)
+- Narada Smrithi
+- Manu Smrithi 10:69-72 (72: Men born of animals become sages)
 
 **Generic / Puranas:**
 - Claim: Shiva discharged semen into Agni as a parrot (https://ikhlaskhan008.wordpress.com/2016/12/21/sex-with-animals-and-hinduism/)
