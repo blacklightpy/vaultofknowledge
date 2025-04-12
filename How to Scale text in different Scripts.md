@@ -19,6 +19,9 @@ On Segoe UI, H2 and H2 worked the best, as applying H1 to Devanaagari is too muc
 When there are line wraps, Liberation Sans could use H3 and H2 instead.
 
 So considering the average values, H3 for Bengali and H2 for Devanaagari seem to work best.
+
+## On Reddit
+I think this varies by Old Reddit, New Reddit on PC and New Reddit on Android. And who knows how it is on Apple devices.
 ## General Understanding
 
 In Segoe UI, Indic Scripts are more condensed relative to Roboto and Colibri.
