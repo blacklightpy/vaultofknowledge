@@ -566,11 +566,11 @@ About Yogamaaya:
 
 > The child, Yoga-māyā-devī, the younger sister of Lord Viṣṇu, slipped upward from Kaṁsa’s hands and appeared in the sky as Devī, the goddess Durgā, with eight arms, completely equipped with weapons
 > 
-> — Srimad Bhagavatam, Canto 10,Chapter 4, Verse 9
+> — Srimad Bhagavatam, Canto 10, Chapter 4, Verse 9
 
 > O Kaṁsa, you fool, what will be the use of killing me? The Supreme Personality of Godhead, who has been your enemy from the very beginning and who will certainly kill you, has already taken His birth somewhere else. Therefore, do not unnecessarily kill other children
 > 
-> — Srimad Bhagavatam, Canto 10,Chapter 4, Verse 12
+> — Srimad Bhagavatam, Canto 10, Chapter 4, Verse 12
 
 ---
 

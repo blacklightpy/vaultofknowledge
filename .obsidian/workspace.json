@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Varna is based on Guna, not Birth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trying to Consolidate Hinduism 1"
+              "title": "Varna is based on Guna, not Birth"
             }
           }
         ],
@@ -524,8 +524,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -547,14 +546,15 @@
   },
   "active": "1d72cff1da5209f4",
   "lastOpenFiles": [
+    "Abortion.md",
+    "Writings on Theology 1 - Advaita.md",
+    "06. Collected Knowledge/QOwnNotes+.md",
     "Trying to find the reference for a verse.md",
     "Trying to Consolidate Hinduism 1.md",
     "Custom Dictionaries.md",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "The Ultimate Reality cannot be expressed by Words.md",
-    "06. Collected Knowledge/QOwnNotes+.md",
     "Vyavahaarika Sathya.md",
-    "Writings on Theology 1 - Advaita.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
     "08. External Resources/Dictionaries",
     "Osho on Homosexuality.md",
@@ -571,7 +571,6 @@
     "Add to How I Learn.md",
     "Varna is based on Guna, not Birth.md",
     "Mandah Adhikari.md",
-    "Abortion.md",
     "Osho on Abortion.md",
     "Problems in Puraanas.md",
     "Vishuddha Manu Smrithi.md",
