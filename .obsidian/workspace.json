@@ -353,7 +353,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -385,7 +385,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "praarabhda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -560,12 +560,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "882fe0c43bf4c064",
   "lastOpenFiles": [
-    "Shaiva vs Shakta.md",
-    "Morons on Hinduism Stack Exchange.md",
-    "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "07. Miscellaneous/Exploring Ideas 1/Isn't using technology built by atheists wrong for religious people.md",
+    "Morons on Hinduism Stack Exchange.md",
+    "Shaiva vs Shakta.md",
+    "Counter Argument for Who Created God.md",
+    "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Casteism and Verses.md",
@@ -576,7 +577,6 @@
     "The Ultimate Reality cannot be expressed by Words.md",
     "My Objection to Classical Advaita Vedanta.md",
     "Osho on Homosexuality.md",
-    "Counter Argument for Who Created God.md",
     "Meccaism.md",
     "The Absurdity of Denying Mistakes in Scripture.md",
     "Is the World with Meaning.md",
