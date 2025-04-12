@@ -1,0 +1,3 @@
+Though HTML is a more nuanced language, most of my time is spent only writing the stuff in text, and only some times do I have to resort to the nuances of HTML. So considering that, I could just keep the HTML templates handy and only use them as necessary, and save time writing in Markdown without spending time writing the syntax.
+
+And only if I use my templates with heavy CSS often do I have to make it a part of my Markdown to HTML converter.

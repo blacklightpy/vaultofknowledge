@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free Will 2.md",
+                "file": "Free Will.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Free Will 2"
+              "title": "Free Will"
             }
           }
         ],
@@ -547,8 +547,9 @@
   },
   "active": "4be615cdeed6e3bf",
   "lastOpenFiles": [
+    "Why write in Markdown.md",
+    "Free Will 2 - A stronger note.md",
     "About the Misuse of Christianity.md",
-    "Free Will 2.md",
     "Against Hard Rationalism.md",
     "About Transformability of People and Things.md",
     "Red Green Colour Blindness - A Joke.md",
@@ -574,7 +575,6 @@
     "My Objection to Classical Advaita Vedanta.md",
     "How I find stuff.md",
     "Physical vs Material.md",
-    "Counter Argument for Who Created God.md",
     "Add to How I Learn",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
