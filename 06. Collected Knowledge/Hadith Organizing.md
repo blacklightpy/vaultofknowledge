@@ -81,7 +81,7 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 	- ~~Hiyal (Legalized trickery for sticking to Shariah without following it perfectly)~~
 		- e.g. Rebranding interest as fee/profit, Rebranding Jihad as purely an inner struggle
 		- It is forbidden in Islaam
-- They alter the meanings we've agreed upon in earlier contexts to suit the current context (exploiting on the brain's attention span) [EX: saying that Islam didn't allow slaves to be made, after establishing that it did earlier on.]
+- They alter the meanings we've agreed upon in earlier contexts to suit the current context (exploiting on the brain's attention span) <span style="color:lightblue">[EX: saying that Islam didn't allow slaves to be made, after establishing that it did earlier on.]</span>
 # Women (general and married)
 
 ## Quran

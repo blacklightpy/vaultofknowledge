@@ -29,7 +29,7 @@ Says: Every action is faulty, and it is better to perform faulty actions by one'
 
 **Parashara Smrithi Chapter 9:**
 
-> 13]  If the foetus of a cow is destroyed, while it is in an amorphous state, a quarter penance is prescribed for the sin; when it has attained some distinct form, then the penance should be two quarters ; by destroying a foetus which has not yet developed its consciousness, the sinner must perform three quarters.
+> 13] If the foetus of a cow is destroyed, while it is in an amorphous state, a quarter penance is prescribed for the sin; when it has attained some distinct form, then the penance should be two quarters ; by destroying a foetus which has not yet developed its consciousness, the sinner must perform three quarters.
 > 
 > 16] If all the members of the foetus are complete, or if it be observed to have consciousness, or fully developed in its limbs, large and small — then the sinner must perform twice the penance for killing a cow.
 > 
