@@ -313,13 +313,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
+                "file": "Varna is based on Guna, not Birth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Master List of Words in Saṃskṛtam"
+              "title": "Varna is based on Guna, not Birth"
             }
           }
         ],
@@ -355,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<p",
+                "query": "\"/p\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -509,8 +509,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -530,17 +529,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "757f733310d15a0b",
   "lastOpenFiles": [
+    "Trying to find the reference for a verse.md",
     "Trying to Consolidate Hinduism 1.md",
+    "Varna is based on Guna, not Birth.md",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "Custom Dictionaries.md",
-    "Trying to find the reference for a verse.md",
     "How to Scale text in different Scripts.md",
     "06. Collected Knowledge/QOwnNotes+.md",
     "Writings on Theology 1 - Advaita.md",
     "Abortion.md",
-    "Varna is based on Guna, not Birth.md",
     "06. Collected Knowledge/How to Scale my Website for Small Screens.md",
     "The Ultimate Reality cannot be expressed by Words.md",
     "Vyavahaarika Sathya.md",

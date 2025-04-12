@@ -316,11 +316,11 @@ Basically it is "the king of Yoga", or the best path. That is, it's practices le
 
 From Hathaa Yoga Pradeepika, Chapter 4, Verses 3-7:
 
-> <p style="font-size:145%">राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||
+> <span style="font-size:145%">राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||
 अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||
 सलिले सैन्धवं यद्वत्साम्यं भजति योगतः | तथात्म-मनसोरैक्यं समाधिरभिधीयते || ५ ||
 यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||
-तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||</p>
+तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||</span>
 > 
 > Raaja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padam, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
 > 
