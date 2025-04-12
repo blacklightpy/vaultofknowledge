@@ -314,7 +314,7 @@ Liberation: Kaivalya (Advaita), Vaikuntha (Vaishnava Dvaita), Kailasa (Shaiva Dv
 
 Basically it is "the king of Yoga", or the best path. That is, it's practices lead to total realization or Turiya. It can also be understood as the path of a king, or to awaken the king within oneself.
 
-From Hath Yoga Pradipika, Chapter 4, Verses 3-7:
+From Hathaa Yoga Pradeepika, Chapter 4, Verses 3-7:
 
 <blockquote><p style="font-size:140%">राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||<br>
 अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||<br>
