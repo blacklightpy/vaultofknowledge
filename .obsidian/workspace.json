@@ -313,13 +313,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varna is based on Guna, not Birth.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Varna is based on Guna, not Birth"
+              "title": "Trying to Consolidate Hinduism 1"
             }
           }
         ],
@@ -509,7 +509,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -532,8 +533,8 @@
   "active": "757f733310d15a0b",
   "lastOpenFiles": [
     "Trying to find the reference for a verse.md",
-    "Trying to Consolidate Hinduism 1.md",
     "Varna is based on Guna, not Birth.md",
+    "Trying to Consolidate Hinduism 1.md",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "Custom Dictionaries.md",
     "How to Scale text in different Scripts.md",
