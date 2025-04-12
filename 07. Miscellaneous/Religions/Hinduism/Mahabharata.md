@@ -77,7 +77,7 @@ Each Adhyaaya is comprised of several verses (Shlokas).
  - Book 6: Bhishma Parva 
 	- Parva 65: Jambhukhanda Vinirmana Parva
 	- Parva 66: Bhumi Parva
-	- Parva 67: [[Bhagavat Geeta]] Parva
+	- Parva 67: [[Bhagavad Geetha]] Parva
 	- Parva 68: Bhishma Vadha Parva
  - Book 7: Drona Parva 
 	- Parva 69: Dronabhisheka Parva

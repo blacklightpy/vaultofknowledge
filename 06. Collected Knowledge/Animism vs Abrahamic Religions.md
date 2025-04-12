@@ -12,6 +12,8 @@ Yoni never comes into play.
 Lingam means symbol.
 The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 
+Lingam is used to refer to Shiva as the generator, and Yoni is used to refer to Shakthi as the womb (as Jagat-Yoni), but the analogies are different from the material world, as they are formless and not the same as the human body. In other words, the divine
+
 **Puranas:**
 - Shiv Mahapurana 1.11 (Shiv and Parvathi (Pitham) Union)
 

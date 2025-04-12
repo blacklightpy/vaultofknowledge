@@ -2,8 +2,7 @@
 
 **Srimad Bhaagavatham 7.11.35 (Canto 7: The Science of God, Chapter 11: The Perfect Society: Four Social Classes):**
 
-> यस्य यल्लक्षणं प्रोक्तं पुंसो वर्णाभिव्यञ्जकम् ।  
-> यदन्यत्रापि द‍ृश्येत तत्तेनैव विनिर्दिशेत् ॥ ३५ ॥
+> <span style="font-size:145%">यस्य यल्लक्षणं प्रोक्तं पुंसो वर्णाभिव्यञ्जकम् ।<br>यदन्यत्रापि द‍ृश्येत तत्तेनैव विनिर्दिशेत् ॥ ३५ ॥</span>
 > 
 > yasya yal lakṣaṇaṁ proktaṁ puṁso varṇābhivyañjakam  
 > yad anyatrāpi dṛśyeta tat tenaiva vinirdiśet

@@ -11,7 +11,7 @@ The people of Hind are called Hindus. Hinduism is a meta-religion with most of t
 		- [[Aranyaka]]
 		- [[Upanishad]]
 	- [[Tantras]] (Techniques) / Aagamas (Passed Down Practical Knowledge)
-- [[Bhagavat Geeta]] from the [[Mahabharata]]
+- [[Bhagavad Geetha]] from the [[Mahabharata]]
 ## Secondary Texts
 - Ithihaasas (Epics)
 	- [[Mahabharata]] (The Great India)
