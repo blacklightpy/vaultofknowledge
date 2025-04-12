@@ -47,8 +47,10 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 
 - Prasthāna
 - Trayī
-
+- Catur
+- Pañca
 - Ṣaḍ
+
 - Darśana
 - Sāṃkhya
 - Yoga
@@ -124,39 +126,52 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 	- Sookshma
 	- Kaarana
 
-- Kosha
+- Avasta
+	- Jāgrata
+	- Svapna
+	- Suṣupti
+	- Turiya
+
+- Kośa
 	- Maya
 	- Anna
-	- Praana
-	- Mano
-	- Vijnaana
-	- Aananda
+	- Prāṇa
+	- Vijñāna
+	- Ānanda
 
-- Ayur
 - Yajus
-- Sama
-- Atharva
+- Sāman
+- Atharvan
+- Āyus
 
+- Antaḥkaraṇa
 - Mahat
 - Buddhi
-- Ahamkaara
+- Ahaṃkāra
 - Manas
-- Pancha
-- Bhoota
+- Panca
+- Bhūta
 - 
 
-- Kanchuka
-	- Kaala
+- Kancuka
+	- Kāla
 	- Vidya
-	- Raaga
+	- Rāga
 	- Niyati
-	- Kala
+	- Kalā
 
 - Vidhi
-- Dosha
-- Klesha
+- Doṣa
+- Dveṣa
+- Moha
+- Duḥkha
+- Kleśa
+- Asmita
+- Avidya
 
-- Aasana
+- Aṣṭ
+- Aṅga
+- Āsana
 - Saadhana
 - Yama
 - Niyama
@@ -176,3 +191,4 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 
 - Vyavahaara
 - Prathibhaasa
+- Upādhi

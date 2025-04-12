@@ -340,7 +340,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "turiya",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -515,11 +515,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "882fe0c43bf4c064",
   "lastOpenFiles": [
+    "Trying to Consolidate Hinduism 1.md",
+    "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "Delusions of Muhammadians.md",
     "_images/Screenshot of a common delusion of Muhammadians.png",
-    "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "The Ultimate Reality cannot be expressed by Words.md",
     "My Objection to Classical Advaita Vedanta.md",
     "Osho on Homosexuality.md",
@@ -543,7 +544,6 @@
     "Osho on Abortion.md",
     "Osho on Stupidities of the Karma-Rebirth Theory.md",
     "Mandah Adhikari.md",
-    "Can a Soul be Cut.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
     "08. External Resources/Dictionaries",
     "Add to How I Learn",
