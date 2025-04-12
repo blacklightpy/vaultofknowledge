@@ -1,0 +1,1 @@
+There's a snippet I wrote in [[The History of Oppression of Jews]], about the misuse of confessions.

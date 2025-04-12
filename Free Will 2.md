@@ -4,15 +4,14 @@ If it is a mechanical device, the will is more minimal than if it was an automat
 
 Therefore, the generation of AI is simply when a designer applies his will to impart a will on to the device through material means, and then forgets or simply ignores the details of its working. This is because if he did not ignore the details of its working, he would simply see it as a mechanical system.
 
-In the same way, the generation of intelligent life is only possible when an intelligent creator generates intelligen
-
-
-
-
+In the same way, the generation of intelligent life is only possible when an intelligent creator generates intelligent life out of its own powers, because it is the only material that exists, and then veils itself to the world that emerges. This means the material world only exists because it is powered by the ultimate cause, but the ultimate cause allows the aspect of it within the created world to be blind to its own nature using another power of itself to ensure that it can experience the world by the ways of the world itself. And the rules of the world are that by which the world runs. This is how free will exists as "provided" by the ultimate cause.
 
 This is the case in Kashmir Shaivism, where Shiva imposes on himself 5 Kanchukas (or veils) - of time, knowledge, desire, fate and action - using his Shakthi to create an illusion (Maaya) through which this world appears.
 
-### About this note
+### About how my thinking led to this note, and concerns about bias
+
+Basically, I was simply thinking about my previous idea that programming is simply spells in the real world by which we impart behaviour to machines. But it is not just code, because clockwork automatons worked on the same principle. It is the intelligent design and use of what's material that imparts behaviour, and thus can be called a spell.
+
 I did not create this analogy to justify Kashmir Shaivism, but when I created this analogy, I realized immediately that it fits in more with Kashmir Shaivism than with any other philosophy.
 
 A reason I may have found a similarity could be because I was already aligned with Kashmir Shaivism and that would indicate my inclination towards thinking in ways that are similar. But firstly, that would not imply anything for philosophy and would only mean that all philosophies are based on one's inclinations, and if I did not state this explicitly, someone would say that "oh, that's the reason" and dismiss my view as a justification of an arbitrary theory, and secondly, my inclination with Kashmir Shaivism came about through my own philosophy which I had before I knew about Kashmir Shaivism. And secondly, I also think that Kashmir Shaivism is simply a well thought out philosophy to begin with.
