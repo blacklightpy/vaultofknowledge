@@ -336,9 +336,24 @@
               "icon": "lucide-file",
               "title": "Free Will 2"
             }
+          },
+          {
+            "id": "7bf35d978d101e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Against Hard Rationalism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Against Hard Rationalism"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -545,10 +560,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be615cdeed6e3bf",
+  "active": "7bf35d978d101e03",
   "lastOpenFiles": [
-    "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+    "Against Hard Rationalism.md",
     "Free Will 2.md",
+    "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Free Will.md",
     "Trying to find the reference for a verse.md",
     "Varna is based on Guna, not Birth.md",
@@ -574,7 +590,6 @@
     "Tantra List Classifying.md",
     "Classical Advaita's take on Avidya.md",
     "About \"We are Good People\".md",
-    "Requirements to Criticize a Religion.md",
     "Add to How I Learn",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
