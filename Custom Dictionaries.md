@@ -15,3 +15,14 @@ illuminant
 Jyothish
 infructescences
 ```
+
+2. From Obsidian on Windows (`%AppData%/Obsidian/Custom Dictionary.txt`)
+
+The same as the Windows dictionary, but in alphabetical order (unlike the Windows dictionary which has "Jyothish" in between "illuminant" and "infructescenes", with the difference that it included two new words:
+
+```
+Cassander
+gamuts
+```
+
+3. From Obsidian on Void Linux GNU/Linux under Flatpak (`.var/`)
