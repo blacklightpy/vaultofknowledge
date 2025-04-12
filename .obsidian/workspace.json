@@ -306,9 +306,19 @@
               "icon": "lucide-file",
               "title": "The Ultimate Reality cannot be expressed by Words"
             }
+          },
+          {
+            "id": "5ddeec29c54c10e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -514,10 +524,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ad36f3f9df5a5cb",
+  "active": "5ddeec29c54c10e6",
   "lastOpenFiles": [
-    "Vyavahaarika Sathya.md",
     "The Ultimate Reality cannot be expressed by Words.md",
+    "Vyavahaarika Sathya.md",
     "Trying to Consolidate Hinduism 1.md",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "Writings on Theology 1 - Advaita.md",
