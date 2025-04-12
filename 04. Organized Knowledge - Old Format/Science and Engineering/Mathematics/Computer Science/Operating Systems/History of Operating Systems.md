@@ -125,11 +125,11 @@
 
 # Timeline, Longer Brief
 ## From EDVAC (1951)
-- [1951] EDSAC
-- [1955] GMOS for IBM 701
-- [1955] MIT Tape Director OS for UNIVAC 1103
-- [1961] MIT CTSS for IBM 7094
-- [1962] GECOS
+- <span style="color:lightblue">[1951]</span> EDSAC
+- <span style="color:lightblue">[1955]</span> GMOS for IBM 701
+- <span style="color:lightblue">[1955]</span> MIT Tape Director OS for UNIVAC 1103
+- <span style="color:lightblue">[1961]</span> MIT CTSS for IBM 7094
+- <span style="color:lightblue">[1962]</span> GECOS
 - IBM OS/360 for IBM S/360
 - IBM BOS/360 for IBM S/360
 - IBM TOS/360 for IBM S/360
@@ -575,7 +575,7 @@
 - PC/GEOS
 - Windows 3.0
 - Virtual Machine/Enterprise Systems Architecture (VM/XA ESA)
-- VSE/Enterprise Systems Architecture (VSE/ESA) Version 1[28]
+- VSE/Enterprise Systems Architecture (VSE/ESA) Version 1
 1991
 - Amoeba – microkernel-based, POSIX-compliant, distributed OS
 - Linux 0.01-0.1

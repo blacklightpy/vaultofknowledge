@@ -4,7 +4,7 @@ Also, the Arabic word "Allah", or "al-ilah" means "the one to be worshipped", an
 
 And I do not like to capitalize the letter "G" in "god" because I do not consider god to be a proper noun. I may have used the notation in the past, and may intentionally or accidentally use it in the future when trying to converse with some people, just to ensure that we are talking about the same idea that means "the source of creation".
 ## Slide 1
-Image: [Qur'aan]
+Image: <span style="color:lightblue">[Qur'aan]</span>
 
 The Qur'aan is a book of deception.
 

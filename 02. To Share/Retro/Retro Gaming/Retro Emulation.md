@@ -11,7 +11,7 @@ That said, here are the options available (mostly focused only on Linux):
 ## Emulator Core Formats
 - libretro
 ## Emulator Frontends
-- Launchbox [PROPRIETARY]
+- Launchbox <span style="color:lightblue">[PROPRIETARY]</span>
 - Playnite
 - Pegasus
 - EmulationStation
@@ -30,4 +30,4 @@ That said, here are the options available (mostly focused only on Linux):
 - RetroPie is a gaming dedicated OS inspired by RetroArch for Raspberry Pi SBCs, that comes with a fork of EmulationStation as the graphical frontend
 - Batocera Linux is a gaming dedicated OS distribution that uses a fork of the old EmulationStation frontend
 - Lakka is a gaming dedicated OS distribution that uses XcrossMediaBar (XMB) as its frontend
-- Recalbox [PROPRIETARY]
+- Recalbox <span style="color:lightblue">[PROPRIETARY]</span>

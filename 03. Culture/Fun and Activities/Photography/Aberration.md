@@ -5,4 +5,4 @@
 ## Chromatic Aberration
 
 # Corrections
-- Use of convex and concave lenses [How?]
+- Use of convex and concave lenses <span style="color:lightblue">[How?]</span>

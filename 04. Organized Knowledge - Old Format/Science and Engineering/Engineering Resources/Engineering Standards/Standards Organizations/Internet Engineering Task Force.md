@@ -1,4 +1,4 @@
 # Protocols
 - eXtensible Messaging and Presence Protocol (XMPP/Jabber)
-- More Instant Messaging Interoperability (MIMI) [2023]
-- Messaging Layer Security (MLS) [2023]
+- More Instant Messaging Interoperability (MIMI) <span style="color:lightblue">[2023]</span>
+- Messaging Layer Security (MLS) <span style="color:lightblue">[2023]</span>

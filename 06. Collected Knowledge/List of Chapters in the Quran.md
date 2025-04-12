@@ -1,116 +1,116 @@
-- Surah 1: الفاتحة / al-Faatiha (The Opening) [7 Verses]
+- Surah 1: الفاتحة / al-Faatiha (The Opening) <span style="color:lightblue">[7 Verses]</span>
 	- **Alternate Titles:** al-Hamd (The Praise), al-Salah (The Prayer)
-- Surah 2: البَقَرَة / al-Baqarah (The Cow) [286 Verses]
-- Surah 3: آل عمران / Aal Imraan (The Family of Imraan) [200 Verses]
-- Surah 4: النساء / an-Nisa (The Women) [176 Verses]
-- Surah 5: المائدة / al-Maidah (The Food) [120 Verses]
-- Surah 6: الأنعام / al-Anaam (The Cattle) [165 Verses]
-- Surah 7: الأعراف / al-Araf (The Heights) [206 Verses]
-- Surah 8: الأنفال / al-Anfal (Spoils of War) [75 Verses]
-- Surah 9: التوبة / at-Taubah (Repentance) [129 Verses]
+- Surah 2: البَقَرَة / al-Baqarah (The Cow) <span style="color:lightblue">[286 Verses]</span>
+- Surah 3: آل عمران / Aal Imraan (The Family of Imraan) <span style="color:lightblue">[200 Verses]</span>
+- Surah 4: النساء / an-Nisa (The Women) <span style="color:lightblue">[176 Verses]</span>
+- Surah 5: المائدة / al-Maidah (The Food) <span style="color:lightblue">[120 Verses]</span>
+- Surah 6: الأنعام / al-Anaam (The Cattle) <span style="color:lightblue">[165 Verses]</span>
+- Surah 7: الأعراف / al-Araf (The Heights) <span style="color:lightblue">[206 Verses]</span>
+- Surah 8: الأنفال / al-Anfal (Spoils of War) <span style="color:lightblue">[75 Verses]</span>
+- Surah 9: التوبة / at-Taubah (Repentance) <span style="color:lightblue">[129 Verses]</span>
 	- **Alternate Titles:** البراءة /  al-Bara'ah (The Freedom from Obligations)
-- Surah 10: يونس / Younus (Jonah) [109 Verses]
-- Surah 11: هود / Hood (Hud) [123 Verses]
-- Surah 12: يوسف / Yusuf (Joseph) [111 Verses]
-- Surah 13: الرعد / ar-Ra'ad (The Thunder) [43 Verses]
-- Surah 14: إبراهيم / Ibrahim (Abraham) [52 Verses]
-- Surah 15: الحجر / al-Hijr (al-Hijr Stone Valley) [99 Verses]
-- Surah 16: النحل / an-Nahl (The Bee) [128 Verses]
-- Surah 17: الإسراء / al-Isra (The Night Journey) [111 Verses]
-- Surah 18: الكهف / al-Kahf (The Cave) [110 Verses]
-- Surah 19: مريم / Maryam (Mary) [98 Verses]
-- Surah 20: طه / Taha (Taha) [135 Verses]
-- Surah 21: الأنبياء / al-Anbiya (The Prophets) [112 Verses]
-- Surah 22: الحج / al-Hajj (The Pilgrimage) [78 Verses]
-- Surah 23: المؤمنون / al-Muminoon (The Believers) [118 Verses]
-- Surah 24: النور / al-Noor (The Light) [64 Verses]
-- Surah 25: الفرقان / al-Furqan (The Standard) [77 Verses]
-- Surah 26: الشعراء / ash-Shu'ara (The Poets) [227 Verses]
-- Surah 27: النمل / an-Naml (The Ant) [93 Verses]
-- Surah 28: القصص / al-Qasas (The Story) [88 Verses]
-- Surah 29: العنكبوت / al-Ankaboot (The Spider) [69 Verses]
-- Surah 30: الروم / ar-Room (The Romans) [60 Verses]
-- Surah 31: لقمان / Luqman (Luqman) [34 Verses]
-- Surah 32: السجدة / as-Sajda (The Prostration) [30 Verses]
-- Surah 33: الأحزاب / al-Ahzab (The Coalition) [73 Verses]
-- Surah 34: سبأ / as-Saba (Saba) [54 Verses]
-- Surah 35: فاطر / Fatir (Originator) [45 Verses]
-- Surah 36: يس / Yaseen (Yaseen) [83 Verses]
-- Surah 37: الصافات / as-Saaffat (Those who set the Ranks) [182 Verses]
-- Surah 38: ص / Saad (Sad) [88 Verses]
-- Surah 39: الزمر / al-Zumar (The Troops) [75 Verses]
-- Surah 40: غافر / Ghafir (The Forgiver) [85 Verses]
-- Surah 41: فصلت / Fussilat (Explained in Detail) [54 Verses]
-- Surah 42: الشورى / ash-Shura (Council) [53 Verses]
-- Surah 43: الزخرف / az-Zukhruf (Ornaments of Gold) [89 Verses]
-- Surah 44: الدخان / al-Dukhan (The Smoke) [59 Verses]
-- Surah 45: الجاثية / al-Jathiya (Crouching) [37 Verses]
-- Surah 46: الأحقاف / al-Ahqaf (The Wind-curved Sandhills) [35 Verses]
-- Surah 47: محمد / Muhammad (Muhammad) [38 Verses]
-- Surah 48: الفتح / al-Fath (The Victory) [29 Verses]
-- Surah 49: الحجرات / al-Hujraat (The Private Apartments) [18 Verses]
-- Surah 50: ق / Qaaf (Qaaf) [45 Verses]
-- Surah 51: الذاريات / al-Dhariyaat (The Winnowing Winds) [60 Verses]
-- Surah 52: الطور / at-Tur (Mount Sinai) [49 Verses]
-- Surah 53: النجم / an-Najm (The Stars) [62 Verses]
-- Surah 54: القمر / al-Qamar (The Moon) [55 Verses]
-- Surah 55: الرحمن / al-Rahman (The Beneficient) [78 Verses]
-- Surah 56: الواقعة / al-Waqia (The Inevitable Event) [96 Verses]
-- Surah 57: الحديد / al-Hadid (The Iron) [29 Verses]
-- Surah 58: المجادلة / al-Mujadilah (She that Disputes) [22 Verses]
-- Surah 59: الحشر / al-Hashr (Exile) [29 Verses]
-- Surah 60: الممتحنة / al-Mumtahina (She That is to be Examined) [12 Verses]
-- Surah 61: الصف / as-Saff (The Ranks) [14 Verses]
-- Surah 62: الجمعة / al-Jumua (The Congregation on Friday) [11 Verses]
-- Surah 63: المنافقون / al-Munafiqoon (The Hypocrites) [11 Verses]
-- Surah 64: التغابن / at-Taghabun (Mutual Disillusion) [18 Verses]
-- Surah 65: الطلاق / at-Talaq (Divorce) [12 Verses]
-- Surah 66: التحريم / at-Tahrim (Banning) [12 Verses]
-- Surah 67: الملك / al-Mulk (The Sovereignty) [30 Verses]
-- Surah 68: القلم / al-Qalam (The Pen) [52 Verses]
-- Surah 69: الحاقة / al-Haaqqa (The Reality) [52 Verses]
-- Surah 70: المعارج / al-Maarij (The Ascending Stairways) [44 Verses]
-- Surah 71: نوح / Nooh (Nooh) [28 Verses]
-- Surah 72: الجن / al-Jinn (The Jinn) [28 Verses]
-- Surah 73: المزمل / al-Muzzammil (The Enshrouded One) [20 Verses]
-- Surah 74: المدثر / al-Muddathir (The Cloaked One) [56 Verses]
-- Surah 75: القيامة / al-Qiyama (The Rising of the Dead) [40 Verses]
-- Surah 76: الإنسان / al-Insan (The Man) [31 Verses]
-- Surah 77: المرسلات / al-Mursalat (The Emissaries) [50 Verses]
-- Surah 78: النبأ / an-Naba (The Tidings) [40 Verses]
-- Surah 79: النازعات / an-Naziat (Those who Drag Forth) [46 Verses]
-- Surah 80: عبس / Abasa (He Frowned) [42 Verses]
-- Surah 81: التكوير / at-Takwir (The Overthrowing) [29 Verses]
-- Surah 82: الإنفطار / al-Infitar (The Cleaving) [19 Verses]
-- Surah 83: المطففين / al-Mutaffifin (Defrauding) [36 Verses]
-- Surah 84: الانشقاق / al-Inshiqaq (The Splitting Open) [25 Verses]
-- Surah 85: البروج / al-Burooj (The Mansions of the Stars) [22 Verses]
-- Surah 86: الطارق / at-Tariq (The Morning Star) [17 Verses]
-- Surah 87: الأعلى / al-Ala (The Most High) [19 Verses]
-- Surah 88: الغاشية / al-Ghashiya (The Overwhelming) [26 Verses]
-- Surah 89: الفجر / al-Fajr (The Dawn) [30 Verses]
-- Surah 90: البلد / al-Balad (The City) [20 Verses]
-- Surah 91: الشمس / ash-Shams (The Sun) [15 Verses]
-- Surah 92: الليل / al-Lail (The Night) [21 Verses]
-- Surah 93: الضحى / ad-Dhuha (The Morning Hours) [11 Verses]
-- Surah 94: الشرح / al-Inshirah (Solace) [8 Verses]
-- Surah 95: التين / at-Tin (The Fig) [8 Verses]
-- Surah 96: العلق / al-Alaq (The Clot) [19 Verses]
-- Surah 97: القدر / al-Qadr (The Power) [5 Verses]
-- Surah 98: البينة / al-Bayyina (The Clear Proof) [8 Verses]
-- Surah 99: الزلزلة / al-Zalzala (The Earthquake) [8 Verses]
-- Surah 100: العاديات / al-Adiyat (The Chargers) [11 Verses]
-- Surah 101: القارعة / al-Qaria (The Calamity) [11 Verses]
-- Surah 102: التكاثر / at-Takathur (Competition) [8 Verses]
-- Surah 103: العصر / al-Asr (The Declining Day) [3 Verses]
-- Surah 104: الهمزة / al-Humaza (The Traducer) [9 Verses]
-- Surah 105: الفيل / al-Fil (The Elephant) [5 Verses]
-- Surah 106: قريش / Quraish (Quraish) [4 Verses]
-- Surah 107: الماعون / al-Maun (Alms Giving) [7 Verses]
-- Surah 108: الكوثر / al-Kauther (Abundance) [3 Verses]
-- Surah 109: الكافرون / al-Kafiroon (The Disbelievers) [6 Verses]
-- Surah 110: النصر / an-Nasr (The Succour) [3 Verses]
-- Surah 111: المسد / al-Masadd (The Flame) [5 Verses]
-- Surah 112: الإخلاص / al-Ikhlas (Absoluteness) [4 Verses]
-- Surah 113: الفلق / al-Falaq (The Day Break) [5 Verses]
-- Surah 114: الناس / an-Nas (The Mankind) [6 Verses]
+- Surah 10: يونس / Younus (Jonah) <span style="color:lightblue">[109 Verses]</span>
+- Surah 11: هود / Hood (Hud) <span style="color:lightblue">[123 Verses]</span>
+- Surah 12: يوسف / Yusuf (Joseph) <span style="color:lightblue">[111 Verses]</span>
+- Surah 13: الرعد / ar-Ra'ad (The Thunder) <span style="color:lightblue">[43 Verses]</span>
+- Surah 14: إبراهيم / Ibrahim (Abraham) <span style="color:lightblue">[52 Verses]</span>
+- Surah 15: الحجر / al-Hijr (al-Hijr Stone Valley) <span style="color:lightblue">[99 Verses]</span>
+- Surah 16: النحل / an-Nahl (The Bee) <span style="color:lightblue">[128 Verses]</span>
+- Surah 17: الإسراء / al-Isra (The Night Journey) <span style="color:lightblue">[111 Verses]</span>
+- Surah 18: الكهف / al-Kahf (The Cave) <span style="color:lightblue">[110 Verses]</span>
+- Surah 19: مريم / Maryam (Mary) <span style="color:lightblue">[98 Verses]</span>
+- Surah 20: طه / Taha (Taha) <span style="color:lightblue">[135 Verses]</span>
+- Surah 21: الأنبياء / al-Anbiya (The Prophets) <span style="color:lightblue">[112 Verses]</span>
+- Surah 22: الحج / al-Hajj (The Pilgrimage) <span style="color:lightblue">[78 Verses]</span>
+- Surah 23: المؤمنون / al-Muminoon (The Believers) <span style="color:lightblue">[118 Verses]</span>
+- Surah 24: النور / al-Noor (The Light) <span style="color:lightblue">[64 Verses]</span>
+- Surah 25: الفرقان / al-Furqan (The Standard) <span style="color:lightblue">[77 Verses]</span>
+- Surah 26: الشعراء / ash-Shu'ara (The Poets) <span style="color:lightblue">[227 Verses]</span>
+- Surah 27: النمل / an-Naml (The Ant) <span style="color:lightblue">[93 Verses]</span>
+- Surah 28: القصص / al-Qasas (The Story) <span style="color:lightblue">[88 Verses]</span>
+- Surah 29: العنكبوت / al-Ankaboot (The Spider) <span style="color:lightblue">[69 Verses]</span>
+- Surah 30: الروم / ar-Room (The Romans) <span style="color:lightblue">[60 Verses]</span>
+- Surah 31: لقمان / Luqman (Luqman) <span style="color:lightblue">[34 Verses]</span>
+- Surah 32: السجدة / as-Sajda (The Prostration) <span style="color:lightblue">[30 Verses]</span>
+- Surah 33: الأحزاب / al-Ahzab (The Coalition) <span style="color:lightblue">[73 Verses]</span>
+- Surah 34: سبأ / as-Saba (Saba) <span style="color:lightblue">[54 Verses]</span>
+- Surah 35: فاطر / Fatir (Originator) <span style="color:lightblue">[45 Verses]</span>
+- Surah 36: يس / Yaseen (Yaseen) <span style="color:lightblue">[83 Verses]</span>
+- Surah 37: الصافات / as-Saaffat (Those who set the Ranks) <span style="color:lightblue">[182 Verses]</span>
+- Surah 38: ص / Saad (Sad) <span style="color:lightblue">[88 Verses]</span>
+- Surah 39: الزمر / al-Zumar (The Troops) <span style="color:lightblue">[75 Verses]</span>
+- Surah 40: غافر / Ghafir (The Forgiver) <span style="color:lightblue">[85 Verses]</span>
+- Surah 41: فصلت / Fussilat (Explained in Detail) <span style="color:lightblue">[54 Verses]</span>
+- Surah 42: الشورى / ash-Shura (Council) <span style="color:lightblue">[53 Verses]</span>
+- Surah 43: الزخرف / az-Zukhruf (Ornaments of Gold) <span style="color:lightblue">[89 Verses]</span>
+- Surah 44: الدخان / al-Dukhan (The Smoke) <span style="color:lightblue">[59 Verses]</span>
+- Surah 45: الجاثية / al-Jathiya (Crouching) <span style="color:lightblue">[37 Verses]</span>
+- Surah 46: الأحقاف / al-Ahqaf (The Wind-curved Sandhills) <span style="color:lightblue">[35 Verses]</span>
+- Surah 47: محمد / Muhammad (Muhammad) <span style="color:lightblue">[38 Verses]</span>
+- Surah 48: الفتح / al-Fath (The Victory) <span style="color:lightblue">[29 Verses]</span>
+- Surah 49: الحجرات / al-Hujraat (The Private Apartments) <span style="color:lightblue">[18 Verses]</span>
+- Surah 50: ق / Qaaf (Qaaf) <span style="color:lightblue">[45 Verses]</span>
+- Surah 51: الذاريات / al-Dhariyaat (The Winnowing Winds) <span style="color:lightblue">[60 Verses]</span>
+- Surah 52: الطور / at-Tur (Mount Sinai) <span style="color:lightblue">[49 Verses]</span>
+- Surah 53: النجم / an-Najm (The Stars) <span style="color:lightblue">[62 Verses]</span>
+- Surah 54: القمر / al-Qamar (The Moon) <span style="color:lightblue">[55 Verses]</span>
+- Surah 55: الرحمن / al-Rahman (The Beneficient) <span style="color:lightblue">[78 Verses]</span>
+- Surah 56: الواقعة / al-Waqia (The Inevitable Event) <span style="color:lightblue">[96 Verses]</span>
+- Surah 57: الحديد / al-Hadid (The Iron) <span style="color:lightblue">[29 Verses]</span>
+- Surah 58: المجادلة / al-Mujadilah (She that Disputes) <span style="color:lightblue">[22 Verses]</span>
+- Surah 59: الحشر / al-Hashr (Exile) <span style="color:lightblue">[29 Verses]</span>
+- Surah 60: الممتحنة / al-Mumtahina (She That is to be Examined) <span style="color:lightblue">[12 Verses]</span>
+- Surah 61: الصف / as-Saff (The Ranks) <span style="color:lightblue">[14 Verses]</span>
+- Surah 62: الجمعة / al-Jumua (The Congregation on Friday) <span style="color:lightblue">[11 Verses]</span>
+- Surah 63: المنافقون / al-Munafiqoon (The Hypocrites) <span style="color:lightblue">[11 Verses]</span>
+- Surah 64: التغابن / at-Taghabun (Mutual Disillusion) <span style="color:lightblue">[18 Verses]</span>
+- Surah 65: الطلاق / at-Talaq (Divorce) <span style="color:lightblue">[12 Verses]</span>
+- Surah 66: التحريم / at-Tahrim (Banning) <span style="color:lightblue">[12 Verses]</span>
+- Surah 67: الملك / al-Mulk (The Sovereignty) <span style="color:lightblue">[30 Verses]</span>
+- Surah 68: القلم / al-Qalam (The Pen) <span style="color:lightblue">[52 Verses]</span>
+- Surah 69: الحاقة / al-Haaqqa (The Reality) <span style="color:lightblue">[52 Verses]</span>
+- Surah 70: المعارج / al-Maarij (The Ascending Stairways) <span style="color:lightblue">[44 Verses]</span>
+- Surah 71: نوح / Nooh (Nooh) <span style="color:lightblue">[28 Verses]</span>
+- Surah 72: الجن / al-Jinn (The Jinn) <span style="color:lightblue">[28 Verses]</span>
+- Surah 73: المزمل / al-Muzzammil (The Enshrouded One) <span style="color:lightblue">[20 Verses]</span>
+- Surah 74: المدثر / al-Muddathir (The Cloaked One) <span style="color:lightblue">[56 Verses]</span>
+- Surah 75: القيامة / al-Qiyama (The Rising of the Dead) <span style="color:lightblue">[40 Verses]</span>
+- Surah 76: الإنسان / al-Insan (The Man) <span style="color:lightblue">[31 Verses]</span>
+- Surah 77: المرسلات / al-Mursalat (The Emissaries) <span style="color:lightblue">[50 Verses]</span>
+- Surah 78: النبأ / an-Naba (The Tidings) <span style="color:lightblue">[40 Verses]</span>
+- Surah 79: النازعات / an-Naziat (Those who Drag Forth) <span style="color:lightblue">[46 Verses]</span>
+- Surah 80: عبس / Abasa (He Frowned) <span style="color:lightblue">[42 Verses]</span>
+- Surah 81: التكوير / at-Takwir (The Overthrowing) <span style="color:lightblue">[29 Verses]</span>
+- Surah 82: الإنفطار / al-Infitar (The Cleaving) <span style="color:lightblue">[19 Verses]</span>
+- Surah 83: المطففين / al-Mutaffifin (Defrauding) <span style="color:lightblue">[36 Verses]</span>
+- Surah 84: الانشقاق / al-Inshiqaq (The Splitting Open) <span style="color:lightblue">[25 Verses]</span>
+- Surah 85: البروج / al-Burooj (The Mansions of the Stars) <span style="color:lightblue">[22 Verses]</span>
+- Surah 86: الطارق / at-Tariq (The Morning Star) <span style="color:lightblue">[17 Verses]</span>
+- Surah 87: الأعلى / al-Ala (The Most High) <span style="color:lightblue">[19 Verses]</span>
+- Surah 88: الغاشية / al-Ghashiya (The Overwhelming) <span style="color:lightblue">[26 Verses]</span>
+- Surah 89: الفجر / al-Fajr (The Dawn) <span style="color:lightblue">[30 Verses]</span>
+- Surah 90: البلد / al-Balad (The City) <span style="color:lightblue">[20 Verses]</span>
+- Surah 91: الشمس / ash-Shams (The Sun) <span style="color:lightblue">[15 Verses]</span>
+- Surah 92: الليل / al-Lail (The Night) <span style="color:lightblue">[21 Verses]</span>
+- Surah 93: الضحى / ad-Dhuha (The Morning Hours) <span style="color:lightblue">[11 Verses]</span>
+- Surah 94: الشرح / al-Inshirah (Solace) <span style="color:lightblue">[8 Verses]</span>
+- Surah 95: التين / at-Tin (The Fig) <span style="color:lightblue">[8 Verses]</span>
+- Surah 96: العلق / al-Alaq (The Clot) <span style="color:lightblue">[19 Verses]</span>
+- Surah 97: القدر / al-Qadr (The Power) <span style="color:lightblue">[5 Verses]</span>
+- Surah 98: البينة / al-Bayyina (The Clear Proof) <span style="color:lightblue">[8 Verses]</span>
+- Surah 99: الزلزلة / al-Zalzala (The Earthquake) <span style="color:lightblue">[8 Verses]</span>
+- Surah 100: العاديات / al-Adiyat (The Chargers) <span style="color:lightblue">[11 Verses]</span>
+- Surah 101: القارعة / al-Qaria (The Calamity) <span style="color:lightblue">[11 Verses]</span>
+- Surah 102: التكاثر / at-Takathur (Competition) <span style="color:lightblue">[8 Verses]</span>
+- Surah 103: العصر / al-Asr (The Declining Day) <span style="color:lightblue">[3 Verses]</span>
+- Surah 104: الهمزة / al-Humaza (The Traducer) <span style="color:lightblue">[9 Verses]</span>
+- Surah 105: الفيل / al-Fil (The Elephant) <span style="color:lightblue">[5 Verses]</span>
+- Surah 106: قريش / Quraish (Quraish) <span style="color:lightblue">[4 Verses]</span>
+- Surah 107: الماعون / al-Maun (Alms Giving) <span style="color:lightblue">[7 Verses]</span>
+- Surah 108: الكوثر / al-Kauther (Abundance) <span style="color:lightblue">[3 Verses]</span>
+- Surah 109: الكافرون / al-Kafiroon (The Disbelievers) <span style="color:lightblue">[6 Verses]</span>
+- Surah 110: النصر / an-Nasr (The Succour) <span style="color:lightblue">[3 Verses]</span>
+- Surah 111: المسد / al-Masadd (The Flame) <span style="color:lightblue">[5 Verses]</span>
+- Surah 112: الإخلاص / al-Ikhlas (Absoluteness) <span style="color:lightblue">[4 Verses]</span>
+- Surah 113: الفلق / al-Falaq (The Day Break) <span style="color:lightblue">[5 Verses]</span>
+- Surah 114: الناس / an-Nas (The Mankind) <span style="color:lightblue">[6 Verses]</span>
