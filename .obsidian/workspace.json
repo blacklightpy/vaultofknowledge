@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varna is based on Guna, not Birth.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Varna is based on Guna, not Birth"
+              "title": "Trying to Consolidate Hinduism 1"
             }
           }
         ],
@@ -370,7 +370,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verse",
+                "query": "font-si",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -524,7 +524,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -546,6 +547,7 @@
   },
   "active": "1d72cff1da5209f4",
   "lastOpenFiles": [
+    "Varna is based on Guna, not Birth.md",
     "Abortion.md",
     "Writings on Theology 1 - Advaita.md",
     "06. Collected Knowledge/QOwnNotes+.md",
@@ -569,7 +571,6 @@
     "About \"We are Good People\".md",
     "Requirements to Criticize a Religion.md",
     "Add to How I Learn.md",
-    "Varna is based on Guna, not Birth.md",
     "Mandah Adhikari.md",
     "Osho on Abortion.md",
     "Problems in Puraanas.md",
