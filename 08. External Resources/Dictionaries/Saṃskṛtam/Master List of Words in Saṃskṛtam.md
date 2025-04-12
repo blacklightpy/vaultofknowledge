@@ -84,26 +84,22 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Mūrti
 - Pūjā
 
-
-
+- Saṃhitā
+- Āraṇyakam
+- Brāhmaṇam
+- Upaniṣad
 
 - Āstika
 - Nāstika
+- Mahā
+
+- Vāda
+- Prati
 ### Words to make IAST
 
-- Upaasana
-- Upanishad
-- Samhitha
-- Brahmana
-- Aranyaka
-- Poorva
-- Utthara
-- Aasthika
-- Naasthika
-- Mahaa
-- Bhaaratha
-- Ithihaasa
-- Puraana
+- Bhāratha
+- Itihāsa
+- Purāna
 - Bhagavad
 - Geetha
 - Shreemad

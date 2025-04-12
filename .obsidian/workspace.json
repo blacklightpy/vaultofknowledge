@@ -355,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -530,10 +530,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "757f733310d15a0b",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
-    "Custom Dictionaries.md",
     "Trying to Consolidate Hinduism 1.md",
+    "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
+    "Custom Dictionaries.md",
     "Trying to find the reference for a verse.md",
     "How to Scale text in different Scripts.md",
     "06. Collected Knowledge/QOwnNotes+.md",
@@ -541,7 +542,6 @@
     "Abortion.md",
     "Varna is based on Guna, not Birth.md",
     "06. Collected Knowledge/How to Scale my Website for Small Screens.md",
-    "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "The Ultimate Reality cannot be expressed by Words.md",
     "Vyavahaarika Sathya.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
