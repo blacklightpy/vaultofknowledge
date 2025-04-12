@@ -101,11 +101,11 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Itihāsa
 - Purāna
 - Bhagavad
-- Geetha
-- Shreemad
-- Bhaagavatha
+- Gītā
+- Śrīmad 
+- Bhāgavatam
 - Devi
-- Jnaana
+- Jñāna
 - Karma
 - Kaanda
 - Manthra

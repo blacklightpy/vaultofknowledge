@@ -4,6 +4,7 @@
 They firstly think that their religion is true and consequently that only their religion is true.
 And from that they think that all non-Muslims (non-submitters) are Kaafirs (hiders), and are materialists.
 That is, they believe all people of other religions know their beliefs are false, and they are all truly materialists.
+(A sample conversation attached below for proof, and I assert by experience that it is the general opinion.)
 
 Therefore they say, we won't understand the the glory of fighting and dying in war, since we are materialists. That is their rationale for pointing out how 1) they continue to fight in Gaza (when I pointed out how they claim to be victorious while they are being destroyed), and 2) how the Quraysh people did not fight back and chose to give up and convert (i.e. because they are materialists who did not have the guts to fight like Muslim warriors).
 
@@ -18,6 +19,10 @@ The original quote is:
 > — Winston Churchill in "The River War" (1989)
 
 I did not mention other problematic ideas because this is the root delusion from which all others derive, so I can just skip them here, leaving them to studies about the religion.
+
+Here's an example of a conversation to back my claim (and this isn't an uncommon opinion):
+
+![[Screenshot of a common delusion of Muhammadians.png]]
 
 ---
 
