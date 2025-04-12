@@ -1,11 +1,14 @@
+### 1. It is self-contradicting
 I find hard rationalism to be a self-contradicting principle. This is because hard rationalism posits that all things that are true are rational. Now, what defines hard rationalism as separate from soft-rationalism is mainly that hard rationalism requires evidence for any claim to be true. But then, if you get slapped by someone, you won't have the evidence for it, but that doesn't make it true. This by itself refutes the claim of hard-rationalists, that all things that are true require evidence.
 
+Now if you consider that a hard-rationalist is someone who only requires the argument to be rational in the sense that it is not irrational, then that's my definition of a soft-rationalist. Now one may say that a soft-rationalist is still different in the sense that a soft-rationalist will entertain all beliefs until they are disproven, while a hard-rationalist would remain skeptic until they are proven. But I think even a soft-rationalist would do that, as it is not rational to believe that something is ultimately rational until it is disproven.
 
-Also, all things that are rational do not have to b
+This is simply the same difference as "innocent until proven guilty" and "guilty until proven innocent." I simply stand by "innocent until proven guilty" as a soft-rationalist.
 
-Also, all things that are rational does not mean it is the one true answer from a set of all answers.
-To even seek such an answer is a disagreeably theistic position.
+### 2. Not all true answers are the only true answers
+Also, all things that are rational do not have to be the only correct answers. To even seek such an answer is a very disagreeably theistic position. It is definitely possible for a set of perspectives to be true all at the same time. But then one may reasonably question which of those perspectives are ultimately part of the true set of perspectives. As far a soft-rationalist is concerned, he would let them all be valid unless one of them is found to be irrational. Because until that point, we do not have a rational way of dismissing any of it.
 
-It is disagreeable ultimately too, because one's perspective is shaped by their make-up. A person with red-green colour blindness cannot agree on the idea that blood and leaves have different colours. They can agree on it if you present them with their emission spectra, but they still cannot agree on that they have different colours. That is, unless you 
+### 3. Truth is dependent on the observer's make-up
+It is disagreeable ultimately too, because one's perspective is shaped by their make-up. A person with red-green colour blindness cannot agree on the idea that blood and leaves have different colours. They can agree on it if you present them with their emission spectra, but they still cannot agree on that they have different colours. That is, unless you show them that colours are formed based on the types of optical cells one has within their retina, and by how they combine the stimuli they generate in response to incoming radiation to form a tristimulus, and by how that is interpreted by the brain, they cannot see that they have different colours.
 
 Even then, they can only say that they have different colours from most people's perspectives, but not from his perspective.

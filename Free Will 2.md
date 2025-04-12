@@ -4,7 +4,7 @@ If it is a mechanical device, the will is more minimal than if it was an automat
 
 Therefore, the generation of AI is simply when a designer applies his will to impart a will on to the device through material means, and then forgets or simply ignores the details of its working. This is because if he did not ignore the details of its working, he would simply see it as a mechanical system.
 
-In the same way, the generation of intelligent life is only possible when an intelligent creator
+In the same way, the generation of intelligent life is only possible when an intelligent creator generates intelligen
 
 
 
