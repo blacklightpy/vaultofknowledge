@@ -1,23 +1,25 @@
 - **Scriptures**
 	- **Heard (Eternal Wisdom)** [==Shruthi==]
-		- **Sought Knowledge (Revelation)** [==Nigama==] / **Samskrita Books of Knowledge** [==Vedaha==]
-			- Divisions
-				- **Action Section** [==Karma Kaanda==]
-					- **Collections of Manthras** [==Samhithaaha / Manthra Samhithaaha==]
-					- **Works about Reality** [==Braahmanaha==]
-				- **Worship Section** [==Upaasana Kaanda==] + **Wisdom Section** [==Jnaana Kaanda==]
-					- **Works from the Forests** [==Aranyakaha==]
-				- **Wisdom Section** [==Jnaana Kaanda==]
-					- **Works Close and Down to Earth** [==Upanishadah==]
-			- Fields
-				- **Branches of Transmissions** [==Shaakhas==]
-				- **Disciplines of the Samskrita Books of Knowledge** [==Vedaanga==]
-					- **Phonetics**
-					- **Prosody** 
-					- **Grammar**
-					- **Etymology and Linguistics**
-					- **Astrology**
-					- **Rituals and Rites of Passage**
+		- **Non-Arriving Knowledge (Sought) [==Nigama==]
+			- **Samskrita Books of Knowledge** [==Vedaha==]
+				- Divisions
+					- **Action Section** [==Karma Kaanda==]
+						- **Collections of Manthras** [==Samhithaaha / Manthra Samhithaaha==]
+						- **Works about Reality** [==Braahmanaha==]
+					- **Worship Section** [==Upaasana Kaanda==] + **Wisdom Section** [==Jnaana Kaanda==]
+						- **Works from the Forests** [==Aranyakaha==]
+					- **Wisdom Section** [==Jnaana Kaanda==]
+						- **Works Close and Down to Earth** [==Upanishadah==]
+				- Fields
+					- **Branches of Transmissions** [==Shaakhas==]
+					- **Disciplines of the Samskrita Books of Knowledge** [==Vedaanga==]
+						- **Phonetics**
+						- **Prosody** 
+						- **Grammar**
+						- **Etymology and Linguistics**
+						- **Astrology**
+						- **Rituals and Rites of Passage**
+			- **Techniques** [==Tantra:==] / **Arriving Knowledge from the Denomination of Shakthi** [==Shaaktha Aagama==]
 		- **Arriving Knowledge (Traditions)** [==Aagama==]
 			- **Techniques** [==Tantra:==]
 			- **Devices** [==Yantra:==]
@@ -316,11 +318,7 @@ Basically it is "the king of Yoga", or the best path. That is, it's practices le
 
 From Hathaa Yoga Pradeepika, Chapter 4, Verses 3-7:
 
-> <span style="font-size:145%">राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||
-अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||
-सलिले सैन्धवं यद्वत्साम्यं भजति योगतः | तथात्म-मनसोरैक्यं समाधिरभिधीयते || ५ ||
-यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||
-तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||</span>
+> <span style="font-size:145%">राजयोगः समाधिश्च उन्मनी च मनोन्मनी | अमरत्वं लयस्तत्त्वं शून्याशून्यं परं पदम || ३ ||<br>अमनस्कं तथाद्वैतं निरालम्बं निरञ्जनम | जीवन्मुक्तिश्च सहजा तुर्या चेत्येक-वाचकाः || ४ ||<br>सलिले सैन्धवं यद्वत्साम्यं भजति योगतः | तथात्म-मनसोरैक्यं समाधिरभिधीयते || ५ ||<br>यदा संक्ष्हीयते पराणो मानसं च परलीयते | तदा समरसत्वं च समाधिरभिधीयते || ६ ||<br>तत-समं च दवयोरैक्यं जीवात्म-परमात्मनोः | परनष्ह्ट-सर्व-सङ्कल्पः समाधिः सोऽभिधीयते || ७ ||</span>
 > 
 > Raaja Yoga, Samaadhi, Unmani, Manonmani, Amaratva, Laya, Tatva, Shoonya, Ashoonya, Param Padam, Amanaska, Advaita, Niraalamba, Niranjana, Jeevan Mukti, Sahaja and Turiya denote the same state of being.
 > 
