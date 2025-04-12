@@ -12,8 +12,8 @@ From Verse 3.9.135, Chapter 9 (The Glories of Advaita) of Chaitanya Bhaagavata b
 > Bengali text, Devanagari and Unicode transliteration of verse 3.9.135:
 > 
 > > 
-> > ভারতী বলেন,—“তারা না বুঝে বিচার মহাজন-পথে সে গমন সবাকার ॥ ১৩৫ ॥
-> > भारती बलेन,—“तारा ना बुझे विचार महाजन-पथे से गमन सबाकार ॥ १३५ ॥
+> > <p style="font-size:150%"><b>ভারতী বলেন,—“তারা না বুঝে বিচার মহাজন-পথে সে গমন সবাকার ॥ ১৩৫ ॥</b></p>
+> > <p style="font-size:145%">भारती बलेन,—“तारा ना बुझे विचार महाजन-पथे से गमन सबाकार ॥ १३५ ॥</p>
 > > 
 > > bhāratī balena,—“tārā nā bujhe vicāra mahājana-pathe se gamana sabākāra || 135 ||
 > > bharati balena,—“tara na bujhe vicara mahajana-pathe se gamana sabakara (135)
