@@ -13,8 +13,6 @@ I consider that in reality, the knots are simply illusions that we identify with
 ### The tricking the cow story by Aachaarya Shoonya
 Source: https://www.acharyashunya.com/post/2019/03/28/our-bondages-live-only-in-our-mind
 
-> My guru, Baba, once told me a story. In an ashram, a cow was always tied up at night so she would not wander away. One day, the rope used to tie up the cow could not be found.
-> 
 > A student tried to guide the cow into the cowshed so that she would be safe and dry in case of rain, but she would not go inside. The student went to his guru, who told him that the cow was used to being led by a rope, but since the rope was missing, he should pretend to tie a rope around her neck and lead her with the imaginary rope.
 > 
 > It worked. The cow got up and came along meekly.
@@ -22,3 +20,4 @@ Source: https://www.acharyashunya.com/post/2019/03/28/our-bondages-live-only-in-
 > However, when it was time to go out and feed on grass the next day, the cow would not go out. Once again, there was no rope to lead her. As before, the teacher instructed the student to pretend to tie the rope and lead her out. Again, the ploy worked.
 > 
 > The rope of thought was enough for the cow to behave as if she were in bondage. She was free all along.
+
