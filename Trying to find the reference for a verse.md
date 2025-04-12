@@ -8,6 +8,11 @@ I Googled for it, and the only sources I could find were from Prabhupada's lectu
 
 From Verse 3.9.135, Chapter 9 (The Glories of Advaita) of Chaitanya Bhaagavata by Bhumipati Daasa (with Gaudiya Bhaashya by Sarasvathi Thaakura):
 
+<p style="font-size:150%"><b>ভারতী বলেন,—“তারা না বুঝে বিচার মহাজন-পথে সে গমন সবাকার ॥ ১৩৫ ॥</b></p>
+<p style="font-size:145%">भारती बलेन,—“तारा ना बुझे विचार महाजन-पथे से गमन सबाकार ॥ १३५ ॥</p>
+bhāratī balena,—“tārā nā bujhe vicāra mahājana-pathe se gamana sabākāra || 135 ||
+bharati balena,—“tara na bujhe vicara mahajana-pathe se gamana sabakara (135)
+
 > [!NOTE] Snippet
 > Bengali text, Devanagari and Unicode transliteration of verse 3.9.135:
 > 
