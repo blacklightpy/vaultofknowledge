@@ -18,3 +18,9 @@ In any case, I can assure you that, I don't consider my work as hard work. It is
 - Judaism: Mixed. After the original sin, we are supposed to till the earth with soil and sweat. God helped Noah build the Ark, and allowed the use of tools, and even gave him the instructions, but shunned the Tower of Babel.
 - Christianity: Still mixed. Some churches had sacred arts, and distanced themselves from secular crafts, while some embraced modern technology.
 - Islam: Creating larger structures for meetings was necessary, but the depiction of the godhead or any living being is forbidden in arts and crafts.
+
+# Special Case
+
+When I first wrote this page last year, I remember looking up this article on Hinduism Stack Exchange and seeing these set of comments. After a while, when I joined Hinduism SE, I found their posts and comments all over the site, and they are highly active, and their role is simply to justify casteism and spread hate towards non-Indians. I'll make a special note regarding them on [[Morons on Hinduism Stack Exchange]].
+
+![[Morons from Hinduism SE.png]]
