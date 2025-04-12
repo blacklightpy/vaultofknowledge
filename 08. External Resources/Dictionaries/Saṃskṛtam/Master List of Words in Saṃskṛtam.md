@@ -213,6 +213,9 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Teertha
 - Tirodhaanama
 
+- Deeksha
+- Upanayana
+- 
 
 ---
 
