@@ -1,0 +1,1 @@
+See: https://hinduism.stackexchange.com/questions/55589/what-is-the-difference-between-shaiva-and-shakta
