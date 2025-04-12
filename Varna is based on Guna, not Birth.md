@@ -21,8 +21,8 @@ The story of adopted child Matanga to whom Indra said he could not change his Va
 
 **Rig Veda 9.63:**
 
-> <p style="font-size:140%">इन्द्रं वर्धन्तो अप्तुर: कृण्वन्तो विश्वमार्यम्।</p>
-> <p style="font-size:140%">अपघ्नन्तो अराव्णः॥</p>
+> <p style="font-size:145%">इन्द्रं वर्धन्तो अप्तुर: कृण्वन्तो विश्वमार्यम्।</p>
+> <p style="font-size:145%">अपघ्नन्तो अराव्णः॥</p>
 > 
 > (This is a prayer to make all humans Aryas. So when Krishna Yajurveda is making a distinction between Shudra & Arya it means bad people and noble people. Of course, birth is as per karma but this is a very clear message from the Veda itself that Varna can be changed!)
 

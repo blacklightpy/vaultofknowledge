@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varna is based on Guna, not Birth.md",
+                "file": "Trying to find the reference for a verse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Varna is based on Guna, not Birth"
+              "title": "Trying to find the reference for a verse"
             }
           }
         ],
@@ -524,7 +524,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -546,8 +547,10 @@
   },
   "active": "1d72cff1da5209f4",
   "lastOpenFiles": [
-    "Trying to Consolidate Hinduism 1.md",
     "Varna is based on Guna, not Birth.md",
+    "06. Collected Knowledge/How to Scale my Website for Small Screens.md",
+    "How to Scale text in different Scripts.md",
+    "Trying to Consolidate Hinduism 1.md",
     "Abortion.md",
     "Writings on Theology 1 - Advaita.md",
     "06. Collected Knowledge/QOwnNotes+.md",
@@ -572,8 +575,6 @@
     "Add to How I Learn.md",
     "Mandah Adhikari.md",
     "Osho on Abortion.md",
-    "Problems in Puraanas.md",
-    "Vishuddha Manu Smrithi.md",
     "Add to How I Learn",
     "Study of the Ultimate Reality",
     "08. External Resources/Large File Backups (PDFs, etc.)",
