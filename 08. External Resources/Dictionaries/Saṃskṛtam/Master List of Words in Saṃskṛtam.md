@@ -1,6 +1,6 @@
 Now one ought to know, the word Sanskrit itself is actually written as Saṃskṛtam (read Samskritham).
 
-Only include words that aren't separate notes here. For example, [[Upanishads]] have a separate note, but Śiva doesn't.
+Only include words that aren't separate notes here. For example, [[Upanishads]] have a separate note, but Śiva doesn't. (Will have some unused notes too, for future use).
 
 (Should I even develop this page, or will it be bloat?)
 
@@ -47,6 +47,8 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Sahasra
 - Nāma
 - Japa
+- Pūja
+- Rudrākṣa
 
 - Prasthāna
 - Trayī
@@ -206,6 +208,12 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 - Praayascitta
 
 - Loka
+- Sthothra
+- Keerthanam
+- Teertha
+- Tirodhaanama
+
+
 ---
 
 
