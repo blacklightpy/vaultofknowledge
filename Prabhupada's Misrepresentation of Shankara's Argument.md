@@ -19,3 +19,30 @@ What he holds is, as far as I can see, that a Jeeva is a part, but Eeshvara is t
 And I was right, he explains it is Achinthya Bheda-Abheda here!:
 
 >  **SB 8.20.22, Purport:** Māyāvādī philosophers think that since the Supreme Personality of Godhead, the Absolute Truth, has become everything, He has no separate existence. Their philosophy is called advaita-vāda. Actually, however, their philosophy is not correct. Here, Bali Mahārāja was the seer of the Personality of Godhead's universal body, and that body was that which was seen. Thus there is dvaita-vāda; there are always two entities—the seer and the seen. The seer is a part of the whole, but he is not equal to the whole. The part of the whole, the seer, is also one with the whole, but since he is but a part, he cannot be the complete whole at any time. This acintya-bhedābheda—simultaneous oneness and difference—is the perfect philosophy propounded by Lord Śrī Caitanya Mahāprabhu.
+
+---
+
+### More misconceptions
+
+#### 1. Thinking Advaitha is Shuddha Advaitha
+
+>  **SB 10.13.39, Purport:** Spirit and matter cannot be made one, for actually they are superior and inferior energies, yet the Māyāvādīs, or Advaita-vādīs, try to make them one. This is wrong. Although spirit and matter ultimately come from the same one source, they cannot be made one. For example, there are many things that come from our bodies, but although they come from the same source, they cannot be made one. We should be careful to note that although the supreme source is one, the emanations from this source should be separately regarded as inferior and superior. The difference between the Māyāvāda and Vaiṣṇava philosophies is that the Vaiṣṇava philosophy recognizes this fact.
+
+He clearly mistakes Shuddha Advaita for Advaita.
+
+More:
+
+ > **CC Adi 7.10, Purport:** The Māyāvādī philosophers, however, try to equate the minute living entities with the supreme living entity. Because they recognize no distinctions between them, their philosophy is called Advaita-vāda, or monism. Factually, however, there is a distinction. This verse is especially meant to impart to the Māyāvādī philosopher the understanding that the Supreme Personality of Godhead is the supreme controller. The supreme controller, the Personality of Godhead, is Kṛṣṇa Himself, but as a transcendental pastime He has accepted the form of a devotee, Lord Caitanya Mahāprabhu.
+
+#### 2. Turns out he does understand Shuddha Advaitha
+
+>  **CC Adi 7.110, Purport:** When Śrī Viṣṇu Svāmī, one of the four ācāryas of the Vaiṣṇava cult, presented his thesis on the subject matter of śuddhādvaita-vāda, immediately the Māyāvādīs took advantage of this philosophy and tried to establish their advaita-vāda or kevalādvaita-vāda. To defeat this kevalādvaita-vāda, Śrī Rāmānujācārya presented his philosophy as viśiṣṭādvaita-vāda, and Śrī Madhvācārya presented his philosophy of tattva-vāda, both of which are stumbling blocks to the Māyāvādīs because they defeat their philosophy in scrupulous detail. Students of Vedic philosophy know very well how strongly Śrī Rāmānujācārya's viśiṣṭādvaita-vāda and Śrī Madhvācārya's tattva-vāda contest the impersonal Māyāvāda philosophy.
+
+So he seems to have an issue with Maaya, but not so much of an issue with Shuddha Advaita. According to them, Shuddha Advaithins can be corrected more than the Advaithins, who can't be told that the world is less meaningful than the ultimate, because they already hold that view.
+
+#### 3. Thinking Impersonal Brahman is the misconception of reality
+
+>  **CC Adi 2.5, Purport:** The beginning of spiritual enlightenment is realization of impersonal Brahman. Such realization is effected by gradual negation of material variegatedness. Impersonal Brahman realization is the partial, distant experience of the Absolute Truth that one achieves through the rational approach. It is compared to one's seeing a hill from a distance and taking it to be a smoky cloud. A hill is not a smoky cloud, but it appears to be one from a distance because of our imperfect vision. In imperfect or smoky realization of the Absolute Truth, spiritual variegatedness is conspicuous by its absence. This experience is therefore called advaita-vāda, or realization of the oneness of the Absolute.
+
+Oh, so he considers the impersonal Brahman to be the first misconception of the ultimate? I see.
+
