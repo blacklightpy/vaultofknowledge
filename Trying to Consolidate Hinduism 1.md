@@ -957,6 +957,6 @@ Krishna tells Arjuna that the Bhagavad Geetha is a distillation of the Upanishad
 
 ---
 
-Knowing through the senses or the intellect: Paroksha Jnaana
+Knowing through the senses or mental faculties: Paroksha Jnaana
 
 Direct intuitive perception, outside of any sensory or mental faculties: Aparoksha Jnaana
