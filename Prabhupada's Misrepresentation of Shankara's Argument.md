@@ -70,3 +70,10 @@ But as ChatGPT described my criticism of him:
 > **But the specific criticisms he makes often match Śuddhādvaita’s claims more than Śaṅkara’s.**
 
 So his main criticism seems to be the denial of form of the Godhead, and that of Bhakthi and Leela as illusions.
+
+In Dvaita, there is Pancha Bheda:
+- Eeshvara-Jeeva
+- Eeshvara-Jada
+- Jeeva-Jeeva
+- Jeeva-Jada
+- Jada-Jada
