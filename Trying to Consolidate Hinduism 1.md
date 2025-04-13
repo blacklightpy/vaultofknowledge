@@ -984,3 +984,6 @@ In a sense, while an Idealist says Existence is Consciousness, a Materialist say
 For another example, calling something "female-human" is in inseparable in one direction. To call one female (in the anthropic sense) implies she is a human, but it does not apply in the other direction. But Existence-Consciousness does apply in both directions. I couldn't find a better analogy at the moment.
 
 **Negatively:** 
+
+To Ishkvaku:
+One can always peacefully justify any form of bigotry  by backing their claims on some other source, and it is only natural to point out its absurdity.
