@@ -108,7 +108,7 @@ Womb of Reality: Shvethaashvatara 5.5
 Parts of Purusha: RV 10.90
 Rivers into Ocean: Chaandogya 6.10
 Bow and Arrow: Mundaka 2.2.4
-Inverted Tree: Katha 2.3.1
+Inverted Ashwattha Tree: Katha 2.3.1 (Actually 6.1), and Geetha 15.1 (Basically, we don't come from the soil, but the soil comes from the self and the answers are found inward.)
 Creatio Ex Nihilo: RV 10.129
 
 Butter in Milk
@@ -132,4 +132,8 @@ The Star in the Sky (arundhati-nyaya)
 
 
 
-Arundhathi Nyaaya / Sthool Arundhathi Nyaaya: 
+Arundhathi Nyaaya:
+https://www.wisdomlib.org/definition/arumdhatinyaya
+
+Sthula / Sthoola Arundhathi Nyaaya:
+https://kamakoti.org/kamakoti/articles/VIVAHAM%20(MARRIAGE).html
