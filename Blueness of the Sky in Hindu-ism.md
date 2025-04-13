@@ -36,8 +36,18 @@ Bhagvat Puran 12.8.21
 
 > 21. Springtime then appeared in Markandeya's asrama. Indeed, the **evening sky, glowing with the light of the rising moon,** became the very face of spring, and sprouts and fresh blossoms virtually covered the multitude of trees and creepers.
 
-Markandeya Puran 103.9 tells Akasha (sky) as manifestations of rays of sun (ie. denoting blue colour also due to rays of sun)
+Markandeya Puran 103.9:
 
 > I bow unto that greatest of the great,  
 > the Sun, the first of all. (7) Urged on by this prime energy I create water, earth, air, fire, gods and various other endless objects beginning with Om; and in due order preserve and destroy them. I can never do so of my own accord. (8) Thou art fire. By thy prowess I dry up the water and create the world and perform the first cooking process of the world. Thou art, O lord, manifest over the universe and **identical with Akasa.**
+
+It says sky is identical to sun (but the poster said it says the blueness is a manifestation of the Sun's rays, which is not implied here)
+
+Mahabharatha, Adi Parva, Astika Parva:
+
+> "Sauti said, 'There is a mountain named Meru, of blazing appearance, and looking like a heap of effulgence. The rays of the Sun falling on its peaks of golden lustre are dispersed by them.
+
+Talks about light dispersion, but of a golden lustre.
+
+Yoga Vasistha describes it as reflections of blue gems on Mount Meru (Chapter 114 Verses 35-36) and as an optical illusion (Chapter 3 Verses 1-2).
 
