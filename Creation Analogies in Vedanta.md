@@ -143,8 +143,10 @@ Arundhathi Nyaaya:
 Sthula / Sthoola Arundhathi Nyaaya:
 https://kamakoti.org/kamakoti/articles/VIVAHAM%20(MARRIAGE).html
 
-https://vidyabalaji.wordpress.com/bhagavad-gita/bhagavad-gita-chapter-3/:
+https://vidyabalaji.wordpress.com/bhagavad-gita/bhagavad-gita-chapter-3/ (BG 3.1-2):
 
+> Better explained through: Sthool-Arundhati-Nyaya refers to pointing to a very tiny star Arundhati through the help of a bigger star in its neighbourhood. Being tiny, Arundhati cannot be immediately identified by the one who is trying to see
+it. Therefore, the teacher first shows a big star which is there in its neighbourhood. And then shows the tiny star from there which can then be recognized.
 
 ### Other
 http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.4):
@@ -154,3 +156,6 @@ http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.
 
 https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023 (Shvethashvatara Up 6.8):
 > So Shakha Chandra Nyaya or Arundhati Nyaya
+
+List looking for books: https://www.advaita-vedanta.org/archives/advaita-l/2021-June/056861.html
+Book provided: Nyayavali (doesn't list Arundhati Nyaya) - AH Yes! It is स्थूलारुन्धतीन्याय (Sthoola Arundhati Nyaya)
