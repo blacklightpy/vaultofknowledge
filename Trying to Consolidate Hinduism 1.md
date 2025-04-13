@@ -954,3 +954,9 @@ Tantra adopts Saankhya's abstract dualism and modifies it into a male-female dua
 ---
 
 Krishna tells Arjuna that the Bhagavad Geetha is a distillation of the Upanishads.
+
+---
+
+Knowing through the senses or the intellect: Paroksha Jnaana
+
+Direct intuitive perception, outside of any sensory or mental faculties: Aparoksha Jnaana
