@@ -979,6 +979,8 @@ In Materialism, the Ultimate is Existence-Material-Sorrow. That is, Existence is
 
 Under Materialism, Existence and Consciousness would be different, but Existence and Material would be non-different. And Consciousness would be an Illusion. That is the Opposite of Idealism.
 
-In a sense, while an Idealist says Existence is Consciousness, a Materialist says Existence is Material, and both say we are that. The only difference is that the idealist denies that the material separation is not us, while the materialist gives value to our dualistic consciousness arising from the material, while saying we are all equal as the ultimate material source.
+In a sense, while an Idealist says Existence is Consciousness, a Materialist says Existence is Material, and both say we are that. The only difference is that the idealist denies that the material separation is not us, while the materialist gives value to our dualistic consciousness arising from the material, while saying we are all equal as the non-dual material.
+
+For another example, calling something "female-human" is in inseparable in one direction. To call one female (in the anthropic sense) implies she is a human, but it does not apply in the other direction. But Existence-Consciousness does apply in both directions. I couldn't find a better analogy at the moment.
 
 **Negatively:** 
