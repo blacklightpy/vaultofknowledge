@@ -960,3 +960,21 @@ Krishna tells Arjuna that the Bhagavad Geetha is a distillation of the Upanishad
 Knowing through the senses or mental faculties: Paroksha Jnaana
 
 Direct intuitive perception, outside of any sensory or mental faculties: Aparoksha Jnaana
+
+---
+
+Brahmavidya, or the knowledge of the non-difference between Jiva and Paramatma, is the means to realize this end (Upeya).
+
+---
+
+Expressing Through Words:
+
+**Positively:** Existence-Consciousness-Bliss.
+
+That is, it is Existence, and Existence is Consciousness. It is not something that has Existence and Consciousness. It Pure Existence and Consciousness.
+
+That is, unlike Materialists who say Existence is Material, and Consciousness is Material, in Vedanta, which is Idealistic, Existence is Consciousness.
+
+In Materialism, the Ultimate is Existence-Material-Sorrow. That is, Existence is Material, and not that Existent things have Materiality in them, and that this is a state of Sorrow, as one is never Complete.
+
+**Negatively:** 

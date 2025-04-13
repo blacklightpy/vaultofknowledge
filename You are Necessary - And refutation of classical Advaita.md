@@ -8,4 +8,4 @@ All that is in Maaya is grounded on Brahman, but it is still real in that sense.
 
 If the point was to end Maaya by realizing Brahman, then it wouldn't have formed in the first place. If Avidya was Anirvachaneeya, then it could pop back up any time, and all effort would be pointless. In that sense, it would be the same as Buddhism, saying all that is Vyavahaarika is meaningless, and one should find peace in realization of non-duality.
 
-Technically, both nothingness and infinity are equally non-dual. Even in ultimate infinity, there is a void-l equilibrium.
+Technically, both nothingness and infinity are equally non-dual. Even in ultimate infinity, there is a void of equilibrium. That is, +infinity and -infinity cancel out to give zero in the middle.
