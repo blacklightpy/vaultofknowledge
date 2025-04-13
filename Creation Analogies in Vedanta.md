@@ -130,10 +130,27 @@ The Wasp and the Insects (bhramara-kita-nyaya)
 The Burnt Cloth (dagdhapata-nyaya)
 The Star in the Sky (arundhati-nyaya)
 
+Lotus without muddying: Chaandogya Up 6.2, BG 5.10
+Des Drop and Ocean (Idk)
 
+Nataraja (Shiva's Dance)
+Movie Projection
 
 Arundhathi Nyaaya:
-https://www.wisdomlib.org/definition/arumdhatinyaya
+- https://www.wisdomlib.org/definition/arumdhatinyaya
+- https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc68210.html (The Hindus and the Skies)
 
 Sthula / Sthoola Arundhathi Nyaaya:
 https://kamakoti.org/kamakoti/articles/VIVAHAM%20(MARRIAGE).html
+
+https://vidyabalaji.wordpress.com/bhagavad-gita/bhagavad-gita-chapter-3/:
+
+
+### Other
+http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.4):
+> This gradual journey of the mind is achieved through Pancha Kosha Prakriya also known as Arundhati Darshanam Nyayaha.
+
+(i.e realizing you are not each Kosha)
+
+https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023 (Shvethashvatara Up 6.8):
+> So Shakha Chandra Nyaya or Arundhati Nyaya
