@@ -81,3 +81,5 @@ In Dvaita, there is Pancha Bheda:
 - Jeeva-Jeeva
 - Jeeva-Jada
 - Jada-Jada
+
+Also see: https://vaniquotes.org/wiki/Advaita_Philosophy

@@ -985,5 +985,7 @@ For another example, calling something "female-human" is in inseparable in one d
 
 **Negatively:** 
 
-To Ishkvaku:
-One can always peacefully justify any form of bigotry  by backing their claims on some other source, and it is only natural to point out its absurdity.
+**To Ishkvaku:**
+One can always peacefully justify any form of bigotry by backing their claims on some other source, and it is only natural to point out its absurdity.
+
+I think you should be awarded for cooking up such nonsense. I've already had my fill debating with Muhammadians.
