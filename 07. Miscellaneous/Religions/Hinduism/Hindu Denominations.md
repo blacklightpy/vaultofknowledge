@@ -180,7 +180,7 @@ They can be grouped as:
 							- The steps are contained in Chapter 1, Chapter 2 Verses 1-27, Chapter 3 except Verse 54 and Chapter 4
 						- It is just the second limb of the Ashtaanga Yoga
 		- Yoga Bhaashya
-		- Yoga Vasishta
+		- Yoga Vasishta (Some consider this to be a Buddhist influenced interpolation)
 		- Bhagavad Geetha
 	- **Metaphysics**
 		- Asmita (Not Smiling / Masked / Egoism due to identification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
