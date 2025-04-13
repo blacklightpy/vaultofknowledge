@@ -977,4 +977,6 @@ That is, unlike Materialists who say Existence is Material, and Consciousness is
 
 In Materialism, the Ultimate is Existence-Material-Sorrow. That is, Existence is Material, and not that Existent things have Materiality in them, and that this is a state of Sorrow, as one is never Complete.
 
+Under Materialism, Existence and Consciousness would be different, but Existence and Material would be non-different. And Consciousness would be an Illusion. That is the Opposite of Idealism.
+
 **Negatively:** 
