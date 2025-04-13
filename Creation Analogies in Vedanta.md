@@ -111,7 +111,7 @@ Bow and Arrow: Mundaka 2.2.4
 Inverted Ashwattha Tree: Katha 2.3.1 (Actually 6.1), and Geetha 15.1 (Basically, we don't come from the soil, but the soil comes from the self and the answers are found inward.)
 Creatio Ex Nihilo: RV 10.129
 
-Butter in Milk
+Butter in Milk (Amritabindu Upanishad)
 Light through Prism
 
 From: https://www.yesvedanta.com/vedantic-analogies-for-contemplation-on-the-non-dual-reality
@@ -129,6 +129,32 @@ The Space and the Pot (ghatakasa-nyaya)
 The Wasp and the Insects (bhramara-kita-nyaya)
 The Burnt Cloth (dagdhapata-nyaya)
 The Star in the Sky (arundhati-nyaya)
+The Seed and the Tree (bija-vriksha-nyaya)
+The Stone and the Mud (ashma-loshta-nyaya)
+The Teeth of a Crow (Kakadanta-Nyaya)
+The Cakes and the Stick (Dandapupa-Nyaya)
+The Barber and His Son (Kshaurikaputra-Nyaya)
+The Worms and the Poison (Visha-Krimi-Nyaya)
+The Crow and the Fruit (Kakataliya-Nyaya)
+The Blue Sky Parable (Akashanilima-Nyaya)
+Ghost in the Post (stambha-nara-nyaya)
+Clay and the Pot (mrittika-ghata-nyaya)
+
+
+The Butter in the Milk (Amrtabindu Upanishad)
+The Fire in Wood
+The Smoke and the Fire
+Thread and the Necklace (From BG 7.7)
+The Wearer and the Apparel
+The Chameleon
+The Salt and the Water
+Two Thorns
+Sword and the Philosopher's Stone
+The Chandelier and the Electricity
+The Two Birds (Rigveda and the Mundaka Upanishad)
+The Woman and the Necklace
+The Silkworm and the Cocoon
+
 
 Lotus without muddying: Chaandogya Up 6.2, BG 5.10
 Des Drop and Ocean (Idk)
@@ -162,4 +188,4 @@ https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023
 List looking for books: https://www.advaita-vedanta.org/archives/advaita-l/2021-June/056861.html
 Book provided: Nyayavali by Pandit Narinder Sharma  (doesn't list Arundhati Nyaya) - AH Yes! It is 233. स्थूलारुन्धतीन्याय (Sthoola Arundhati Nyaya)
 
-But then, there's also 395 from 
+But then, there's also 395 from a seemingly later version here: https://sanskritdocuments.org/doc_z_misc_major_works/nyaayaavalii.html

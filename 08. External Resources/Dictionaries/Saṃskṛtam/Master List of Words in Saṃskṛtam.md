@@ -6,6 +6,8 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 
 (And do I need links to two pages - like for Paramaarthika, Param + Artha?) (Maybe have Param include Paramarthika within it. Or maybe have both Param and Artha have the combinations listed within them.)
 
+See here too: https://www.yesvedanta.com/resources/#tab-terminology
+
 ### IAST Words
 - Vēda / Vēdaḥ
 - Ṛ́c / Ṛ́ca
