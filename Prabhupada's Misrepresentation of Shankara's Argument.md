@@ -46,3 +46,27 @@ So he seems to have an issue with Maaya, but not so much of an issue with Shuddh
 
 Oh, so he considers the impersonal Brahman to be the first misconception of the ultimate? I see.
 
+#### 4. So he doesn't hate Shankara entirely, but only thinks that his argument is misrepresented?
+
+>  **Renunciation Through Wisdom 5.1:** In recent times we have heard two words being loudly voiced: Māyāvāda (impersonalist) and Advaita-vāda (monist). I deem it proper to write a few words about them. Śrīpāda Śaṅkarācārya was a brāhmaṇa who propagated the impersonalist philosophy. But if he were to hear the pathetic version of his theory being espoused today, complete with nonbrahminical Western logic and mundane concepts, he would surely be struck dumb. Śrīpāda Śaṅkarācārya taught and exhibited ideal brahminical behaviour. He propounded irrefutable arguments that destroyed materialistic views. Furthermore, his erudition, realization, and renunciation were of an extremely high caliber. Yet when his so-called followers dilute and mutilate his philosophy, we are moved simultaneously to tears and laughter.
+
+What does he reject?
+- Individual Soul and God are absolutely one.
+- Any distinction is only due to Avidya
+- Non-Different, Impersonal Brahman is ultimate
+
+He says:
+- Individual Soul is a Part of God (Pan-Theism with Difference)
+- Distinctions are Real as designed by God
+- Different and Non-Different, and Personal Brahman is the ultimate
+
+He said it leads to rejection of Bhakthi. But I ask, why would a part worship the whole? If the part is controlled by the whole, how is it a part? It is only a puppet with a "provisional" free will. But then I guess my robots with provisional free will could worship me too. Though I wouldn't make them do that, unless, I was the only ultimate source! Fine, I agree.
+
+But as ChatGPT described my criticism of him:
+
+> **He does not treat Śuddhādvaita as a threat,**
+> **He rarely explains it,**
+> **He often calls out “Advaita” as a problem,**
+> **But the specific criticisms he makes often match Śuddhādvaita’s claims more than Śaṅkara’s.**
+
+So his main criticism seems to be the denial of form of the Godhead, and that of Bhakthi and Leela as illusions.
