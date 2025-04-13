@@ -158,4 +158,4 @@ https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023
 > So Shakha Chandra Nyaya or Arundhati Nyaya
 
 List looking for books: https://www.advaita-vedanta.org/archives/advaita-l/2021-June/056861.html
-Book provided: Nyayavali (doesn't list Arundhati Nyaya) - AH Yes! It is स्थूलारुन्धतीन्याय (Sthoola Arundhati Nyaya)
+Book provided: Nyayavali (doesn't list Arundhati Nyaya) - AH Yes! It is 3970. स्थूलारुन्धतीन्याय (Sthoola Arundhati Nyaya)
