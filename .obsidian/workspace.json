@@ -373,13 +373,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueness of the Sky in Hindu-ism.md",
+                "file": "Vishuddha Manu Smrithi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Blueness of the Sky in Hindu-ism"
+              "title": "Vishuddha Manu Smrithi"
             }
           },
           {
@@ -388,17 +388,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prabhupada's Misrepresentation of Shankara's Argument.md",
+                "file": "Shankara and the Chandala.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prabhupada's Misrepresentation of Shankara's Argument"
+              "title": "Shankara and the Chandala"
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -604,8 +604,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd5835aa54e7f2af",
+  "active": "a57924551b7820bb",
   "lastOpenFiles": [
+    "Creation Analogies in Vedanta.md",
+    "Blueness of the Sky in Hindu-ism.md",
+    "Shankara and the Chandala.md",
+    "Prabhupada's Misrepresentation of Shankara's Argument.md",
     "Anti-Shankara Puranas.md",
     "Trying to Consolidate Hinduism 1.md",
     "Analysis of Caste.md",
@@ -615,15 +619,12 @@
     "Knot Analogy of Samsaara.md",
     "False Prophets.md",
     "Trying to Explain Maya.md",
-    "Prabhupada's Misrepresentation of Shankara's Argument.md",
     "Desire.md",
     "Prabhupada on Nishkaama Karma.md",
-    "Blueness of the Sky in Hindu-ism.md",
     "How Hinduism Survived.md",
     "Regarding Jallian Walla Bagh.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "06. Collected Knowledge/List of Chapters in the Quran.md",
-    "Creation Analogies in Vedanta.md",
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "Funny Sanskrit Maxims.md",
     "06. Collected Knowledge/Arachnae.md",
@@ -631,7 +632,6 @@
     "07. Miscellaneous/Exploring Ideas 1/Isn't using technology built by atheists wrong for religious people.md",
     "Shaiva vs Shakta.md",
     "Morons on Hinduism Stack Exchange.md",
-    "Counter Argument for Who Created God.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",

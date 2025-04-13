@@ -1,5 +1,14 @@
 Not one of this can explain the ultimate reality completely, but then we use multiple analogies together.
 
+---
+
+Also see: 
+https://www.esamskriti.com/e/Spirituality/Vedanta/Mystery-of-Creation-~-Some-Vedantic-concepts-2.aspx?utm_source=chatgpt.com
+
+https://ocoy.org/dharma-for-christians/upanishads-for-awakening/the-taittiriya-upanishad/brahman-creation-and-us/?utm_source=chatgpt.com
+
+---
+
 From Mundaka Upanishad 1.1.7:
 
 > yathorṇanābhiḥ sṛjate gṛhṇate ca yataḥ pṛthivyām oṣadhayaḥ sambhavanti yathā sataḥ puruṣāt keśalomāni tathākṣarāt sambhavatīha viśvam
