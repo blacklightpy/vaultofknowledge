@@ -75,11 +75,5 @@ Even though Shuddha Advaitha is monistic, it asks one to see more than themself,
 
 But then, how does it agree with his idea that we were created when we sought separation from him? If it's perfect, why would we seek separation, and why did he create us such that we sought separation? That is irrational.
 
-In Dvaita, there is Pancha Bheda:
-- Eeshvara-Jeeva
-- Eeshvara-Jada
-- Jeeva-Jeeva
-- Jeeva-Jada
-- Jada-Jada
-
 Also see: https://vaniquotes.org/wiki/Advaita_Philosophy
+
