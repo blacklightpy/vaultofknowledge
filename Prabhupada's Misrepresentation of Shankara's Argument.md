@@ -73,6 +73,8 @@ So his main criticism seems to be the denial of form of the Godhead, and that of
 
 Even though Shuddha Advaitha is monistic, it asks one to see more than themself, but Advaita asks one to realize their own self to be Brahman.
 
+But then, how does it agree with his idea that we were created when we sought separation from him? If it's perfect, why would we seek separation, and why did he create us such that we sought separation? That is irrational.
+
 In Dvaita, there is Pancha Bheda:
 - Eeshvara-Jeeva
 - Eeshvara-Jada
