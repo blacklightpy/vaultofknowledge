@@ -111,3 +111,25 @@ Bow and Arrow: Mundaka 2.2.4
 Inverted Tree: Katha 2.3.1
 Creatio Ex Nihilo: RV 10.129
 
+Butter in Milk
+Light through Prism
+
+From: https://www.yesvedanta.com/vedantic-analogies-for-contemplation-on-the-non-dual-reality
+Rope and Snake (rajju-sarpa-nyaya)
+Mirage and Water (mrigatrishna-nyaya)
+The Silver and the Nacre (shuktirajata-nyaya)
+Gold and Ornaments (kanakakundala-nyaya)
+The Wave and the Ocean (samudrataranga-nyaya)
+The Color in the Crystal (sphatikavarna-nyaya)
+The Lotus-Leaf and the Water (padmapatra-nyaya)
+The Air and the Scent (vatagandha-nyaya)
+The Spider and the Web (urnanabhi-naya)
+The Sun and Its Reflections (surya-bimba-nyaya)
+The Space and the Pot (ghatakasa-nyaya)
+The Wasp and the Insects (bhramara-kita-nyaya)
+The Burnt Cloth (dagdhapata-nyaya)
+The Star in the Sky (arundhati-nyaya)
+
+
+
+Arundhathi Nyaaya / Sthool Arundhathi Nyaaya: 
