@@ -71,6 +71,8 @@ But as ChatGPT described my criticism of him:
 
 So his main criticism seems to be the denial of form of the Godhead, and that of Bhakthi and Leela as illusions.
 
+Even though Shuddha Advaitha is monistic, it asks one to see more than themself, but Advaita asks one to realize their own self to be Brahman.
+
 In Dvaita, there is Pancha Bheda:
 - Eeshvara-Jeeva
 - Eeshvara-Jada
