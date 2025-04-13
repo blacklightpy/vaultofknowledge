@@ -989,3 +989,5 @@ For another example, calling something "female-human" is in inseparable in one d
 One can always peacefully justify any form of bigotry by backing their claims on some other source, and it is only natural to point out its absurdity.
 
 I think you should be awarded for cooking up such nonsense. I've already had my fill debating with Muhammadians.
+
+You superimpose the defects in your eyes onto that which is seen. Clear your own mind, and you may see the truth more clearly.
