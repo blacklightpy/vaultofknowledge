@@ -83,7 +83,7 @@ Katha Upanishad 2.2.15:
 > (Same Self appears manifold)
 
 
-Fire and Sparks: Brihadaaranyaka 2.1.20
+Fire and Sparks: Brihadaaranyaka 2.1.20, Mundaka
 Fire and Smoke: Mundaka 2.1.1 (yathā sudīptāt pāvakāt viśphuliṅgāḥ...")
 Salt in Water: Chaandogya 6.13.1-3 (lohitam iva... rasa iva...)
 Thread and Beads: Svethaashvatara 1.4 and Gita 7.7 (mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva)

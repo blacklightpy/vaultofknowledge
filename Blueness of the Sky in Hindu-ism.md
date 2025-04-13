@@ -1,0 +1,5 @@
+I saw an aphorism about the Blueness of the Sky while I was collecting Sanskrit Aphorisms. So I wondered how they could've known that the sky isn't blue. To know it, they should've first known why it appears blue.
+
+I saw here (https://hinduism.stackexchange.com/a/13705/40901) that in Islam, a mountain range named Qaf encircles the universe and it is made of emerald, and so its reflection makes the sky appear blue. In Hinduism too, a mountain range named Lokaloka
+
+> the emerald mountain or why sky appears blue it is stated in Hinduism & Islamic cosmology that a mountain range named Lokaloka or Qaf encircles the universe & is of emerald so the reflection of it makes sky appear blue...u can find Hindu cosmology best at ISKCON pages & Qaf there's a hadith when prophet muhammad (s.a.w.)visits the qaf mountain where there were 2 cities jabulqa & jabulsa..:)
