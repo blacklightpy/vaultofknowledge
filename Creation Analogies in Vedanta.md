@@ -84,21 +84,30 @@ Katha Upanishad 2.2.15:
 
 
 Fire and Sparks: Brihadaaranyaka 2.1.20
-Fire and Smoke: Mundaka 2.1.1
-Salt in Water: Chaandogya 6.13.1-3
-Thread and Beads: Svethaashvatara 1.4 and Gita 7.7.
+Fire and Smoke: Mundaka 2.1.1 (yathā sudīptāt pāvakāt viśphuliṅgāḥ...")
+Salt in Water: Chaandogya 6.13.1-3 (lohitam iva... rasa iva...)
+Thread and Beads: Svethaashvatara 1.4 and Gita 7.7 (mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva)
 
-Dream Projection: Mandukya + Mandukya Karika 2.31 (Gaudapada)
-Magician's Illusion: Svethaashvara 4.10 and RV 10.90.16
+Dream Projection: Mandukya + Mandukya Karika 2.31 (Gaudapada) (svapna-māyā-sarūpyeṇa jagat etat prasūyate)
+Magician's Illusion: Svethaashvara 4.10 (māyāṁ tu prakṛtiṁ vidyān māyinaṁ tu maheśvaram...) and RV 10.90.16 (also found in Bṛhadāraṇyaka Upaniṣad 2.5.19 (Indro māyābhiḥ puru-rūpa īyate...)?
 Reflecton in Mirror: Brihadaaranyaka 2.5.19
 Sun's Reflections: Katha 2.2.15
 
-Seed and Tree: Chaandogya 6.12.1-3
-Music and Lute: Brihadaaranyaka 2.4.11
+Seed and Tree: Chaandogya 6.12.1-3 (etad aṇim aitad ātmyaṁ idaṁ sarvaṁ tat satyam sa ātmā...)
+Music and Lute: Brihadaaranyaka 2.4.11 (yathā vā araṇyoh saṁhita-yā madhye pratyastā vīṇā svanavat...)
 
-Two Birds on a Tree: Mundaka 3.1.1 / RV 1.164.20
+Two Birds on a Tree: Mundaka 3.1.1 / RV 1.164.20 (One bird (jīva) eats the fruit, the other (Brahman) watches — immanent and transcendent.)
 Sun and its Reflections Katha 2.2.15 and Bhashyas
 
-Wheel and Spokes: Svethaasvathara 1.4
-Hidden Fire in Wood: Chaandogya 6.9.1-2
+Wheel and Spokes: Svethaasvathara 1.4 (sūtraṁ maṇi-gaṇā iva)
+Hidden Fire in Wood (Arani): Chaandogya 6.9.1-2 (Same analogy used in Tantra)
 Light and Eye: Brihadaaranyaka 4.3.6
+
+Charioteer: Katha 1.3.3-9
+Womb of Reality: Shvethaashvatara 5.5
+Parts of Purusha: RV 10.90
+Rivers into Ocean: Chaandogya 6.10
+Bow and Arrow: Mundaka 2.2.4
+Inverted Tree: Katha 2.3.1
+Creatio Ex Nihilo: RV 10.129
+
