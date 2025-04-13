@@ -149,6 +149,8 @@ https://vidyabalaji.wordpress.com/bhagavad-gita/bhagavad-gita-chapter-3/ (BG 3.1
 it. Therefore, the teacher first shows a big star which is there in its neighbourhood. And then shows the tiny star from there which can then be recognized.
 
 ### Other
+https://blog.eaglespace.com/vedanta-that-thou-art/ (Mentioned while mentioning Prasthaana Thrayi, as the pillar of the Upanishads, on how one goes from Upaasana to Tat Tvam Asi)
+
 http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.4):
 > This gradual journey of the mind is achieved through Pancha Kosha Prakriya also known as Arundhati Darshanam Nyayaha.
 
