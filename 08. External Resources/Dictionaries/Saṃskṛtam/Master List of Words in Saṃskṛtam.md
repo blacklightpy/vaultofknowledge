@@ -180,9 +180,27 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Panca
 - Bhūta
 	- Ākāśa
-	- 
+	- Vāyu
+	- Agni
+	- Apa / Jala
+	- Pṛthvī
 - Indriya
+	- Pani / Hast
+	- Pada
+	- Guda / Paayu
+	- Upastha / Meḍhra
+	- Vak
+	- Srotra
+	- Tvak
+	- Chakshu / Netra
+	- Rasana / Jivha
+	- Ghrana / Nasa
 - Tanmātra
+	- Shabda / Dhvani
+	- Sparsha
+	- Roopa
+	- Rasa / Svaad
+	- Gandha
 
 - Kancuka
 	- Kāla
