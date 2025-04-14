@@ -30,7 +30,8 @@ Now, the first 6 Mantras of this Sooktha are included in the Vajasaneyi Samhitha
 
 > [!NOTE]
 > 
-> Rudra-Ashta-Adhyaaya has 10 chapters (8+2 supplementary). The first chapter has 10 verses, and the last 6 of them is the Shiva Sankalpa Sooktha. Chapter 2 includes the Purusha Sooktha from Rg Veda again.
+> a] Rudra-Ashta-Adhyaaya has 10 chapters (8+2 supplementary). The first chapter has 10 verses, and the last 6 of them is the Shiva Sankalpa Sooktha. Chapter 2 includes the Purusha Sooktha from Rg Veda again.
+> b] This is the same in Ralph TH Griffith's translation in sacred-texts.com. But that version translates too much that it is unreadable.
 
 **3. Krishna Yajur Veda, (Taittiriya Shakha) Taittariya Aranyaka 10.12:**
 
