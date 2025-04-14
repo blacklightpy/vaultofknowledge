@@ -92,109 +92,121 @@ Katha Upanishad 2.2.15:
 > (Same Self appears manifold)
 
 
-Fire and Sparks: Brihadaaranyaka 2.1.20, Mundaka
-Fire and Smoke: Mundaka 2.1.1 (yathā sudīptāt pāvakāt viśphuliṅgāḥ...")
-Salt in Water: Chaandogya 6.13.1-3 (lohitam iva... rasa iva...)
-Thread and Beads: Svethaashvatara 1.4 and Gita 7.7 (mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva)
+1. Fire and Sparks: Brihadaaranyaka 2.1.20, Mundaka
+2. Fire and Smoke: Mundaka 2.1.1 (yathā sudīptāt pāvakāt viśphuliṅgāḥ...")
+3. Salt in Water: Chaandogya 6.13.1-3 (lohitam iva... rasa iva...)
+4. Thread and Beads: Svethaashvatara 1.4 and Gita 7.7 (mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva)
 
-Dream Projection: Mandukya + Mandukya Karika 2.31 (Gaudapada) (svapna-māyā-sarūpyeṇa jagat etat prasūyate)
-Magician's Illusion: Svethaashvara 4.10 (māyāṁ tu prakṛtiṁ vidyān māyinaṁ tu maheśvaram...) and RV 10.90.16 (also found in Bṛhadāraṇyaka Upaniṣad 2.5.19 (Indro māyābhiḥ puru-rūpa īyate...)?
-Reflecton in Mirror: Brihadaaranyaka 2.5.19
-Sun's Reflections: Katha 2.2.15
+5. Dream Projection: Mandukya + Mandukya Karika 2.31 (Gaudapada) (svapna-māyā-sarūpyeṇa jagat etat prasūyate)
+6. Magician's Illusion: Svethaashvara 4.10 (māyāṁ tu prakṛtiṁ vidyān māyinaṁ tu maheśvaram...) and RV 10.90.16 (also found in Bṛhadāraṇyaka Upaniṣad 2.5.19 (Indro māyābhiḥ puru-rūpa īyate...)?
+7. Reflecton in Mirror: Brihadaaranyaka 2.5.19
+8. Sun's Reflections: Katha 2.2.15
 
-Seed and Tree: Chaandogya 6.12.1-3 (etad aṇim aitad ātmyaṁ idaṁ sarvaṁ tat satyam sa ātmā...)
-Music and Lute: Brihadaaranyaka 2.4.11 (yathā vā araṇyoh saṁhita-yā madhye pratyastā vīṇā svanavat...)
+9. Seed and Tree: Chaandogya 6.12.1-3 (etad aṇim aitad ātmyaṁ idaṁ sarvaṁ tat satyam sa ātmā...)
+10. Music and Lute: Brihadaaranyaka 2.4.11 (yathā vā araṇyoh saṁhita-yā madhye pratyastā vīṇā svanavat...)
 
-Two Birds on a Tree: Mundaka 3.1.1 / RV 1.164.20 (One bird (jīva) eats the fruit, the other (Brahman) watches — immanent and transcendent.)
-Sun and its Reflections Katha 2.2.15 and Bhashyas
+11. Two Birds on a Tree: Mundaka 3.1.1 / RV 1.164.20 (One bird (jīva) eats the fruit, the other (Brahman) watches — immanent and transcendent.)
+12. Sun and its Reflections Katha 2.2.15 and Bhashyas
 
-Wheel and Spokes: Svethaasvathara 1.4 (sūtraṁ maṇi-gaṇā iva)
-Hidden Fire in Wood (Arani): Chaandogya 6.9.1-2 (Same analogy used in Tantra)
-Light and Eye: Brihadaaranyaka 4.3.6
+13. Wheel and Spokes: Svethaasvathara 1.4 (sūtraṁ maṇi-gaṇā iva)
+14. Hidden Fire in Wood (Arani): Chaandogya 6.9.1-2 (Same analogy used in Tantra)
+15. Light and Eye: Brihadaaranyaka 4.3.6
 
-Charioteer: Katha 1.3.3-9
-Womb of Reality: Shvethaashvatara 5.5
-Parts of Purusha: RV 10.90
-Rivers into Ocean: Chaandogya 6.10
-Bow and Arrow: Mundaka 2.2.4
-Inverted Ashwattha Tree: Katha 2.3.1 (Actually 6.1), and Geetha 15.1 (Basically, we don't come from the soil, but the soil comes from the self and the answers are found inward.)
-Creatio Ex Nihilo: RV 10.129
+16. Charioteer: Katha 1.3.3-9
+17. Womb of Reality: Shvethaashvatara 5.5
+18. Parts of Purusha: RV 10.90
+19. Rivers into Ocean: Chaandogya 6.10
+20. Bow and Arrow: Mundaka 2.2.4
+21. Inverted Ashwattha Tree: Katha 2.3.1 (Actually 6.1), and Geetha 15.1 (Basically, we don't come from the soil, but the soil comes from the self and the answers are found inward.)
+22. Creatio Ex Nihilo: RV 10.129
 
-Butter in Milk (Amritabindu Upanishad)
-Light through Prism
+23. Butter in Milk (Amritabindu Upanishad)
+24. Light through Prism
 
 From: https://www.yesvedanta.com/vedantic-analogies-for-contemplation-on-the-non-dual-reality
-Rope and Snake (rajju-sarpa-nyaya)
-Mirage and Water (mrigatrishna-nyaya)
-The Silver and the Nacre (shuktirajata-nyaya)
-Gold and Ornaments (kanakakundala-nyaya)
-The Wave and the Ocean (samudrataranga-nyaya)
-The Color in the Crystal (sphatikavarna-nyaya)
-The Lotus-Leaf and the Water (padmapatra-nyaya)
-The Air and the Scent (vatagandha-nyaya)
-The Spider and the Web (urnanabhi-naya)
-The Sun and Its Reflections (surya-bimba-nyaya)
-The Space and the Pot (ghatakasa-nyaya)
-The Wasp and the Insects (bhramara-kita-nyaya)
-The Burnt Cloth (dagdhapata-nyaya)
-The Star in the Sky (arundhati-nyaya)
-The Seed and the Tree (bija-vriksha-nyaya)
-The Stone and the Mud (ashma-loshta-nyaya)
-The Teeth of a Crow (Kakadanta-Nyaya)
-The Cakes and the Stick (Dandapupa-Nyaya)
-The Barber and His Son (Kshaurikaputra-Nyaya)
-The Worms and the Poison (Visha-Krimi-Nyaya)
-The Crow and the Fruit (Kakataliya-Nyaya)
-The Blue Sky Parable (Akashanilima-Nyaya)
-Ghost in the Post (stambha-nara-nyaya)
-Clay and the Pot (mrittika-ghata-nyaya)
+1. Rope and Snake (rajju-sarpa-nyaya)
+2. Mirage and Water (mrigatrishna-nyaya)
+3. The Silver and the Nacre (shuktirajata-nyaya)
+4. Gold and Ornaments (kanakakundala-nyaya)
+5. The Wave and the Ocean (samudrataranga-nyaya)
+6. The Color in the Crystal (sphatikavarna-nyaya)
+7. The Lotus-Leaf and the Water (padmapatra-nyaya)
+8. The Air and the Scent (vatagandha-nyaya)
+9. The Spider and the Web (urnanabhi-naya)
+10. The Sun and Its Reflections (surya-bimba-nyaya)
+11. The Space and the Pot (ghatakasa-nyaya)
+12. The Wasp and the Insects (bhramara-kita-nyaya)
+13. The Burnt Cloth (dagdhapata-nyaya)
+14. The Star in the Sky (arundhati-nyaya)
+15. The Seed and the Tree (bija-vriksha-nyaya)
+16. The Stone and the Mud (ashma-loshta-nyaya)
+17. The Teeth of a Crow (Kakadanta-Nyaya)
+18. The Cakes and the Stick (Dandapupa-Nyaya)
+19. The Barber and His Son (Kshaurikaputra-Nyaya)
+20. The Worms and the Poison (Visha-Krimi-Nyaya)
+21. The Crow and the Fruit (Kakataliya-Nyaya)
+22. The Blue Sky Parable (Akashanilima-Nyaya)
+23. Ghost in the Post (stambha-nara-nyaya)
+24. Clay and the Pot (mrittika-ghata-nyaya)
+
+Section II.
+
+1. The Butter in the Milk (Amrtabindu Upanishad)
+2. The Fire in Wood
+3. The Smoke and the Fire
+4. Thread and the Necklace (From BG 7.7)
+5. The Wearer and the Apparel
+6. The Chameleon
+7. The Salt and the Water
+8. Two Thorns
+9. Sword and the Philosopher's Stone
+10. The Chandelier and the Electricity
+11. The Two Birds (Rigveda and the Mundaka Upanishad)
+12. The Woman and the Necklace
+13. The Silkworm and the Cocoon
 
 
-The Butter in the Milk (Amrtabindu Upanishad)
-The Fire in Wood
-The Smoke and the Fire
-Thread and the Necklace (From BG 7.7)
-The Wearer and the Apparel
-The Chameleon
-The Salt and the Water
-Two Thorns
-Sword and the Philosopher's Stone
-The Chandelier and the Electricity
-The Two Birds (Rigveda and the Mundaka Upanishad)
-The Woman and the Necklace
-The Silkworm and the Cocoon
+More:
+1. Lotus without muddying: Chaandogya Up 6.2, BG 5.10
+2. Dew Drop and Ocean (Idk)
 
+3. Nataraja (Shiva's Dance)
+4. Movie Projection
 
-Lotus without muddying: Chaandogya Up 6.2, BG 5.10
-Des Drop and Ocean (Idk)
+# About Arundhati-Nyaaya
+## As Arundhathi Nyaaya:
 
-Nataraja (Shiva's Dance)
-Movie Projection
-
-Arundhathi Nyaaya:
+### Reference 1-2
 - https://www.wisdomlib.org/definition/arumdhatinyaya
 - https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc68210.html (The Hindus and the Skies)
-
-Sthula / Sthoola Arundhathi Nyaaya:
+### Reference 3
+https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023 (Shvethashvatara Up 6.8):
+> So Shakha Chandra Nyaya or Arundhati Nyaya
+## As Sthula / Sthoola Arundhathi Nyaaya:
+### Reference 1
 https://kamakoti.org/kamakoti/articles/VIVAHAM%20(MARRIAGE).html
 
+### Reference 2
 https://vidyabalaji.wordpress.com/bhagavad-gita/bhagavad-gita-chapter-3/ (BG 3.1-2):
 
 > Better explained through: Sthool-Arundhati-Nyaya refers to pointing to a very tiny star Arundhati through the help of a bigger star in its neighbourhood. Being tiny, Arundhati cannot be immediately identified by the one who is trying to see
 it. Therefore, the teacher first shows a big star which is there in its neighbourhood. And then shows the tiny star from there which can then be recognized.
-
-### Other
-https://blog.eaglespace.com/vedanta-that-thou-art/ (Mentioned while mentioning Prasthaana Thrayi, as the pillar of the Upanishads, on how one goes from Upaasana to Tat Tvam Asi)
-
-http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.4):
-> This gradual journey of the mind is achieved through Pancha Kosha Prakriya also known as Arundhati Darshanam Nyayaha.
-
-(i.e realizing you are not each Kosha)
-
-https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023 (Shvethashvatara Up 6.8):
-> So Shakha Chandra Nyaya or Arundhati Nyaya
-
+### References 3-4
 List looking for books: https://www.advaita-vedanta.org/archives/advaita-l/2021-June/056861.html
 Book provided: Nyayavali by Pandit Narinder Sharma  (doesn't list Arundhati Nyaya) - AH Yes! It is 233. स्थूलारुन्धतीन्याय (Sthoola Arundhati Nyaya)
 
 But then, there's also 395 from a seemingly later version here: https://sanskritdocuments.org/doc_z_misc_major_works/nyaayaavalii.html
+## As Arundhati Darshana Nyaaya:
+
+### Reference 1
+http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.4):
+> This gradual journey of the mind is achieved through Pancha Kosha Prakriya also known as Arundhati Darshanam Nyayaha.
+
+(i.e realizing you are not each Kosha)
+## Other
+### Reference 1
+https://blog.eaglespace.com/vedanta-that-thou-art/ (Mentioned while mentioning Prasthaana Thrayi, as the pillar of the Upanishads, on how one goes from Upaasana to Tat Tvam Asi)
+
+
+
+

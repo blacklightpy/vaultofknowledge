@@ -52,3 +52,8 @@ My comment: In fact, this is true (i.e. that it does not follow). For example, o
 - It's like going to an uninvited party. You do no exist, and are not invited. But you want to be there.
 - Now the doer is interesting. If you are the doer, you must have control over the results, right?
 - In fact, the doer wants to have control over the results, and that is the cause of all suffering.
+- For example, if you see a car moving without a driver, and you say wow a driverless car, and someone says no, I'm controlling it with a stick, you will ask them to prove it by stopping it.
+- Because only then can you prove that you are the doer.
+- For the ego, this is matter of life and death.
+- Because if you can't prove that you are the doer, then you do not exist.
+- 
