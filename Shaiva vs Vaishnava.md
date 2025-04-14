@@ -7,7 +7,7 @@
   > 
 > Greater than the great is Brahma, greater still than that great one is Hari, even greater than this one is Isha (Shiva).
 
-Now, the first 6 Mantras of this Sooktha are included in the Vajasaneyi Samhitha of Shukla Yajurveda (cited in reference 2 below). Note a] shows how Shaunaka's Brhad-Devatha explains the association of the Rg Veda Mandala to the Khila Sookthas. Note b] explains the different manuscripts containing the Mantra, and this verse would be from one such manuscript containing more than 18 verses. Note c] explains the same thing as b], but in a more readable format.
+Now, the first 6 Mantras of this Sooktha are included in the Vajasaneyi Samhitha of Shukla Yajurveda (cited in reference 2 below). Note a] shows how Shaunaka's Brhad-Devatha explains the association of the Rg Veda Mandala to the Khila Sookthas. Note b] explains the different manuscripts containing the Mantra, and this verse would be from one such manuscript containing more than 18 verses. Note c] explains the same thing as b], but in a more readable format. In Note d], I list a larger 39 verse edition I found online.
 
 > [!NOTE]
 > a] Source for it being before RV 10.167: [Brhad-Devatha by Shaunaka, 8.69 (Archive.org)](https://archive.org/details/brhaddevataattr02saunuoft/page/312/mode/2up?view=theater).
@@ -21,8 +21,10 @@ Now, the first 6 Mantras of this Sooktha are included in the Vajasaneyi Samhitha
 > > Khila IV. 11 is the Sivasamkalpopanisad coming after RV. X. 166. In the Kashmir MS. it consists of 13 verses. The same hymn has 28 verses in a MS. of Rgveda Samhita, No. Add 5351 in the British Museum, London. All the 13 verses in the Kashmir Khila are covered by the Khila in the British Museum MS., though in a different order. The Khila with the same 28 verses with identical text is also found in another MS., No. 2131 in the India Office Library, London. Srheftelowitz has published the text of the 28-versed Khila along with notes and German translation. T have reproduced it in the notes to the shorter Khila in the Kashmir MS. This larger version of Sivasamkalpopanisad is also found in the Junagadh MS. The Aundh edition also gives the same Khila of 26 verses, some of which are different from those in the British Museum MS. The order of verses in the Aundh edition as well as the variants in the same are also recorded in the notes to the same.
 > 
 > c] Also see (a simplified explanation of the above): https://www.quora.com/Is-Shiva-Sankalpa-Suktam-also-a-Khila-Sukta-of-Rig-Veda
+> 
+> d] I also found a different version with 39 verses, titled the Shiva Sankalpa Upanishad here (from Shri Ajnaneya Sthothranidhi, in Telugu): https://stotranidhi.com/en/shiva-sankalpa-upanishad-in-english/
 
-**2. Shiva Sankalpa Mantra (Verses 1-6), from Chapter 34 of Vajasaneyi Samhita (Madhyandhina Shakha) of Shukla Yajur Veda:**
+**2. Shiva Sankalpa Mantra (Verses 1-6), from Chapter 34 of Vajasaneyi Samhita (Madhyandhina Shakha) of Shukla Yajur Veda AND from Chapter 1 of Rudrashtadhyayi:** 
 
 > <span style="font-size:145%">यज् जाग्रतो दूरम् उदैति दैवं तद् उ सुप्तस्य तथैवैति ।<br>दूरंगमं ज्योतिषां ज्योतिर् एकं तन् मे मनः शिवसंकल्पम् अस्तु ॥ 1 ॥<br><br>येन कर्माण्य् अपसो मनीषिणो यज्ञे कृण्वन्ति विदथेषु धीराः ।<br>यद् अपूर्वं यक्षम् अन्तः प्रजानां तन् मे मनः शिवसंकल्पम् अस्तु ॥ 2 ॥<br><br>यत् प्रज्ञानम् उत चेतो धृतिश् च यज् ज्योतिर् अन्तर् अमृतं प्रजासु ।<br>यस्मान् न ऽ ऋते किं चन कर्म क्रियते तन् मे मनः शिवसंकल्पम् अस्तु ॥ 3 ॥<br><br>येनेदं भूतं भुवनं भविष्यत् परिगृहीतम् अमृतेन सर्वम् ।<br>येन यज्ञस् तायते सप्तहोता तन् मे मनः शिवसंकल्पम् अस्तु ॥ 4 ॥<br><br>यस्मिन्न् ऋचः साम यजूꣳषि यस्मिन् प्रतिष्ठिता रथनाभाव् इवाराः ।<br>यस्मिꣳश् चित्तꣳ सर्वम् ओतं प्रजानं तन् मे मनः शिवसंकल्पम् अस्तु ॥ 5 ॥<br><br>सुषारथिर् अश्वान् इव यन् मनुष्यान् नेनीयते ऽभीशुभिर् वाजिन ऽ इव ।<br>हृत्प्रतिष्ठं यद् अजिरं जविष्ठं तन् मे मनः शिवसंकल्पम् अस्तु ॥ 6 ॥</span>
 
