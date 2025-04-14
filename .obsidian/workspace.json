@@ -411,24 +411,9 @@
               "icon": "lucide-file",
               "title": "Random - Studying Aachaarya Prashanth's Lecture on Geetha"
             }
-          },
-          {
-            "id": "d4432a0841fb92a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideal Note Editing Pipeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideal Note Editing Pipeline"
-            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -460,7 +445,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -564,13 +549,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideal Note Editing Pipeline.md",
+                "file": "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ideal Note Editing Pipeline"
+              "title": "Outline of Random - Studying Aachaarya Prashanth's Lecture on Geetha"
             }
           },
           {
@@ -635,10 +620,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "e6eed0bb7d6193ba",
   "lastOpenFiles": [
     "Ideal Note Editing Pipeline.md",
     "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
+    "Free Will 3 - How One Alone Exists.md",
     "To Not Judge Others.md",
     "Creation Analogies in Vedanta.md",
     "Vishuddha Manu Smrithi.md",
@@ -647,7 +633,6 @@
     "Counter Argument for Who Created God.md",
     "Osho on Homosexuality.md",
     "Natural Disposition to Believe in a Creator.md",
-    "Free Will 3 - How One Alone Exists.md",
     "Kalanju Poya Note Pusthakam.md",
     "Why we can uniformly scale text in different scripts.md",
     "Trying to Consolidate Hinduism 1.md",
