@@ -1,0 +1,3 @@
+Well, children have a natural disposition to believe that they deserve everything, and they think that eliminating what's not in their interest is right to achieve their goals. This is why children try to shoot their parents or kill their younger siblings (if their parents avoid giving attention to them) when they are young.
+
+This simply means that what you naturally believe need not be meaningful, and can often be completely wrong. There is another way how we would not know that putting stones in a container of water would cause the water to rise up, and so on.

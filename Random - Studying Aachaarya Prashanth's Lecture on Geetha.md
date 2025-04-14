@@ -39,3 +39,7 @@ My commentary: Yes. If you take complete system where each part affects the othe
 
 In other sense, the system and the subsystem are co-eternal, although both change. That is, if you remove the subsystem arbitrarily from the system, then the system won't be able to complete its trajectory as it would otherwise. The subsystem's place in a given moment, although it will change the next moment, has effects on the system at all points in time. We cannot call such a subsystem insignificant to the system, and can only see it as non-different from the system.
 
+- So if you ask a believer, he will say that because everything exists, there has to be a causer.
+- But this is based on an unverified assumption, that every action has a causer.
+
+My comment: In fact, this is true (i.e. that it )
