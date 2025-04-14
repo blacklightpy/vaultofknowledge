@@ -993,3 +993,5 @@ I think you should be awarded for cooking up such nonsense. I've already had my 
 You superimpose the defects in your eyes onto that which is seen. Clear your own mind, and you may see the truth more clearly.
 
 https://amyedelstein.com/ammachi-on-ego/
+
+It only means that we are not following the same religion.
