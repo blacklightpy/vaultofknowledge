@@ -1,0 +1,1 @@
+Consider you made simply machine that acts like it talks to you. It may be an automata, or a more complex program. But then you know it is lifeless, yet it seems to have life. You've merely imparted a likeness of consciousness to it, but it is not ultimately conscious, and is only material. Such is how the material world exists in relation to the ultimate.
