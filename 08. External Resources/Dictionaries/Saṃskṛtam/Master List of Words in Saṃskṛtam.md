@@ -11,11 +11,11 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 ### IAST Words
 - Vēda / Vēdaḥ
 - Ṛ́c / Ṛ́ca
-- Sūktas
-- Maṇdala
+- Sūkta
+- Maṇḍala
 - Kāṇḍa
 - Śākhā
-- Vidya
+- Vidyā
 - Śruti
 - Smṛti
 
@@ -70,7 +70,7 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Abheda
 - Dvaita
 - Svābhāvika
-- Akṣara
+- Kṣara
 - Puruṣottama
 - Viśiṣṭā
 - Śuddha
@@ -91,6 +91,10 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Arthāpatti
 - Anupālābdi
 - Śabda
+- Aitihya
+- Ceṣṭā
+- Pariśēṣa
+- Saṃbhava
 
 - Pūrva
 - Uttara
@@ -127,6 +131,11 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Tarka
 - Driṣti
 ### Words to make IAST
+
+- Anga
+	- Chandas
+	- Jyothish
+	- Vyakarana
 
 - Śarīra
 	- Sthūla
@@ -185,6 +194,8 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 
 - Tapas
 - Dhyana
+
+- Jijñāsa
 
 - Viveka
 - Vairāgya
