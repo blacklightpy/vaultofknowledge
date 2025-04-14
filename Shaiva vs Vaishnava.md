@@ -24,7 +24,7 @@ Now, the first 6 Mantras of this Sooktha are included in the Vajasaneyi Samhitha
 > 
 > d] I also found a different version with 39 verses, titled the Shiva Sankalpa Upanishad here (from Shri Ajnaneya Sthothranidhi, in Telugu): https://stotranidhi.com/en/shiva-sankalpa-upanishad-in-english/
 
-**2. Shiva Sankalpa Mantra (Verses 1-6), from Chapter 34 of Vajasaneyi Samhita (Madhyandhina Shakha) of Shukla Yajur Veda, Verses 1-6 AND from Chapter 1 of Rudra-Ashta-Adhyayi of Shukla Yajur Veda, last 6 Verses:** 
+**2. Shiva Sankalpa Mantra (Verses 1-6), from Chapter 34 of Vajasaneyi Samhita (Madhyandhina Shakha) of Shukla Yajur Veda, Verses 1-6 (also included in Chapter 1 of Rudra-Ashta-Adhyaaya derived from Shukla Yajur Veda):** 
 
 > <span style="font-size:145%">यज् जाग्रतो दूरम् उदैति दैवं तद् उ सुप्तस्य तथैवैति ।<br>दूरंगमं ज्योतिषां ज्योतिर् एकं तन् मे मनः शिवसंकल्पम् अस्तु ॥ 1 ॥<br><br>येन कर्माण्य् अपसो मनीषिणो यज्ञे कृण्वन्ति विदथेषु धीराः ।<br>यद् अपूर्वं यक्षम् अन्तः प्रजानां तन् मे मनः शिवसंकल्पम् अस्तु ॥ 2 ॥<br><br>यत् प्रज्ञानम् उत चेतो धृतिश् च यज् ज्योतिर् अन्तर् अमृतं प्रजासु ।<br>यस्मान् न ऽ ऋते किं चन कर्म क्रियते तन् मे मनः शिवसंकल्पम् अस्तु ॥ 3 ॥<br><br>येनेदं भूतं भुवनं भविष्यत् परिगृहीतम् अमृतेन सर्वम् ।<br>येन यज्ञस् तायते सप्तहोता तन् मे मनः शिवसंकल्पम् अस्तु ॥ 4 ॥<br><br>यस्मिन्न् ऋचः साम यजूꣳषि यस्मिन् प्रतिष्ठिता रथनाभाव् इवाराः ।<br>यस्मिꣳश् चित्तꣳ सर्वम् ओतं प्रजानं तन् मे मनः शिवसंकल्पम् अस्तु ॥ 5 ॥<br><br>सुषारथिर् अश्वान् इव यन् मनुष्यान् नेनीयते ऽभीशुभिर् वाजिन ऽ इव ।<br>हृत्प्रतिष्ठं यद् अजिरं जविष्ठं तन् मे मनः शिवसंकल्पम् अस्तु ॥ 6 ॥</span>
 
