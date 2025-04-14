@@ -56,4 +56,28 @@ My comment: In fact, this is true (i.e. that it does not follow). For example, o
 - Because only then can you prove that you are the doer.
 - For the ego, this is matter of life and death.
 - Because if you can't prove that you are the doer, then you do not exist.
+- If you prove that you are not the doer, the ego doesn't just become still, it disappears.
+- So I have to somehow prove it.
+- If you show the remote, that's not enough, because the person will ask you to prove it.
+- So for the ego, the future is always important. Because only when you prove that you are the doer will you be satisfied.
+- Now this is why we are all control freaks. 
+- To us, if we cannot control the outcome, then we do not even exist.
+- That's why mankind needs to know of a heaven and a hell.
+
+My comment: That's insightful. One's existence is rooted in their desire to know what they will be post-eternity.
+
+- So the ego is simply something that lays claim over all actions.
+- If someone sees a 500 Rs. note lying on the ground, they pick it up and ask whose it is, and hope no one hears it, and takes it as their own.
+- The ego thinks, it belongs to someone, but no one has claimed it, so it belongs to me.
+
+My comment: This is actually a different case, of lying.
+
+- Now when you wake up in the morning, no one claims that they woke you up.
+- So the ego decides, I woke up.
+- How absurd is this claim.
+
+My comment: Haha, that's a meaningful one.
+
+- Most of us won't even decide to go to sleep.
+- He says he'll have proof in 15 minutes, as half of his audience will go to sleep soon.
 - 
