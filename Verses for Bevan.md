@@ -1,3 +1,5 @@
+### About Multiple Deities
+
 > **Śrīmad-Bhāgavatam 4.7.54:**
 > 
 > trayāṇām eka-bhāvānāṁ  
@@ -15,4 +17,8 @@
 > mṛtyuḥ pradhāvaty araṇaṁ tam īmahi
 > 
 > “These devotees do not differentiate between me, Lord Viṣṇu, and Lord Brahmā, nor do they differentiate between themselves and other people. Therefore, we praise you.”
+
+### About Brahma being Born from the Navel of Vishnu
+
+Refer to Spider-Web analogy of creation.
 
