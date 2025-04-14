@@ -5,3 +5,6 @@
 > Greater than the great is Brahma, greater still than that great one is Hari, even greater than this one is Shiva.
 > 
 > - Rig Veda Khila, Shiva Sankalpa Suktam, 18th Rch
+
+Mantras 1-6 of the 34th chapter of Vajasaneyi Samhita (Madhyayaana) of Shukla Yajur Veda:
+> 
