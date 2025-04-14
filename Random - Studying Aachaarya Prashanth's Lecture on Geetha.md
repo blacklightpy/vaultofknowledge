@@ -150,4 +150,7 @@ My commentary: Blame that on Ego and capitalism.
 - To complete something, the work has to be finite
 - If you ask someone to run to the horizon, how long will he be running?
 
-My commentary: Yeah, I realized that I've often been chasing the horizon, but I couldn't grasp what exactly was
+My commentary: Yeah, I realized that I've often been chasing the horizon, but I couldn't grasp what exactly was what made it seem that way.
+
+- That is why Shri Krishna said: "Karmanye Vaadhikaaraste Maa Phaleshu Kadachan"
+- 
