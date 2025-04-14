@@ -5,7 +5,7 @@
 
 > <span style="font-size:145%">परात्परतरो ब्रह्मा तत्परात्परतो हरिः ।<br>तत्परात्परतो ईश तन्मे मन शिवसंकल्पमस्तु ॥ 18 ॥</span>
   > 
-> Greater than the great is Brahma, greater still than that great one is Hari, even greater than this one is Shiva.
+> Greater than the great is Brahma, greater still than that great one is Hari, even greater than this one is Isha (Shiva).
 
 **About the Shiva Sankalpa Soothra in Manuscripts (from Sayana Bhaashya of Rg Veda Samhitha, Khilani Section Preface, in the text by Vaidika Samshodhana Mandala):**
 
