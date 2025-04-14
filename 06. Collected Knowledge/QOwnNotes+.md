@@ -437,6 +437,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - Soft Rationalism
 	- It is the form of rationalism that acknowledges the limitations of logic, and therefore only refuses to hold arguments that are irrational.
 	- That is, it does not mind holding arguments that are not rational, unless they are proven to be irrational.
+- [[On those who detach from logic]]
 
 #rough (My dad asked me to study Oman road symbols hehe)
 - All Signs

@@ -991,3 +991,5 @@ One can always peacefully justify any form of bigotry by backing their claims on
 I think you should be awarded for cooking up such nonsense. I've already had my fill debating with Muhammadians.
 
 You superimpose the defects in your eyes onto that which is seen. Clear your own mind, and you may see the truth more clearly.
+
+https://amyedelstein.com/ammachi-on-ego/
