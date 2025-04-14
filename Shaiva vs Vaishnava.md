@@ -50,6 +50,9 @@ Now, the first 6 Mantras of this Sooktha are included in the Vajasaneyi Samhitha
 > a] Shloka 25.1 above contains Shloka 1.43.1 of Rg Veda
 > b] This is a Vaishnava Upanishad, but glorifies Naaraayana and Rudra
 
+**5. Shiva Sankalpa Sooktha from Shaiva Upanishad:**
+
+A 37 verse version from the Puraanas is here: https://www.sanatangroup.org/shiv-sankalpa-upanishad/6905/
 # Vishnu Affirming
 
 They use verses from Padma Purana and so on.
