@@ -1,17 +1,23 @@
 
 ### Shiva is Supreme
 
-**Rig Veda Khila, Shiva Sankalpa Suktam, 18th Rch:**
+**18th Shloka of Shiva Sankalpa Suktam, a Khila (Supplementary) Sooktha before Rg Veda 10.167:**
 
 > <span style="font-size:145%">परात्परतरो ब्रह्मा तत्परात्परतो हरिः ।<br>तत्परात्परतो ईश तन्मे मन शिवसंकल्पमस्तु ॥ 18 ॥</span>
   > 
 > Greater than the great is Brahma, greater still than that great one is Hari, even greater than this one is Isha (Shiva).
 
-**About the Shiva Sankalpa Soothra in Manuscripts (from Sayana Bhaashya of Rg Veda Samhitha, Khilani Section Preface, in the text by Vaidika Samshodhana Mandala):**
+Now, 6 Mantras of this Sooktha are included in 
+
+1] Source for it being before RV 10.167: [Brhad-Devatha 8.69 (Archive.org)](https://archive.org/details/brhaddevataattr02saunuoft/page/312/mode/2up?view=theater).
+
+2] About the Shiva Sankalpa Soothra in Manuscripts (from Sayana Bhaashya of Rg Veda Samhitha, Khilani Section Preface, in the text by Vaidika Samshodhana Mandala):
 
 > The Sivasamkalpasukta (Yenedam IV. 11) which seems to be absent in the Alwar MS., is found in the Junagadh MS.
-
+> 
 > Khila IV. 11 is the Sivasamkalpopanisad coming after RV. X. 166. In the Kashmir MS. it consists of 13 verses. The same hymn has 28 verses in a MS. of Rgveda Samhita, No. Add 5351 in the British Museum, London. All the 13 verses in the Kashmir Khila are covered by the Khila in the British Museum MS., though in a different order. The ' Khila with the same 28 verses with identical text is also found in another MS., No. 2131 in the India Office Library, London. Srheftelowitz has published the text of the 28-versed Khila along with notes and German translation. T have reproduced it in the notes to the shorter Khila in the Kashmir MS. This larger version of Sivasamkalpopanisad is also found in the Junagadh MS. The Aundh edition also gives the same Khila of 26 verses, some of which are different from those in the British Museum MS. The order of verses in the Aundh edition as well as the variants in the same are also recorded in the notes to the same.
+
+3] Also see (a simplified explanation of the above): https://www.quora.com/Is-Shiva-Sankalpa-Suktam-also-a-Khila-Sukta-of-Rig-Veda
 
 **Shiva Sankalpa Mantra (Verses 1-6), from Chapter 34 of Vajasaneyi Samhita (Madhyandhina Shakha) of Shukla Yajur Veda:**
 
