@@ -24,3 +24,13 @@ Krishna Yajur Veda, (Taittiriya Shakha) Taittariya Aranyaka 10.12:
 > 
 > He who is the first among the Gods, that Rudra who is the great seer who is higher than the Universe (VishwaAdhik), he is the one who saw Hiranyagarbha being born.
 
+**Krishna Yajur Veda, (Taittiriya Shakha) Taittariya Aranyaka, Book 10 (Mahaa Naaraayana Upanishad / Brihan-Naaraayana Upanishad), Verses 24.1 and 25.1:**
+
+> [Note 1: 25.1 contains the Shloka in Rg Veda 1.43.1]
+> [Note 2: It is a Vaishnava Upanishad, but glorifies Naaraayana and Rudra]
+> 
+> सर्वो वै रुद्रस्तस्मै रुद्राय नमो अस्तु । **पुरुषो वै रुद्रः** सन्महो नमो नमः । विश्वं भूतं भुवनं चित्रं बहुधा जातं जायमानं चयत् । सर्वो ह्येष रुद्रस्तस्मै रुद्राय नमो अस्तु ॥ 24.1 ॥
+> 
+> कद्रुद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम शंतम हृदे । सर्वोह्येष रुद्रस्तस्मै रुद्राय नमो अस्तु ॥ 25.1॥
+>   
+> All this verily is Rudra. To Rudra who is such we offer our salutation. **We salute again and again that Being, Rudra, who is Purusha.** The material universe the created beings and whatever there is manifoldly and profusely created in the past and in the present in the form of the world, all that is indeed this Rudra. Salutations be to Rudra who is such. We sing a hymn that confers on us happiness in the highest degree to Rudra who is worthy of praise, who is endowed with the highest knowledge, who rains objects to the worshippers most excellently, who is more powerful and who is dwelling in the heart. **Indeed all this is Rudra. Salutations be to Rudra who is such.**
