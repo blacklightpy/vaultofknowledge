@@ -42,4 +42,13 @@ In other sense, the system and the subsystem are co-eternal, although both chang
 - So if you ask a believer, he will say that because everything exists, there has to be a causer.
 - But this is based on an unverified assumption, that every action has a causer.
 
-My comment: In fact, this is true (i.e. that it )
+My comment: In fact, this is true (i.e. that it does not follow). For example, one can accidentally perform actions, and this does not mean they caused it. They were not even paying any attention to it, and nor would it be their responsibility. Other people want to ascribe responsibility on to them, but that does not make it true. If they had their will, they would not have done it, and that's why it is an accident. In fact, all events that happen do so without will, simply because our desires are not out of our own free will. In the same sense, there is no reason to assume that the ultimate set of actions has a causer. To make such a claim, one would need to use some different reasons.
+
+- In fact, all action is without an actor.
+- That is the message of the Bhagavad Geetha.
+- That is the message of all spirituality.
+- In fact, the moment an actor comes into a self-imposed existence, it condemns itself to suffering.
+- Existence is suffering, because existence is false.
+- It's like going to an uninvited party. You do no exist, and are not invited. But you want to be there.
+- Now the doer is interesting. If you are the doer, you must have control over the results, right?
+- In fact, the doer wants to have control over the results, and that is the cause of all suffering.

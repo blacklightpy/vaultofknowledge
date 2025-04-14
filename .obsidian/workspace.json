@@ -445,7 +445,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "discord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -466,7 +466,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -621,8 +622,11 @@
   },
   "active": "e6eed0bb7d6193ba",
   "lastOpenFiles": [
-    "Natural Disposition to Believe in a Creator.md",
+    "Letters to People.md",
+    "Counter Argument for Who Created God.md",
+    "Osho on Homosexuality.md",
     "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
+    "Natural Disposition to Believe in a Creator.md",
     "Free Will 3 - How One Alone Exists.md",
     "Kalanju Poya Note Pusthakam.md",
     "Why we can uniformly scale text in different scripts.md",
@@ -644,9 +648,6 @@
     "Why is Brahman the Ultimate Subject.md",
     "Knot Analogy of Samsaara.md",
     "False Prophets.md",
-    "Desire.md",
-    "Prabhupada on Nishkaama Karma.md",
-    "How Hinduism Survived.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
