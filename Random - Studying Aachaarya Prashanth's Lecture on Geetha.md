@@ -143,4 +143,11 @@ My commentary: Blame that on Ego and capitalism.
 - That's because we work for something that cannot be achieved.
 - So there is no reason for working so hard today.
 - Life can be for purposeless enjoyment.
-- We work harder because we are not working
+- We work harder because we are not working for our improvement.
+- If you work for a tangible purpose, then there will be an end to the work.
+- But otherwise, if you are trying to prove you exist when you do not, it will be ad infinitum.
+- You won't even complete 1%.
+- To complete something, the work has to be finite
+- If you ask someone to run to the horizon, how long will he be running?
+
+My commentary: Yeah, I realized that I've often been chasing the horizon, but I couldn't grasp what exactly was
