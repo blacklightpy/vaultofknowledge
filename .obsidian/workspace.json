@@ -413,7 +413,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -548,13 +548,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation to Hindu Traditions.md",
+                "file": "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Initiation to Hindu Traditions"
+              "title": "Outline of Master List of Words in Saṃskṛtam"
             }
           },
           {
@@ -619,10 +619,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059c65cc0a61473f",
+  "active": "882fe0c43bf4c064",
   "lastOpenFiles": [
-    "Jyothish has \"Mathematical Intelligence\".md",
     "Initiation to Hindu Traditions.md",
+    "Jyothish has \"Mathematical Intelligence\".md",
     "Is Bhagavad Geetha distilled wisdom or word of God.md",
     "Tantra List Classifying.md",
     "Creation Analogies in Vedanta.md",
