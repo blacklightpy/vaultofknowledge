@@ -28,4 +28,14 @@ My comment: Yeah, but it does not really imply that that agent is separate from 
 - In that sense, both God and Ego are defined on the basis of the same assumption, of action.
 - For every action, we suppose a causer, like the house needing an owner, or kids needing to be given birth.
 - Now, we don't deny the action, and the actions have causes.
-- Species are coming in from somewhere, galaxies are evolving due to some reason.
+- Species are coming in from somewhere, galaxies are behaving the way they do.
+- Some species come and go in 5 seconds, others take longer, the animate and the inanimate have life cycles.
+- So at the aggregate level, there is God, and at the personal level, there is you.
+- You cannot be a believer in God and not be egoistic, and vice versa.
+- The logical fallacy here is that one assumes that because there is action, there is an actor.
+- This is why if religion is not based on philosophy, its based on superstition.
+
+My commentary: Yes. If you take complete system where each part affects the other (it's not a thermodynamic system, where the universe = system + arbitrary surroundings, but a universe treated as a system), and you take a subsystem from it, the subsystem can observe that the rest of the system (it's surroundings) behave according to some rules, and it is a part of it, and to it, that implies a creator of the system. But then, the subsystem does not realize that the subsystem is an important part of the system, without which the system won't run.
+
+In other sense, the system and the subsystem are co-eternal, although both change. That is, if you remove the subsystem arbitrarily from the system, then the system won't be able to complete its trajectory as it would otherwise. The subsystem's place in a given moment, although it will change the next moment, has effects on the system at all points in time. We cannot call such a subsystem insignificant to the system, and can only see it as non-different from the system.
+
