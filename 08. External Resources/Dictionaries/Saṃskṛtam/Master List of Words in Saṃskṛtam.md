@@ -132,18 +132,30 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Driṣti
 ### Words to make IAST
 
-- Anga
+- Aṅga
+	- Śikṣā
 	- Chandas
-	- Jyothish
 	- Vyakarana
+	- Nirukta
+	- Kalpa
+	- Jyotiṣa
 
 - Śarīra
 	- Sthūla
 	- Sūkṣma 
 	- Kāraṇa
 
+- Cit
+- Citta
+- Vṛtti
+	- Viparyāya
+	- Vikalpah
+	- Nidrā
+- Guna
+- Vāsanā
+
 - Avastha
-	- Jāgrata
+	- Jāgratā
 	- Svapna
 	- Suṣupti
 	- Turiya
@@ -167,7 +179,10 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Manas
 - Panca
 - Bhūta
-- 
+	- Ākāśa
+	- 
+- Indriya
+- Tanmātra
 
 - Kancuka
 	- Kāla
@@ -228,7 +243,16 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 
 - Deeksha
 - Upanayana
-- 
+
+- Aasana
+- Cakra
+	- Mūlādhāra
+	- Svādhiṣṭhāna
+	- Maṇipūra
+	- Anāhata
+	- Viśuddha
+	- Ājñā
+	- Sahasrāra
 
 ---
 
