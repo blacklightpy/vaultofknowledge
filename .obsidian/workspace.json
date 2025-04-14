@@ -475,7 +475,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "span",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -652,10 +652,10 @@
   },
   "active": "68a1fad0e974f8ae",
   "lastOpenFiles": [
-    "Verses for Bevan.md",
-    "Shaiva vs Vaishnava.md",
-    "Amazinng Apps and Games Discovered in 2025.md",
     "Trying to Consolidate Hinduism 1.md",
+    "Shaiva vs Vaishnava.md",
+    "Verses for Bevan.md",
+    "Amazinng Apps and Games Discovered in 2025.md",
     "On those who detach from logic.md",
     "06. Collected Knowledge/QOwnNotes+.md",
     "Creation Analogies in Vedanta.md",
