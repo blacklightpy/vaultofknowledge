@@ -1,3 +1,7 @@
+### About Shreemad Bhaagavatham
+
+> Śrī Caitanya Mahāprabhu declared, śrīmad-bhāgavataṁ purāṇam amalam: “Śrīmad-Bhāgavatam is a spotless Purāṇa.”
+
 ### About Multiple Deities
 
 > **Śrīmad-Bhāgavatam 4.7.54:**

@@ -433,32 +433,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verses for Bevan.md",
+                "file": "Shaiva vs Vaishnava.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Verses for Bevan"
-            }
-          },
-          {
-            "id": "72921d87d83453c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazinng Apps and Games Discovered in 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazinng Apps and Games Discovered in 2025"
+              "title": "Shaiva vs Vaishnava"
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -594,12 +579,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Shaiva vs Vaishnava.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Shaiva vs Vaishnava"
             }
           },
           {
@@ -664,10 +650,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72921d87d83453c9",
+  "active": "68a1fad0e974f8ae",
   "lastOpenFiles": [
-    "Amazinng Apps and Games Discovered in 2025.md",
     "Verses for Bevan.md",
+    "Shaiva vs Vaishnava.md",
+    "Amazinng Apps and Games Discovered in 2025.md",
     "Trying to Consolidate Hinduism 1.md",
     "On those who detach from logic.md",
     "06. Collected Knowledge/QOwnNotes+.md",
@@ -691,7 +678,6 @@
     "Analyzing Darshanas.md",
     "Initiation to Hindu Traditions.md",
     "Shaiva vs Shakta.md",
-    "Anti-Shankara Puraana-s.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
