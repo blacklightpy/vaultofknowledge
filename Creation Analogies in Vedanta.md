@@ -173,73 +173,38 @@ More:
 3. Nataraja (Shiva's Dance)
 4. Movie Projection
 
-# About Arundhati-Nyaaya
-## As Arundhathi Nyaaya:
-
-### Reference 1-2
-- https://www.wisdomlib.org/definition/arumdhatinyaya
-- https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc68210.html (The Hindus and the Skies)
-### Reference 3
-https://srisaradadevi.com/wiki/Svetasvatara_Upanishad_Lecture_40_on_16_July_2023 (Shvethashvatara Up 6.8):
-
-> So Shakha Chandra Nyaya or Arundhati Nyaya
-## As Sthula / Sthoola Arundhathi Nyaaya:
-### Reference 1
-https://kamakoti.org/kamakoti/articles/VIVAHAM%20(MARRIAGE).html
-
-### Reference 2
-https://vidyabalaji.wordpress.com/bhagavad-gita/bhagavad-gita-chapter-3/ (BG 3.1-2):
-
-> Better explained through: Sthool-Arundhati-Nyaya refers to pointing to a very tiny star Arundhati through the help of a bigger star in its neighbourhood. Being tiny, Arundhati cannot be immediately identified by the one who is trying to see
-it. Therefore, the teacher first shows a big star which is there in its neighbourhood. And then shows the tiny star from there which can then be recognized.
-### References 3-4
-List looking for books: https://www.advaita-vedanta.org/archives/advaita-l/2021-June/056861.html
-Book provided: Nyayavali by Pandit Narinder Sharma  (doesn't list Arundhati Nyaya) - AH Yes! It is 233. स्थूलारुन्धतीन्याय (Sthoola Arundhati Nyaya)
-
-But then, there's also 395 from a seemingly later version here: https://sanskritdocuments.org/doc_z_misc_major_works/nyaayaavalii.html
-## As Arundhati Darshana Nyaaya:
-
-### Reference 1
-http://www.advaidam.com/2017/11/13/taitreya-upanishad-class-26 (Taitreya Up 2.1.4):
-> This gradual journey of the mind is achieved through Pancha Kosha Prakriya also known as Arundhati Darshanam Nyayaha.
-
-(i.e realizing you are not each Kosha)
-## Other
-### Reference 1
-https://blog.eaglespace.com/vedanta-that-thou-art/ (Mentioned while mentioning Prasthaana Thrayi, as the pillar of the Upanishads, on how one goes from Upaasana to Tat Tvam Asi)
-
 ---
 
 # From Texts Directly
 
-_Aitareya Upanishad_ says, ‘He thought I shall indeed create the world.’
+Aithareya Upanishad says, ‘He thought I shall indeed create the world.’
 
-_Taittiriya Upanishad_ states ‘He desired I shall become and be born. He performed Tapas. Having performed Tapas, He created all this whatsoever we perceive.’
+Thaitthireeya Upanishad states ‘He desired I shall become and be born. He performed Tapas. Having performed Tapas, He created all this whatsoever we perceive.’
 
-_Prasna Upanishad_ says Prajapati, having performed penance, created a pair - Rayi, matter and Prana, energy - thinking that they would together between themselves produce creatures in many forms.
+Prashna Upanishad says Prajaapathi, having performed penance, created a pair - Rayi, matter and Prana, energy - thinking that they would together between themselves produce creatures in many forms.
 
-_Kathopanishad_ says the whole Universe, evolved from the Brahman, moves or vibrates in the Prana meaning thereby that creation is a motion, a vibration of energy.
+Katha Upanishad says the whole Universe, evolved from the Brahman, moves or vibrates in the Prana meaning thereby that creation is a motion, a vibration of energy.
 
-_Mundakopanishad_ says from the Brahman are produced all these: the Creator, names and forms and nourishment for all.
+Mundaka Upanishad says from the Brahman are produced all these: the Creator, names and forms and nourishment for all.
 
-_Chandogya Upanishad_ says that in truth, this many seeming world is only one Reality, in which all things seem to be born, seem to live and pass away.  
+Chaandogya Upanishad says that in truth, this many seeming world is only one Reality, in which all things seem to be born, seem to live and pass away.  
 
-_Svetasvatara Upanishad_ uses a simile to explain the process of creation. Just as a ray of light, though colorless in itself, assumes different colors when it passes through a prism, the formless Brahman who is one without a second, who is undifferentiated - _nirvisesha_, for the reasons not known to the human mind, created diversity at all levels with the help of His own power. When the world meets its end, all these diversities merge back unto Him.
+Shvetaashvatara Upanishad uses a simile to explain the process of creation. Just as a ray of light, though colorless in itself, assumes different colors when it passes through a prism, the formless Brahman who is one without a second, who is undifferentiated - _nirvisesha_, for the reasons not known to the human mind, created diversity at all levels with the help of His own power. When the world meets its end, all these diversities merge back unto Him.
 
-_Brhadaranyaka Upanishad_ gives a detailed account of how the One, Brahman became many - all the elements and the pairs of male and female.
+Brhad-Aranyaka Upanishad gives a detailed account of how the One, Brahman became many - all the elements and the pairs of male and female.
 
-_Maitri Upanishad_ tells us that the three worlds, Bhuh, Bhuvah and Svah, are the very gross forms of Prajapati.
+Maithri Upanishad tells us that the three worlds, Bhuh, Bhuvah and Svah, are the very gross forms of Prajapati.
 
-_Paingala Upanishad_ mentions the famous process of quintuplication - _panchikarana_ - or splitting and mixing up of subtle elements in various proportions to make them gross substances out of which Prajapati created many Brahmandas - macrocosms and many worlds appropriate to each of them - microcosms.
+Paingala Upanishad mentions the famous process of quintuplication - _panchikarana_ - or splitting and mixing up of subtle elements in various proportions to make them gross substances out of which Prajapati created many Brahmandas - macrocosms and many worlds appropriate to each of them - microcosms.
 
-Brahma Sutras which interpret and organise the Upanishads, regard Brahman as the material as well as the efficient cause of the universe, its origin and support, himself uncreated and eternal.
+Brahma Soothras which interpret and organise the Upanishads, regard Brahman as the material as well as the efficient cause of the universe, its origin and support, himself uncreated and eternal.
 
-**Bhagavad Gita**  
+**Bhagavad Geetha**  
 
-The gist of chapters 7, 9 and 15 of the Gita which deal with this topic is that all the physical elements of nature, including the material bodies of animate beings and their sensory and mental functions, may be grouped together forming the ever changing physical aspect of the universe. This is called Prakriti.
+The gist of chapters 7, 9 and 15 of the Geetha which deal with this topic is that all the physical elements of nature, including the material bodies of animate beings and their sensory and mental functions, may be grouped together forming the ever changing physical aspect of the universe. This is called Prakrti.
 
 Behind the living is the soul that dwells within each being and animates it. Behind all again is the Supreme Being whose power holds together all the changes visible in one organic existence. He dwells within, supports and moves everything, but exists apart from all.
 
-The Absolute is the universal soul or Purusha of which the whole prakriti or nature is an outward manifestation. The universe moves according to what are known as the laws of nature. This code of nature is nothing but the manifestation of the Supreme will. Life proceeds as if wholly independent of God.
+The Absolute is the universal soul or Purusha of which the whole Prakrti or nature is an outward manifestation. The universe moves according to what are known as the laws of nature. This code of nature is nothing but the manifestation of the Supreme will. Life proceeds as if wholly independent of God.
 
 Bhagavan says ‘Reflect on this that as the mighty air everywhere moving is yet fixed in space, even so all beings, are dependent on me’.
