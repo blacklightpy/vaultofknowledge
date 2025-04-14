@@ -19,6 +19,14 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Śruti
 - Smṛti
 
+- Aṅga
+- Śikṣā
+- Chandas
+- Vyakarana
+- Nirukta
+- Kalpa
+- Jyotiṣa
+
 - Mantra
 - Nigama
 - Āgama
@@ -39,6 +47,8 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Artha
 - Kāma
 - Mokṣa
+- Kaivalya
+- Mukti
 
 - Śiva
 - Śakti
@@ -113,14 +123,14 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Āstika
 - Nāstika
 - Mahā
-- Bhāratha
+- Bhārata
 - Itihāsa
 - Purāṇa
 - Bhagavad
 - Gītā
 - Śrīmad 
 - Bhāgavatam
-- Devi
+- Devī
 - Śrī
 - Karma
 - Bhakti
@@ -130,42 +140,36 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Prati
 - Tarka
 - Driṣti
-### Words to make IAST
-
-- Aṅga
-	- Śikṣā
-	- Chandas
-	- Vyakarana
-	- Nirukta
-	- Kalpa
-	- Jyotiṣa
 
 - Śarīra
-	- Sthūla
-	- Sūkṣma 
-	- Kāraṇa
+- Sthūla
+- Sūkṣma 
+- Kāraṇa
+
+- Vaideha
 
 - Cit
 - Citta
 - Vṛtti
-	- Viparyāya
-	- Vikalpah
-	- Nidrā
+- Viparyāya
+- Vikalpah
+- Nidrā
+
 - Guna
 - Vāsanā
 
 - Avastha
-	- Jāgratā
-	- Svapna
-	- Suṣupti
-	- Turiya
+- Jāgratā
+- Svapna
+- Suṣupti
+- Turiya
 
 - Kośa
-	- Maya
-	- Anna
-	- Prāṇa
-	- Vijñāna
-	- Ānanda
+- Maya
+- Anna
+- Prāṇa
+- Vijñāna
+- Ānanda
 
 - Yajus
 - Sāman
@@ -179,36 +183,37 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Manas
 - Panca
 - Bhūta
-	- Ākāśa
-	- Vāyu
-	- Agni
-	- Apa / Jala
-	- Pṛthvī / Kṣiti
+- Ākāśa
+- Vāyu
+- Agni
+- Apa / Jala
+- Pṛthvī / Kṣiti
+
 - Indriya
-	- Pāṇi / Hast
-	- Pāda
-	- Guda / Pāyu
-	- Upastha / Meḍhra
-	- Vāk
-	- 
-	- Śrotraṃ / Kān / Karna
-	- Sparśana / Tvak / Tvacā
-	- Cakṣu / Netra / Āṅkh
-	- Rasana / Jivhā
-	- Ghrāṇa / Nāsā
+- Pāṇi / Hast
+- Pāda
+- Guda / Pāyu
+- Upastha / Meḍhra
+- Vāk
+
+- Śrotraṃ / Kān / Karna
+- Sparśana / Tvak / Tvacā
+- Cakṣu / Netra / Āṅkh
+- Rasana / Jivhā
+- Ghrāṇa / Nāsā
 - Tanmātra
-	- Śabda / Dhvani
-	- Sparśa
-	- Rūpa
-	- Rasa / Svaad
-	- Gandha
+- Śabda / Dhvani
+- Sparśa
+- Rūpa
+- Rasa / Svaad
+- Gandha
 
 - Kancuka
-	- Kāla
-	- Vidya
-	- Rāga
-	- Niyati
-	- Kala
+- Kāla
+- Vidya
+- Rāga
+- Niyati
+- Kala
 
 - Vidhi
 - Doṣa
@@ -224,11 +229,33 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Āsana
 - Sādhana
 
+- Niti
 - Yama
 - Niyama
+- Dhṛti
+- Kṣamā
+- Ahimsa
+- Acauryaḥ
+- Asteya
+- Aparighraha
+- Dayā
+- Akrodha
+- Ārjava
+- Santoṣa
+- Svādhyāya
+- Śauca
+- Mitāhāra
+- Dāna
 
 - Tapas
 - Dhyāna
+- Sama
+- Dama
+- Uparati
+- Titiksha
+- Sraddha
+- Samadhana
+- Arishadvarga
 
 - Jijñāsa
 
@@ -265,60 +292,13 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 
 - Āsana
 - Cakra
-	- Mūlādhāra
-	- Svādhiṣṭhāna
-	- Maṇipūra
-	- Anāhata
-	- Viśuddha
-	- Ājñā
-	- Sahasrāra
-
----
-
-
-- Sama
-- Dama
-- Uparati
-- Titiksha
-- Sraddha
-- Samadhana
-- Arishadvarga
-
-
-- Niti
-
-Ahimsa
-Achourya
-Aparighraha
-
-
-Dayaa
-Akrodha
-Arjava
-Santosa
-Svādhyāya
-Shaucha
-Mitahara
-Dāna
-
-Dhriti
-Kshama
-Asteya
-
-
-Pramaana:
-
-- Pratyakṣa (perception)
-- Anumāṇa (inference)
-- Upamāṇa (comparison, analogy)
-- Arthāpatti (postulation, presumption)
-- Anupalabdi (non-perception, negation)
-- Śabda (word, testimony)
+- Mūlādhāra
+- Svādhiṣṭhāna
+- Maṇipūra
+- Anāhata
+- Viśuddha
+- Ājñā
+- Sahasrāra
 
 
 
-Kaivalya
-Mukti
-
-Jeevan
-Vaideha
