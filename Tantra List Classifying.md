@@ -17,7 +17,7 @@ See more:
 
 https://www.celextel.org/articles-and-summary/tantra-mother-worship/ (lot of ideas, including [[Saamaanya Varna]]).
 
-Rudra Yaamala Tantra contains "Vakrathunda Mahaa Kaaya..." Ganesha Mantra, under Mahaganapati Shastranam Stotra.
+Rudra Yaamala Tantra contains "Vakrathunda Mahaa Kaaya..." Ganesha Mantra (but not the full match), under Mahaganapati Shastranam Stotra.
 ## Intro
 
 Some notes:
