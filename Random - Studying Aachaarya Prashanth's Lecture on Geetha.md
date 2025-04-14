@@ -118,4 +118,27 @@ My commentary: LMAO. He made the same point.
 - But the probability is that 1 in 100 kids will become rich.
 - So in a neighbourhood, one kid will surely become rich.
 - That is regardless of whether you wanted it or not.
-- But it's very hard to acknowledge let alone digest, because if 
+- But it's very hard to acknowledge let alone digest, because if you acknowledge it, you are just dead, not just inwardly.
+
+My commentary: I don't necessarily fully agree here. This is fatalism, but though one's actions are not their own doing, it is predictable by the behaviour of the system, which one is going to become rich. In that way, we can learn which will become which. It may break the rules by complexity, but for the most part, we have reliable estimates.
+
+- This is what drives the common man. He is not concerned about liberation.
+- He wonders whether he can build the next new home, or if he can turn his kids into billionaries.
+- If you take this away, he will live in a void.
+- So he will not acknowledge that it would have happened regardless of him exerting his agency.
+- This is the state of the ego. It keeps hoping or working absurdly about it.
+- The bacteria in the car's tyre is working hard to ensure that it turns left.
+
+**My commentary: Hold on. So far I feel that Indians focus on how "life" is beyond our control. But you know, a pen would move if we move it. Although our desire to move it, or how other broader actions are beyond our control. The fact that the pen would move itself could've been in the timeline. But to say that the bacteria hoping to move the car and a man hoping to move a pen by his hands are the same is a mistake. One is a case of false agency, while the other is a case of correct agency, although the agency could be limited.**
+
+- Common man works tirelessly.
+- But we are not supposed to work that much.
+- British economist Keynes said in 1930 that we'll in the next 100 years, we'd have so much technology that we'll have 15 hour work weeks.
+- And someone said that electricity would become so cheap that it wouldn't need to be metered.
+- None of that has materialized.
+
+My commentary: Blame that on Ego and capitalism.
+
+- So there is no reason for working so hard today.
+- Life can be for purposeless enjoyment.
+- 
