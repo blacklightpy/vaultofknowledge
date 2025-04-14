@@ -139,6 +139,8 @@ My commentary: I don't necessarily fully agree here. This is fatalism, but thoug
 
 My commentary: Blame that on Ego and capitalism.
 
+- In fact, we work much harder today.
+- That's because we work for something that cannot be achieved.
 - So there is no reason for working so hard today.
 - Life can be for purposeless enjoyment.
-- 
+- We work harder because we are not working
