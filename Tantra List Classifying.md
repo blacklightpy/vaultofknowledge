@@ -16,6 +16,8 @@ See more:
 - https://dharmawiki.org/index.php/Tantra_(%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D) (Has notes on Shaiva Aagamas, Shaiva Siddhaantha and Kashmir Shaivism)
 
 https://www.celextel.org/articles-and-summary/tantra-mother-worship/ (lot of ideas, including [[Saamaanya Varna]]).
+
+Rudra Yaamala Tantra contains "Vakrathunda Mahaa Kaaya..." Ganesha Mantra, under Mahaganapati Shastranam Stotra.
 ## Intro
 
 Some notes:
