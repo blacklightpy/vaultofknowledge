@@ -80,4 +80,14 @@ My comment: Haha, that's a meaningful one.
 
 - Most of us won't even decide to go to sleep.
 - He says he'll have proof in 15 minutes, as half of his audience will go to sleep soon.
+- So the note goes in the pocket.
+- Now if there was a claimant, you'd let them claim.
+- But the problem is that you want a claimant in the form of a person.
+- But the claimant is a system, not a person.
+- There is a doer, but the doer is not a person.
+- That doer is Prakrthi.
+- Since Prakrthi is everything, it cannot come see you in person, because you are a part of it.
+- If you throw a ball up, can you ask who threw it down to you?
+- The law of gravitation says everything pulls on everything. 
+- So even Jupiter is pulling on the ball, but should Jupiter say it threw it back to you?
 - 
