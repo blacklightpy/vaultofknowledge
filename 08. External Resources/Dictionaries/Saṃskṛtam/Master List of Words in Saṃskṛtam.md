@@ -223,47 +223,47 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 - Aṅga
 - Āsana
 - Sādhana
+
 - Yama
 - Niyama
 
 - Tapas
-- Dhyana
+- Dhyāna
 
 - Jijñāsa
 
 - Viveka
 - Vairāgya
 - Mumukshuttvam
-- Sampatti
+- Saṃpatti
 - Catuṣṭaya
 
-- Shravana
+- Śravaṇa
 - Manana
 - Nididhyāsana
 
-- Yaamala
-- Daamara
+- Yāmala
+- Ḍāmara
 
-- Vyavahaara
-- Prathibhaasa
+- Vyavahāra
+- Prathibhāsaup
 - Upādhi
 
 - Prajña
 
-- Aachaarya
-- Vyavahaara
-- Praayascitta
+- Āchārya
+- Prāyaścitta
 
 - Loka
-- Sthothra
-- Keerthanam
-- Teertha
-- Tirodhaanama
+- Stotra
+- Kīrtana
+- Tīrtha
+- Tirodhāna
 
-- Deeksha
+- Dīkṣa
 - Upanayana
 
-- Aasana
+- Āsana
 - Cakra
 	- Mūlādhāra
 	- Svādhiṣṭhāna
@@ -276,41 +276,34 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 ---
 
 
-
-    
-- [Prajña (wisdom)](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Hinduism) "Prajñā (Hinduism)")
-- [Ānanda (happiness)](https://en.wikipedia.org/wiki/%C4%80nanda_(Hindu_philosophy) "Ānanda (Hindu philosophy)")
-- [Viveka (discernment)](https://en.wikipedia.org/wiki/Viveka "Viveka")
-- [Vairagya (dispassion)](https://en.wikipedia.org/wiki/Vairagya "Vairagya")
-- [Sama (equanimity)](https://en.wikipedia.org/wiki/Samatva "Samatva")
-- [Dama (temperance)](https://en.wikipedia.org/wiki/Temperance_(virtue)#Hinduism "Temperance (virtue)")
-- [Uparati (self-settledness)](https://en.wikipedia.org/wiki/Uparati "Uparati")
-- [Titiksha (forbearance)](https://en.wikipedia.org/wiki/Titiksha "Titiksha")
-- [Shraddha (faith)](https://en.wikipedia.org/wiki/Faith_in_Hinduism "Faith in Hinduism")
-- [Samadhana (concentration)](https://en.wikipedia.org/wiki/Sam%C4%81dh%C4%81na "Samādhāna")
-- [Arishadvargas (six enemies)](https://en.wikipedia.org/wiki/Arishadvargas "Arishadvargas")
+- Sama
+- Dama
+- Uparati
+- Titiksha
+- Sraddha
+- Samadhana
+- Arishadvarga
 
 
-Ethics
+- Niti
 
-- [Niti śastra](https://en.wikipedia.org/wiki/Ethics_in_religion#Hindu_ethics "Ethics in religion")
-- [Yamas](https://en.wikipedia.org/wiki/Yamas "Yamas")
-- [Niyama](https://en.wikipedia.org/wiki/Niyama "Niyama")
-- [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa "Ahimsa")
-- [Achourya](https://en.wikipedia.org/wiki/Achourya "Achourya")
-- [Aparigraha](https://en.wikipedia.org/wiki/Non-possession "Non-possession")
-- [Brahmacharya](https://en.wikipedia.org/wiki/Brahmacharya "Brahmacharya")
-- [Damah](https://en.wikipedia.org/wiki/Temperance_(virtue)#Hinduism "Temperance (virtue)")
-- [Dayā](https://en.wikipedia.org/wiki/Compassion#Hinduism "Compassion")
-- [Akrodha](https://en.wikipedia.org/wiki/Akrodha "Akrodha")
-- [Arjava](https://en.wikipedia.org/wiki/Arjava "Arjava")
-- [Santosha](https://en.wikipedia.org/wiki/Santosha "Santosha")
-- [Tapas](https://en.wikipedia.org/wiki/Tapas_(Indian_religions) "Tapas (Indian religions)")
-- [Svādhyāya](https://en.wikipedia.org/wiki/Sv%C4%81dhy%C4%81ya "Svādhyāya")
-- [Shaucha](https://en.wikipedia.org/wiki/Shaucha "Shaucha")
-- [Mitahara](https://en.wikipedia.org/wiki/Mitahara "Mitahara")
-- [Dāna](https://en.wikipedia.org/wiki/D%C4%81na "Dāna")
-- [Sources of dharma](https://en.wikipedia.org/wiki/%C5%9A%C4%81stra_pram%C4%81%E1%B9%87am_in_Hinduism "Śāstra pramāṇam in Hinduism")
+Ahimsa
+Achourya
+Aparighraha
+
+
+Dayaa
+Akrodha
+Arjava
+Santosa
+Svādhyāya
+Shaucha
+Mitahara
+Dāna
+
+Dhriti
+Kshama
+Asteya
 
 
 Pramaana:
