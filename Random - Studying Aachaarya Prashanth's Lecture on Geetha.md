@@ -90,4 +90,32 @@ My comment: Haha, that's a meaningful one.
 - If you throw a ball up, can you ask who threw it down to you?
 - The law of gravitation says everything pulls on everything. 
 - So even Jupiter is pulling on the ball, but should Jupiter say it threw it back to you?
-- 
+- No, because it's not just Jupiter, but every body in the universe.
+- Everything from each grain of sand gave it to you, but you ask who gave it to you?
+- It is a system that does everything.
+- But you look for a person for every action because you are a person.
+- It is in the same way that you look for God as a person.
+- If there is a mover, it is not a person, it is a system.
+- You can worship the system, there is no flaw in it.
+- But you never worship the system, you look for someone running the system.
+- No, the system runs itself.
+- The ego is concerned with the result because if you did not have control over the result, then you were not the doer in the first place.
+- The universe is in control of everything, but you want to be he boss. That is why you are stressed out.
+- It's like someone driving a car, and you are a bacterium sticking on the wheels, thinking you are the driver.
+- You feel that it must turn left, but even your feeling is not your feeling.
+- The bacterium is stressed out because it wants to turn left but it does not.
+- But one out of hundred times, it will turn left, and it will give hope for the bacteria for the next 200,000 years that it controls the car.
+
+My commentary: LMAO, it explains history. I actually feel like us playing which car will overtake which in the back of the school bus.
+
+- The bacteria tells the car to turn left a 100 times, and it does once, and it thinks, yes, I did it, and I can do it again.
+- The basic laws of history say that even if the probability of some event is near zero, it can still happen.
+- But then when it does, we include it in our history books saying this is the result of human endeavour.
+
+My commentary: LMAO. He made the same point.
+
+- Every family in the neighbourhood of 100 families wants their kids to become rich.
+- But the probability is that 1 in 100 kids will become rich.
+- So in a neighbourhood, one kid will surely become rich.
+- That is regardless of whether you wanted it or not.
+- But it's very hard to acknowledge let alone digest, because if 
