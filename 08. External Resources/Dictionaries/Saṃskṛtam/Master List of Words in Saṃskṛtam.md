@@ -183,22 +183,23 @@ See here too: https://www.yesvedanta.com/resources/#tab-terminology
 	- Vāyu
 	- Agni
 	- Apa / Jala
-	- Pṛthvī
+	- Pṛthvī / Kṣiti
 - Indriya
-	- Pani / Hast
-	- Pada
-	- Guda / Paayu
+	- Pāṇi / Hast
+	- Pāda
+	- Guda / Pāyu
 	- Upastha / Meḍhra
-	- Vak
-	- Srotra
-	- Tvak
-	- Chakshu / Netra
-	- Rasana / Jivha
-	- Ghrana / Nasa
+	- Vāk
+	- 
+	- Śrotraṃ / Kān / Karna
+	- Sparśana / Tvak / Tvacā
+	- Cakṣu / Netra / Āṅkh
+	- Rasana / Jivhā
+	- Ghrāṇa / Nāsā
 - Tanmātra
-	- Shabda / Dhvani
-	- Sparsha
-	- Roopa
+	- Śabda / Dhvani
+	- Sparśa
+	- Rūpa
 	- Rasa / Svaad
 	- Gandha
 
