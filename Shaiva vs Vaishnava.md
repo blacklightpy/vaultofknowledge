@@ -7,7 +7,7 @@
   > 
 > Greater than the great is Brahma, greater still than that great one is Hari, even greater than this one is Shiva.
 
-About the Shiva Sankalpa Soothra in Manuscripts (from):
+About the Shiva Sankalpa Soothra in Manuscripts (from Sayana Bhaashya of Rg Veda Samhitha):
 
 > The Sivasamkalpasukta (Yenedam IV. 11) which seems to be absent in the Alwar MS., is found in the Junagadh MS.
 
