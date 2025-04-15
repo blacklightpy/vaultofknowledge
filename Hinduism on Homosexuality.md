@@ -1,4 +1,4 @@
-Ah, this is the topic that needs to be studied before books can be validated.
+Ah, this is the topic that needs to be studied before books can be validated. The word seems to be Thritheeya Prakrithi (addressed in detail in the "From Compilations" section below).
 
 # From Shruthi
 
@@ -8,6 +8,14 @@ Ah, this is the topic that needs to be studied before books can be validated.
 
 But this one is likely a case of Devatha Tattva being used.
 # From Smrithi
+
+## From Purana
+
+It is given punishments in Garuda Puraana, and it was also used in the movie Anniyan.
+### Garuda Puraana
+
+
+
 ## From Dharma Shaasthra
 
 **Should take bath:**
@@ -169,7 +177,10 @@ https://galva108.org/f/tritiya-prakriti-people-of-the-third-sex (Continued in th
 
 ### Other
 
-[http://history-of-hinduism.blogspot.in/p/homosexuality-and-hinduism.html?m=1](http://history-of-hinduism.blogspot.in/p/homosexuality-and-hinduism.html?m=1)
+**One Site:**
+
+http://history-of-hinduism.blogspot.in/p/homosexuality-and-hinduism.html
+
 ## Thoughts
 
 1. Ardha-Nari-Eeshvar exists
