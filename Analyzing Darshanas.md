@@ -30,6 +30,10 @@ I think the personality of God is the personality of a cleaned mind. However, we
 - God has a personal form.
 - He exercises control over reality.
 
+> Advaita concept is related to the ontological status of the world, whereas both Svayam Bhagavan and his shaktis (in Lord himself and his powers) are empirically real, and they are different from each other, but at the same time they are the same. Yet, this does not negate the reality of both
+
+<span style="color:lightblue"><b>Hmm.. sounds like Kashmir Shaivism.</b></span>
+
 Śrīla Bhaktivinoda Thākura outlines in detail the famous ten foundational principles found in the teachings of Śri Caitanya Mahāprabhu from Caitanya Caritāmṛta. These are called Daśa-Mūla. He wrote 12 verses to describe it, and the first verse is the Soothra Shloka:
 
 > āmnāyaḥ prāha tattvaṁ; harim iha paramaṁ; sarva-śaktim; rasābdhiṁ;
@@ -48,6 +52,12 @@ I think the personality of God is the personality of a cleaned mind. However, we
 > 9. Pure bhakti is the way of attainment (sadhana).
 > 10. Divine love (prīti) is the objective.
 
+Earlier Aachaaryas' versions: https://btg.krishna.com/dasha-mula-tattva-the-ten-roots-of-gaudiya-vaishnavism/
 
+Also from Prabhupada:
+
+> Where is the question of advaita if Krsna says ‘Surrender to Me’? Our philosophy is both advaita and dvaita. We are one with Krsna in our qualities, but He is much greater than us.”
+
+### Bheda Abheda
 
 
