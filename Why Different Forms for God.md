@@ -1,3 +1,10 @@
-As I said in [[My Vision of God]], I saw God as a reflection of me.
+As I said in [[My Vision of God]], I saw God as a reflection of me form the outside. Like, it was like I was my mind alone, and the external world was simply a white space that too was my mind, but it was whiter than white.
 
-Now, an average person won't see a reflection of God without their mind being cleansed. So for them, to walk in the direction 
+The underlying principle, as I'd come to see it later rationally, is that Eeshvara is your own self when you look through the lens of Maaya. Or in other words, Eeshvara has imposed on itself, Maaya to separate itself from the Jeeva-s, thereby creating a dualistic world.
+
+To put it more discretely, to a person who wears rose glasses, the surroundings are rose tinted, and for a person wearing green glasses, the surroundings are green tinted. But a person wearing muddy glasses would see mud in the surroundings. God is likewise always within your vicinity, but because of the mud in your glasses, you never come to that realization.
+
+<span style="color:lightblue"><b>On how to do clear your glasses, I cannot give you a discrete set of steps though. These glasses are not your eyes, it is your mind. So in one sense, you are the only one who knows your mind. But what is ultimately to be done is to perform the "right" actions as you feel, along all steps, and the simple fact that wrong steps will show you their flaws over time, you will be guided in the right direction, and when you proceed in that direction, you will have your mind cleared. <br><br> And I may add, do not follow someone else's opinion when it contradicts yours. Then you will be led astray from your path. As it is said: "When the right means are used by the wrong person, the right means work in the wrong ways". This is also said in the Bhagavad Geetha 3.35, śreyān sva-dharmo viguṇaḥ, para-dharmāt sv-anuṣṭhitāt; sva-dharme nidhanaṁ śreyaḥ, para-dharmo bhayāvahaḥ, that it is better to follow your own duties eve.</b></span>
+
+Now, an average person won't see a reflection of God without their mind being cleansed. So for them, to walk in the direction of the Godhead, when Karma Yoga seems like a tough path, they should take up the path of Bhakthi Yoga, by devoting themselves to an ideal deity.
+
