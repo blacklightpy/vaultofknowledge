@@ -413,6 +413,7 @@ This is wishful thinking.
 	- Killing all adult males who had pubic hair after battle
 		- Jami at-Tirmidhi (Saheeh)
 			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Saheeh. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
+		- Also see: Hadeeth No. 2541 of Sunan by Imam ibn Majah and Hadeeth Nos. 3429, 3430 and 4981 of Sunan by Imam an-Naasa'ee
 	- Revelation that sex slaves are lawful, when Aisha protested
 		- Sunan an-Nasa'i (Saheeh)
 			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.

@@ -30,7 +30,7 @@
 - 2. Don't Kill Children
 	- Generic
 		- The Islamic definition of an adult is a person who that had their first wet dream or period, or produced pubic hair. That will include some as young as 10-12 years old. **(Source: Hadeeths I've seen, need to collect)**
-		- Muhammad authorised the beheading of all boys with pubic hair after the Banu Qurayza surrendered. **(Source: Hadeeths I've seen, need to collect)**
+		- Muhammad authorised the beheading of all boys with pubic hair after the Banu Qurayza surrendered. **(Source: Hadeeths I've seen, need to collect)** - Hadeeth No. 2541 of Sunan by Imam ibn Majah, Hadeeth No. 1584 of Jaami' by Imam at-Tirmidhi and Hadeeth Nos. 3429, 3430 and 4981 of Sunan by Imam an-Naasa'ee
 		- Keep them as slaves
 		- But rape the female ones (They are of the age for sex at 6)
 	- Women and Children Section (will be duplicated)

@@ -23,7 +23,7 @@
 	- Exarchate (a jurisdiction for missionary regions not yet organized into dioceses / Eastern Catholic, Orthodox)
 	- Prelature (a church jurisdiction (not necessarily tied to a geographical area) under the oversight of a prelate (bishop or archbishop))
 		- Personal Prelature (serve by circumstance rather than geography)
-	- Ordinariate (a structure created to serve specific groups of faithful within a broader church, often with unique liturgical (pubic service or worship) or cultural needs)
+	- Ordinariate (a structure created to serve specific groups of faithful within a broader church, often with unique liturgical (public service or worship) or cultural needs)
 		- Military Ordinariate (serves members of the armed forces)
 	- Titular See (a diocese that no longer has a resident bishop due to historical reasons, but is retained as a honorary title for bishops)
 - Global and Supra-Regional Levels
