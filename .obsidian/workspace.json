@@ -501,19 +501,9 @@
               "icon": "lucide-file",
               "title": "My Vision of God"
             }
-          },
-          {
-            "id": "5d8223d8b18c86a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 33
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -649,12 +639,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "My Vision of God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of My Vision of God"
             }
           },
           {
@@ -719,8 +710,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d8223d8b18c86a6",
+  "active": "f51905b18b2e4508",
   "lastOpenFiles": [
+    "Prabhupada on Religion.md",
     "My Vision of God.md",
     "Studying the Karma Theory.md",
     "Anniyan Punishments.md",
@@ -746,7 +738,6 @@
     "06. Collected Knowledge/Finding Pi - My Philosophy.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",
-    "Differences between Hinduism and Buddhism.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
