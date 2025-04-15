@@ -8,7 +8,6 @@ However, Dharma Sutras typically did not deal with rituals and ceremonies, a top
 
 > [!NOTE]
 > Dharma Shasthras are part of Kalpa Vedanga, though most of the sins and stuff are not mentioned in the Veda-s.
-
 ## Extant Texts
 The Dharma Sutras were numerous, but only four texts have survived into the modern era. The most important of these texts are the [[Sutras]] of Apasthamba, Gauthama, Baudhaayana, and Vasishta. These extant texts cite writers and refer opinions of seventeen authorities, implying that a rich Dharma Sutras tradition existed prior to when these texts were composed.
 

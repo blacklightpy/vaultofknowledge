@@ -1,4 +1,7 @@
-The Dharma Shastras are based on the difficult to read [[Dharma Soothras]].
+The Dharma Shaasthra-s are based on the difficult to read [[Dharma Soothras]].
+
+> [!NOTE]
+> Dharma Shasthras are part of Kalpa Vedanga, though most of the sins and stuff are not mentioned in the Veda-s.
 # Introduction
 The textual corpus of Dharma Shastras were composed in poetic verses, are part of the Hindu Smritis, constituting divergent commentaries and treatises on duties, responsibilities and ethics to oneself, to family and as a member of society.
 
@@ -14,15 +17,15 @@ The extant Dharma Shastra texts are listed below:
 - The **Naarada Smriti** (~5th to 6th-century CE) has been called the "juridical text par excellence" and represents the only Dharma Shastra text which deals solely with juridical matters and ignoring those of righteous conduct and penance.
 - The **Vishnu Smriti** (~7th-century CE) is one of the latest books of the Dharma Shastra tradition in Hinduism and also the only one which does not deal directly with the means of knowing Dharma, focusing instead on the Bhakti tradition.
 # British Influence
-Of the four extant Dharma Shastras, Manusmriti, Yajnavalkyasmriti and Naradasmriti are the most important surviving texts. But, states Robert Lingat, numerous other Dharma Shastras whose manuscripts are now missing, have enjoyed equal authority.
+Of the four extant Dharma Shaasthra-s, Manu Smrithi, Yaajnavalkya Smrithi and Naarada Smrithi are the most important surviving texts. But, states Robert Lingat, numerous other Dharma Shaasthra-s whose manuscripts are now missing, have enjoyed equal authority.
 
-Between the three, the **Manusmriti** became famous during the colonial British India era, yet modern scholarship states that other Dharma Shastras such as the Yajnavalkyasmriti appear to have played a greater role in guiding the actual Dharma.
+Between the three, the **Manu Smrithi** became famous during the colonial British India era, yet modern scholarship states that other Dharma Shaasthra-s such as the Yaajnavalkya Smrithi appear to have played a greater role in guiding the actual Dharma.
 
-Further, the Dharma Shastras were open texts, and they underwent alterations and rewriting through their history.
+Further, the Dharma Shaasthra-s were open texts, and they underwent alterations and rewriting through their history.
 # Contents of Dharma Shastras and Dharmasutras
 All Dharma, in Hindu traditions, has its foundation in the Vedas. The Dharma Shastra texts enumerate four sources of Dharma – **the precepts in the Vedas**, **the tradition**, **the virtuous conduct of those who know the Vedas**, and **approval of one's conscience (Aatma Santhushti / Self Satisfaction)**.
 
-The Dharma Shastra texts include conflicting claims on the sources of dharma. The theological claim therein asserts, without any elaboration, that Dharma just like the Vedas are eternal and timeless, the former is directly or indirectly related to the Vedas. 
+The Dharma Shaasthra texts include conflicting claims on the sources of dharma. The theological claim therein asserts, without any elaboration, that Dharma just like the Vedas are eternal and timeless, the former is directly or indirectly related to the Vedas. 
 
 Yet these texts also acknowledge the role of Smriti, customs of polite learned people, and one's conscience as source of dharma.
 

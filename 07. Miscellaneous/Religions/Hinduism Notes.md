@@ -24,7 +24,7 @@ In Religion:
 - Aagamas (Tradition / What has come down)
 - [[Sutras]]
 	- [[Dharma Soothras]]
-	- [[Dharma Shastra]]
+	- [[Dharma Shaasthra]]
 - [[Puranas]]
 - Ithihasas
 	- [[Mahabharata]]
