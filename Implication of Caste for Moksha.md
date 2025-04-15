@@ -1,5 +1,8 @@
 I saw on one example that Mantras acquired without permission are not useful. But then, who can acquire Mantras via Deeksha? I wondered if Shoodras were permitted.
 # Cases from Shruthi
+
+#todo Copy from [[Shoodras who learned Vedas]].
+
 ## Initiation of Satyakaama Jaabaala
 The 4th Prapaathaka (Chapter) of Chaandogya Upanishad deals with a boy named Satyakaama Jaabaala, who is of unknown lineage since his mother was a prostitute, but was accepted as a Braahmana based on his honesty.
 ### Objections and my Dismissals
