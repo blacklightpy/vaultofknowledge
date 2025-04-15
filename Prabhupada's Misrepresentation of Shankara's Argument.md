@@ -76,3 +76,11 @@ Even though Shuddha Advaitha is monistic, it asks one to see more than themself,
 But then, how does it agree with his idea that we were created when we sought separation from him? If it's perfect, why would we seek separation, and why did he create us such that we sought separation? That is irrational.
 
 Also see: https://vaniquotes.org/wiki/Advaita_Philosophy
+
+
+# Doesn't Always Hate
+
+On Bhagavad Geetha 7.8:
+
+> This verse explains how the Lord is all-pervasive by His diverse material and spiritual energies. The Supreme Lord can be preliminarily perceived by His different energies, and in this way He is realized impersonally. As the demigod in the sun is a person and is perceived by his all-pervading energy, the sunshine, so the Lord, although in His eternal abode, is perceived by His all-pervading diffusive energies. The taste of water is the active principle of water. No one likes to drink sea water, because the pure taste of water is mixed with salt. Attraction for water depends on the purity of the taste, and this pure taste is one of the energies of the Lord. The impersonalist perceives the presence of the Lord in water by its taste, and the personalist also glorifies the Lord for His kindly supplying tasty water to quench man's thirst. That is the way of perceiving the Supreme. **Practically speaking, there is no conflict between personalism and impersonalism. One who knows God knows that the impersonal conception and personal conception are simultaneously present in everything and that there is no contradiction.** Therefore Lord Caitanya established His sublime doctrine: acintya bheda-and-abheda-tattva -- simultaneous oneness and difference.
+
