@@ -8,3 +8,8 @@ To put it more discretely, to a person who wears rose glasses, the surroundings 
 
 Now, an average person won't see a reflection of God without their mind being cleansed. So for them, to walk in the direction of the Godhead, when Karma Yoga seems like a tough path, they should take up the path of Bhakthi Yoga, by devoting themselves to an ideal deity.
 
+---
+
+Regarding how Vishnu and Shiva are non-separate:
+
+This is a matter of confusion among Vaishnavas and Shaivas. I shall clear it up using Indian theology as well as through empericism. By theology, the Supreme Godhead is too evasive to our finite descriptions, and so any descriptions of his personality and form are limited. And then, names are simply what we give to entities to identify and label them.
