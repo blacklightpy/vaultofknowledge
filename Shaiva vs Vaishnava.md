@@ -1,3 +1,18 @@
+
+I think I should study Shiva Tattva, Vishnu Tattva and Jeeva Tattva to resolve this.
+
+Also, there is the idea that Prabhupada said Jesus and Allah are equal to Vishnu, but Shiva is not the Supreme Godhead. But others say that he only said that under Vaishnvaism, Jesus, Allah and Shiva are all understood to be descriptions of the Godhead, but to them Krishna is the biggest Godhead.
+
+Now I've seen Hare Krishna pages saying Shiva Tattva is only 87% or Vishnu Tattva, while Jeeva Tattvas are at most 78%. In that sense, this could be seen as a hierarchy. But then, it could simply be a comparison of Godhead Tattvas.
+
+> **Room Conversation -- July 10, 1976, New York:**
+> Prabhupāda: According to ISKCON, Kṛṣṇa is the same God worshiped as Jehovah, Allah and so on." That is the explanation of who Kṛṣṇa is.
+
+> **Lecture on BG 9.15 -- New York, December 1, 1966:** God is supreme. Nobody can God. Nobody can be equal with God. God is called in the Vedic literature, asamaurdhva. Asama means nobody's equal to Him. And nobody is higher than Him. Ūrdhva means higher. Nobody can be higher than God, and nobody can be equal to God. Everyone is lower than God, however great he may be. And there is a nice verse, śiva-viriñci-nutam (SB 11.5.33). Śiva-viriñci. Śiva means the Lord Śiva, and viriñci means Lord Brahmā. They are considered to be the topmost demigods in this material world. So they also offer their respectful obeisances to Viṣṇu, or God.
+
+> **Conversation with Professor Hopkins -- July 13, 1975, Philadelphia:**
+> Prabhupāda: Yes. Lord Śiva means you get material opulence but not salvation.
+
 # Shaiva Affirming
 ## 1. Shiva is Supreme
 
