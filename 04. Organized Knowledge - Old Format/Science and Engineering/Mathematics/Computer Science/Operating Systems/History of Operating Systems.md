@@ -125,11 +125,11 @@
 
 # Timeline, Longer Brief
 ## From EDVAC (1951)
-- <span style="color:lightblue">[1951]</span> EDSAC
-- <span style="color:lightblue">[1955]</span> GMOS for IBM 701
-- <span style="color:lightblue">[1955]</span> MIT Tape Director OS for UNIVAC 1103
-- <span style="color:lightblue">[1961]</span> MIT CTSS for IBM 7094
-- <span style="color:lightblue">[1962]</span> GECOS
+- <span style="color:#8c90f9">[1951]</span> EDSAC
+- <span style="color:#8c90f9">[1955]</span> GMOS for IBM 701
+- <span style="color:#8c90f9">[1955]</span> MIT Tape Director OS for UNIVAC 1103
+- <span style="color:#8c90f9">[1961]</span> MIT CTSS for IBM 7094
+- <span style="color:#8c90f9">[1962]</span> GECOS
 - IBM OS/360 for IBM S/360
 - IBM BOS/360 for IBM S/360
 - IBM TOS/360 for IBM S/360

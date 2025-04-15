@@ -15,7 +15,7 @@ I think the personality of God is the personality of a cleaned mind. However, we
 
 > This body is a creation of God, But God is beyond this body. God is the foundation of all. God is the foundation of this body too. And God isn't transformed. This body is by his illusion. Yet, it is a real and created illusion.
 
-<span style="color:lightblue"><b>I guess this could be my fix of Advaita, that the "illusion" is real and created, not a misapprehension.</b></span>
+<span style="color:#8c90f9"><b>I guess this could be my fix of Advaita, that the "illusion" is real and created, not a misapprehension.</b></span>
 
 And shall I say, it's like files on a disk?
 
@@ -34,7 +34,7 @@ And shall I say, it's like files on a disk?
 
 > Advaita concept is related to the ontological status of the world, whereas both Svayam Bhagavan and his shaktis (in Lord himself and his powers) are empirically real, and they are different from each other, but at the same time they are the same. Yet, this does not negate the reality of both
 
-<span style="color:lightblue"><b>Hmm.. sounds like Kashmir Shaivism.</b></span>
+<span style="color:#8c90f9"><b>Hmm.. sounds like Kashmir Shaivism.</b></span>
 
 Śrīla Bhaktivinoda Thākura outlines in detail the famous ten foundational principles found in the teachings of Śri Caitanya Mahāprabhu from Caitanya Caritāmṛta. These are called Daśa-Mūla. He wrote 12 verses to describe it, and the first verse is the Soothra Shloka:
 

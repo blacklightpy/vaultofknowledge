@@ -4,4 +4,4 @@ For example, to build a transistor, you need to melt the silicon, for which you 
 
 Let's explore creation of technology in this manner!
 
-<span style="color:lightblue">[TODO]</span>
+<span style="color:#8c90f9">[TODO]</span>

@@ -6,7 +6,7 @@ Therefore, the generation of AI is simply when a designer applies his will to im
 
 In the same way, the generation of intelligent life is only possible when an intelligent creator generates intelligent life out of its own powers, because it is the only material that exists, and then veils itself to the world that emerges. This means the material world only exists because it is powered by the ultimate cause, but the ultimate cause allows the aspect of it within the created world to be blind to its own nature using another power of itself to ensure that it can experience the world by the ways of the world itself. And the rules of the world are that by which the world runs. This is how free will exists as "provided" by the ultimate cause.
 
-This is the case in Kashmir Shaivism, where Shiva imposes on himself 5 Kanchukas (or veils) - of time, knowledge, desire, fate and action - using his Shakthi to create an illusion (Maaya) through which this world appears. <span style="color:lightblue"><b>I've explained in a below section for anyone who feels like I was biased towards Kashmir Shaivism in creating this note, and in short, I wasn't.</b></span>
+This is the case in Kashmir Shaivism, where Shiva imposes on himself 5 Kanchukas (or veils) - of time, knowledge, desire, fate and action - using his Shakthi to create an illusion (Maaya) through which this world appears. <span style="color:#8c90f9"><b>I've explained in a below section for anyone who feels like I was biased towards Kashmir Shaivism in creating this note, and in short, I wasn't.</b></span>
 
 ### About how my thinking led to this note, and concerns about bias
 

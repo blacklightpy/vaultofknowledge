@@ -1,5 +1,5 @@
 - Electron (The OG, fat like Big Smoke)
 - Tauri (Uses OS Chromium runtime)
-- Ultralight (Webkit rewrite) <span style="color:lightblue">[OPEN CORE]</span>
+- Ultralight (Webkit rewrite) <span style="color:#8c90f9">[OPEN CORE]</span>
 - Muon (Electron alternative written using Go, using Ultralight instead of Chromium)
-- Sciter (A web runtime written in C++) <span style="color:lightblue">[CLOSED SOURCE]</span>
+- Sciter (A web runtime written in C++) <span style="color:#8c90f9">[CLOSED SOURCE]</span>
