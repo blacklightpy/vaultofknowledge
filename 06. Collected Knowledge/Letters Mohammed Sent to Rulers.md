@@ -8,6 +8,9 @@
 	- To Jews of Khaibar
 	- To Caesar of Rome (Recorded in Bukhari)
 
+> [!NOTE]
+> Refer Hadeeth No. 7 of Saheeh by al-Bukhaari, because Heraclius was planning to kill Jews?
+
 # How a normal person would write a letter
 General Template:
 > Hello. I'm "so and so", and I believe "so and so", and I'd like to convey its message to the people for that noble reason. I kindly request your approval for me to proceed with the matter.
