@@ -22,7 +22,6 @@ This is (1) discrediting your ability to study something by yourself, and (2) in
 
 Plenty of followers of Muhammad came to me and told me and others to support Palestine, and said that if you do not stand for Palestine, and for freeing Palestine "from the River to the Sea" from Israel, you are not a human being, and likewise. They used "appeals to emotion" a lot over reason, which was fine considering the death toll that came about in Israel.
 
-
 Secondly, a follower of Muhammad will always speak in somewhat of a threatening tone, asking you to never speak about Islam as though you know it if you are not a believer-and-submitter (Muslim). Somewhat like "don't teach a Muslim (Muhammad-ian) how his Deen (way of life) works." Look at the tone of that. It doesn't say "you don't know how a Musilm's Deen works unless you are familiar with it." It says "don't teach."
 
 
