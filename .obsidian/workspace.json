@@ -501,9 +501,19 @@
               "icon": "lucide-file",
               "title": "My Vision of God"
             }
+          },
+          {
+            "id": "5d8223d8b18c86a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -639,13 +649,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Vision of God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Vision of God"
+              "title": "Outline"
             }
           },
           {
@@ -710,8 +719,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51905b18b2e4508",
+  "active": "5d8223d8b18c86a6",
   "lastOpenFiles": [
+    "My Vision of God.md",
     "Studying the Karma Theory.md",
     "Anniyan Punishments.md",
     "Hinduism on Homosexuality.md",
@@ -725,7 +735,6 @@
     "Hindu Books.md",
     "Shaiva vs Vaishnava.md",
     "Why Different Forms for God.md",
-    "My Vision of God.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Blockchain.md",
     "01. Personal/Leisure/Movies.md",
     "06. Collected Knowledge/Why did Saddam Hussein reject UN inspections.md",
