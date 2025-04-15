@@ -30,6 +30,24 @@ I think the personality of God is the personality of a cleaned mind. However, we
 - God has a personal form.
 - He exercises control over reality.
 
-Śrīla Bhaktivinoda Thākura outlines in detail the famous ten foundational principles found in the teachings of Śri Caitanya Mahāprabhu from Caitanya Caritāmṛta. These are called Daśa-Mūla:
+Śrīla Bhaktivinoda Thākura outlines in detail the famous ten foundational principles found in the teachings of Śri Caitanya Mahāprabhu from Caitanya Caritāmṛta. These are called Daśa-Mūla. He wrote 12 verses to describe it, and the first verse is the Soothra Shloka:
+
+> āmnāyaḥ prāha tattvaṁ; harim iha paramaṁ; sarva-śaktim; rasābdhiṁ;
+> tad bhinnāṁsāṁś; ca jīvān prakṛti-kavalitān; tad-vimuktāṁś; ca bhāvāt;
+> bhedābedha-prakāśaṁ sakalam api hareḥ; sādhanaṁ śuddha-bhaktiṁ;
+> sādhyaṁ tat-prītim; evety upadiśati harau gaura-candro bhaje tam
+> 
+> 1. The Vedas (āmnāyaḥ) speak ontological truth.
+> 2. Hari is supreme.
+> 3. He possesses all potencies.
+> 4. He is an ocean of rasa (taste, quality, spiritual emotions).
+> 5. The jīvas are His separated manifestations.
+> 6. Some have been devoured by material nature (due to their taṭasthā (marginal) nature).
+> 7. Some are liberated due to their bhāva-bhakti (and are free frommaterial nature).
+> 8. Everything is both different and non-different from Hari.
+> 9. Pure bhakti is the way of attainment (sadhana).
+> 10. Divine love (prīti) is the objective.
+
+
 
 
