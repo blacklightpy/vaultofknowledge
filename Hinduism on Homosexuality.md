@@ -1,5 +1,12 @@
 Ah, this is the topic that needs to be studied before books can be validated.
 
+# From Shruthi
+
+> In that same night Mitra implants seed in Varuna, and when it (the moon) wanes, then it is produced from that seed. Now as to why that oblation of curds (payasyâ) to Mitra and Varuna is here exactly analogous (to the Sânnâyya offered at new moon)
+> 
+> Satapatha Brahmana (2.4.4.19) [(from sacred-texts.com)](https://www.sacred-texts.com/hin/sbr/sbe12/sbe1255.htm) 
+
+But this one is likely a case of Devatha Tattva being used.
 # From Smrithi
 ## From Dharma Shaasthra
 
@@ -54,9 +61,11 @@ About the case of cow, the context in the preceding verse was written (it's just
 > 
 > **Apasthambha Dharma Soothra 1.19.15**
 
-# From Compilations
+## From Compilations
 
-## Pro-LGBTQIA Gaudiya Vaishnava Sect
+### Pro-LGBTQIA Gaudiya Vaishnava Sect
+
+**Answer from Hinduism Stack Exchange:**
 
 From https://hinduism.stackexchange.com/a/30418/40901:
 
@@ -154,3 +163,14 @@ From https://hinduism.stackexchange.com/a/30418/40901:
 > 
 > 10) _Daiva—divine ordinance._ The ultimate factor in regard to cause of gender is daiva or divine ordinance. Indeed, the laws of nature work according to God’s will and cannot be overruled. It is therefore daiva or divine ordinance that ultimately determines which of the three genders a living entity assumes. The various supernatural causes such as being cursed or blessed by a demigod or saintly person are also included within this category.
 
+**From the site itself:**
+
+https://galva108.org/f/tritiya-prakriti-people-of-the-third-sex (Continued in the PDF attached at the end)
+
+### Other
+
+[http://history-of-hinduism.blogspot.in/p/homosexuality-and-hinduism.html?m=1](http://history-of-hinduism.blogspot.in/p/homosexuality-and-hinduism.html?m=1)
+## Thoughts
+
+1. Ardha-Nari-Eeshvar exists
+2. Ayyappa was born from Shiva and Vishnu (Mohini)

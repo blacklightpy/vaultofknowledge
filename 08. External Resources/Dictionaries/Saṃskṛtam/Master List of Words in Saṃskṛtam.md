@@ -8,6 +8,10 @@ Only include words that aren't separate notes here. For example, [[Upanishads]] 
 
 See here too: https://www.yesvedanta.com/resources/#tab-terminology
 
+For my style, see:
+- https://www.sathyasai.org/resources/indic-glossary (In parantheses)
+- https://www.sathyasai.org/refs/dicta.html (old site, go back a directory for next pages)
+
 ### IAST Words
 - Vēda / Vēdaḥ
 - Ṛ́c / Ṛ́ca
