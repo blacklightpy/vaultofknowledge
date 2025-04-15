@@ -368,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -503,13 +503,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting Prabhupada Conversations.md",
+                "file": "Analyzing Darshanas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interesting Prabhupada Conversations"
+              "title": "Outline of Analyzing Darshanas"
             }
           },
           {
@@ -574,10 +574,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d46def105b80a40b",
+  "active": "7cbacf03f011237f",
   "lastOpenFiles": [
-    "Analyzing Darshanas.md",
     "Interesting Prabhupada Conversations.md",
+    "Analyzing Darshanas.md",
     "My Vision of God.md",
     "Problems with ISKCON and its founder Prabhupada.md",
     "Prabhupada's Misrepresentation of Shankara's Argument.md",

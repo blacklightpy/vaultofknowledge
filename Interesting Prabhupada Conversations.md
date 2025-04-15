@@ -2,46 +2,28 @@
 
 1. Regarding Advaita
 2. Regarding Varna
-3. Miscellaneousf
-	1. 
+3. Miscellaneous / Those within others that stand out on their own
+	1. Only Engineers who work are engineers
+	2. Don't fear bombs, know it is Krishna
+	3. On NASA
 
 # Content
-**Also from Prabhupada:**
+### 1. Regarding Advaita
+
+**Surrender is valid and implies duality:**
 
 > Where is the question of advaita if Krsna says ‘Surrender to Me’? Our philosophy is both advaita and dvaita. We are one with Krsna in our qualities, but He is much greater than us.”
 
-**Only Engineers who work are engineers:**
+Also see: [[Prabhupada's Misrepresentation of Shankara's Argument]]
 
-> **Prabhupāda:** _Guṇa-karma-vibhāgaśaḥ_ (BG 4.13). Not by birth. Kṛṣṇa never says.
-> 
-> **Reporter:** (indistinct) . . . the caste.
-> 
-> **Prabhupāda:** No, no. These four castes. Not caste. We say caste, but _varṇāśrama_. _Varṇa_. Anyway, it is division. That division, _vibhāga_, the exact word is "division," not "caste." Or you can say caste, there is no difference? Division, these four divisions are there. So these divisions are not made by birth. Just like if you are a lawyer.
-> 
-> So in the society there are lawyers, engineers, medical men—they are divisions. But these lawyers, medical men or engineers, they are not born as engineer or as lawyer. That is mistake. Anyone who is qualified by the real knowledge, he is a lawyer. Not by birth. Suppose a lawyer's son, a big, big lawyer's son, does it mean that he's lawyer?
-> 
-> **Reporter:** No. But this is what we have been told.
-> 
-> **Prabhupāda:** So you have been (told) something mistake. That should not be accepted.
+### 2. Regarding Varna
+
 
 > **Indian man (6):** Another question comes. Why, how the caste system has crippled our society so much, was accepted by...
 > 
 > **Prabhupāda:** Wrongly, wrongly. Kṛṣṇa says, cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ ([BG 4.13](https://vanisource.org/wiki/BG_4.13_\(1972\) "vanisource:BG 4.13 (1972)")). So according to quality and work... That is fact. If you have got engineering qualification and if you can work as engineer, people will call you engineer-sāheb. Is it not? **So there may be a class of engineer, but that depends on quality and work. But if you have no quality, no work, how you become engineer? If you have no qualification of becoming an engineer, and you do not work, you work as a clerk, and if somebody addresses you "Engineer-sāheb," he is a fool, you are a fool. (laughter) So if he's not a brāhmaṇa, if you call him a brāhmaṇa, then you are fool and he is also fool. So that is going on, fools' paradise.** A rascal who is not in qualification a brāhmaṇa, if he's addressed and given honor of a brāhmaṇa, he's sees, "Oh, for nothing I am getting this honor, that's right, very nice." And who is giving him honor as brāhmaṇa, he's also rascal. But it is not that. Cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ ([BG 4.13](https://vanisource.org/wiki/BG_4.13_\(1972\) "vanisource:BG 4.13 (1972)")). Not by birth. One must acquire the quality of a brāhmaṇa.
 
 > Krsna created the four social orders on the basis of guna and karma, one’s qualities and his work. It’s very scientific. One must acquire the qualities, and he must work. And the role of a secular government is to see that brahmanas are actually working as brahmanas. So the four castes must be maintained. This is called varnasrama. **Prabhupada said that if the Indian government would finance him, he could rid India of godlessness in a year. “People are fed up with materialism and cheating yoga. Why not support this movement? Immediately we could open one hundred Varnasrama Colleges and start training. We wouldn’t just rubber stamp a man ‘brahmana’ because he happens to be born in a brahmana family.** That religion of the body won’t do. One must actually become qualified.”
-
-**Don't fear bombs:**
-
-> **Reporter:** Sir, I . . . mine was a very hypothetical question. Supposing hundred pure saintly Kṛṣṇa conscious people are meditating or discussing or just surviving together, and there comes somebody, some _dushta_ (evil person), who drops a bomb, and at the end of all . . .
-> 
-> **Prabhupāda:** So those who are Kṛṣṇa conscious, they are not afraid of bomb. They are not afraid of bomb.
-> **Reporter:** How to face such people? We are such, sir, we are . . .
-> 
-> **Prabhupāda:** Now they receive bomb then, "It is Kṛṣṇa's desire that bomb has come."
-> 
-> ...
-> 
-> **Prabhupāda:** A Kṛṣṇa conscious person is never afraid of anything. _Bhayaṁ dvitīyābhiniveśataḥ syād_ (SB 11.2.37). One who has conception of anything other than Kṛṣṇa, he is afraid. One who knows everything is Kṛṣṇa, why he should be afraid? If bomb is coming, he will see, "Oh, Kṛṣṇa is coming." Yes. That is the vision of the devotee. So he thinks, "Oh, Kṛṣṇa wants to kill me as bomb. Oh, that's all right. I will be killed." That is Kṛṣṇa consciousness.
 
 **Caste:**
 
@@ -282,3 +264,38 @@
 > (break)
 > 
 > **Prabhupāda:** We have to surrender, that's a fact. But we refuse to surrender to Kṛṣṇa. That is our disease. He is not free. Just like in a state, just like in Mahatma Gandhi's time, so many started civil disobedience, but the government brought them all into prison, and they obliged them to obey. Similarly, our position is that . . . (break) (end)
+
+### 3.1. Only Engineers who work are engineers
+
+**Only Engineers who work are engineers:**
+
+> **Prabhupāda:** _Guṇa-karma-vibhāgaśaḥ_ (BG 4.13). Not by birth. Kṛṣṇa never says.
+> 
+> **Reporter:** (indistinct) . . . the caste.
+> 
+> **Prabhupāda:** No, no. These four castes. Not caste. We say caste, but _varṇāśrama_. _Varṇa_. Anyway, it is division. That division, _vibhāga_, the exact word is "division," not "caste." Or you can say caste, there is no difference? Division, these four divisions are there. So these divisions are not made by birth. Just like if you are a lawyer.
+> 
+> So in the society there are lawyers, engineers, medical men—they are divisions. But these lawyers, medical men or engineers, they are not born as engineer or as lawyer. That is mistake. Anyone who is qualified by the real knowledge, he is a lawyer. Not by birth. Suppose a lawyer's son, a big, big lawyer's son, does it mean that he's lawyer?
+> 
+> **Reporter:** No. But this is what we have been told.
+> 
+> **Prabhupāda:** So you have been (told) something mistake. That should not be accepted.
+
+### 3.2. Don't fear bombs, know it is Krishna
+
+**Don't fear bombs:**
+
+> **Reporter:** Sir, I . . . mine was a very hypothetical question. Supposing hundred pure saintly Kṛṣṇa conscious people are meditating or discussing or just surviving together, and there comes somebody, some _dushta_ (evil person), who drops a bomb, and at the end of all . . .
+> 
+> **Prabhupāda:** So those who are Kṛṣṇa conscious, they are not afraid of bomb. They are not afraid of bomb.
+> **Reporter:** How to face such people? We are such, sir, we are . . .
+> 
+> **Prabhupāda:** Now they receive bomb then, "It is Kṛṣṇa's desire that bomb has come."
+> 
+> ...
+> 
+> **Prabhupāda:** A Kṛṣṇa conscious person is never afraid of anything. _Bhayaṁ dvitīyābhiniveśataḥ syād_ (SB 11.2.37). One who has conception of anything other than Kṛṣṇa, he is afraid. One who knows everything is Kṛṣṇa, why he should be afraid? If bomb is coming, he will see, "Oh, Kṛṣṇa is coming." Yes. That is the vision of the devotee. So he thinks, "Oh, Kṛṣṇa wants to kill me as bomb. Oh, that's all right. I will be killed." That is Kṛṣṇa consciousness.
+
+### 3.3. On NASA
+
+See [[Prabhupada on NASA]]
