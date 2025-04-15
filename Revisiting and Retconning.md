@@ -1,0 +1,1 @@
+https://seasonedwriting.com/the-difference-between-revisiting-reinterpreting-retconning-and-retroactively-ruining-stories/
