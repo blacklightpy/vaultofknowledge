@@ -1,5 +1,5 @@
 - He was a strong Vaishnava who painted Advaitas as Maaya Vaadis
-- He called those whom he disagreed with as rascals
+- He called those whom he disagreed with as rascals (by which he did not mean the same thing though)
 - He defines Maaya as hard work and mocks those who work
 	- Source: https://prabhupadavani.org/transcriptions/720420letok/
 - He criticized atheists
@@ -32,7 +32,7 @@ It's okay to see that work is not everything. But to call working a delusion is 
 
 > **_Abodha-jāto._ He is a rascal, fool. He does not know what is his interest. He does not know that by nature's law,**
 
-"Rascal"? Just because they work? This is way out of control.
+<strike>"Rascal"? Just because they work? This is way out of control.</strike> It's okay, rascal doesn't mean the same thing.
 
 (A few statements unimportant in context, but worth looking at)
 > By nature's law we have to transmigrate in so many species of life---from aquatics to plants, trees, then insect, then flies, then birds, then beast, then uncivilized human being. Then we have got this civilized form---especially those who are born in India, because in India the _varṇāśrama-dharma_ is here.
@@ -77,6 +77,8 @@ To be fair, he did claim that eating meat is okay in the sense that it had to be
 
 ---
 https://prabhupadabooks.com/sb/4/18/6?d=1&f=56621 (His translation and commentary of SB 4.18.6):
+
+(Don't mind the word "rascal" (as he uses it), but calling someone "the lowest of mankind" is far-fetched)
 
 > In this verse the words asadbhiḥ and adhṛta-vrataiḥ are important. **The word asadbhiḥ refers to the nondevotees. The nondevotees have been described in Bhagavad-gītā as duṣkṛtinaḥ (miscreants), mūḍhāḥ (asses or rascals), narādhamāḥ (lowest of mankind) and māyayāpahṛta-jñānāḥ (those who have lost their knowledge to the power of the illusory energy). All these persons are asat, nondevotees.** Nondevotees are also called gṛha-vrata, whereas the devotee is called dhṛta-vrata. The whole Vedic plan is that the misguided conditioned souls who have come to lord it over material nature should be trained to become dhṛta-vrata. This means that they should take a vow to satisfy their senses or enjoy material life only by satisfying the senses of the Supreme Lord. 
 
