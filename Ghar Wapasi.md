@@ -1,0 +1,1 @@
+It means returning home, and is an Indian nationalist movement asking people who converted to Christianity or Islam to return to their religion.
