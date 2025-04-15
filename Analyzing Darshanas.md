@@ -68,4 +68,5 @@ Focuses on worship of Krishna.
 
 The Shrinathji temple at Nathdwara, and compositions of eight poets (Aṣṭasakha), including Sūrdās, are central to the worship by the followers of the sect.
 
-It was originally founded by Vishnu Swami as the Rudra Sampradaya, and Vallabha renewed it to form the Pushtimarga Sampradaya.
+It was originally founded by Vishnu Swami as the Rudra Sampradaya, and Vallabha renewed it to form the Pushti Maarga Sampradaya.
+

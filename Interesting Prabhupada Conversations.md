@@ -5,8 +5,7 @@
 3. Miscellaneous / Those within others that stand out on their own
 	1. Only Engineers who work are engineers
 	2. Don't fear bombs, know it is Krishna
-	3. On NASA
-
+	3. On NASA (funny)
 # Content
 ### 1. Regarding Advaita
 

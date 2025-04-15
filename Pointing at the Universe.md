@@ -1,0 +1,1 @@
+Wherever you point your finger, you point at the universe.
