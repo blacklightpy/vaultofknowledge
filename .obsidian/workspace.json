@@ -373,13 +373,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spacetime.md",
+                "file": "Why Different Forms for God.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Spacetime"
+              "title": "Why Different Forms for God"
             }
           }
         ],
@@ -415,7 +415,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lightblue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -519,13 +519,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spacetime.md",
+                "file": "Why Different Forms for God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spacetime"
+              "title": "Outline of Why Different Forms for God"
             }
           },
           {
@@ -569,8 +569,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -592,32 +591,32 @@
   },
   "active": "9e7136d283720ac1",
   "lastOpenFiles": [
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations/Internet Engineering Task Force.md",
-    "03. Culture/Fun and Activities/Photography/EV.md",
-    "03. Culture/Fun and Activities/Photography/Aberration.md",
-    "06. Collected Knowledge/Web App Frameworks.md",
-    "06. Collected Knowledge/Evolution of Engineering.md",
-    "02. To Share/Retro/Retro Gaming/Retro Emulation.md",
-    "06. Collected Knowledge/Genres of Music.md",
-    "06. Collected Knowledge/Flow of Electricity - Rough.md",
-    "06. Collected Knowledge/Islaam - Post.md",
-    "06. Collected Knowledge/List of Chapters in the Quran.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-    "Free Will 2 - A stronger note.md",
-    "Analyzing Darshanas.md",
-    "Why Different Forms for God.md",
-    "Is Bhagavad Geetha distilled wisdom or word of God.md",
-    "Ghar Wapasi.md",
     "My Vision of God.md",
-    "Interesting Prabhupada Conversations.md",
-    "About Tat Tvam Asi, and Buddhism.md",
-    "Pointing at the Universe.md",
-    "Problems with ISKCON and its founder Prabhupada.md",
-    "Prabhupada's Misrepresentation of Shankara's Argument.md",
-    "Shaiva vs Shakta.md",
-    "Counter Argument for Who Created God.md",
-    "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
-    "Kalanju Poya Note Pusthakam.md",
+    "Why Different Forms for God.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Blockchain.md",
+    "01. Personal/Leisure/Movies.md",
+    "06. Collected Knowledge/Why did Saddam Hussein reject UN inspections.md",
+    "06. Collected Knowledge/Hadith Organizing.md",
+    "Hinduism.md",
+    "03. Culture/Culture/Taoism.md",
+    "06. Collected Knowledge/Debating Anti-Hindu Theologers.md",
+    "Nature of physis in Christianity.md",
+    "06. Collected Knowledge/Finding Pi - My Philosophy.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",
+    "Differences between Hinduism and Buddhism.md",
+    "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/Timeline of History.md",
+    "06. Collected Knowledge/Types of Adages.md",
+    "06. Collected Knowledge/Life of Mohammed.md",
+    "06. Collected Knowledge/Chaining VPNs.md",
+    "06. Collected Knowledge/Anti-Hindu Theological Arguments by Muslims.md",
+    "06. Collected Knowledge/How to drink all the tea from a cup.md",
+    "06. Collected Knowledge/Android Custom Recoveries.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md",
+    "06. Collected Knowledge/How to set metadata for public domain music.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Mechanics/Special Relativity.md",
+    "06. Collected Knowledge/Articles to Read.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",

@@ -1,9 +1,9 @@
-- TeamWin Recovery Project (TWRP) <span style="color:lightblue">[Features: ]</span>
-- ClockWorkMod (CWM) ROM Manager <span style="color:lightblue">[Features: ]</span> (Mar 2010, by Koushik Dutta)
-- OrangeFox Recovery Project (OFRP) (synced with TWRP) <span style="color:lightblue">[Features: Password, MIUI OTA]</span> (Apr 2018, for mido, inspired by RedWolf, originally called OrangeWolf in Apr 2)
-- PitchBlack Recovery Project (PBRP) (fork of TWRP 3.7.0) <span style="color:lightblue">[Features: Password, MIUI OTA, Modules]</span> (Mar 2018)
-- SkyHawk Recovery Project (SHRP) (synced with TWRP) <span style="color:lightblue">[Features: Password, MIUI OTA, Cool Theme, Black/Dark/White variants, Modules]</span> (Feb 2019)
-- RedWolf Recovery Project (RWRP) (synced with TWRP) <span style="color:lightblue">[Features: Password, MIUI OTA, Red/Black Theme]</span> (Aug 2017, for mido)
+- TeamWin Recovery Project (TWRP) <span style="color:#8c90f9">[Features: ]</span>
+- ClockWorkMod (CWM) ROM Manager <span style="color:#8c90f9">[Features: ]</span> (Mar 2010, by Koushik Dutta)
+- OrangeFox Recovery Project (OFRP) (synced with TWRP) <span style="color:#8c90f9">[Features: Password, MIUI OTA]</span> (Apr 2018, for mido, inspired by RedWolf, originally called OrangeWolf in Apr 2)
+- PitchBlack Recovery Project (PBRP) (fork of TWRP 3.7.0) <span style="color:#8c90f9">[Features: Password, MIUI OTA, Modules]</span> (Mar 2018)
+- SkyHawk Recovery Project (SHRP) (synced with TWRP) <span style="color:#8c90f9">[Features: Password, MIUI OTA, Cool Theme, Black/Dark/White variants, Modules]</span> (Feb 2019)
+- RedWolf Recovery Project (RWRP) (synced with TWRP) <span style="color:#8c90f9">[Features: Password, MIUI OTA, Red/Black Theme]</span> (Aug 2017, for mido)
 
 - Other:
 - Batik Recovery Project (BRP)

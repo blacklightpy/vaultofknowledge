@@ -9,10 +9,10 @@ Capitalized suffixes are for recommended practices than for standards. 802.11F a
 
 The main Wi-Fi standards are:
 - 802.11-1997 or 802.11-1999 (Wi-Fi 0)
-- 802.11b (Wi-Fi 1) <span style="color:lightblue">[802.11a and 802.11b was developed together, but 802.11b was more affordable then]</span>
+- 802.11b (Wi-Fi 1) <span style="color:#8c90f9">[802.11a and 802.11b was developed together, but 802.11b was more affordable then]</span>
 - 802.11a (Wi-Fi 2)
 - 802.11g (Wi-Fi 3)
-- 802.11n (Wi-Fi 4) <span style="color:lightblue">[This is when we started naming the generations]</span>
+- 802.11n (Wi-Fi 4) <span style="color:#8c90f9">[This is when we started naming the generations]</span>
 - 802.11ac (Wi-Fi 5)
 - 802.11ax (Wi-Fi 6)
 - 802.11be (Wi-Fi 7)

@@ -14,7 +14,7 @@ But under **special relativity**, if you draw the space vs time diagram for the 
 
 Since the velocity of the vehicle with respect to light remains the same in this diagram too, to the only way to account for that is to consider the line that the vehicle moves along as its time line, and assume that time varies for it with changing speed to keep the same timings, and since the velocity of light remains constant, the space line for the vehicle also has to tilt to the same degree that the time line has shifted, so that light remains at the velocity. 
 
-<span style="color:lightblue">[Also, since the world line for the vehicle has now become its time line from the perspective of the observer, when reference frames are switched to from a velocity closer to the vehicle, the world line of the vehicle rotates closer to stationary axis, and the time dilation decreases appropriately, leading to a lowering of the temporal - I forgot why the Minkowski spacetime is hyperbolic]</span>
+<span style="color:#8c90f9">[Also, since the world line for the vehicle has now become its time line from the perspective of the observer, when reference frames are switched to from a velocity closer to the vehicle, the world line of the vehicle rotates closer to stationary axis, and the time dilation decreases appropriately, leading to a lowering of the temporal - I forgot why the Minkowski spacetime is hyperbolic]</span>
 
 
 ## Doubts

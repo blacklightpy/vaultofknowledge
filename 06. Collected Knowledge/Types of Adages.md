@@ -11,7 +11,7 @@
 - All models are wrong (Common aphorism in statistics)
 - Discworld (Fictitious setting in the Discworld franchise)
 - Half-truth (Deceptive statement)
-- <span style="color:lightblue">[List of common misconceptions]</span>
+- <span style="color:#8c90f9">[List of common misconceptions]</span>
 - Misinformation (Incorrect or misleading information)
 - Naïve physics (Untrained human perception of basic physical phenomena)
 - Neurath's boat (Philosophical analogy about knowledge)
@@ -31,7 +31,7 @@
 - Book of Proverbs (Book of the Bible)
 - Brewer's Dictionary of Phrase and Fable (Reference work containing definitions and explanations of phrases, allusions and figures)
 - Brocard (law) (Legal principle expressed in Latin)
-- <span style="color:lightblue">[List of proverbial phrases]</span>
+- <span style="color:#8c90f9">[List of proverbial phrases]</span>
 - Paremiology (Collection and study of proverbs)
 - Paremiography (Study of the collection and writing of proverbs)
 - Paruntuk Kana (A poetic type of Makassarese proverb)

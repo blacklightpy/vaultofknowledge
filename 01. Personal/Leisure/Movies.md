@@ -3,7 +3,7 @@
 - Terminator II
 - The Mummy
 - Alien vs Predator
-	- Predator VI is coming out <span style="color:lightblue">[2025]</span>
+	- Predator VI is coming out <span style="color:#8c90f9">[2025]</span>
 - Blade Runner
 - Gladiator
 - Star Wars

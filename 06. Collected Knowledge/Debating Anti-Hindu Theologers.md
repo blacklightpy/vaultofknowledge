@@ -4,7 +4,7 @@
 
 3. Principle of not using Strawman
 
-Personification is good. For example, if you wish to convey an idea, it is better that you do so by personifying the concept, rather than not conveying the idea at all by sticking to textual language. This is similar to how imagery and animations can help students understand concepts better, even if the idea in question cannot really be visualized. For example, <span style="color:lightblue">[me drawing deadpool]</span> .. <span style="color:lightblue">[this is because people think in terms of ideas relatable to them]</span> .. <span style="color:lightblue">[insert pic of Assassinates Markonikov]</span>.
+Personification is good. For example, if you wish to convey an idea, it is better that you do so by personifying the concept, rather than not conveying the idea at all by sticking to textual language. This is similar to how imagery and animations can help students understand concepts better, even if the idea in question cannot really be visualized. For example, <span style="color:#8c90f9">[me drawing deadpool]</span> .. <span style="color:#8c90f9">[this is because people think in terms of ideas relatable to them]</span> .. <span style="color:#8c90f9">[insert pic of Assassinates Markonikov]</span>.
 
 God having incarnations is good.
 

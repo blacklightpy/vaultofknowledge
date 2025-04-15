@@ -7,15 +7,15 @@ Fix: These Muslims have to be taught some metaphysics.
 
 e.g.
 - Dualism
-	- God is Separate from the Universe (And is Jealous) <span style="color:lightblue">[Abrahamic]</span>
-	- God is Separate from the Universe (And is not Jealous) <span style="color:lightblue">[Dvaita Vedanta]</span>
-	- God is Separate from the Universe (And has left it) <span style="color:lightblue">[Deism]</span>
-	- Multiple Gods Exist (And people respect all of them) <span style="color:lightblue">[Polytheism]</span>
-	- Multiple Gods Exist (And people worship one of them) <span style="color:lightblue">[Monolatry]</span>
-	- God has created Gods to Manage Realities <span style="color:lightblue">[Sanskrit Vedas]</span>
+	- God is Separate from the Universe (And is Jealous) <span style="color:#8c90f9">[Abrahamic]</span>
+	- God is Separate from the Universe (And is not Jealous) <span style="color:#8c90f9">[Dvaita Vedanta]</span>
+	- God is Separate from the Universe (And has left it) <span style="color:#8c90f9">[Deism]</span>
+	- Multiple Gods Exist (And people respect all of them) <span style="color:#8c90f9">[Polytheism]</span>
+	- Multiple Gods Exist (And people worship one of them) <span style="color:#8c90f9">[Monolatry]</span>
+	- God has created Gods to Manage Realities <span style="color:#8c90f9">[Sanskrit Vedas]</span>
 - Monism
-	- Everything is God (And God is Active) <span style="color:lightblue">[Advaita Vedanta / Pan-Theism]</span>
-	- Everything is God (And God is Inactive) <span style="color:lightblue">[Pan-Desim]</span>
+	- Everything is God (And God is Active) <span style="color:#8c90f9">[Advaita Vedanta / Pan-Theism]</span>
+	- Everything is God (And God is Inactive) <span style="color:#8c90f9">[Pan-Desim]</span>
 - Between Monism and Dualism
-	- Everything is a Part of God <span style="color:lightblue">[Pan-En-Theism]</span>
-	- We Cannot Know the Difference Between God and Nature <span style="color:lightblue">[Achintya Bheda Abhedha]</span>
+	- Everything is a Part of God <span style="color:#8c90f9">[Pan-En-Theism]</span>
+	- We Cannot Know the Difference Between God and Nature <span style="color:#8c90f9">[Achintya Bheda Abhedha]</span>

@@ -217,7 +217,7 @@ Also, animals show themselves that they eat other animals.
 It also teaches us how to behave with people who aren't using their intelligence well.
 ### Effect of thoughts
 Some thoughts, like sexual thoughts, produce hormones that alter the body's state.
-This can take you away from the state of realization. <span style="color:lightblue">[Why does it exist?]</span>
+This can take you away from the state of realization. <span style="color:#8c90f9">[Why does it exist?]</span>
 ### 
 
 #rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")

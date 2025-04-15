@@ -1,6 +1,6 @@
 Blockchains are transaction based state machines
 # Uses
-- <span style="color:lightblue">[FILL]</span>
+- <span style="color:#8c90f9">[FILL]</span>
 
 # Layers
 Layer 0 | Layer 1 | Layer 2 | Layer 3

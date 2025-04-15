@@ -2,9 +2,9 @@
 
 "Each religion presents history in their own manner in the name of god's will, so how convenient is it to present themselves as right in history? To all believers, they are the ones who are right."
 
-Also, the Jews didn't agree with Muslims because his teachings differed from their own scriptures. How convenient is it to then reject the interpretation of what's true by rejecting anything that deviates from the previous model? It is one thing to say they don't believe it, and another to say that it deviates from the scriptures. If it didn't deviate from the scriptures, it'd be the same, isn't it? I'd say the same is true for Muslims, because now they too will not believe in anything besides their scriptures. <span style="color:lightblue">[Verify context of deviation and decide if you need this.]</span>
+Also, the Jews didn't agree with Muslims because his teachings differed from their own scriptures. How convenient is it to then reject the interpretation of what's true by rejecting anything that deviates from the previous model? It is one thing to say they don't believe it, and another to say that it deviates from the scriptures. If it didn't deviate from the scriptures, it'd be the same, isn't it? I'd say the same is true for Muslims, because now they too will not believe in anything besides their scriptures. <span style="color:#8c90f9">[Verify context of deviation and decide if you need this.]</span>
 
-<span style="color:lightblue">[Answer: The Jews had no reason to accept Mohammed's teachings, because they simply didn't have to believe it. That's all.]</span>
+<span style="color:#8c90f9">[Answer: The Jews had no reason to accept Mohammed's teachings, because they simply didn't have to believe it. That's all.]</span>
 
 - Lambda-CDM Model of the Big Bang Theory
 (don't go too far Jyothish)
@@ -15,7 +15,7 @@ Now, the history of human civilization can be mapped to the oldest known traces,
 With agriculture, food became more reliable, but less varied, and people became more prone to diseases, and settling together made diseases easier to spread.
 
 > [!NOTE] INTERMEDIATE NOTE: Semitic Languages
->- <span style="color:lightblue">[Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]</span>
+>- <span style="color:#8c90f9">[Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]</span>
 >	- Jesus spoke Aramaic and Hebrew
 >		- He was from Nazareth in Galilee
 >			- Aramaic > Western Aramaic > Jewish Palestinian Aramaic > Galilean Dialect
@@ -33,10 +33,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - Basically Palestine was known to the Arabs as western Syria, not Palestine, which was a Roman and British name.
 
 # Prehistory
-<span style="color:lightblue">[Stone Age]</span> - Palaeolithic and Neolithic
+<span style="color:#8c90f9">[Stone Age]</span> - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
 - 55000 BC: Australian aboriginals were found in this period
-<span style="color:lightblue">[Last Ice Age]</span>
+<span style="color:#8c90f9">[Last Ice Age]</span>
 - People travelled from Asia to Americas through the bridge
 - Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathering to agriculture and settlements
 
@@ -68,14 +68,14 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 5400 BC: Sumerian settlements begin
 - 8000 BC: Neolithic settlements
 - 6000 BC: Neolithic settlements appear all over Egypt
-<span style="color:lightblue">[5000 BC: Chalcolithic Age]</span>
+<span style="color:#8c90f9">[5000 BC: Chalcolithic Age]</span>
 - Mesopotamia was the site of the earliest civilizations
 	- It was the Greek name for the valley between the rivers Euphrates and Tigris in modern day Iraq.
 	- Mesopotamia and the Levant comprised the Fertile Crescent
 	- 4100 BC: The first "civilization" in Mesopotamia was that of Sumer, during the Uruk Period
 - 3500 BC Indo-European nomads from the European steppe learn to tame horses and cattle, which helped during the Piora Oscillation, a cold period post the Holocene Climatic Optimum
 	- The Piora Oscillation is also associated with the climate changes at the end of the Uruk Period, and with the Flood of Noah in the Book of Genesis and the floods in the Epic of Gilgamesh
-<span style="color:lightblue">[3300 BC Bronze Age]</span>
+<span style="color:#8c90f9">[3300 BC Bronze Age]</span>
 - Nile Valley Civilization (Egypt)
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
 - North China Plain Civilization (Eastern China)
@@ -417,11 +417,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Mesopotamia, Africa and Middle East
 - 2700 - 1500 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 	- Canaanites appear in the region
-	- <span style="color:lightblue">[Canaan is the grandson of Noah]</span>
-	- <span style="color:lightblue">[He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]</span>
-	- <span style="color:lightblue">[The Bible separates Israelites from Canaanites, but archaeology points that Israelites are a subset of Canaanites]</span>
-	- <span style="color:lightblue">[The Twelve sons of Jacob fled to Egypt after a drought in Canaan]</span>
-	- <span style="color:lightblue">[The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]</span>
+	- <span style="color:#8c90f9">[Canaan is the grandson of Noah]</span>
+	- <span style="color:#8c90f9">[He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]</span>
+	- <span style="color:#8c90f9">[The Bible separates Israelites from Canaanites, but archaeology points that Israelites are a subset of Canaanites]</span>
+	- <span style="color:#8c90f9">[The Twelve sons of Jacob fled to Egypt after a drought in Canaan]</span>
+	- <span style="color:#8c90f9">[The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]</span>
 - 2334 - 2154 BC: Akkadian empire was the first known major "empire" in Mesopotamia.
 - There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 # 2 Millenia BC
@@ -447,20 +447,20 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Hinduism was a combination of the Aryan Vedas and the Dravidian Hinduism
 	- The Vedas included the yajnas, yaagams, etc.
 	- So Hinduism has a lot in common with Zoroastrianism.
-	- <span style="color:lightblue">[Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]</span>
-	- <span style="color:lightblue">[Indo-Iranians split into Iranians and Indo-Aryans]</span>
+	- <span style="color:#8c90f9">[Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]</span>
+	- <span style="color:#8c90f9">[Indo-Iranians split into Iranians and Indo-Aryans]</span>
 		- According to the Rigveda and Avesta, being an Indo-Iranian or Aryan was about rituals and linguistic, not about race. If you did the right rituals, you would be an Aryan.
 		- Later texts reinterpreted the meaning as Aryans being a honorific title for Brahmins, and the non-Aryans were seen as a lower class.
-		- <span style="color:lightblue">[Indo-Iranians were the ones who called themselves Aryans, even though the term -arya is of Proto-Indo-European origin]</span>
-	- <span style="color:lightblue">[By the beginning of CE, they had control over all of Europe and Western Asia]</span>
-	- <span style="color:lightblue">[By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]</span>
-	- <span style="color:lightblue">[Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]</span>
-		- <span style="color:lightblue">[Urdu is Indo-European, but was standardized as Persian Arabic script]</span>
+		- <span style="color:#8c90f9">[Indo-Iranians were the ones who called themselves Aryans, even though the term -arya is of Proto-Indo-European origin]</span>
+	- <span style="color:#8c90f9">[By the beginning of CE, they had control over all of Europe and Western Asia]</span>
+	- <span style="color:#8c90f9">[By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]</span>
+	- <span style="color:#8c90f9">[Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]</span>
+		- <span style="color:#8c90f9">[Urdu is Indo-European, but was standardized as Persian Arabic script]</span>
 ## Time Period 4 (1200 BC - 1000 BC)
 ### Mesopotamia
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
-- <span style="color:lightblue">[Iron Age]</span>
+- <span style="color:#8c90f9">[Iron Age]</span>
 ### America
 - Olmecs start a civilization in Mexico
 ## Time Period 5 (1000 BC - 700 BC)
@@ -479,7 +479,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 701 BC: Seige of Jerusalem by Neo-Assyrian empire fails
 - 678 BC: The Median Empire forms in Iran
 - 612 BC: Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
-	- <span style="color:lightblue">[The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]</span>
+	- <span style="color:#8c90f9">[The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]</span>
 	- The Jews were exiled
 - The Median empire conquered part of the Neo-Babylonian empire
 - 586 BC: The First Temple of Israel was destroyed
@@ -661,10 +661,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
 
 > [!NOTE] INTERMEDIATE NOTE: Islam and Palestine
-> - <span style="color:lightblue">[Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]</span>
+> - <span style="color:#8c90f9">[Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]</span>
 > 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
 > 	- Mahdi is not based on the Quran, but on the Hadiths.
-> - <span style="color:lightblue">[Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]</span>
+> - <span style="color:#8c90f9">[Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]</span>
 ## Time Period 15 (1490-1500)
 
 ### Europe, America

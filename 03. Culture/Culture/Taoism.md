@@ -30,7 +30,7 @@ While Buddhism considers desires are to be eliminated, Taoism considers that des
 		- Cavern of Spirit from the Write of the Three Sovereigns
 	- Three Cavern + Four Auxiliaries
 		- Allowed other older and newer scriptures to be included
-	- <span style="color:lightblue">[History]</span>
+	- <span style="color:#8c90f9">[History]</span>
 		- In Huizong's time (1082-1135), he asked to woodblock-print a new canon
 		- But the Jurchen Jin Dynasty ransacked China and the Emperor
 		- n 1192, a later Emperor asked for a new canon to be compiled

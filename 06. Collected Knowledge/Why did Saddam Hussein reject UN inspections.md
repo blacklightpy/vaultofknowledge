@@ -1,4 +1,4 @@
-<span style="color:lightblue">[To Read]</span> (backed up in case it gets removed)
+<span style="color:#8c90f9">[To Read]</span> (backed up in case it gets removed)
 
 From: https://old.reddit.com/r/AskHistorians/comments/1ffje3i/why_did_saddam_hussein_resist_un_weapons/
 > There are multiple theories that scholars have debated over, and I'll give you the one I find most plausible given the evidence. However, I should first clarify that the entire span of the 90s had different phases of disclosure.
