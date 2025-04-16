@@ -20,7 +20,7 @@ In Religion:
 		- [[Upaasana]] (Worship) [Mostly embedded in the others]
 	- Parishistas (Supplements)
 	- [[Vedic Shakhas]] (Branches of Transmission of the Vedas)
-	- [[Vedangas]] (Philosophical Disciplines of Vedas)
+	- [[Vedaangas]] (Philosophical Disciplines of Vedas)
 - Aagamas (Tradition / What has come down)
 - [[Sutras]]
 	- [[Dharma Soothras]]

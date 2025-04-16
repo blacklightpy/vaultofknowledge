@@ -2,4 +2,4 @@ Prosody is the study of the elements of speech which are properties of syllables
 
 ## Sanskrit
 
-Prosody is called Chandas, and it is a Branch of the Sanskrit Books of Knowledge ([[Vedangas|Vedanga]]).
+Prosody is called Chandas, and it is a Branch of the Sanskrit Books of Knowledge ([[Vedaangas|Vedanga]]).
