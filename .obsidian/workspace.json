@@ -550,7 +550,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "noether",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -727,6 +727,8 @@
   },
   "active": "f51905b18b2e4508",
   "lastOpenFiles": [
+    "06. Collected Knowledge/Noether's Theorem.md",
+    "06. Collected Knowledge/Sources for Deception.md",
     "06. Collected Knowledge/The problem of Religious Tolerance.md",
     "06. Collected Knowledge/Important Debate Knowledge.md",
     "My Vision of God.md",
@@ -751,8 +753,6 @@
     "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "Deceptions of Muhammadians 1 - Don't Criticize Us, But Let Us Criticize Others.md",
     "Shoodras who learned Vedas.md",
-    "Implication of Caste for Moksha.md",
-    "Varna is based on Guna, not Birth.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
