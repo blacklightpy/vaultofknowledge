@@ -28,6 +28,22 @@ I saw a storm that was feminine in nature. And from the storm, many creators and
 This is similar to how many Brahmaa-s are created within Maaya, who create the Loka-s.
 Then the storm could have been the Maaya Shakthi.
 
-I remember, that I saw the vision of the storm after the first experience, and when after that I returned to the world when it was time. Sort of like Arjuna witnessing the Vishva Roopa of Krishna, except there was no "form" and it was my own self. What I first saw then was a vision of all forms of ethereal worlds, and I couldn't make sense of reality. I felt like I was travelling through worlds unbound by time, and this experience lasted for a few weeks. When I tried to write it down like I do in my dream journal, I found words inadequate, and I started losing memory of it, sort of like it was trying to make me forget it. And it was shortly after that I had the vision of a storm of emotions being the only mind, which created an infi
+I remember, that I saw the vision of the storm after the first experience, and when after that I returned to the world when it was time. Sort of like Arjuna witnessing the Vishva Roopa of Krishna, except there was no "form" and it was my own self. What I first saw then was a vision of all forms of ethereal worlds, and I couldn't make sense of reality. I felt like I was travelling through worlds unbound by time, and this experience lasted for a few weeks. When I tried to write it down like I do in my dream journal, I found words inadequate, and I started losing memory of it, sort of like it was trying to make me forget it. And it was shortly after that I had the vision of a storm of emotions being the only mind, which created an infinite tensor-grid of intelligent creators who created worlds with time and space.
 
-Then though I thought the
+Then though I thought the storm was the first nature of God.
+But now, after learning the Vedas and putting it all together, I realize the storm was Shakthi, and Shiva had to exist before it, to separate Shakthi from itself, and impose it on itself.
+It is Shakthi that imposes itself on to Shiva.
+
+But in my first vision, when I was one with the Godhead, I had no gender.
+But in my third vision, I saw the storm, which had a feminine persona, while the creators had masculine personas.
+
+---
+
+Putting it all together
+---
+
+**First Vision:** (1) Myself surrounded by Myself. (2) Eternal. (3) Un-Imposed State, but also Imposed. (4) The Un-Imposed State gave the Imposed State the ability to see both states at once. (5) Imposition of Myself on to Myself is how the Empirical Self was formed. (6) The Mind had all questions answered, but had not put it into words. (7) Trying to put it into words altered the state of the mind, and removed that consciousness. (8) Meditation helped, but life often got in the way.
+
+**Second Vision:** (1) I saw everything I wished (2) I saw many ethereal worlds beyond my imagination (I have aphantasia) (3) Trying to put it into words made it endless and senseless
+
+**Third Vision:** (1) Storm. (2) Storm was feminine, and was full of emotions, and all-powerful. (3) The storm created a masculine computer-architect for structure. (4) The computer
