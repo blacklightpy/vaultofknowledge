@@ -52,33 +52,31 @@ Soon after, I heard dreams by nuages, and started listening to Alan Watts medita
 
 ---
 
-Aftermath: 1,2,3,4-7,8,9,10-12,13,14
+Aftermath:
 
-3, 4-7, 8, 11-12, 13, 14.
-
-- Killing Cockroaches1
-- Taking Bath2
-- Getting Sunlight3
-- Cleaning my room, making it dust-free, and ensuring right air-flow and lighting.7
-- Making my mind inclined towards cleaning, so much that I tried to clean the backyard and plastics.8
-- Making me inclined to buy new clothes and accessories, and aesthetic journals.9
-- Making me set up my own routines and rules - including playing football and watching the sky, especially the moon and the stars at night.12
-- Making my mind clear like still water, so that I could see everything clearly for a long time.13
+- (1) Killing Cockroaches
+- (2) Taking Bath
+- (3) Getting Sunlight
+- (4) Cleaning my room, (5) making it dust-free, and ensuring right (6) air-flow and (7) lighting.
+- (8) Making my mind inclined towards cleaning, so much that I tried to clean the backyard and plastics.
+- (9) Making me inclined to buy new clothes and accessories, and aesthetic journals.
+- (10) Making me set up my own routines and rules - including playing (11) football and (12) watching the sky, especially the moon and the stars at night.
+- (13) Making my mind clear like still water, so that I could see everything clearly for a long time.
 - Answering my query that women are not to be looked upon lustfully - that is, unless by consent.
 - Informing me that I may join clubs and freely date women, but my own nature won't let me do so.
-- And later, after my dad left for Gulf, by February or so, I also started to arrange all my books.14
+- (14) And later, after my dad left for Gulf, by February or so, I also started to arrange all my books.
 
-But my father modified the house soon, making it so that (1) the airflow and (2) lighting towards my room was disrupted, (3) the spot where I would get sunlight from was covered, (4) the area where I would practice football skills was shrunk making it hard to practice, (5) the view of the sky was blocked by the new steel roof - and I protested and had him put up a transparent roof, but it was of no use and was only another waste of money as it got covered by dirt, and was not transparent enough to begin with. Further, his dismissive and insecure mindset caused me to rage at him, and (6) that messed up the clarity of my mind. Additionally, (7) he, and my mom too, undid all my efforts at cleaning the backyard by doing it their way, of dumping things at the back during the rainy season, and mixing up the categories of waste I had separated out into a small space - and dad claimed that it is their house, and cleaning would go by their will. Further, when arguments with my parents continued and I had to get bed-rest, my dad (8) added a new window to my room to fix the sunlight and airflow from another direction, which I had not approved of, and (9) that process also put a lot of dust on my books, and I had to move them out of my room. And at this time, (10) I also faced another private personal problem. This whole situation and being ill made it so that (11) I couldn't clean my room for a long time, and it has remained that way till date, as my studies led me to more studies, and situations led me to keep studying more stuff.
+But my father modified the house soon, making it so that (1) the airflow and (2) lighting towards my room was disrupted, (3) the spot where I would get sunlight from was covered, (4) the area where I would practice football skills was shrunk making it hard to practice, (5) the view of the sky was blocked by the new steel roof - and I protested and had him put up a transparent roof, but it was of no use and was only another waste of money as it got covered by dirt, and was not transparent enough to begin with. Further, his dismissive and insecure mindset caused me to rage at him, and (6) that messed up the clarity of my mind. Additionally, (7) he, and my mom too, undid all my efforts at cleaning the backyard by doing it their way, of dumping things at the back during the rainy season, and mixing up the categories of waste I had separated out into a small space - and dad claimed that it is their house, and cleaning would go by their will. Further, when arguments with my parents continued and I had to get bed-rest, my dad added a new window to my room to fix the sunlight and airflow from another direction, which I had not approved of, and (8) that process also put a lot of dust on my books, and (9) I had to move them out of my room. And at this time, (10) I also faced another private personal problem. This whole situation and being ill made it so that (11) I couldn't clean my room for a long time, and it has remained that way till date, as my studies led me to more studies, and situations led me to keep studying more stuff.
 
-So 9 out of 
+So 10 out of 14 changes in my life were nullified. This was a big reason I found that fate is against a normal life for me.
 
 ---
 
-### Teaching
+### Teaching My Faith
 
 Theology is not a matter of intellect. I realized this by experience.
 For that reason, I say, whoever is with me will obey my laws.
-I am here to establish my covenant with God.
+I am here to proclaim my covenant with God.
 
 On homosexuality, it is permitted, but know that sensual indulgences is not the ultimate goal.
 If someone is infuriated by these laws, one must fight them. This is the law of life.
