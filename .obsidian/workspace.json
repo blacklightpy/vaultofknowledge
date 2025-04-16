@@ -565,7 +565,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noether",
+                "query": "color",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -740,7 +740,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13f16beb2d07093b",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Marriage Nonsense.md",
     "06. Collected Knowledge/Sources for Deception.md",
