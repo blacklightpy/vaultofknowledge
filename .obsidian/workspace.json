@@ -493,13 +493,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Collected Knowledge/Sources for Deception.md",
+                "file": "My Vision of God.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sources for Deception"
+              "title": "My Vision of God"
             }
           },
           {
@@ -548,7 +548,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -580,7 +580,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "color",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -622,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Varna-Aashrama.md",
+                "file": "My Vision of God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -632,7 +632,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About Varna-Aashrama"
+              "title": "Backlinks for My Vision of God"
             }
           },
           {
@@ -684,13 +684,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Varna-Aashrama.md",
+                "file": "My Vision of God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of About Varna-Aashrama"
+              "title": "Outline of My Vision of God"
             }
           },
           {
@@ -755,17 +755,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08a799c4b5a76b92",
+  "active": "f51905b18b2e4508",
   "lastOpenFiles": [
-    "About Varna-Aashrama.md",
-    "Marriage Nonsense.md",
     "06. Collected Knowledge/Sources for Deception.md",
+    "Tantra List Classifying.md",
+    "History is Nonsense.md",
+    "Marriage Nonsense.md",
+    "About Varna-Aashrama.md",
     "06. Collected Knowledge/Noether's Theorem.md",
     "06. Collected Knowledge/The problem of Religious Tolerance.md",
     "06. Collected Knowledge/Important Debate Knowledge.md",
     "My Vision of God.md",
-    "Tantra List Classifying.md",
-    "History is Nonsense.md",
     "07. Miscellaneous/Religions/Hinduism/Vedaanga-s.md",
     "07. Miscellaneous/Religions/Hinduism/Dharma Shaasthra.md",
     "06. Collected Knowledge/Prosody.md",

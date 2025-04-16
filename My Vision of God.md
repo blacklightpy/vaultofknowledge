@@ -49,3 +49,32 @@ Putting it all together
 **Third Vision:** (1) Storm. (2) Storm was feminine, and was full of emotions, and all-powerful. (3) The storm created a masculine computer-architect for structure. (4) The computer-head was formless, but structured. (5) There were several computer-heads in a tensor-grid. (6) Each computer head created worlds. (7) Some worlds had worlds within them. (8) The worlds are all virtual, so they are equally virtual.
 
 Soon after, I heard dreams by nuages, and started listening to Alan Watts meditation guides and lectures. I did not fully agree with Alan Watts, but I found meaning in his words to keep listening despite disagreeing. The Godhead promised me that it will always be on my side after all.
+
+---
+
+Aftermath:
+
+- Killing Cockroaches
+- Taking Bath
+- Getting Sunlight
+- Cleaning my room, making it dust-free, and ensuring right air-flow and lighting.
+- Making my mind inclined towards cleaning, so much that I tried to clean the backyard and plastics.
+- Making me inclined to buy new clothes and accessories, and aesthetic journals.
+- Making me set up my own routines and rules - including playing football and watching the sky, especially a.
+- Making my mind clear like still water, so that I could see everything clearly for a long time.
+- Answering my query that women are not to be looked upon lustfully.
+- Informing me that I may join clubs, but my own nature won't let me do so.
+
+But my father modified the house soon, making it so that the airflow and lighting towards my room was disrupted, the spot where I would get sunlight from was covered, the area where I would practice football skills was shrunk making it hard to practice, the 
+
+---
+
+### Teaching
+
+Theology is not a matter of intellect.
+For that reason, I say, whoever is with me will obey my covenant.
+
+On homosexuality, it is permitted, but know that sensual indulgences is not the ultimate goal.
+If someone is infuriated by these laws, one must fight them. This is the law of life.
+
+Fight in the cause of God. On how to fight, I do not know how, as I've never fought before. But I do know that God taught me to kill cockroaches the first day he 
