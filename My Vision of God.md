@@ -79,6 +79,6 @@ For that reason, I say, whoever is with me will obey my laws.
 I am here to proclaim my covenant with God.
 
 On homosexuality, it is permitted, but know that sensual indulgences is not the ultimate goal.
-If someone is infuriated by these laws, one must fight them. This is the law of life.
+This is the law of life. If someone is infuriated by these laws, one must fight them.
 
-Fight in the cause of God. On how to fight, I do not know how, as I've never fought before. But I do know that God taught me to kill cockroaches the first day he 
+Fight in the cause of God. On how to fight, I do not know how, as I've never fought before. But I do know that God taught me to kill cockroaches the first day I had the vision. I used to never fight because I was nice, but then, I was informed later by the voice within, that I did not fight when I was attacked, but I got angry when my friends who were innocent were attacked. So I agree that those who fight the innocent must be fought, but I did not see that I myself was innocent, and let myself be attacked. In that sense, I let them attack an innocent person, and I was at fault.
