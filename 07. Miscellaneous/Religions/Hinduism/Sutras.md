@@ -4,7 +4,7 @@ In Buddhism and Jainism, they are important scriptures.
 - Kalpa Sutras (of the Kalpa Vedanga)
 	- Shrauta Sutras (Aphorisms related to Heard Scripture, focusing on rituals)
 	- Griha Sutras (Household Aphorisms)
-	- [[Dharma Soothras]] (Ethical Aphorisms)
+	- [[Dharma Soothra-s]] (Ethical Aphorisms)
 	- Shulba Sutras (Rope Measurement Aphorisms)
 # List of Vedic Sutras
 ## Rig Veda

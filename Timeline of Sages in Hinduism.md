@@ -1,4 +1,4 @@
-I made this note specifically to study those who wrote the [[Dharma Soothras]] and [[Dharma Shaasthra]]. That is, Apasthamba, Gauthama, Baudhaayana and Vasishta; and the Smrithi texts attributed to Manu, Yaajnavaalkya, Naarada and Vishnu.
+I made this note specifically to study those who wrote the [[Dharma Soothra-s]] and [[Dharma Shaasthra]]. That is, Apasthamba, Gauthama, Baudhaayana and Vasishta; and the Smrithi texts attributed to Manu, Yaajnavaalkya, Naarada and Vishnu.
 
 - Saptharishis
 	- According to Jaiminiya Braahmana of Saama Veda (Verses 2.218–221)

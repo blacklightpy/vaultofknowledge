@@ -25,7 +25,7 @@ The people of Hind are called Hindus. Hinduism is a meta-religion with most of t
 - Sankhya Metaphysics
 # Disciplines
 - [[Vedic Shakhas]]
-- [[Vedaangas]]
+- [[Vedaanga-s]]
 - Upa Vedas
 - Darshanas
 	- Aastika (Orthodox)
