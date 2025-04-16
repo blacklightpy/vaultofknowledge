@@ -518,7 +518,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -592,7 +592,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tantra List Classifying.md",
+                "file": "My Vision of God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -602,7 +602,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tantra List Classifying"
+              "title": "Backlinks for My Vision of God"
             }
           },
           {
@@ -654,13 +654,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tantra List Classifying.md",
+                "file": "My Vision of God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tantra List Classifying"
+              "title": "Outline of My Vision of God"
             }
           },
           {
@@ -725,10 +725,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2ad0709022fe103",
+  "active": "f51905b18b2e4508",
   "lastOpenFiles": [
-    "History is Nonsense.md",
     "Tantra List Classifying.md",
+    "History is Nonsense.md",
     "My Vision of God.md",
     "07. Miscellaneous/Religions/Hinduism/Vedaanga-s.md",
     "07. Miscellaneous/Religions/Hinduism/Dharma Shaasthra.md",
