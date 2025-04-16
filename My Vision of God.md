@@ -60,19 +60,22 @@ Aftermath:
 - Cleaning my room, making it dust-free, and ensuring right air-flow and lighting.
 - Making my mind inclined towards cleaning, so much that I tried to clean the backyard and plastics.
 - Making me inclined to buy new clothes and accessories, and aesthetic journals.
-- Making me set up my own routines and rules - including playing football and watching the sky, especially a.
+- Making me set up my own routines and rules - including playing football and watching the sky, especially the moon and the stars at night.
 - Making my mind clear like still water, so that I could see everything clearly for a long time.
-- Answering my query that women are not to be looked upon lustfully.
-- Informing me that I may join clubs, but my own nature won't let me do so.
+- Answering my query that women are not to be looked upon lustfully - that is, unless by consent.
+- Informing me that I may join clubs and freely date women, but my own nature won't let me do so.
 
-But my father modified the house soon, making it so that the airflow and lighting towards my room was disrupted, the spot where I would get sunlight from was covered, the area where I would practice football skills was shrunk making it hard to practice, the 
+But my father modified the house soon, making it so that (1) the airflow and (2) lighting towards my room was disrupted, (3) the spot where I would get sunlight from was covered, (4) the area where I would practice football skills was shrunk making it hard to practice, (5) the view of the sky was blocked by the new steel roof - and I protested and had him put up a transparent roof, but it was of no use and was only another waste of money as it got covered by dirt, and was not transparent enough to begin with. Further, his dismissive and insecure mindset caused me to rage at him, and (6) that messed up the clarity of my mind. Additionally, (7) he, and my mom too, undid all my efforts at cleaning the backyard by doing it their way, of dumping things at the back during the rainy season, and mixing up the categories of waste I had separated out into a small space - and dad claimed that it is their house, and cleaning would go by their will. Further, when arguments with my parents continued and I had to get bed-rest, 
+
+So 7 out of 
 
 ---
 
 ### Teaching
 
-Theology is not a matter of intellect.
-For that reason, I say, whoever is with me will obey my covenant.
+Theology is not a matter of intellect. I realized this by experience.
+For that reason, I say, whoever is with me will obey my laws.
+I am here to establish my covenant with God.
 
 On homosexuality, it is permitted, but know that sensual indulgences is not the ultimate goal.
 If someone is infuriated by these laws, one must fight them. This is the law of life.
