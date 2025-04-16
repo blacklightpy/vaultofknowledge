@@ -36,7 +36,7 @@ Some notes:
 > 
 > The Nityāṣoḍaśikārṇava list looks somewhat less artificial. But here also, we find the "eight Bhairavas", "eight Bahurūpas" and "eight Yāmalas" and, besides, five Āmnāyas. Among other items are the Mahāmāyā (or Mahāmāyāśamvara) at the beginning (the Nos. 1-4 are four Śamvaras), and the Candrajñāna, Vātula, Kāmika, Vāmakeśvara, Kubjikāmata, Vīṇā, Bhūtaḍāmara, Kulacūḍāmaṇi, Siddhayogeśvarī and Vīrāvali, all of them without doubt ancient texts quoted elsewhere or even preserved. However, several authoritative works such as the Mālinīvijaya (if not identical with the Siddhayogeśvarī), Netra, Kulārṇava, Kaulajñānavinirnaya and many texts quoted by Abhinavagupta in his Tantrāloka are absent from this list. Some of them may be of later date, but the conclusion is unavoidable that the accepted number of sixty-four already at an early date was not sufficient to include all the extant texts. Besides, many were probably omitted on purpose because they did not belong to a tradition respected by the compilers who might have been prone to accept doctrinal affinity rather than historical fact. A late and apocryphal list of 192 Tantras ordered according to the threefold division into Krantas is ascribed to the Mahāsiddhasāratantra.
 
-I got Jayadhara's commentary on Tantraloka, Kulachoodaamani and Lakshmidhara's commentary on Saundarya Lahari.
+I got Jayadhara's commentary on Tantraloka (from Sreekanthi Samhithaa, which is considered to be an important list), Kulachoodaamani and Lakshmidhara's commentary on Saundarya Lahari.
 
 ## List 1
 
