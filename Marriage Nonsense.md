@@ -4,5 +4,7 @@ Then there's the "incels marry down" to get a woman they can control. My critici
 
 <span style="color:#8c90f9"><b>My verdict on the usage of the term "incel" in general: Involuntarily celibate people can be of two kinds. One is someone</b></span>
 
+More on the term "incels". Involuntarily celibate people can be of two kinds. One is someone who finds that women only go for wealthy men, and thus claim that although he wants to be with women, he cannot get to be with one. I would say this category of men are specifically referring to attractive women, because there are plenty of women who are less physically attractive who are easier to date, provided that you have a good personality.
+
 I say that the above is a false proposition, and in reality incels are the ones who complain about this and don't marry at all, because, after all, incel stands for "involuntarily **celibate**". Further, there are voluntarily celibate people. <span style="color:#8c90f9"><b>My verdict: Complaining about women is not bad if you are avoiding them by the same principles. It can really be the case that women have issues.</b></span>
 
