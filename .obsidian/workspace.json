@@ -546,9 +546,24 @@
               "icon": "lucide-file",
               "title": "About Varna-Aashrama"
             }
+          },
+          {
+            "id": "1a24fb1349507184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Entry of 17th Apr, 2025"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -622,7 +637,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -632,7 +647,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Vision of God"
+              "title": "Backlinks for Entry of 17th Apr, 2025"
             }
           },
           {
@@ -684,13 +699,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Vision of God"
+              "title": "Outline of Entry of 17th Apr, 2025"
             }
           },
           {
@@ -755,11 +770,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51905b18b2e4508",
+  "active": "1a24fb1349507184",
   "lastOpenFiles": [
+    "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
+    "My Vision of God.md",
     "06. Collected Knowledge/Important Debate Knowledge.md",
     "06. Collected Knowledge/The problem of Religious Tolerance.md",
-    "My Vision of God.md",
     "06. Collected Knowledge/Sources for Deception.md",
     "06. Collected Knowledge/Noether's Theorem.md",
     "Tantra List Classifying.md",
@@ -782,7 +798,6 @@
     "Studying the Karma Theory.md",
     "Anniyan Punishments.md",
     "Hinduism on Homosexuality.md",
-    "08. External Resources/Dictionaries/Saṃskṛtam/Master List of Words in Saṃskṛtam.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
