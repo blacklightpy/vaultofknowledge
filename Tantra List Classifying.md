@@ -54,7 +54,7 @@ Sarvollaasatantram, Ullas 2, Shlokas 6-20:
 10. Nīlatantra
 11. Raadhaatantra
 12. Viśvasaaratantra
-13. Bhairava- tantra
+13. Bhairavatantra
 14. Bhairavītantra
 15. Siddhēśvaratantra
 16. Maatr̥kaabhēdatantra
