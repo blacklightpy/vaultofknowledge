@@ -568,32 +568,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The lousiness of those who criticize communism.md",
+                "file": "My Stance on Weapons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The lousiness of those who criticize communism"
-            }
-          },
-          {
-            "id": "9e64fc2290b03f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lithium-Ion Batteries"
+              "title": "My Stance on Weapons"
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -667,7 +652,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "My Stance on Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -677,7 +662,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lithium-Ion Batteries"
+              "title": "Backlinks for My Stance on Weapons"
             }
           },
           {
@@ -729,13 +714,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "My Stance on Weapons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lithium-Ion Batteries"
+              "title": "Outline of My Stance on Weapons"
             }
           },
           {
@@ -800,12 +785,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e64fc2290b03f9f",
+  "active": "6c09c039ad67af07",
   "lastOpenFiles": [
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "The lousiness of those who criticize communism.md",
     "My Stance on Weapons.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
     "My Vision of God.md",
     "What is \"living\".md",
     "Circles are not just Approximations of Infinite-Sided Polygons.md",

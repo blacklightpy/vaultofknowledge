@@ -2,4 +2,6 @@ About protests against nuclear weapons, I wonder what is being protested against
 
 You cannot protest against gravity, it is truth. Likewise, you cannot protest against the knowledge of weapons.
 
-We must have the
+We must have the knowledge
+
+Certain terraforming techniques may require us to break apart and restructure the entire ecosystem of a
