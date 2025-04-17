@@ -5,7 +5,7 @@ So basically, their entire support of Muhammadians is based on the notion that t
 
 I make this statement as a person who holds the view that there is a non-material cause to the material world, through direct experience as well as by rational means; while also being someone who previously was an agnostic skeptic who tried to find a materialistic explanation for the material reality.
 
-A materialist would not hold my view, because from their perspective, the Muhammadian is a deluded fool. But from a non-materialist perspective like the one I hold, the Muhammadian is a person who is convinced that his Deen of submission is the most accurate explanation of the non-material origin of reality.
+A materialist would not hold my view, because from their perspective, the Muhammadian is a deluded fool. But from a non-materialist perspective like the one I hold, the Muhammadian is a person who is convinced that his Deen of submission is the most accurate explanation of the non-material origin of reality. My opposition of their religion is simply based on my own direct experience of this reality, and by the rational means, by which I disagree with (1) some nuances of their theology, and (2) most of their laws and customs applicable within the material world which they justify on the basis of the former.
 
 ---
 
