@@ -576,9 +576,24 @@
               "icon": "lucide-file",
               "title": "The lousiness of those who criticize communism"
             }
+          },
+          {
+            "id": "e5060e3d057e5ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic of the Left.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Logic of the Left"
+            }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -652,7 +667,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The lousiness of those who criticize communism.md",
+                "file": "Logic of the Left.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -662,7 +677,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The lousiness of those who criticize communism"
+              "title": "Backlinks for Logic of the Left"
             }
           },
           {
@@ -714,13 +729,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The lousiness of those who criticize communism.md",
+                "file": "Logic of the Left.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The lousiness of those who criticize communism"
+              "title": "Outline of Logic of the Left"
             }
           },
           {
@@ -785,10 +800,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c09c039ad67af07",
+  "active": "e5060e3d057e5ece",
   "lastOpenFiles": [
-    "My Stance on Weapons.md",
+    "Logic of the Left.md",
     "The lousiness of those who criticize communism.md",
+    "My Stance on Weapons.md",
     "My Vision of God.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
@@ -812,7 +828,6 @@
     "06. Collected Knowledge/Prosody.md",
     "07. Miscellaneous/Religions/Hinduism/Dharma Soothra-s.md",
     "Revisiting and Retconning.md",
-    "06. Collected Knowledge/Specific Problems with Christianity.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
