@@ -98,3 +98,17 @@ Q. Who can amend a law? How will he maintain the quality?
 Anyone can amend the law, but they need to have the qualifications.
 They need to have God-awareness and put in a lot of intellectual effort.
 They need to feel worthy in the eyes of God, and that is the real indicator.
+
+---
+
+### Clarification
+
+C. About "you are God".
+
+Aham Brahma-Asmi does not mean your body is equal to God. Your body is material. But your soul is equivalent to God. It is "equivalent", not "equal". 
+
+The Jeeva-Aatma and Param-Aatma are simultaneously separate and same. Think of the Jeeva-Aatma as a portion of the piece of paper, and the Param-Aatma as the whole paper.
+
+If creation is a drawing atop the paper (which cannot be ultimately real, because the paper alone is real, and the painting would be a temporary formation atop the paper, since the "paper" here has powers), then one portion of the paper does not account for the entire drawing. Likewise, the Jeeva-Aatma does not account for the whole paper.
+
+Though the paper alone is real, as Advaita says, the nature of the paper is such that all portions of the paper are also separately real. Though a paper has no separations, if we mentally impose a separation on to it, then those separate portions are equally real. But the separateness is not real, and only made from within the mind, which exists within the imposed painting. But as long as you are looking from the frame of reference of the painting, these distinctions are real. There is no denying the painting, as though the painting is arbitrary, it is held in place by the powers of the paper for all eternity, and the paper is going nowhere.
