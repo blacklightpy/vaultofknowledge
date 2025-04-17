@@ -115,6 +115,9 @@ So basically,
 Sutras were traditionally used as a **mnemonic device to help students remember** and understand complex concepts. In ancient India, sutras were often used as a teaching tool, and were memorized and recited by students as a way of learning and preserving the teachings of their guru (teacher).
 
 Sutras are typically written in a highly condensed and elliptical style, and often use technical terminology and abbreviations. This makes them difficult for the uninitiated to understand, and requires a deep knowledge of the subject matter and the language in which they are written.
+
+> [!NOTE]
+> Basically they are like the "key points" you make before a speech.
 ## Yoga Sutras of Patanjali
 
 The **Yoga Sutras of Patanjali** are a collection of 196 Sanskrit Sutras (aphorisms) on the practice of yoga, written by the Indian **sage Patanjali** around 400 CE. Yoga Sutras are considered to be one of the most important texts on the philosophy and practice of yoga, and are considered to be a foundational text of the Yoga Darshana, or Yoga Philosophy.
