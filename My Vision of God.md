@@ -83,6 +83,14 @@ This is the law of life. If someone is infuriated by these laws, one must fight 
 
 Fight in the cause of God. On how to fight, I do not know how, as I've never fought before. But I do know that God taught me to kill cockroaches the first day I had the vision. I used to never fight because I was nice, but then, I was informed later by the voice within, that I did not fight when I was attacked, but I got angry when my friends who were innocent were attacked. So I agree that those who fight the innocent must be fought, but I did not see that I myself was innocent, and let myself be attacked. In that sense, I let them attack an innocent person, and I was at fault.
 
+The Pramaana:
+(1) Prathyaabhinja (This is the method for verification; that which is seen beyond the senses)
+(2) Prathyaksha (That which is seen through the senses)
+(3) Anumaana (Logical inference)
+(4) Shabda (Testimony)
+
+Now, Prathyaabhinjna does not include that which is (1) seen in dreams or (2) inferred mentally by the intellect. With regards to that which is inferred mentally by the intellect, the Pramaana is literally talking about what the valid sources for making such inferences are. You cannot bypass them. About distinguishing it from dreams, when you see it, you will know it is neither a dream, nor hallucination. Because it will make it so clear to you. If someone persists to say that it is a "hallucination", then one can only disagree. They are only making such a claim from their materialist viewpoint which we already deny.
+
 ---
 
 ### Questions and Answers
@@ -125,7 +133,9 @@ If creation is a drawing atop the paper (which cannot be ultimately real, becaus
 
 Though the paper alone is real, as Advaita says, the nature of the paper is such that all portions of the paper are also separately real. Though a paper has no separations, if we mentally impose a separation on to it, then those separate portions are equally real. But the separateness is not real, and only made from within the mind, which exists within the imposed painting. But as long as you are looking from the frame of reference of the painting, these distinctions are real. There is no denying the painting, as though the painting is arbitrary, it is held in place by the powers of the paper for all eternity, and the paper is going nowhere.
 
-C. Why I uses Samskritham terms
+C. Why I uses terms from Samskritham
+
+Soothras: (1) English has a limited set of terms - (2) Always using expanded definitions is incorrect and redundant - (3) Christians use Greek, Law uses Latin - (4) Samskritham has more nuanced words pertaining to spirituality, being from India.
 
 C. On Marx-ism.
 

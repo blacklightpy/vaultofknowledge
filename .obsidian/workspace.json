@@ -493,13 +493,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is \"living\".md",
+                "file": "My Vision of God.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "What is \"living\""
+              "title": "My Vision of God"
             }
           },
           {
@@ -595,7 +595,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "niyama",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -637,7 +637,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is \"living\".md",
+                "file": "My Vision of God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -647,7 +647,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is \"living\""
+              "title": "Backlinks for My Vision of God"
             }
           },
           {
@@ -699,13 +699,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is \"living\".md",
+                "file": "My Vision of God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is \"living\""
+              "title": "Outline of My Vision of God"
             }
           },
           {
@@ -772,8 +772,9 @@
   },
   "active": "f51905b18b2e4508",
   "lastOpenFiles": [
-    "My Vision of God.md",
     "What is \"living\".md",
+    "Circles are not just Approximations of Infinite-Sided Polygons.md",
+    "My Vision of God.md",
     "Yoga Soothra.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
     "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
@@ -797,7 +798,6 @@
     "06. Collected Knowledge/rough Notes x6.md",
     "06. Collected Knowledge/Rough Notes X8.md",
     "06. Collected Knowledge/Rough Notes X.md",
-    "Prabhupada on Religion.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
