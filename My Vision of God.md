@@ -133,7 +133,7 @@ If creation is a drawing atop the paper (which cannot be ultimately real, becaus
 
 Though the paper alone is real, as Advaita says, the nature of the paper is such that all portions of the paper are also separately real. Though a paper has no separations, if we mentally impose a separation on to it, then those separate portions are equally real. But the separateness is not real, and only made from within the mind, which exists within the imposed painting. But as long as you are looking from the frame of reference of the painting, these distinctions are real. There is no denying the painting, as though the painting is arbitrary, it is held in place by the powers of the paper for all eternity, and the paper is going nowhere.
 
-C. Why I uses terms from Samskritham
+C. Why I use Samskritham terms.
 
 Soothras: (1) English has a limited set of terms - (2) Always using expanded definitions is incorrect and redundant - (3) Christians use Greek, Law uses Latin - (4) Samskritham has more nuanced words pertaining to spirituality, being from India.
 

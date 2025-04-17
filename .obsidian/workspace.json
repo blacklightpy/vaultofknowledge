@@ -493,13 +493,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "What is \"living\".md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "My Vision of God"
+              "title": "What is \"living\""
             }
           },
           {
@@ -595,7 +595,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "polygon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -637,7 +637,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "What is \"living\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -647,7 +647,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Vision of God"
+              "title": "Backlinks for What is \"living\""
             }
           },
           {
@@ -699,13 +699,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "What is \"living\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Vision of God"
+              "title": "Outline of What is \"living\""
             }
           },
           {
@@ -772,8 +772,10 @@
   },
   "active": "f51905b18b2e4508",
   "lastOpenFiles": [
-    "What is \"living\".md",
     "Circles are not just Approximations of Infinite-Sided Polygons.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",
+    "Validity of Irrational Roots.md",
+    "What is \"living\".md",
     "My Vision of God.md",
     "Yoga Soothra.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
@@ -796,8 +798,6 @@
     "Christian Church Terminology.md",
     "06. Collected Knowledge/Letters Mohammed Sent to Rulers.md",
     "06. Collected Knowledge/rough Notes x6.md",
-    "06. Collected Knowledge/Rough Notes X8.md",
-    "06. Collected Knowledge/Rough Notes X.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
