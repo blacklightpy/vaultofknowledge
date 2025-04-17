@@ -87,11 +87,11 @@ Fight in the cause of God. On how to fight, I do not know how, as I've never fou
 
 ### Questions and Answers
 
-Q. 
+Q. About God.
 
 God is within me, and God is beyond me. The same is true in all your cases, with the only difference being that I have that realization. It is only when God lifts the veil can you see that for yourself. But it is not necessary to see it.
 
-Then, belief in my religion is based on trust. Now, with regards to trust, one chooses to trust when it seems helpful. Now, one should not question it simply because it can be questioned. Trust is only broken when there is some real reason to it. You may not choose to trust something, 
+Then, belief in my religion is based on trust. Now, with regards to trust, one chooses to trust when it seems helpful. Now, one should not question it simply because it can be questioned. Trust is only broken when there is some real reason to it. You may not choose to trust something, but it can come from two sources - of you simply not resonating with it, or you simply saying that it cannot be proven so it is as arbitrary as anything. The former is a valid proposition, while the latter is invalid. Just because you cannot prove that someone slapped you does not mean no one slapped you. To say that this is arbitrarily made up, is something that we deny. This is made with the awareness and permission of God.
 
 Q. Who can amend a law? How will he maintain the quality?
 
