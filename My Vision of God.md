@@ -82,3 +82,19 @@ On homosexuality, it is permitted, but know that sensual indulgences is not the 
 This is the law of life. If someone is infuriated by these laws, one must fight them.
 
 Fight in the cause of God. On how to fight, I do not know how, as I've never fought before. But I do know that God taught me to kill cockroaches the first day I had the vision. I used to never fight because I was nice, but then, I was informed later by the voice within, that I did not fight when I was attacked, but I got angry when my friends who were innocent were attacked. So I agree that those who fight the innocent must be fought, but I did not see that I myself was innocent, and let myself be attacked. In that sense, I let them attack an innocent person, and I was at fault.
+
+---
+
+### Questions and Answers
+
+Q. 
+
+God is within me, and God is beyond me. The same is true in all your cases, with the only difference being that I have that realization. It is only when God lifts the veil can you see that for yourself. But it is not necessary to see it.
+
+Then, belief in my religion is based on trust. Now, with regards to trust, one chooses to trust when it seems helpful. Now, one should not question it simply because it can be questioned. Trust is only broken when there is some real reason to it. You may not choose to trust something, 
+
+Q. Who can amend a law? How will he maintain the quality?
+
+Anyone can amend the law, but they need to have the qualifications.
+They need to have God-awareness and put in a lot of intellectual effort.
+They need to feel worthy in the eyes of God, and that is the real indicator.

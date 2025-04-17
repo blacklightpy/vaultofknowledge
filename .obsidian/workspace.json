@@ -563,7 +563,7 @@
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -637,7 +637,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
+                "file": "My Vision of God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -647,7 +647,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Entry of 17th Apr, 2025"
+              "title": "Backlinks for My Vision of God"
             }
           },
           {
@@ -699,13 +699,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
+                "file": "My Vision of God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entry of 17th Apr, 2025"
+              "title": "Outline of My Vision of God"
             }
           },
           {
@@ -770,7 +770,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a24fb1349507184",
+  "active": "f51905b18b2e4508",
   "lastOpenFiles": [
     "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
     "My Vision of God.md",
