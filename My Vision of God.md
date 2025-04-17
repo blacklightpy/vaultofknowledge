@@ -44,7 +44,7 @@ Putting it all together
 
 **First Vision:** (1) Myself surrounded by Myself. (2) Eternal. (3) Un-Imposed State\*, but also Imposed. (4) The Un-Imposed State gave the Imposed State the ability to see both states at once. (5) Imposition of Myself on to Myself is how the Empirical Self was formed. (6) The Mind had all questions answered, but had not put it into words. (7) Trying to put it into words altered the state of the mind, and removed that consciousness. (8) Meditation helped, but life often got in the way. (9) The Self (Both the point and the surroundings, as both are the same) told the mind that it will always be on its side. (10) The mind being rejuvenated, denied help, and chose challenge, hoping to deal with all problems using the intellect alone. (11) Though this would be shown to be not ideal, the ego would want to handle all things by its own, and the Godhead would let it. (12) The path of intellect would always lead to trouble, and I would suffer, yet, I chose it.
 
-\*: Imposed here means the imposition of the material world on to the spirit. Un-Imposed means free of the material state, while Imposed means 
+\*: "Imposed" here means the imposition of the material world on to the spirit. Un-Imposed means free of the material state, and Impose means with the material state.
 
 **Second Vision:** (1) I saw everything I wished. (2) I saw many ethereal worlds beyond my imagination (I have aphantasia). (3) Trying to put it into words made it endless and senseless.
 
@@ -91,7 +91,9 @@ The Pramaana:
 (3) Anumaana (Logical inference)
 (4) Shabda (Testimony)
 
-Now, Prathyaabhinjna does not include that which is (1) seen in dreams or (2) inferred mentally by the intellect. With regards to that which is inferred mentally by the intellect, the Pramaana is literally talking about what the valid sources for making such inferences are. You cannot bypass them. About distinguishing it from dreams, when you see it, you will know it is neither a dream, nor hallucination. Because it will make it so clear to you. If someone persists to say that it is a "hallucination", then one can only disagree. They are only making such a claim from their materialist viewpoint which we already deny.
+Now, Prathyaabhinjna does not include that which is (1) seen in dreams or (2) inferred mentally by the intellect. With regards to that which is inferred mentally by the intellect, the Pramaana is literally talking about what the valid sources for making such inferences are. You cannot bypass them. About distinguishing it from dreams, when you see it, you will know it is neither a dream, nor hallucination. Because it will make it so clear to you.
+
+If someone persists to say that it is a "hallucination", then one can only disagree. They are only making such a claim from their materialist viewpoint which we already deny.
 
 ---
 
@@ -115,6 +117,8 @@ Then, belief in my religion is based on trust. Now, with regards to trust, one c
 Q. Division of the teachings.
 
 I will make is so that prior to reading the whole text, one can read small pieces, and there would be a trajectory by which one can get acquainted with the law.
+
+Soothra: (1) Reading Snippets of 10 at a time (2) Progressing Trajectory (3) Snippets From Different Areas (4) Snippets made from Different Sections of Areas (5) This is to have different parts filled up (like a BitTorrent transfer) (6) Even though BitTorrent transfers are helped more (in case of movies) if you download them sequentially (since you can watch each portion), the teaching is helped more if you understand different areas, still in the right way (7)
 
 Q. Who can amend a law? How will he maintain the quality?
 
