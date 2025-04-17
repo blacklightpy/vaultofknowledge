@@ -4,4 +4,6 @@ You cannot protest against gravity, it is truth. Likewise, you cannot protest ag
 
 We must have the knowledge
 
-Certain terraforming techniques may require us to break apart and restructure the entire ecosystem of a
+Certain terraforming techniques may require us to break apart and restructure the entire ecosystem of an uninhabited planet, or to drag entire planets to different locations.
+
+Besides, spaceships by themselves don't run on 9-volt batteries.
