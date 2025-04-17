@@ -1,0 +1,1 @@
+The Muhammadians are smart and wicked. The Hindus are foolish and naive. Truth has no relevance here. Faith alone is valid.

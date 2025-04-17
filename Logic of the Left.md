@@ -7,17 +7,14 @@ I make this statement as a person who holds the view that there is a non-materia
 
 A materialist would not hold my view, because from their perspective, the Muhammadian is a deluded fool. But from a non-materialist perspective like the one I hold, the Muhammadian is a person who is convinced that his Deen of submission is the most accurate explanation of the non-material origin of reality. My opposition of their religion is simply based on my own direct experience of this reality, and by the rational means, by which I disagree with (1) some nuances of their theology, and (2) most of their laws and customs applicable within the material world which they justify on the basis of the former.
 
----
 
-The Muhammadians are smart and wicked. The Hindus are foolish and naive. Truth has no relevance here. Faith alone is valid.
-
-
----
-
-Totally ignores two things:
+But in doing this, they ignore two things:
 
 (1) Israel is a secular state built for the people who are Jewish by ethnicity, and not just by faith.
 (2) This left does not know how to understand history, and thinks truth is the majority opinion (and by that logic, the Muslims should always be right since there are 2 billion of them compared to 15 million Jews).
+
+Additionally, there are two more things:
+
 (3) Jews have 10000% times the amount of Nobel Prizes compared to the atheists (so much for Jews being the religious fools).
 (4) While Israel provides human rights under Enlightenment Age values for all people including Muhammadians, all Muhammadian nations refuse to provide the same right for anyone, including Muhammadians themselves.
 (5) 
