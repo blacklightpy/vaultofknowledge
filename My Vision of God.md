@@ -112,3 +112,11 @@ The Jeeva-Aatma and Param-Aatma are simultaneously separate and same. Think of t
 If creation is a drawing atop the paper (which cannot be ultimately real, because the paper alone is real, and the painting would be a temporary formation atop the paper, since the "paper" here has powers), then one portion of the paper does not account for the entire drawing. Likewise, the Jeeva-Aatma does not account for the whole paper.
 
 Though the paper alone is real, as Advaita says, the nature of the paper is such that all portions of the paper are also separately real. Though a paper has no separations, if we mentally impose a separation on to it, then those separate portions are equally real. But the separateness is not real, and only made from within the mind, which exists within the imposed painting. But as long as you are looking from the frame of reference of the painting, these distinctions are real. There is no denying the painting, as though the painting is arbitrary, it is held in place by the powers of the paper for all eternity, and the paper is going nowhere.
+
+C. Why I uses Samskritham terms
+
+C. On Marx-ism.
+
+Though I do not deny all portions of what Marx said, and I have not read the entirety of what he said to even make such a claim, what Marx-ism is understood to be today has a lot of connotations. For example, Marx-ist forums are drenched in the red colour, to which I have an aversion, but ignoring that, still, they are highly averse to all forms of super-natural beliefs, even if they do not really pose a threat. That is, they are hard-rationalists, which is something I consider to be self-contradicting, and when you continue to hold such a belief, you fool yourself by dogma, and you become dogmatic.
+
+So I would like to define the good portions of his teachings in my own terms.
