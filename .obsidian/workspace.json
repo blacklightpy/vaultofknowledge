@@ -578,7 +578,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -652,7 +652,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "My Stance on Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -662,7 +662,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Vision of God"
+              "title": "Backlinks for My Stance on Weapons"
             }
           },
           {
@@ -714,13 +714,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Vision of God.md",
+                "file": "My Stance on Weapons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Vision of God"
+              "title": "Outline of My Stance on Weapons"
             }
           },
           {
@@ -785,13 +785,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51905b18b2e4508",
+  "active": "6c09c039ad67af07",
   "lastOpenFiles": [
-    "My Stance on Weapons.md",
     "The lousiness of those who criticize communism.md",
+    "My Stance on Weapons.md",
+    "My Vision of God.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
-    "My Vision of God.md",
     "What is \"living\".md",
     "Circles are not just Approximations of Infinite-Sided Polygons.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",

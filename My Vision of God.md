@@ -118,7 +118,7 @@ Q. Division of the teachings.
 
 I will make is so that prior to reading the whole text, one can read small pieces, and there would be a trajectory by which one can get acquainted with the law.
 
-Soothra: (1) Reading Snippets of 10 at a time (2) Progressing Trajectory (3) Snippets From Different Areas (4) Snippets made from Different Sections of Areas (5) This is to have different parts filled up (like a BitTorrent transfer) (6) Even though BitTorrent transfers are helped more (in case of movies) if you download them sequentially (since you can watch each portion), the teaching is helped more if you understand different areas, still in the right way (7)
+Soothra: (1) Reading Snippets of 10 at a time (2) Progressing Trajectory (3) Snippets From Different Areas (4) Snippets made from Different Sections of Areas (5) This is to have different parts filled up (like a BitTorrent transfer) (6) Even though BitTorrent transfers are helped more (in case of movies) if you download them sequentially (since you can watch each portion), the teaching is helped more if you understand different areas, still in the right way (7) This is because in holistic understanding, breadth is more important than depth.
 
 Q. Who can amend a law? How will he maintain the quality?
 
