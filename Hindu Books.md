@@ -33,11 +33,8 @@ There are 4 Vedas. They have four divisions each. They were passed on through se
 
 Upanishads can also be grouped by their
 
-- Rg-Veda Upanishads
-- Sama-Veda Upanishads
-- Krishna Yajur-Veda Upanishads
-- Shukla Yajur-Veda Upanishads
-- Atharva-Veda Upanishads
-
-Tantra•s 
-Tantra·s
+- Rg-Veda Upanishad·s
+- Sama-Veda Upanishad·s
+- Krishna Yajur-Veda Upanishad·s
+- Shukla Yajur-Veda Upanishad·s
+- Atharva-Veda Upanishad·s
