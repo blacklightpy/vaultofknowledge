@@ -17,7 +17,7 @@ But in doing this, they ignore two things:
 
 Additionally, there are two more things:
 
-(3) Jews have 1000% times the amount of Nobel Prizes compared to the atheists (so much for Jews being the religious fools).
+(3) Jews have 163 times the amount of Nobel Prizes per population compared to the atheists (so much for Jews being the religious fools).
 (4) While Israel provides human rights under Enlightenment Age values for all people including Muhammadians, all Muhammadian nations refuse to provide the same right for anyone, including Muhammadians themselves.
 (5) 
 

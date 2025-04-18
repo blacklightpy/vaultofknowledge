@@ -1,8 +1,6 @@
-I think the movie says it is from Garuda Puraana, but I found that it is from The Puranic Encyclopaedia by Vettam Mani. The list of hells is in the Story of Kaala (Yama).
+I think the movie says it is from Garuda Puraana, but I found that it is from The Puranic Encyclopaedia by Vettam Mani. The list of hells is in the Story of Kaala (Yama) (Source: https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc241667.html).
 
-https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc241667.html
-
-Now, many sources disagree on whether there are 21 or 28 hells. They are sourced in Shreemad Bhaagavatham (28 hells), Vishnu Puraana (28 hells), Devi Bhaagavatham (28 hells), Manu Smrithi (21 hells), Yaajnavalkya Smrithi (21 hells). But these three Puraanas end up stating there are hundreds of thousands of hells. Garuda Puraana also states that there are 84 lakh hells, but 21 are the worst.
+Now, many sources disagree on whether there are 21 or 28 hells. They are sourced in Shreemad Bhaagavatham (28 hells), Vishnu Puraana (28 hells), Devi Bhaagavatham (28 hells), Manu Smrithi (21 hells), Yaajnavalkya Smrithi (21 hells). But these three Puraanas end up stating there are hundreds of thousands of hells. Garuda Puraana also states that there are 84 lakh hells, but 21 are the worst. They are described as separate planets or Loka-s.
 
 **Shreemad Bhaagavatham, Canto 5 (The Creative Impetus), Chapter 26 (A Description of the Hellish Planets), Verse 7:**
 
