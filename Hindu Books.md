@@ -38,3 +38,6 @@ Upanishads can also be grouped by their
 - Krishna Yajur-Veda Upanishads
 - Shukla Yajur-Veda Upanishads
 - Atharva-Veda Upanishads
+
+Tantra•s 
+Tantra·s
