@@ -606,9 +606,19 @@
               "icon": "lucide-file",
               "title": "Why I refuse to publicly criticize Muhammadians (not fear)"
             }
+          },
+          {
+            "id": "3d33b662e55cfc66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 38
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -682,7 +692,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic of the Left on the War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -692,7 +701,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logic of the Left on the War"
+              "title": "Backlinks"
             }
           },
           {
@@ -744,13 +753,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic of the Left on the War.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Logic of the Left on the War"
+              "title": "Outline"
             }
           },
           {
@@ -815,10 +823,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5060e3d057e5ece",
+  "active": "3d33b662e55cfc66",
   "lastOpenFiles": [
-    "Why I refuse to publicly criticize Muhammadians (not fear).md",
     "Logic of the Left on the War.md",
+    "Why I refuse to publicly criticize Muhammadians (not fear).md",
     "The lousiness of those who criticize communism.md",
     "My Stance on Weapons.md",
     "My Vision of God.md",
