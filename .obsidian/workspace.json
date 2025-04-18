@@ -583,17 +583,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do I consider the Veda authoritative.md",
+                "file": "Tantra List Classifying.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Do I consider the Veda authoritative"
+              "title": "Tantra List Classifying"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -667,7 +667,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Tantra List Classifying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -677,7 +677,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying to Consolidate Hinduism 1"
+              "title": "Backlinks for Tantra List Classifying"
             }
           },
           {
@@ -729,13 +729,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "Tantra List Classifying.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying to Consolidate Hinduism 1"
+              "title": "Outline of Tantra List Classifying"
             }
           },
           {
@@ -800,9 +800,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77f5b19303c40f2",
+  "active": "eb338d6bc245e64d",
   "lastOpenFiles": [
     "Do I consider the Veda authoritative.md",
+    "Trying to Consolidate Hinduism 1.md",
+    "06. Collected Knowledge/Arachnae.md",
+    "Trying to Explain Maya.md",
     "Tantra List Classifying.md",
     "Books on Vedanga.md",
     "Hindu Books.md",
@@ -825,9 +828,6 @@
     "06. Collected Knowledge/Important Debate Knowledge.md",
     "06. Collected Knowledge/The problem of Religious Tolerance.md",
     "06. Collected Knowledge/Sources for Deception.md",
-    "06. Collected Knowledge/Noether's Theorem.md",
-    "History is Nonsense.md",
-    "Marriage Nonsense.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",

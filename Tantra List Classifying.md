@@ -795,3 +795,4 @@ Vaikhaansa:
 > 
 > The four tantras authored by Atri are Pūrvatantra, Atreyatantra, Viṣṇutantra and Uttaratantra. However, Ananda Saṃhitā attributes the pūrvatantra, viṣṇutantra, uttaratantra and mahātantra to Atri.
 
+Also check this: https://hinduism.stackexchange.com/questions/62898/where-can-i-find-list-of-all-tantra-sadhanas (asking for Yogini Tantras)
