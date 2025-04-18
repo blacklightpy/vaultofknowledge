@@ -593,7 +593,7 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -667,7 +667,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Do I consider the Veda authoritative.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -677,7 +677,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Do I consider the Veda authoritative"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -729,13 +729,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Do I consider the Veda authoritative.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Do I consider the Veda authoritative"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -800,12 +800,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb338d6bc245e64d",
+  "active": "a77f5b19303c40f2",
   "lastOpenFiles": [
-    "Books on Vedanga.md",
     "Do I consider the Veda authoritative.md",
-    "Hindu Books.md",
     "Tantra List Classifying.md",
+    "Books on Vedanga.md",
+    "Hindu Books.md",
     "Logic of the Left on the War.md",
     "Why I refuse to publicly criticize Muhammadians (not fear).md",
     "Hinduism on Homosexuality.md",

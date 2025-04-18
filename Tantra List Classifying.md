@@ -275,7 +275,7 @@ So the full list from Bhaaskara Raaya's commentary is:
 ---
 ## List 3
 
-Principles of Tantra, translation of Tantra Thatthva by Shiva Chandra Vidyaarnava states that each Kraanta has 64 sets of Shaaktha Aagamas. There are 3 Kraantaas in total, so 192 Shaaktha Aagamas.
+Principles of Tantra, translation of Tantra Thatthva by Shiva Chandra Vidyaarnava states that each Kraanta (region) has their own sets of 64 Shaaktha Aagamas. There are 3 Kraantaas in total, so 192 Shaaktha Aagamas.
 
 ### List 3.1
 Kraanta 1: Vishnu Kraantaa:
