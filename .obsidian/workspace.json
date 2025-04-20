@@ -640,7 +640,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "misr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -817,8 +817,9 @@
   },
   "active": "305927559b20028b",
   "lastOpenFiles": [
-    "Blueness of the Sky in Hindu-ism.md",
+    "Bhakti Movement.md",
     "Internalization of Rituals in Vedanta.md",
+    "Blueness of the Sky in Hindu-ism.md",
     "Trying to Consolidate Hinduism 1.md",
     "Do I consider the Veda·s authoritative.md",
     "Hindu Books.md",
@@ -842,7 +843,6 @@
     "Yoga Soothra.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
     "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
-    "06. Collected Knowledge/Important Debate Knowledge.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
