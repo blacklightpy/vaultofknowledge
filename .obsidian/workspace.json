@@ -640,7 +640,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "span",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -817,11 +817,11 @@
   },
   "active": "305927559b20028b",
   "lastOpenFiles": [
+    "Trying to Consolidate Hinduism 1.md",
     "Internalization of Rituals in Vedanta.md",
     "Do I consider the Veda·s authoritative.md",
     "Hindu Books.md",
     "Tantra List Classifying.md",
-    "Trying to Consolidate Hinduism 1.md",
     "06. Collected Knowledge/Arachnae.md",
     "Trying to Explain Maya.md",
     "Books on Vedanga.md",
