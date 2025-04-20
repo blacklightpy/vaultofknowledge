@@ -6,7 +6,7 @@ I saw here (https://hinduism.stackexchange.com/a/13705/40901) that in Islam, a m
 
 ---
 
-Vaisheshika Soothra, Adhyaya 2, Pada 1, Soothra 5, Madana Mishra Bhaashya:
+Vaisheshika Soothra, Adhyaya 2, Pada 1, Soothra 5, Mandana Mishra Bhaashya:
 
 > If it be asked, "How does the perception arise that Ether is as white as curd?" we reply that it is due to the impression created by the perception of the white coloura of the rays of the sun. If it be asked "How then does the perception that Ether is blue?" we reply that it is due to the **impression created in the minds of the observers who are looking at the radiance of the emerald peak lying largely extended over the south side of Sumeru mountain**. It has been opined that it is due to the **impression created by the eye when after traveling to a long distance it turns back and reaches its own pupil**. This is not a sound opinion, because those who possess jaundiced eyes also have such impressions.
 
