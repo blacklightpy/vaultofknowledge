@@ -18,6 +18,18 @@ See more:
 https://www.celextel.org/articles-and-summary/tantra-mother-worship/ (lot of ideas, including [[Saamaanya Varna]]).
 
 Rudra Yaamala Tantra contains "Vakrathunda Mahaa Kaaya..." Ganesha Mantra (but not the full match), under Mahaganapati Shastranam Stotra.
+
+---
+**Sarvollaasa Tantra, 1st Ullahasa:**
+
+> **Verse:**
+> <span style="font-size:145%">आगतः शिव वक्त्रेभ्यो गतश्च गिरिजाननम्‌ । मतः श्रीवासुदेवस्य तस्मादागम उच्यते ॥</span>
+> 
+> **Translation:**
+> A Shaasthra is said to be Aagama when it is said by Shiva, heard by Shri Devi and the Opinion is of Shri Vaasudeva.
+
+---
+
 ## Intro
 
 Some notes:

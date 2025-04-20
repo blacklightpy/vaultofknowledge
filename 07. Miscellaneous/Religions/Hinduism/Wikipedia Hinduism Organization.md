@@ -49,8 +49,9 @@ The early Upanishads were composed over 900-300 BCE.
 	- The Aagama texts include:
 		- 28 Shaiva Aagamas
 		- 64 Shakta Aagamas (also called Tantras)
-		- 108 Vaishnava Pancharaatra Aagamas (also called Pancharaatra Samhitas)
+		- 108 Vaishnava Paancharaatra Aagamas (also called Paancharaatra Samhitas)
 		- 28 Vaishnava Vaikhaanasa Aagamas
+		- Other (I guess 79, to make up 215) Vaishnava Pratishthasara and Vijnaana Lalita Aagama-s
 		- and numerous Upa Aagamas.
 # Dvaita Vedanta vs Advaita Vedanta
 - Dvaita Vedanta is dualistic
