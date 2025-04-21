@@ -628,13 +628,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passover.md",
+                "file": "Beit Shammai and Beit Hillel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Passover"
+              "title": "Beit Shammai and Beit Hillel"
             }
           }
         ],
@@ -712,7 +712,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passover.md",
+                "file": "Beit Shammai and Beit Hillel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -722,7 +722,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Passover"
+              "title": "Backlinks for Beit Shammai and Beit Hillel"
             }
           },
           {
@@ -774,13 +774,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passover.md",
+                "file": "Beit Shammai and Beit Hillel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Passover"
+              "title": "Outline of Beit Shammai and Beit Hillel"
             }
           },
           {
@@ -848,6 +848,7 @@
   "active": "375f1d10ee89dfac",
   "lastOpenFiles": [
     "Passover.md",
+    "Beit Shammai and Beit Hillel.md",
     "Brahminical Swarga.md",
     "Breast Tax.md",
     "Internalization of Rituals in Vedanta.md",
@@ -872,7 +873,6 @@
     "My Stance on Weapons.md",
     "My Vision of God.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
