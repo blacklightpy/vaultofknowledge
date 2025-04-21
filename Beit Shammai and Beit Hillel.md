@@ -1,9 +1,11 @@
 
-**Talmud, Avot, 5, 17:**
+**Mishnah, Seder Nezkin, Pirkei Avot (has no laws, so no Gemara), 5:17:**
 
 > Every dispute that is for the sake of Heaven, will in the end endure; But one that is not for the sake of Heaven, will not endure. Which is the controversy that is for the sake of Heaven? Such was the controversy of Hillel and Shammai. And which is the controversy that is not for the sake of Heaven? Such was the controversy of Korah and all his congregation.
 
-**Talmud, Eruvin 13b, 10-14:**
+It means, as Coffee Shop Rabbi [says](https://coffeeshoprabbi.com/2019/10/14/how-to-win-a-jewish-argument/): when we argue to win, we make arguments with personal attacks (ad hominem). Arguments for the sake of Heaven are not arguments for victory, but for truth.
+
+**Talmud, Seder Moed, Eruvin 13b, 10-14:**
 
 > 
 > אָמַר רַבִּי אַבָּא אָמַר שְׁמוּאֵל: שָׁלֹשׁ שָׁנִים נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִלֵּל, הַלָּלוּ אוֹמְרִים: הֲלָכָה כְּמוֹתֵנוּ, וְהַלָּלוּ אוֹמְרִים: הֲלָכָה כְּמוֹתֵנוּ. יָצְאָה בַּת קוֹל וְאָמְרָה: אֵלּוּ וָאֵלּוּ דִּבְרֵי אֱלֹהִים חַיִּים הֵן, וַהֲלָכָה כְּבֵית הִלֵּל.
@@ -25,3 +27,4 @@
 > תָּנוּ רַבָּנַן: שְׁתֵּי שָׁנִים וּמֶחֱצָה נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִלֵּל. הַלָּלוּ אוֹמְרִים: נוֹחַ לוֹ לְאָדָם שֶׁלֹּא נִבְרָא יוֹתֵר מִשֶּׁנִּבְרָא, וְהַלָּלוּ אוֹמְרִים: נוֹחַ לוֹ לְאָדָם שֶׁנִּבְרָא יוֹתֵר מִשֶּׁלֹּא נִבְרָא. נִמְנוּ וְגָמְרוּ: נוֹחַ לוֹ לְאָדָם שֶׁלֹּא נִבְרָא יוֹתֵר מִשֶּׁנִּבְרָא, עַכְשָׁיו שֶׁנִּבְרָא — יְפַשְׁפֵּשׁ בְּמַעֲשָׂיו. וְאָמְרִי לַהּ: יְמַשְׁמֵשׁ בְּמַעֲשָׂיו.
 > 
 > **The Sages taught** the following _baraita_: **For two and a half years, Beit Shammai and Beit Hillel disagreed. These say: It would have been preferable had man not been created than to have been created. And those said: It is preferable for man to have been created than had he not been created.** Ultimately, **they were counted and concluded: It would have been preferable had man not been created than to have been created.** However, **now that he has been created, he should examine his actions** that he has performed and seek to correct them. **And some say: He should scrutinize his** planned **actions** and evaluate whether or not and in what manner those actions should be performed, so that he will not sin.
+
