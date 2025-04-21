@@ -1,3 +1,7 @@
+## My General View
+
+The law is to be followed, but if the law is used to convict an innocent through expertise without considering his context, then that is not truth or justice.
+
 ## From Judah-ism
 
 From https://shirathayamnantucket.org/sermons/divided-by-the-chief-rabbinate/:

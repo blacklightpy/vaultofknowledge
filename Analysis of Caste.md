@@ -3,6 +3,8 @@ See: https://www.advaita-vedanta.org/archives/advaita-l/2012-July/032603.html (H
 Also see: https://hinduism.stackexchange.com/questions/38067/can-the-lower-borns-enter-varna-system/38113#38113
 
 
+Random Reddit Threads:
+
 https://www.reddit.com/r/IndianHistory/comments/1h8whls/were_the_hindu_kings_okay_with_being_considered/?rdt=35542
 
 https://www.reddit.com/r/IndianHistory/comments/1fsdhhc/how_did_the_caste_system_survive_for_so_long_in/
