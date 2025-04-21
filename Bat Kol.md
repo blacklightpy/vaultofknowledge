@@ -1,4 +1,4 @@
-This means Divine Voice. Regarding its validity:
+This means Divine Voice. An example of its use is in resolving the dispute between Beit Shammai and Beit HIllel (see here: [[Beit Shammai and Beit Hillel]]). Regarding its validity:
 
 **Talmud, Seder Moed, Megillah 32a, 11:**
 
