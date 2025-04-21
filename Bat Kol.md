@@ -24,13 +24,13 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 
 #### Context
 
-**Talmud, Seder Nezikin, Bava Metzia, 58b, 6:**
+**Talmud, Seder Nezikin, Bava Metzia, 58b:6:**
 
 > **מַתְנִי׳** כְּשֵׁם שֶׁאוֹנָאָה בְּמִקָּח וּמִמְכָּר, כָּךְ אוֹנָאָה בִּדְבָרִים. לֹא יֹאמַר לוֹ: בְּכַמָּה חֵפֶץ זֶה? וְהוּא אֵינוֹ רוֹצֶה לִיקַּח. אִם הָיָה בַּעַל תְּשׁוּבָה, לֹא יֹאמַר לוֹ: זְכוֹר מַעֲשֶׂיךָ הָרִאשׁוֹנִים. אִם הוּא בֶּן גֵּרִים, לֹא יֹאמַר לוֹ: זְכוֹר מַעֲשֵׂה אֲבוֹתֶיךָ, שֶׁנֶּאֱמַר: ״וְגֵר לֹא תוֹנֶה וְלֹא תִלְחָצֶנּוּ״.
 > 
 > **MISHNA:** **Just as** there is a prohibition against **exploitation [_ona’a_] in buying and selling, so is there _ona’a_ in statements,** i.e., verbal mistreatment. The mishna proceeds to cite examples of verbal mistreatment. **One may not say to** a seller: **For how much** are you selling **this item, if he does not wish to purchase** it. He thereby upsets the seller when the deal fails to materialize. The mishna lists other examples: **If one is a penitent,** another **may not say to him: Remember your earlier deeds. If one is the child of converts,** another **may not say to him: Remember the deeds of your ancestors, as it is stated: “And a convert shall you neither mistreat, nor shall you oppress him”** (Exodus 22:20).
 
-**Talmud, Seder Nezikin, Bava Metzia, 59a, 8:**
+**Talmud, Seder Nezikin, Bava Metzia, 59a:8 (Same Context):**
 
 > אָמַר רַבִּי אֲבָהוּ: שְׁלֹשָׁה אֵין הַפַּרְגּוֹד נִנְעָל בִּפְנֵיהֶם: אוֹנָאָה, וְגָזֵל, וַעֲבוֹדָה זָרָה. אוֹנָאָה, דִּכְתִיב: ״וּבְיָדוֹ אֲנָךְ״. גָּזֵל, דִּכְתִיב: ״חָמָס וָשֹׁד יִשָּׁמַע בָּהּ עַל פָּנַי תָּמִיד״. עֲבוֹדָה זָרָה, דִּכְתִיב: ״הָעָם הַמַּכְעִיסִים אוֹתִי עַל פָּנַי תָּמִיד וְגוֹ׳״.
 > 
