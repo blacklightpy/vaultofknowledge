@@ -52,3 +52,7 @@ The case of Satyakaama Jaabala, which I cited elsewhere.
 
 > At Kamyaka, Kusika’s son had quaffed the Soma juice with Indra. Then abandoning the Kshatriya order, he began to say, "I am a Brahmana".
 
+
+“ebhistu karmabhir devi subhair acaritais tathal sudro brahmanatam yati vaisyah ksatriyatām vrajet|!” (Mahabharat , Anusasana Parvan, 146.26) “Oh Devi, by performing these actions in this way, a sudra attains brähmana-hood and a vaisya attains ksatriya-hood.”
+    
+“sudre caitad bhavel laksyam dvije tac ca na vidyatel na vai sudro bhavecDchudro brahmano brahmano na call” (Mahabharat,Santiparvan, 189/8) “If this (list of virtues) is seen in sudra and it is not there in a twice born one, then the sudra will not be a sudra and the brahmana will not be a brãhmana.”
