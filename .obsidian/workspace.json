@@ -621,9 +621,24 @@
               "icon": "lucide-file",
               "title": "Brahminical Swarga"
             }
+          },
+          {
+            "id": "375f1d10ee89dfac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passover.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Passover"
+            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -697,7 +712,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brahminical Swarga.md",
+                "file": "Passover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -707,7 +722,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brahminical Swarga"
+              "title": "Backlinks for Passover"
             }
           },
           {
@@ -759,13 +774,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brahminical Swarga.md",
+                "file": "Passover.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brahminical Swarga"
+              "title": "Outline of Passover"
             }
           },
           {
@@ -830,9 +845,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af70c106301a6883",
+  "active": "375f1d10ee89dfac",
   "lastOpenFiles": [
+    "Passover.md",
     "Brahminical Swarga.md",
+    "Breast Tax.md",
     "Internalization of Rituals in Vedanta.md",
     "06. Collected Knowledge/Tantras.md",
     "Tantra List Classifying.md",
@@ -856,8 +873,6 @@
     "My Vision of God.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
-    "What is \"living\".md",
-    "Circles are not just Approximations of Infinite-Sided Polygons.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
