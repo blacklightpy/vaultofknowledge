@@ -1,4 +1,16 @@
 
+**Pikrei Avot 1:13:**
+
+> הוּא הָיָה אוֹמֵר, נָגֵד שְׁמָא, אָבֵד שְׁמֵהּ. וּדְלֹא מוֹסִיף, יָסֵף. וּדְלֹא יָלֵיף, קְטָלָא חַיָּב. וּדְאִשְׁתַּמֵּשׁ בְּתָגָא, חָלֵף:
+> 
+> He (Hillel) [also] used to say: one who makes his name great causes his name to be destroyed; one who does not add [to his knowledge] causes [it] to cease; one who does not study [the Torah] deserves death; one who makes [unworthy] use of the crown [of learning] shall pass away.
+
+**Pikrei Avot 5:7:**
+
+> שִׁבְעָה דְבָרִים בַּגֹּלֶם וְשִׁבְעָה בֶחָכָם. חָכָם אֵינוֹ מְדַבֵּר בִּפְנֵי מִי שֶׁהוּא גָדוֹל מִמֶּנּוּ בְחָכְמָה וּבְמִנְיָן, וְאֵינוֹ נִכְנָס לְתוֹךְ דִּבְרֵי חֲבֵרוֹ, וְאֵינוֹ נִבְהָל לְהָשִׁיב, שׁוֹאֵל כָּעִנְיָן וּמֵשִׁיב כַּהֲלָכָה, וְאוֹמֵר עַל רִאשׁוֹן רִאשׁוֹן וְעַל אַחֲרוֹן אַחֲרוֹן, וְעַל מַה שֶּׁלֹּא שָׁמַע, אוֹמֵר לֹא שָׁמָעְתִּי, וּמוֹדֶה עַל הָאֱמֶת. וְחִלּוּפֵיהֶן בַּגֹּלֶם:
+> 
+> [There are] seven things [characteristic] in a clod, and seven in a wise man: A wise man does not speak before one who is greater than he in wisdom, And does not break into his fellow’s speech; And is not hasty to answer; He asks what is relevant, and he answers to the point; And he speaks of the first [point] first, and of the last [point] last; And concerning that which he has not heard, he says: I have not heard; And he acknowledges the truth. And the reverse of these [are characteristic] in a clod.
+
 **Mishnah, Seder Nezkin, Pirkei Avot (has no laws, so no Gemara), 5:17:**
 
 > Every dispute that is for the sake of Heaven, will in the end endure; But one that is not for the sake of Heaven, will not endure. Which is the controversy that is for the sake of Heaven? Such was the controversy of Hillel and Shammai. And which is the controversy that is not for the sake of Heaven? Such was the controversy of Korah and all his congregation.
