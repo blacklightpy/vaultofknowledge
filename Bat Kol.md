@@ -20,3 +20,4 @@ This means Divine Voice. An example of its use is in resolving the dispute betwe
 
 ### Case 1: Oven of Akhnai
 
+The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This is to say that the meaning of the Torah is not to be uncovered by prophets, or even by the voice of God, but is to be interpreted by humans. Likewise, the Midrashic reading of Deuteronomy 17:11 is that God's will was revealed at Sinai its Grundnorm (basic norm), and he entrusted 
