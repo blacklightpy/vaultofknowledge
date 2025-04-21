@@ -1,4 +1,6 @@
-This means Divine Voice. An example of its use is in resolving the dispute between Beit Shammai and Beit HIllel (see here: [[Beit Shammai and Beit Hillel]]). Regarding its validity:
+This means Divine Voice. An example of its use is in resolving the dispute between Beit Shammai and Beit HIllel (see here: [[Beit Shammai and Beit Hillel]]).
+
+## Regarding its validity
 
 **Talmud, Seder Moed, Megillah 32a, 11:**
 
@@ -13,3 +15,6 @@ This means Divine Voice. An example of its use is in resolving the dispute betwe
 **Guide for the Perplexed, 2:42:**
 
 > The bat-kol (prophetic echo), which is so frequently mentioned by our Sages, and is something that may be experienced by men not prepared for prophecy.
+
+## Distinguishing it from evil whispers
+

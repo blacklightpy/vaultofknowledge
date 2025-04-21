@@ -651,9 +651,24 @@
               "icon": "lucide-file",
               "title": "Dissolution of the Premise"
             }
+          },
+          {
+            "id": "479cc22b3ae37845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Executions in Judah-ism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Executions in Judah-ism"
+            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -727,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Executions in Judah-ism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -737,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bat Kol"
+              "title": "Backlinks for Executions in Judah-ism"
             }
           },
           {
@@ -789,13 +804,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Executions in Judah-ism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bat Kol"
+              "title": "Outline of Executions in Judah-ism"
             }
           },
           {
@@ -860,10 +875,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "375f1d10ee89dfac",
+  "active": "479cc22b3ae37845",
   "lastOpenFiles": [
-    "Divine Voice in the Head.md",
+    "Executions in Judah-ism.md",
     "Bat Kol.md",
+    "Divine Voice in the Head.md",
     "Dissolution of the Premise.md",
     "Beit Shammai and Beit Hillel.md",
     "Passover.md",
@@ -887,7 +903,6 @@
     "Why I refuse to publicly criticize Muhammadians (not fear).md",
     "Hinduism on Homosexuality.md",
     "Anniyan Punishments.md",
-    "The lousiness of those who criticize communism.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
