@@ -683,37 +683,22 @@
             }
           },
           {
-            "id": "be37f8876397f0d7",
+            "id": "f73d774c3a6d7d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varna is based on Guna, not Birth.md",
+                "file": "Analysis of Caste.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Varna is based on Guna, not Birth"
-            }
-          },
-          {
-            "id": "ddc6d5685d9539c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On the prohibition of wearing stitched clothes in temples.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "On the prohibition of wearing stitched clothes in temples"
+              "title": "Analysis of Caste"
             }
           }
         ],
-        "currentTab": 46
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -787,7 +772,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On the prohibition of wearing stitched clothes in temples.md",
+                "file": "Analysis of Caste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -797,7 +782,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for On the prohibition of wearing stitched clothes in temples"
+              "title": "Backlinks for Analysis of Caste"
             }
           },
           {
@@ -849,13 +834,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On the prohibition of wearing stitched clothes in temples.md",
+                "file": "Analysis of Caste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of On the prohibition of wearing stitched clothes in temples"
+              "title": "Outline of Analysis of Caste"
             }
           },
           {
@@ -920,19 +905,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddc6d5685d9539c3",
+  "active": "f73d774c3a6d7d46",
   "lastOpenFiles": [
-    "On the prohibition of wearing stitched clothes in temples.md",
-    "Varna is based on Guna, not Birth.md",
-    "Analysis of Caste.md",
     "On Truth, Peace and Justice.md",
+    "Analysis of Caste.md",
+    "Varna is based on Guna, not Birth.md",
+    "Brahminical Swarga.md",
+    "On the prohibition of wearing stitched clothes in temples.md",
     "Bat Kol.md",
     "Executions in Judah-ism.md",
     "Divine Voice in the Head.md",
     "Dissolution of the Premise.md",
     "Beit Shammai and Beit Hillel.md",
     "Passover.md",
-    "Brahminical Swarga.md",
     "Breast Tax.md",
     "Internalization of Rituals in Vedanta.md",
     "06. Collected Knowledge/Tantras.md",
