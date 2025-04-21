@@ -1,3 +1,4 @@
+The [[Bat Kol]] favoured Hillel because Hillel is more humble.
 
 **Pikrei Avot 1:13:**
 
@@ -11,8 +12,10 @@
 > 
 > [There are] seven things [characteristic] in a clod, and seven in a wise man: A wise man does not speak before one who is greater than he in wisdom, And does not break into his fellow’s speech; And is not hasty to answer; He asks what is relevant, and he answers to the point; And he speaks of the first [point] first, and of the last [point] last; And concerning that which he has not heard, he says: I have not heard; And he acknowledges the truth. And the reverse of these [are characteristic] in a clod.
 
-**Mishnah, Seder Nezkin, Pirkei Avot (has no laws, so no Gemara), 5:17:**
+**Pikrei Avot 5:17:**
 
+> כָּל מַחֲלֹקֶת שֶׁהִיא לְשֵׁם שָׁמַיִם, סוֹפָהּ לְהִתְקַיֵּם. וְשֶׁאֵינָהּ לְשֵׁם שָׁמַיִם, אֵין סוֹפָהּ לְהִתְקַיֵּם. אֵיזוֹ הִיא מַחֲלֹקֶת שֶׁהִיא לְשֵׁם שָׁמַיִם, זוֹ מַחֲלֹקֶת הִלֵּל וְשַׁמַּאי. וְשֶׁאֵינָהּ לְשֵׁם שָׁמַיִם, זוֹ מַחֲלֹקֶת קֹרַח וְכָל עֲדָתוֹ:
+> 
 > Every dispute that is for the sake of Heaven, will in the end endure; But one that is not for the sake of Heaven, will not endure. Which is the controversy that is for the sake of Heaven? Such was the controversy of Hillel and Shammai. And which is the controversy that is not for the sake of Heaven? Such was the controversy of Korah and all his congregation.
 
 It means, as Coffee Shop Rabbi [says](https://coffeeshoprabbi.com/2019/10/14/how-to-win-a-jewish-argument/): when we argue to win, we make arguments with personal attacks (ad hominem). Arguments for the sake of Heaven are not arguments for victory, but for truth.

@@ -628,13 +628,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beit Shammai and Beit Hillel.md",
+                "file": "Bat Kol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Beit Shammai and Beit Hillel"
+              "title": "Bat Kol"
             }
           }
         ],
@@ -670,7 +670,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tractate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -712,7 +712,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beit Shammai and Beit Hillel.md",
+                "file": "Bat Kol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -722,7 +722,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beit Shammai and Beit Hillel"
+              "title": "Backlinks for Bat Kol"
             }
           },
           {
@@ -774,13 +774,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beit Shammai and Beit Hillel.md",
+                "file": "Bat Kol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Beit Shammai and Beit Hillel"
+              "title": "Outline of Bat Kol"
             }
           },
           {
@@ -845,10 +845,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "375f1d10ee89dfac",
   "lastOpenFiles": [
-    "Passover.md",
     "Beit Shammai and Beit Hillel.md",
+    "Bat Kol.md",
+    "Passover.md",
     "Brahminical Swarga.md",
     "Breast Tax.md",
     "Internalization of Rituals in Vedanta.md",
@@ -872,7 +873,6 @@
     "The lousiness of those who criticize communism.md",
     "My Stance on Weapons.md",
     "My Vision of God.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
