@@ -18,3 +18,5 @@ This means Divine Voice. An example of its use is in resolving the dispute betwe
 
 ## Distinguishing it from evil whispers
 
+### Case 1: Oven of Akhnai
+
