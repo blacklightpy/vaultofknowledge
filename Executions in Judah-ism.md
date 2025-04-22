@@ -109,9 +109,9 @@ It codifies the above law.
 
 ## In the Miqra
 
-- Leviticus 24:23 (Moshe's Court executing the Blasphemer)
-- Numbers 15:36 (Moshe's Court executing the Shabbos violator)
-- Joshua 7:25 (Yehoshua's Court executing Achan for taking from the spoils of Jericho)
+- Vayikra (Leviticus) 24:23 (Moshe's Court executing the Blasphemer)
+- Bambidar (Numbers) 15:36 (Moshe's Court executing the Shabbos violator)
+- Yehoshua (Joshua) 7:25 (Yehoshua's Court executing Achan for taking from the spoils of Jericho)
 - 1 Kings 21:13 (Nabouth being executed by the court of Jezreel on false charges)
 
 ## In the Talmud
@@ -157,15 +157,6 @@ It codifies the above law.
 > אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: דִּלְמָא בְּדִינָא קָם בַּהֲדֵיהּ, אִי נָמֵי פַּיּוֹסֵי פַּיְּיסֵיהּ.
 > 
 > **Rav Aḥa, son of Rava, said to Rav Ashi:** The fact that the voice will cease after Rabbi Yehuda ben Tabbai’s death is inconclusive as proof that the voice is not that of the executed witness. **Perhaps** the reason that the voice of the executed person will no longer be heard is that **he confronted** Rabbi Yehuda ben Tabbai **in trial** before the heavenly court, obviating the need for crying from his grave. **Alternatively,** perhaps Rabbi Yehuda ben Tabbai **appeased** the executed witness in the World-to-Come, and there is silence because no grievances remained.
-
-- Shimon ben Shatach and his court executing eighty women for practicing witchcraft ([Sanhedrin 45b](https://www.sefaria.org/Sanhedrin.45b.20-21?lang=bi&with=all&lang2=en), and more details in [Rashi ibid. 45b](https://www.sefaria.org/Sanhedrin.45b.21?lang=bi&p2=Rashi_on_Sanhedrin.45b.21.1&lang2=bi), from Yerushalmi Chagigah 2:2 and Sanhedrin 6:6) (Mass kill)
-- ...and then having his own son convicted (based on false testimony) and executed ([Rashi ibid. 44b](https://www.sefaria.org/Sanhedrin.44b.13?lang=bi&p2=Rashi_on_Sanhedrin.44b.13.3&lang2=bi), from Yerushalmi Sanhedrin 6:3) (own son)
-- Someone being executed "in the days of the Greeks" for riding a horse on Shabbos ([Yevamos 90b](https://www.sefaria.org/Yevamot.90b.10?lang=bi&with=all&lang2=en), [Sanhedrin 46a](https://www.sefaria.org/Sanhedrin.46a.11-12?lang=bi)) (Greek law was valid, but people were lazy with the mitzvot at the time)
-- Yeshu Hanotzri, also known as Ben Stada and Ben Pandira, who was executed on Erev Pesach ([Sanhedrin 43a](https://www.sefaria.org/Sanhedrin.43a.20-21?lang=bi&with=Rashi&lang2=en) and 67b, uncensored editions). A lot of ink has been spilled on the question of whether this person is identical with the founder of Christianity.
-- The _mekallel_ at the end of Parshat Emor (see: [Vayikra 24:10-16](https://www.sefaria.org/Leviticus.24.10-16?lang=bi&with=all&lang2=en), and [23](https://www.sefaria.org/Leviticus.24.23?lang=bi&with=all&lang2=en))  
-- The _mekosheish etzim_ in Parshat Shelach (see: [Bamidbar 15:32-36](https://www.sefaria.org/Numbers.15.35-36?lang=bi&with=all&lang2=en))
-- On [Gittin 57a](http://www.dafyomi.org/index.php?masechta=gitin&daf=57a&go=Go) a father and son are put to death for sleeping with a betrothed young woman on yom kippur. 
-- The words 'a father and son... Yom kippur' are used again in [Bava Metzia 83b](http://www.dafyomi.org/index.php?masechta=bava_metzia&daf=83b)
 
 ### Shimon ben Shatach executing 80 women who practiced witchcraft
 
@@ -263,7 +254,11 @@ It is also said that the Talmud should be telling the story of another Yeshu in 
 
 From another blog on this (since it seems senseless):
 
-> The five disciples are sentenced to death through a biblical gymnastic that cannot and is not historical, nor reliable. How can the Sanhedrin have fun on people in the middle of a death penalty trial? How could they execute them all together at the same time, which is against hallakha? Did they judge them by the biblical meaning of their names as the text says? In fact, did Judaism sentence to death to those who belonged to a different sect? It seems to me entire story is just a manner to have fun with how Christians twist verses from Scripture in order to apply them to Yeshua, and this seems to be the teaching here, that without a proper foundation on Scripture and hermeneutics one can deduce almost anything from any Biblical verse.
+> The anachronism is great, since the Roman occupation began in the 63 BCE, and Alexander Yannai reigned until the 76 BCE, and as we know, the Talmud says that Yeshu lived in the days of Alexander Yannai, but it then says that his father was a Roman soldier. Not happy with this, they also say that his Jewish father was Pappos ben Yehuda, who actually lived in the days of Rabbi Akiva’s martyrdom! that is, the 135 CE (Berakhot 61b). Please, someone explain to me how the father of Yeshu live 300 years after Yeshu himself was even born. If this is not anachronistic I don’t know what else will be more fun:
+> 
+> The fun on Yeshu doesn’t end here. In a second Baraitha (Sanhedrin 43a) it says he had five disciple (obviously the Gospels say he had 12, which he chose by himself in accordance to the 12 tribes, and this was also similar to what the Qumran community did with their council of 12 members). The Baraitha is ancient, but then there’s an anonymous commentary in Amoraic-period Aramaic. The five disciples are sentenced to death through a biblical gymnastic that cannot and is not historical, nor reliable. How can the Sanhedrin have fun on people in the middle of a death penalty trial? How could they execute them all together at the same time, which is against hallakha? Did they judge them by the biblical meaning of their names as the text says? In fact, did Judaism sentence to death to those who belonged to a different sect? It seems to me entire story is just a manner to have fun with how Christians twist verses from Scripture in order to apply them to Yeshua, and this seems to be the teaching here, that without a proper foundation on Scripture and hermeneutics one can deduce almost anything from any Biblical verse.
+
+> So from all of this we know that this Baraitha originated when Christianity had already began to praise their “Jesus” as a god, and not earlier. At that moment, when Christianity began to worship Jesus, the Tannaim turned this character called Yeshu into the cosmic or metaphoric leader that led Christianity astray. They were “executing him” now, in their present, retrospectively, so in a sense the text is real, it tells the truth, it’s just not a historical truth. His teachings were now enticing people to worship a man, and therefore, all of his miracles were displaced outside of the Jewish Pharisaic framework, and therefore, they could be nothing but sorcery. Do you see the logic here?
 
 **Sanhderin 67a, 14-15:**
 
@@ -317,14 +312,6 @@ Pumbeditha means "having fun with the mouth".
 > אֲמַר לֵיהּ: דִּינֵיהּ דְּהָהוּא גַּבְרָא בְּמַאי? אֲמַר לֵיהּ: בְּצוֹאָה רוֹתַחַת. דְּאָמַר מָר: כׇּל הַמַּלְעִיג עַל דִּבְרֵי חֲכָמִים נִידּוֹן בְּצוֹאָה רוֹתַחַת. תָּא חֲזִי מָה בֵּין פּוֹשְׁעֵי יִשְׂרָאֵל לִנְבִיאֵי אוּמּוֹת הָעוֹלָם.
 > 
 > Onkelos **said to him: What is the punishment of that man,** a euphemism for Jesus himself, in the next world? Jesus **said to him:** He is punished **with boiling excrement. As the Master said: Anyone who mocks the words of the Sages will be sentenced to boiling excrement.** And this was his sin, as he mocked the words of the Sages. The Gemara comments: **Come** and **see the difference between the sinners of Israel and the prophets of the nations of the world.** As Balaam, who was a prophet, wished Israel harm, whereas Jesus the Nazarene, who was a Jewish sinner, sought their well-being.
-
-### Mekallel at the end of Parshat Emor
-
-
-
-### Mekosheish Etzin in Parshat Shelach
-
-
 
 ### A father and a son are executed for sleeping with a betrothed young woman on Yom Kippur
 
