@@ -169,6 +169,14 @@ It codifies the above law.
 
 ### Shimon ben Shatach executing 80 women who practiced witchcraft
 
+**Sanhedrin 45b, 21:**
+
+> הָאִישׁ תּוֹלִין אוֹתוֹ פָּנָיו כְּלַפֵּי הָעָם, וְהָאִשָּׁה פָּנֶיהָ כְּלַפֵּי הָעֵץ; דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים: הָאִישׁ נִתְלֶה וְאֵין הָאִשָּׁה נִתְלֵית. אָמַר לָהֶן רַבִּי אֱלִיעֶזֶר: וַהֲלֹא שִׁמְעוֹן בֶּן שָׁטַח תָּלָה נָשִׁים בְּאַשְׁקְלוֹן? אָמְרוּ לוֹ: שְׁמוֹנִים נָשִׁים תָּלָה, וְאֵין דָּנִין שְׁנַיִם בְּיוֹם אֶחָד.
+> 
+> The corpse of **a man is hung facing the people, but** the corpse of **a woman,** out of modesty, is hung **facing the tree;** this is **the statement of Rabbi Eliezer. And the Rabbis say:** the corpse of **a man is hung, but** the corpse of **a woman is not hung. Rabbi Eliezer said to** the Rabbis: **Did Shimon ben Shataḥ not hang in Ashkelon women** who were found guilty of witchcraft, proving that the corpse of a woman who is executed is also hung? **They said to him:** No proof can be brought from here, as **he hanged eighty women** on that day, **and** the _halakha_ is that the same court **may not judge** even **two** people charged with capital transgressions **on the same day.** It is therefore clear that he was not acting in accordance with Torah law, but rather his execution of the eighty women was an extraordinary punishment necessitated by unusually pressing circumstances.
+
+
+
 ### Shimon ben Shatach wrongly testifying against his own son
 
 ### Someone being executed during the days of the Geeks for riding a horse on Shabbos
