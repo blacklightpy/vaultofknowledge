@@ -103,4 +103,17 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 
 Nabouth was executed by King Ahab based on false charges set up by his wife Jezebel.
 
-1 Kings 22:22-23, 2 Chronicles 18:21-22
+1 Kings 22:22-23 and 2 Chronicles 18:21-22
+
+It was the Spirit of Nabout who misled him:
+
+Sanhedrin 89a, 15
+
+הַמִּתְנַבֵּא מַה שֶּׁלֹּא שָׁמַע, כְּגוֹן צִדְקִיָּה בֶן כְּנַעֲנָה, דִּכְתִיב: ״וַיַּעַשׂ לוֹ צִדְקִיָּהוּ בֶן כְּנַעֲנָה קַרְנֵי בַרְזֶל״. מַאי הֲוָה לֵיהּ לְמֶעְבַּד? רוּחַ נָבוֹת אַטְעִיתֵיהּ, דִּכְתִיב: ״וַיֹּאמֶר ה׳ מִי יְפַתֶּה אֶת אַחְאָב וְיַעַל וְיִפֹּל בְּרָמֹת גִּלְעָד״. ״וַיֵּצֵא הָרוּחַ וַיַּעֲמֹד לִפְנֵי ה׳ וַיֹּאמֶר אֲנִי אֲפַתֶּנּוּ״. ״וַיֹּאמֶר תְּפַתֶּה וְגַם תּוּכָל צֵא וַעֲשֵׂה כֵן״.
+
+§ The mishna lists among those liable to be executed as a false prophet **one who prophesies that which** he **did not hear.** The Gemara comments: **For example, Zedekiah, son of Chenaanah,** who prophesied that Ahab should wage war against the kingdom of Aram and would be successful, **as it is written: “And Zedekiah, son of Chenaanah, made for him horns of iron,** and said: So says the Lord: With these shall you gore the Arameans, until they are consumed” (II Chronicles 18:10). The Gemara asks: **What was** Zedekiah, son of Chenaanah, **to do?** Why was he held responsible? After all, **the spirit of Naboth misled him, as it is written: “And the Lord said: Who shall entice Ahab, that he may go up and fall at Ramoth Gilead…and there came forth the spirit, and stood before the Lord, and said: I will entice him. And He said…You shall entice him, and shall prevail also; go forth, and do so”** (I Kings 22:20–22).
+
+Jehoshaphat knew two Prophets won't speak in the same manner. That's why he asked for another Prophet of G-d.
+
+Nabouth's desire to deceive Ahab also cost him his relationship with G-d, as he said "Go out" and do so.
+
