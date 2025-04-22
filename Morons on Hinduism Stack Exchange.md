@@ -21,6 +21,10 @@ TheDestroyer and TheLittleNaruto (another mod) seems good so far.
 
 ## Ishkvaku
 
+> Perhaps in ancient times when all the castes were brahmanas, anyone could take up the duty of a brahmana. But today, after generations of degradation and intermixing, that option is not possible.
+
+What?
+
 ## ram
 
 ## Say No To Censorship
