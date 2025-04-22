@@ -225,7 +225,7 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 > וּמַעֲשֶׂה בְּאֶחָד שֶׁרָכַב עַל סוּס בְּשַׁבָּת בִּימֵי יְוָנִים, וֶהֱבִיאוּהוּ לְבֵית דִּין וּסְקָלוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ. שׁוּב מַעֲשֶׂה בְּאָדָם אֶחָד שֶׁהֵטִיחַ אֶת אִשְׁתּוֹ תַּחַת הַתְּאֵנָה, וֶהֱבִיאוּהוּ לְבֵית דִּין וְהִלְקוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ.
 > 
 > **And an incident** occurred **involving one who rode a horse on Shabbat during the days of the Greeks, and they brought him to court and stoned him, not because he deserved that** punishment, as riding a horse on Shabbat is forbidden only by rabbinic decree, **but because the hour required it,** as people had become lax in their observance of Shabbat and therefore it became necessary to impose the severe punishment for a relatively minor offense. **Another incident** occurred **involving a man who engaged in intercourse with his wife** in public **under a fig tree, and they brought him to court and flogged him, not because that** punishment **was fitting** for him, as such conduct is not forbidden by the Torah, **but because the hour required it.** People had become remiss in matters of modesty; therefore, stringent measures had to be taken to rectify the situation.
-### Yeshu Hanotrzri (Jesus the Nazarene) who was executed on Erev Pesach
+### Yeshu Hanotrzri (Jesus the Nazarene) who was executed on Erev Pesach (and his disciples)
 
 **Sanhedrin 43a, 20-26:**
 
