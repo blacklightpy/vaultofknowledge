@@ -35,7 +35,7 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 > 
 > **MISHNA:** **Just as** there is a prohibition against **exploitation [_ona’a_] in buying and selling, so is there _ona’a_ in statements,** i.e., verbal mistreatment. The mishna proceeds to cite examples of verbal mistreatment. **One may not say to** a seller: **For how much** are you selling **this item, if he does not wish to purchase** it. He thereby upsets the seller when the deal fails to materialize. The mishna lists other examples: **If one is a penitent,** another **may not say to him: Remember your earlier deeds. If one is the child of converts,** another **may not say to him: Remember the deeds of your ancestors, as it is stated: “And a convert shall you neither mistreat, nor shall you oppress him”** (Exodus 22:20).
 
-**Talmud, Seder Nezikin, Bava Metzia, 59a:8 (Same Context):**
+**Talmud, Seder Nezikin, Bava Metzia, 59a:8 (Same Sugya):**
 
 > אָמַר רַבִּי אֲבָהוּ: שְׁלֹשָׁה אֵין הַפַּרְגּוֹד נִנְעָל בִּפְנֵיהֶם: אוֹנָאָה, וְגָזֵל, וַעֲבוֹדָה זָרָה. אוֹנָאָה, דִּכְתִיב: ״וּבְיָדוֹ אֲנָךְ״. גָּזֵל, דִּכְתִיב: ״חָמָס וָשֹׁד יִשָּׁמַע בָּהּ עַל פָּנַי תָּמִיד״. עֲבוֹדָה זָרָה, דִּכְתִיב: ״הָעָם הַמַּכְעִיסִים אוֹתִי עַל פָּנַי תָּמִיד וְגוֹ׳״.
 > 
@@ -43,7 +43,7 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 
 #### Discussion
 
-**Talmud, Seder Nezikin, Bava Metzia 59a:12 - 59b:5:**
+**Talmud, Seder Nezikin, Bava Metzia 59a:12 - 59b:5 (Same Sugya):**
 
 > תְּנַן הָתָם: חֲתָכוֹ חוּלְיוֹת, וְנָתַן חוֹל בֵּין חוּלְיָא לְחוּלְיָא – רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין.
 > 
@@ -71,7 +71,7 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 
 #### Aftermath
 
-**Talmud, Seder Nezikin, Bava Metzia 59b:6-11:**
+**Talmud, Seder Nezikin, Bava Metzia 59b:6-11 (Same Sugya):**
 
 > אָמְרוּ: אוֹתוֹ הַיּוֹם הֵבִיאוּ כׇּל טְהָרוֹת שֶׁטִּיהֵר רַבִּי אֱלִיעֶזֶר וּשְׂרָפוּם בָּאֵשׁ. וְנִמְנוּ עָלָיו וּבֵרְכוּהוּ, וְאָמְרוּ: מִי יֵלֵךְ וְיוֹדִיעוֹ? אֲמַר לָהֶם רַבִּי עֲקִיבָא: אֲנִי אֵלֵךְ, שֶׁמָּא יֵלֵךְ אָדָם שֶׁאֵינוֹ הָגוּן וְיוֹדִיעוֹ, וְנִמְצָא מַחְרִיב אֶת כָּל הָעוֹלָם כּוּלּוֹ.
 > 

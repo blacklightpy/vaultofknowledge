@@ -12,7 +12,7 @@ The [[Bat Kol]] favoured Hillel because Hillel is more humble.
 > 
 > [There are] seven things [characteristic] in a clod, and seven in a wise man: A wise man does not speak before one who is greater than he in wisdom, And does not break into his fellow’s speech; And is not hasty to answer; He asks what is relevant, and he answers to the point; And he speaks of the first [point] first, and of the last [point] last; And concerning that which he has not heard, he says: I have not heard; And he acknowledges the truth. And the reverse of these [are characteristic] in a clod.
 
-**Talmud, Seder Nezikin (only Mishnah), Pikrei Avot 5:17:**
+**Talmud, Seder Nezikin (only Mishnah), Pikrei Avot 5:17 (Same Sugya):**
 
 > כָּל מַחֲלֹקֶת שֶׁהִיא לְשֵׁם שָׁמַיִם, סוֹפָהּ לְהִתְקַיֵּם. וְשֶׁאֵינָהּ לְשֵׁם שָׁמַיִם, אֵין סוֹפָהּ לְהִתְקַיֵּם. אֵיזוֹ הִיא מַחֲלֹקֶת שֶׁהִיא לְשֵׁם שָׁמַיִם, זוֹ מַחֲלֹקֶת הִלֵּל וְשַׁמַּאי. וְשֶׁאֵינָהּ לְשֵׁם שָׁמַיִם, זוֹ מַחֲלֹקֶת קֹרַח וְכָל עֲדָתוֹ:
 > 

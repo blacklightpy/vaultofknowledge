@@ -19,7 +19,8 @@
 - He must commit the crime directly after the warning, or else a warning should be issued again.
 - It is because when you kill a person, you kill his entire descendants, and it is from this that it is derived that if you kill a soul, it's as though you killed an entire world, and if you saved a soul, you saved and entire world.
 - If all the witness testimonies are accurate, the person is informed that if he did not transgress, it is not necessary to fear their words, and is judged, and if there is grounds for acquittal, he is released. If not, he is incarcerated for a day.
-- 
+- That day, the judges eat little and drink no wine, and debate the topic throughout the night, and then in the morning, presents all their updated opinions.
+- All their rationales are recorded, and if he can be acquitted, he is acquitted, or else, he is immediately executed.
 
 > כֵּיצַד דָּנִין דִּינֵי נְפָשׁוֹת. כְּשֶׁיָּבוֹאוּ עֵדִים לְבֵית דִּין וְאוֹמְרִים רָאִינוּ פְּלוֹנִי זֶה שֶׁעָבַר עֲבֵרָה פְּלוֹנִית. אוֹמְרִין לָהֶן מַכִּירִין אַתֶּם אוֹתוֹ הִתְרֵיתֶם בּוֹ. אִם אָמְרוּ אֵין אָנוּ מַכִּירִין אוֹתוֹ אוֹ נִסְתַּפֵּק לָנוּ אוֹ שֶׁלֹּא הִתְרוּ בּוֹ הֲרֵי זֶה פָּטוּר:
 > 
@@ -60,4 +61,21 @@
 > The place where the court conducts the execution is outside the court and removed from it, as implied by Leviticus 24:14: "Take the blasphemer outside the camp...." It appears to me that it should be approximately 6 _mil_ , the distance between the court of Moses our teacher which was before the entrance of the Tent of Meeting and the extremities of the camp of the Jewish people.
 
 
-## D
+## Dealing with Serial Killers
+
+They are "indirectly" executed.
+
+## Cases of Executions
+
+### In the Miqra
+
+### In the Talmud
+
+**Sanhedrin 71a, 15:**
+
+> אִיבָּעֵית אֵימָא: רַבִּי שִׁמְעוֹן הִיא, דְּתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן: וְכִי מִפְּנֵי שֶׁאָכַל זֶה תַּרְטֵימָר בָּשָׂר וְשָׁתָה חֲצִי לוֹג יַיִן הָאִיטַלְקִי, אָבִיו וְאִמּוֹ מוֹצִיאִין אוֹתוֹ לְסׇקְלוֹ? אֶלָּא לֹא הָיָה וְלֹא עָתִיד לִהְיוֹת, וְלָמָּה נִכְתַּב? דְּרוֹשׁ וְקַבֵּל שָׂכָר. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיו וְיָשַׁבְתִּי עַל קִבְרוֹ.
+> 
+> **If you wish, say** instead that this _baraita_ **is** in accordance with the opinion of **Rabbi Shimon. As it is taught** in a _baraita_ that **Rabbi Shimon says: And is it** simply **due to** the fact **that** the boy **ate a _tarteimar_ of meat and drank a half-_log_ of Italian wine** that **his father and his mother shall take him out to stone him? Rather, there has never been** a stubborn and rebellious son **and there will never be** one **in the future. And why,** then, **was** the passage relating to a stubborn and rebellious son **written** in the Torah? So that **you may expound** upon new understandings of the Torah **and receive reward** for your learning. **Rabbi Yonatan says:** This is not so, as **I saw** one. I was once in a place where a stubborn and rebellious son was condemned to death, **and I** even **sat on his grave** after he was executed.
+
+**Sanhedrin 71a, 17:**
+
