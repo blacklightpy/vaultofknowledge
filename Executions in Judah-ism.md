@@ -259,7 +259,7 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 
 **Sanhderin 67a, 14-15:**
 
-ben Setada is thought to be Jesus, and Miriam who braided hairs sounds a lot like Mary Magdalene in Aramaic, which makes people see parallels. But the story doesn't really add up.
+ben Setada is thought to be Jesus, and in Aramaic, Miriam who braided womens' hair (Miriam megadla se'ar neshia) sounds a lot like Mary Magdalene, which makes people see parallels. But the story doesn't really add up.
 
 > וְכֵן עָשׂוּ לְבֶן סָטָדָא בְּלוֹד, וּתְלָאוּהוּ בְּעֶרֶב הַפֶּסַח.
 > 
@@ -309,6 +309,7 @@ ben Setada is thought to be Jesus, and Miriam who braided hairs sounds a lot lik
 > Onkelos **said to him: What is the punishment of that man,** a euphemism for Jesus himself, in the next world? Jesus **said to him:** He is punished **with boiling excrement. As the Master said: Anyone who mocks the words of the Sages will be sentenced to boiling excrement.** And this was his sin, as he mocked the words of the Sages. The Gemara comments: **Come** and **see the difference between the sinners of Israel and the prophets of the nations of the world.** As Balaam, who was a prophet, wished Israel harm, whereas Jesus the Nazarene, who was a Jewish sinner, sought their well-being.
 
 ### Mekallel at the end of Parshat Emor
+
 
 
 ### Mekosheish Etzin in Parshat Shelach
