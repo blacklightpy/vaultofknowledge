@@ -145,5 +145,8 @@ Jehoshaphat knew two Prophets won't speak in the same manner. That's why he aske
 > 
 > The Gemara asks: **Perhaps** Zedekiah, son of Chenaanah, **did not know this** statement **of Rabbi Yitzḥak,** and therefore should not have been held responsible? The Gemara answers: **Jehoshaphat,** king of Judea, **was there, and he said to them** that they were false prophets, **as it is written: “But Jehoshaphat said: Is there not here besides a prophet of the Lord,** that we might inquire of him?” (I Kings 22:7). Ahab **said to him: But aren’t there all these** prophets here? Why seek others? Jehoshaphat **said to** Ahab: **This is** the tradition that **I received from the house of the father of my father,** the house of David: A prophetic vision relating to **one** and the same **subject matter may appear to several prophets, but two prophets do not prophesy** employing **one** and the same **style** of expression. They are false prophets, as they employed the same language when stating their prophecy.
 
+### Case 3: 13 Principles of Faith by Maimonaides
 
+See The Sixth Principle: Prophecy, Lesson 19: Various Prophetic Terms and Experiences (Pages 204-215), here: https://books.google.co.cr/books?id=t4TclPFTzfQC&lpg=PP1&pg=PA199#v=onepage&q&f=false (13 Principles of Faith by Moses Maimonaides, Principles VI and VII, Pages 199-210)
 
+### Case 4: 

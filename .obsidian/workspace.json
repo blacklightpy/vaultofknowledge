@@ -628,13 +628,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holy Spirit.md",
+                "file": "Bat Kol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Holy Spirit"
+              "title": "Bat Kol"
             }
           },
           {
@@ -668,7 +668,7 @@
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -742,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Executions in Judah-ism.md",
+                "file": "Bat Kol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Executions in Judah-ism"
+              "title": "Backlinks for Bat Kol"
             }
           },
           {
@@ -804,13 +804,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Executions in Judah-ism.md",
+                "file": "Bat Kol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Executions in Judah-ism"
+              "title": "Outline of Bat Kol"
             }
           },
           {
@@ -875,13 +875,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "479cc22b3ae37845",
+  "active": "375f1d10ee89dfac",
   "lastOpenFiles": [
-    "On the prohibition of wearing stitched clothes in temples.md",
-    "Executions in Judah-ism.md",
     "Holy Spirit.md",
-    "Bat Kol.md",
     "World to Come.md",
+    "Executions in Judah-ism.md",
+    "On the prohibition of wearing stitched clothes in temples.md",
+    "Bat Kol.md",
     "Flow of Cash.md",
     "Reification.md",
     "The Map Is Not the Territory.md",
