@@ -20,8 +20,13 @@ This means Divine Voice. An example of its use is in resolving the dispute betwe
 
 ### Case 1: Oven of Akhnai
 
-The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This is to say that the meaning of the Torah is not to be uncovered by prophets, or even by the voice of God, but is to be interpreted by humans. Likewise, the Midrashic reading of Deuteronomy 17:11 is that God's will was revealed at Sinai its Grundnorm (basic norm), and he entrusted 
+The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This is to say that the meaning of the Torah is not to be uncovered by prophets, or even by the voice of God, but is to be interpreted by humans. Likewise, the Midrashic reading of Deuteronomy 17:11 is that God's will was revealed at Sinai its Grundnorm (basic norm), and he entrusted the interpretation of His will to the Sages.
 
+**Mishnah Kelim 5:10 (Referenced in the discussion below)**
+
+> חֲתָכוֹ חֻלְיוֹת וְנָתַן חֹל בֵּין חֻלְיָא לְחֻלְיָא, רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין. זֶה תַנּוּרוֹ שֶׁל עַכְנָאי. יוֹרוֹת הָעַרְבִיִּין שֶׁהוּא חוֹפֵר בָּאָרֶץ וְטָח בְּטִיט, אִם יָכוֹל הַטִּיחַ לַעֲמוֹד בִּפְנֵי עַצְמוֹ, טָמֵא. וְאִם לָאו, טָהוֹר. וְזֶה תַנּוּרוֹ שֶׁל בֶּן דִּינָאי:
+> 
+> If he cut the oven up into rings, and then he put sand between each pair of rings, Rabbi Eliezer says: it is clean. But the sages say: it is unclean. This is the oven of Akhnai. As regards Arabian vats, which are holes dug in the ground and plastered with clay, if the plastering can stand of itself it is susceptible to impurity; Otherwise it is not susceptible. This is the oven of Ben Dinai.
 #### Context
 
 **Talmud, Seder Nezikin, Bava Metzia, 58b:6:**
@@ -94,3 +99,4 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 > 
 > When she returned, **she found him** and saw **that he had lowered his head** in prayer. **She said to him: Arise, you** already **killed my brother. Meanwhile,** the sound of **a _shofar_ emerged from the house of Rabban Gamliel** to announce **that** the _Nasi_ **had died.** Rabbi Eliezer **said to her: From where did you know** that your brother would die? **She said to him: This is** the tradition that **I received from the house of the father of** my **father: All the gates** of Heaven are apt to be **locked, except for the gates** of prayer for victims **of** verbal **mistreatment.**
 
+### Case 2: 
