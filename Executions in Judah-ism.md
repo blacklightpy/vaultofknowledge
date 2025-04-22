@@ -257,13 +257,67 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 > 
 > Then **they brought Toda in** to stand trial. Toda **said** to the judges: **Shall Toda be executed?** But **isn’t it written: “A psalm of thanksgiving [_toda_]”** (Psalms 100:1)? **They said to him: Yes, Toda shall be executed, as it is written: “Whoever slaughters a thanks-offering [_toda_] honors Me”** (Psalms 50:23).
 
-### Mekallel at the end of Parshat Emor
+**Sanhderin 67a, 14-15:**
 
+ben Setada is thought to be Jesus, and Miriam who braided hairs sounds a lot like Mary Magdalene in Aramaic, which makes people see parallels. But the story doesn't really add up.
+
+> וְכֵן עָשׂוּ לְבֶן סָטָדָא בְּלוֹד, וּתְלָאוּהוּ בְּעֶרֶב הַפֶּסַח.
+> 
+> **And** the court **did the same to** an inciter named **ben Setada, from** the city of **Lod, and they hanged him on Passover eve.**
+> 
+> בֶּן סָטָדָא? בֶּן פַּנְדִּירָא הוּא! אָמַר רַב חִסְדָּא: בַּעַל סָטָדָא, בּוֹעֵל פַּנְדִּירָא. בַּעַל? פַּפּוּס בֶּן יְהוּדָה הוּא! אֶלָּא, אִמּוֹ סָטָדָא. אִמּוֹ? מִרְיָם מְגַדְּלָא נְשַׁיָּא הֲוַאי! כִּדְאָמְרִי בְּפוּמְבְּדִיתָא: ״סְטָת דָּא מִבַּעְלַהּ״.
+> 
+> The Gemara asks: Why did they call him **ben Setada,** when **he was the son of Pandeira? Rav Ḥisda says:** Perhaps his mother’s **husband,** who acted as his father, was named **Setada,** but his mother’s **paramour,** who fathered this _mamzer_, was named **Pandeira.** The Gemara challenges: But his mother’s **husband was Pappos ben Yehuda,** not Setada. **Rather,** perhaps **his mother** was named **Setada,** and he was named ben Setada after her. The Gemara challenges: But **his mother was Miriam, who braided women’s hair.** The Gemara explains: That is not a contradiction; Setada was merely a nickname, **as they say in Pumbedita: This one strayed [_setat da_] from her husband.**
+
+#### More References
+
+**Sanhedrin 107b, 8:**
+
+> תָּנוּ רַבָּנַן: לְעוֹלָם תְּהֵא שְׂמֹאל דּוֹחָה וְיָמִין מְקָרֶבֶת, לֹא כֶּאֱלִישָׁע שֶׁדְּחָפוֹ לְגֵחֲזִי בִּשְׁתֵּי יָדַיִם, וְלֹא כִּיהוֹשֻׁעַ בֶּן פְּרַחְיָה שֶׁדְּחָפוֹ לְיֵשׁוּ הַנּוֹצְרִי בִּשְׁתֵּי יָדַיִם.
+> 
+> **The Sages taught: Always have the left** hand **drive** sinners **away and the right draw** them **near,** so that the sinner will not totally despair of atonement. This is **unlike Elisha, who pushed away Gehazi with his two hands** and caused him to lose his share in the World-to-Come, **and unlike Yehoshua ben Peraḥya, who pushed away Jesus the Nazarene with his two hands.**
+> 
+
+**Sanhedrin 107b, 12-14:**
+
+> יְהוֹשֻׁעַ בֶּן פְּרַחְיָה מַאי הִיא? כִּדְקַטְלִינְהוּ יַנַּאי מַלְכָּא לְרַבָּנַן, אֲזַל יְהוֹשֻׁעַ בֶּן פְּרַחְיָה וְיֵשׁוּ לַאֲלֶכְּסַנְדְּרִיָּא שֶׁל מִצְרַיִם. כִּי הֲוָה שְׁלָמָא, שְׁלַח לֵיהּ שִׁמְעוֹן בֶּן שָׁטַח: מִינִּי יְרוּשָׁלַיִם עִיר הַקֹּדֶשׁ לִיכִי אָלֶכְּסַנְדְּרִיָּה שֶׁל מִצְרַיִם, אֲחוֹתִי: בַּעֲלִי שָׁרוּי בְּתוֹכֵךְ וְאָנֹכִי יוֹשֶׁבֶת שׁוֹמֵמָה.
+> 
+> § **What is** the incident involving **Yehoshua ben Peraḥya?** The Gemara relates: **When King Yannai was killing the Sages, Yehoshua ben Peraḥya and Jesus,** his student, **went to Alexandria of Egypt. When there was peace** between King Yannai and the Sages, **Shimon ben Shataḥ sent** a message **to** Yehoshua ben Peraḥya: **From me, Jerusalem, the holy city, to you, Alexandria of Egypt: My sister, my husband is located among you and I sit desolate.** The head of the Sages of Israel is out of the country and Jerusalem requires his return.
+> 
+> קָם, אֲתָא, וְאִתְרְמִי לֵיהּ הָהוּא אוּשְׁפִּיזָא. עֲבַדוּ לֵיהּ יְקָרָא טוּבָא. אֲמַר: כַּמָּה יָפָה אַכְסַנְיָא זוֹ! אֲמַר לֵיהּ: רַבִּי, עֵינֶיהָ טְרוּטוֹת. אֲמַר לֵיהּ: רָשָׁע! בְּכָךְ אַתָּה עוֹסֵק? אַפֵּיק אַרְבַּע מְאָה שִׁיפּוּרֵי וְשַׁמְּתֵיהּ.
+> 
+> Yehoshua ben Peraḥya understood the message, **arose, came, and happened** to arrive at **a certain inn** on the way to Jerusalem. **They treated him with great honor.** Yehoshua ben Peraḥya **said: How beautiful is this inn.** Jesus, his student, **said to him:** But **my teacher, the eyes of** the innkeeper’s wife **are narrow [_terutot_].** Yehoshua ben Peraḥya **said to him: Wicked one!** Do **you involve yourself with regard to that** matter, the appearance of a married woman? **He produced four hundred _shofarot_ and ostracized him.**
+> 
+> אֲתָא לְקַמֵּיהּ כַּמָּה זִימְנִין, אֲמַר לֵיהּ: קַבְּלָן! לָא הָוֵי קָא מַשְׁגַּח בֵּיהּ. יוֹמָא חַד הֲוָה קָא קָרֵי קְרִיאַת שְׁמַע, אֲתָא לְקַמֵּיהּ. סָבַר לְקַבּוֹלֵי, אַחְוִי לֵיהּ בִּידֵיהּ. הוּא סָבַר: מִידְחָא דָּחֵי לִי. אֲזַל זְקַף לְבֵינְתָּא וְהִשְׁתַּחֲוָה לָהּ. אֲמַר לֵיהּ: הֲדַר בָּךְ! אֲמַר לֵיהּ: כָּךְ מְקוּבְּלַנִי מִמְּךָ: כָּל הַחוֹטֵא וּמַחְטִיא אֶת הָרַבִּים אֵין מַסְפִּיקִין בְּיָדוֹ לַעֲשׂוֹת תְּשׁוּבָה. וְאָמַר מָר: יֵשׁוּ כִּישֵּׁף וְהֵסִית וְהִדִּיחַ אֶת יִשְׂרָאֵל.
+> 
+> Jesus **came before** Yehoshua ben Peraḥya **several times** and **said to him: Accept our,** i.e., my, repentance. Yehoshua ben Peraḥya **took no notice of him. One day** Yehoshua ben Peraḥya **was reciting _Shema_** and Jesus **came before him** with the same request. Yehoshua ben Peraḥya **intended to accept his** request, and **signaled him with his hand** to wait until he completed his prayer. Jesus did not understand the signal and **thought: He is driving me away. He went** and **stood a brick** upright to serve as an idol **and he bowed to it.** Yehoshua ben Peraḥya then **said to** Jesus: **Repent.** Jesus **said to him: This** is the tradition that **I received from you: Whoever sins and causes the masses to sin is not given the opportunity to repent. And the Master says: Jesus performed sorcery, incited** Jews to engage in idolatry, **and led Israel astray.** Had Yehoshua ben Peraḥya not caused him to despair of atonement, he would not have taken the path of evil.
+
+**Shabbat 104, 5:**
+
+> הַמְסָרֵט עַל בְּשָׂרוֹ. תַּנְיָא, אָמַר לָהֶן רַבִּי אֱלִיעֶזֶר לַחֲכָמִים: וַהֲלֹא בֶּן סָטָדָא הוֹצִיא כְּשָׁפִים מִמִּצְרַיִם בִּסְרִיטָה שֶׁעַל בְּשָׂרוֹ? אָמְרוּ לוֹ: שׁוֹטֶה הָיָה, וְאֵין מְבִיאִין רְאָיָה מִן הַשּׁוֹטִים. ״בֶּן סָטָדָא״? בֶּן פַּנְדִּירָא הוּא! אָמַר רַב חִסְדָּא: בַּעַל ״סָטָדָא״, בּוֹעֵל ״פַּנְדִּירָא״. בַּעַל פַּפּוּס בֶּן יְהוּדָה הוּא? אֶלָּא אִמּוֹ ״סָטָדָא״. אִמּוֹ מִרְיָם מְגַדְּלָא שְׂעַר נְשַׁיָּא הֲוַאי? אֶלָּא כִּדְאָמְרִי בְּפוּמְבְּדִיתָא: סְטָת דָּא מִבַּעְלַהּ.
+> 
+> We learned in the mishna: If **one** unwittingly **scratches** letters **on his flesh** on Shabbat, Rabbi Eliezer deems him liable to bring a sin-offering and the Sages deem him exempt. **It was taught** in a _baraita_ that **Rabbi Eliezer said to the Rabbis: Didn’t** the infamous **ben Stada take** magic **spells out of Egypt in a scratch on his flesh? They said to him: He was a fool, and you cannot cite proof from a fool.** That is not the way that most people write. Incidentally, the Gemara asks: Why did they call him **ben Stada,** when **he was the son of Pandeira? Rav Ḥisda said:** His mother’s **husband,** who acted as his father, was named **Stada,** but the **one who had relations** with his mother and fathered him was named **Pandeira.** The Gemara asks: Wasn’t his mother’s **husband Pappos ben Yehuda? Rather, his mother** was named **Stada** and he was named ben Stada after her. The Gemara asks: But wasn’t **his mother Miriam, who braided women’s hair?** The Gemara explains: That is not a contradiction. **Rather,** Stada was merely a nickname, **as they say in Pumbedita: This** one **strayed [_setat da_] from her husband.**
+
+**Gittin 57a, 3-4:**
+
+> אֲזַל אַסְּקֵיהּ בִּנְגִידָא לְיֵשׁוּ הַנּוֹצְרִי, אֲמַר לֵיהּ: מַאן חֲשִׁיב בְּהָהוּא עָלְמָא? אֲמַר לֵיהּ: יִשְׂרָאֵל. מַהוּ לְאִדַּבּוֹקֵי בְּהוּ? אֲמַר לֵיהּ: טוֹבָתָם דְּרוֹשׁ, רָעָתָם לֹא תִּדְרוֹשׁ, כׇּל הַנּוֹגֵעַ בָּהֶן כְּאִילּוּ נוֹגֵעַ בְּבָבַת עֵינוֹ.
+> 
+> Onkelos then **went** and **raised Jesus the Nazarene** from the grave **through necromancy.** Onkelos **said to him: Who is** most **important in that world** where you are now? Jesus **said to him: The Jewish people.** Onkelos asked him: **Should I** then **attach** myself **to them** in this world? Jesus **said to him: Their welfare you shall seek, their misfortune you shall not seek,** for **anyone who touches them is** regarded **as if he were touching the apple of his eye** (see Zechariah 2:12).
+> 
+> אֲמַר לֵיהּ: דִּינֵיהּ דְּהָהוּא גַּבְרָא בְּמַאי? אֲמַר לֵיהּ: בְּצוֹאָה רוֹתַחַת. דְּאָמַר מָר: כׇּל הַמַּלְעִיג עַל דִּבְרֵי חֲכָמִים נִידּוֹן בְּצוֹאָה רוֹתַחַת. תָּא חֲזִי מָה בֵּין פּוֹשְׁעֵי יִשְׂרָאֵל לִנְבִיאֵי אוּמּוֹת הָעוֹלָם.
+> 
+> Onkelos **said to him: What is the punishment of that man,** a euphemism for Jesus himself, in the next world? Jesus **said to him:** He is punished **with boiling excrement. As the Master said: Anyone who mocks the words of the Sages will be sentenced to boiling excrement.** And this was his sin, as he mocked the words of the Sages. The Gemara comments: **Come** and **see the difference between the sinners of Israel and the prophets of the nations of the world.** As Balaam, who was a prophet, wished Israel harm, whereas Jesus the Nazarene, who was a Jewish sinner, sought their well-being.
+
+### Mekallel at the end of Parshat Emor
 
 
 ### Mekosheish Etzin in Parshat Shelach
 
+
+
 ### A father and a son are executed for sleeping with a betrothed young woman on Yom Kippur
+
+
 
 ### Execution of a rebellious son / ben sorer u'moreh
 
