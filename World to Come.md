@@ -6,7 +6,7 @@
 
 This means that sinners also have a part in the World-to-Come as long as their sin is not too grave.
 
-**Talmud, Seder Nezikin, Sanhedrin 90a:15:**
+**Talmud, Seder Nezikin, Sanhedrin 90a:15** (right reference, quoting Miqra):
 
 > **הֲדַרַן עֲלָךְ אֵלּוּ הֵן הַנֶּחְנָקִין**
 > 
