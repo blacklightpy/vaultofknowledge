@@ -2,7 +2,8 @@
 
 There are references to the Spirit of God.
 
-- Ruach HaKodesh (רוח הקודש): The Holy Spirit
+- Ruach HaKodesh (רוח הקודש): Holy Spirit
+- Ruach Elohim: Spirit of God
 
 **Word Gender:**
 
@@ -10,7 +11,26 @@ Ruach (Spirit) is a feminine word. It is used alongside Shekinah (Dwelling / Pre
 
 **Appearences in the Bible:**
 
+Ruach HaKodesh:
 
+- Chapter 63 of the Isaiah refers twice to "His holy spirit" (ruach kodsho) in successive verses.
+- Psalm 51 refers to "Your holy spirit" (ruach kodshecha)
+- Psalm 51 also contains a triple parallelism between different types of "spirit":
+
+> Fashion a pure heart for me, O God; create in me a steadfast spirit (רוּחַ נָכֹון‎). Do not cast me out of Your presence, or take Your holy spirit (רוּחַ קָדְשְׁךָ‎) away from me. Let me again rejoice in Your help; let a vigorous spirit (רוּחַ נְדִיבָה‎) sustain me.
+
+Ruach Elohim:
+
+- Genesis 1:2: "a wind from God sweeping over the water" 
+- 1 Samuel 16:13: "and the spirit of the LORD gripped David from that day on."
+- Psalm 143:10: "Let Your gracious spirit lead me on level ground."
+- Isaiah 42:1: "Behold My servant, I will support him, My chosen one, whom My soul desires; I have placed My spirit upon him, he shall promulgate justice to the nations."
+- Isaiah 44:3: "So will I pour My spirit on your offspring, My blessing upon your posterity."
+- Joel 2:28: "I will pour out My spirit on all flesh; Your sons and daughters shall prophesy."
+
+More references: https://www.hebrew4christians.com/Names_of_G-d/Spirit_of_God/spirit_of_god.html
+
+With the death of the last three prophets (Haggai, Zechariah, and Malachi), the Holy Spirit ceased to manifest itself in Israel, and only the [[Bat Kol]] remained available to the sages.
 
 **From Rabeinu Bachye's commentary on Devarim 33:8, 2:**
 
