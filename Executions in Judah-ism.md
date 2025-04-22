@@ -19,8 +19,8 @@
 - He must commit the crime directly after the warning, or else a warning should be issued again.
 - It is because when you kill a person, you kill his entire descendants, and it is from this that it is derived that if you kill a soul, it's as though you killed an entire world, and if you saved a soul, you saved and entire world.
 - If all the witness testimonies are accurate, the person is informed that if he did not transgress, it is not necessary to fear their words, and is judged, and if there is grounds for acquittal, he is released. If not, he is incarcerated for a day.
-- That day, the judges eat little and drink no wine, and debate the topic throughout the night, and then in the morning, presents all their updated opinions.
-- All their rationales are recorded, and if he can be acquitted, he is acquitted, or else, he is immediately executed.
+- That day, the judges eat little and drink no wine, and debate the topic throughout the night, and then in the morning, presents all their updated opinions in the Beis Din (Rabbinical Court).
+- All their rationales are recorded, and it is seen in the "drisha v'chakira" at the Beis Din (Rabbinical Court) if he can be acquitted, he is acquitted, or else, he is immediately executed.
 
 > כֵּיצַד דָּנִין דִּינֵי נְפָשׁוֹת. כְּשֶׁיָּבוֹאוּ עֵדִים לְבֵית דִּין וְאוֹמְרִים רָאִינוּ פְּלוֹנִי זֶה שֶׁעָבַר עֲבֵרָה פְּלוֹנִית. אוֹמְרִין לָהֶן מַכִּירִין אַתֶּם אוֹתוֹ הִתְרֵיתֶם בּוֹ. אִם אָמְרוּ אֵין אָנוּ מַכִּירִין אוֹתוֹ אוֹ נִסְתַּפֵּק לָנוּ אוֹ שֶׁלֹּא הִתְרוּ בּוֹ הֲרֵי זֶה פָּטוּר:
 > 
@@ -60,7 +60,7 @@
 > 
 > The place where the court conducts the execution is outside the court and removed from it, as implied by Leviticus 24:14: "Take the blasphemer outside the camp...." It appears to me that it should be approximately 6 _mil_ , the distance between the court of Moses our teacher which was before the entrance of the Tent of Meeting and the extremities of the camp of the Jewish people.
 
-**Mishneh Torah by Maimonaides, Testimony, Chapter 4, 1:**
+**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Eidus (Testimony), Chapter 4, 1:**
 
 > עֵדֵי נְפָשׁוֹת צְרִיכִין שֶׁיִּהְיוּ שְׁנֵיהֶם רוֹאִים אֶת הָעוֹשֶׂה עֲבֵרָה כְּאֶחָד. וּצְרִיכִין לְהָעִיד כְּאֶחָד וּבְבֵית דִּין אֶחָד. אֲבָל דִּינֵי מָמוֹנוֹת אֵין צְרִיכִין לְכָךְ. כֵּיצַד. הָיָה אֶחָד רוֹאֵהוּ מֵחַלּוֹן זֶה כְּשֶׁעָבַר הָעֲבֵרָה וְהָעֵד הָאַחֵר רוֹאֵהוּ מֵחַלּוֹן אַחֵר. אִם הָיוּ שְׁנֵי הָעֵדִים רוֹאִין זֶה אֶת זֶה מִצְטָרְפִין וְאִם לָאו אֵין מִצְטָרְפִין. הָיָה זֶה הַמַּתְרֶה בּוֹ רוֹאֶה הָעֵדִים וְהָעֵדִים רוֹאִין אוֹתוֹ אַף עַל פִּי שֶׁאֵין רוֹאִין זֶה אֶת זֶה הַמַּתְרֶה מְצָרְפָן. הָיוּ שְׁנֵי הָעֵדִים בְּבַיִת אֶחָד וְהוֹצִיא אֶחָד מֵהֶן רֹאשׁוֹ מִן הַחַלּוֹן. וְרָאָהוּ זֶה שֶׁעוֹשֶׂה מְלָאכָה בְּשַׁבָּת וְאֶחָד מַתְרֶה בּוֹ. וְהִכְנִיס רֹאשׁוֹ וְחָזַר הָעֵד הַשֵּׁנִי וְהוֹצִיא רֹאשׁוֹ מֵאוֹתוֹ הַחַלּוֹן וְרָאָהוּ. אֵין מִצְטָרְפִין עַד שֶׁיִּרְאוּ שְׁנֵיהֶם כְּאֶחָד. הָיוּ שְׁנֵי עֵדִים רוֹאִין אוֹתוֹ מֵחַלּוֹן זֶה וּשְׁנֵי עֵדִים רוֹאִין אוֹתוֹ מֵחַלּוֹן אַחֵר וְאֶחָד מַתְרֶה בּוֹ בָּאֶמְצַע. בִּזְמַן שֶׁמִּקְצָתָן רוֹאִין אֵלּוּ אֶת אֵלּוּ הֲרֵי זוֹ עֵדוּת אַחַת וְאִם לֹא הָיוּ רוֹאִין אֵלּוּ אֶת אֵלּוּ וְלֹא צֵרֵף אוֹתָן הַמַּתְרֶה הֲרֵי אֵלּוּ שְׁתֵּי עֵדוּיוֹת. לְפִיכָךְ אִם נִמְצֵאת כַּת אַחַת מֵהֶן זוֹמְמִין הוּא וְהֵן נֶהֱרָגִין שֶׁהֲרֵי הוּא נֶהֱרָג בְּעֵדוּת הַכַּת הַשְּׁנִיָּה:
 > 
@@ -73,36 +73,37 @@
 > The following laws apply when two witnesses see the transgressor from one window, two other witnesses see him from another window, and there is a person who gives a warning in between. If some of them see each other, they are considered as one group of witnesses. If they do not see each other and the person giving the warning does not include them together, they are considered as two groups of witnesses. Therefore if one group are discovered to be _zomamim_, the transgressor and the witnesses are executed. For the transgressor is executed on the basis of the testimony of the second group of witnesses.
 ## Dealing with Serial Killers
 
-They are "indirectly" executed.
+They are the ones who are known to be killers, but there are no legally valid witnesses, although the truth is They are "indirectly" executed.
 
+**Sanhedrin 81b, 1-4:**
 
-In order for a person to get the death penalty, they need:
+He is put in a Kippah (small chamber) and is fed sparing bread and scant water until his intestines explode.
 
-- **1)** Two witnesses to explicitly warn the person the act in question violates the Torah and the punishment it carries (Rambam [Hilchos Sanhedrin 12:2](https://www.sefaria.org/Mishneh_Torah%2C_The_Sanhedrin_and_the_Penalties_within_their_Jurisdiction.12.2?lang=bi&with=all&lang2=en))
-- **2)** The action has to be committed "_toch k'dai dibbor_"/ ie a few seconds (ibid)
-- **3)** Two witnesses have to see the crime being committed (Rambam [Hilchos Eidus 4:1](https://www.sefaria.org/Mishneh_Torah%2C_Testimony.4.1?lang=bi&with=Sanhedrin&lang2=he))
-
-... and all of this is BEFORE the extensive _drisha v'chakira_ the witnesses will undergo in Beis Din.
-
-Due to all these technicalities and logistics, it makes it absurdly complicated to satify all these conditions and administer the death penalty.
-
-
-We've established that due to legalities/technicalities it's incredibly difficult to be administer the death penalty, but **what about a person who's a serial killer**-- who's shrewd, makes sure there are no witnesses for his killings etc; would the Sanhedrin **really** allow a person like that to freely roam around??
-
-
-The Talmud in [Sanhedrin 81b](https://www.sefaria.org/Sanhedrin.81b.13-16?lang=bi) tells us about the concept of a "_kippah_"- a small chamber where they would bring such a person.
-
-> מתני׳ ההורג נפש שלא בעדים מכניסין אותו ל**כיפה** ומאכילין אותו (ישעיהו ל, כ) לחם צר ומים לחץ:
+> **מַתְנִי׳** הַהוֹרֵג נֶפֶשׁ שֶׁלֹּא בְּעֵדִים, מַכְנִיסִין אוֹתוֹ לַכִּיפָּה וּמַאֲכִילִין אוֹתוֹ לֶחֶם צָר וּמַיִם לָחַץ.
 > 
-> MISHNA: one who kills a person not in the presence of witnesses [and it is impossible to judge him in court], the court places him into a **vaulted** (ie tiny) **chamber** and feeds him sparing bread and scant water (see Isaiah 30:20).
-
-The Rambam ([Hilchos Rotzeach 4:8](https://www.sefaria.org/Mishneh_Torah%2C_Murderer_and_the_Preservation_of_Life.4.8?lang=bi)) codifies what would happen:
-
-> הַהוֹרֵג נְפָשׁוֹת וְלֹא הָיוּ עֵדִים רוֹאִין אוֹתוֹ כְּאַחַת אֶלָּא רָאָהוּ הָאֶחָד אַחַר הָאֶחָד אוֹ שֶׁהָרַג בִּפְנֵי שְׁנֵי עֵדִים בְּלֹא הַתְרָאָה אוֹ שֶׁהֻכְחֲשׁוּ הָעֵדִים בִּבְדִיקוֹת וְלֹא הֻכְחֲשׁוּ בַּחֲקִירוֹת. **כָּל אֵלּוּ הָרַצְחָנִים כּוֹנְסִין אוֹתָן לְכִפָּה וּמַאֲכִילִין אוֹתָן לֶחֶם צַר וּמַיִם לַחַץ עַד שֶׁיָּצֵרוּ מֵעֵיהֶן וְאַחַר כָּךְ מַאֲכִילִין אוֹתָן שְׂעוֹרִים עַד שֶׁתִּבָּקַע כְּרֵסָם מִכֹּבֶד הַחלִי:**
+> **MISHNA:** With regard to **one who kills a person not in** the presence of **witnesses** and it is impossible to judge him in court, the court **places him into a vaulted chamber and feeds him sparing bread and scant water** (see Isaiah 30:20).
 > 
-> Someone who commits a murder and the witnesses didn't the see the testimony as one, or if he killed in front of two witnesses but he wasn't warned, or the witnesses were "weakened" via the examining questions but not the investigation. **All of these murderers they would bring to a _kippah_ and feed him a small amount bread and scant water until his intestines contract and then the court feeds him barley that expands in his innards until his stomach explodes.**
+> **גְּמָ׳** מְנָא יָדְעִינַן? אָמַר רַב: בְּעֵדוּת מְיוּחֶדֶת. וּשְׁמוּאֵל אָמַר: שֶׁלֹּא בְּהַתְרָאָה.
+> 
+> **GEMARA:** The Gemara asks: If there are no witnesses, **from where do we know** that he killed a person and is liable to be punished? **Rav says:** The _tanna_ of the mishna is speaking **about** a case of **disjointed testimony,** where the witnesses were not together and they witnessed the murder from different vantage points. The court cannot convict a person for committing a murder based on that type of testimony even though it is clear that the witnesses are telling the truth. **And Shmuel says:** The _tanna_ of the mishna is speaking about a case **where** the witnesses testified that they witnessed the murder but there was **no forewarning,** and therefore the court cannot convict him.
+> 
+> וְרַב חִסְדָּא אָמַר אֲבִימִי: כְּגוֹן דְּאִיתַּכְחוּשׁ בִּבְדִיקוֹת וְלָא אִיתַּכְחוּשׁ בַּחֲקִירוֹת, כְּדִתְנַן: מַעֲשֶׂה וּבָדַק בֶּן זַכַּאי בְּעוּקְצֵי תְאֵנִים.
+> 
+> **And Rav Ḥisda** says that **Avimi says:** The _tanna_ of the mishna is speaking of a case **where** the witnesses **contradicted** each other **in the examinations** that involve matters peripheral to the murder **but did not contradict** each other **in the interrogations,** which are integral to the murder, i.e., time and place. Therefore, it is clear to the court that the accused is guilty and consequently they place him in the vaulted chamber. **As we learned** in a mishna (40a): There was **an incident and ben Zakkai examined** the witnesses **with regard to the stems of figs** on the fig tree beneath which the murder took place. Rabban Yoḥanan ben Zakkai questioned the witnesses about the thickness of the stems in order to determine whether they would contradict each other in this peripheral detail in order to save the accused (see 41a).
+> 
+> וּמַאֲכִילִין אוֹתוֹ לֶחֶם צָר וּמַיִם לָחַץ. מַאי שְׁנָא הָכָא דְּקָתָנֵי: נוֹתְנִין לוֹ לֶחֶם צָר וּמַיִם לָחַץ, וּמַאי שְׁנָא הָתָם דְּקָתָנֵי: מַאֲכִילִין אוֹתוֹ שְׂעוֹרִין עַד שֶׁכְּרֵיסוֹ מִתְבַּקַּעַת? אָמַר רַב שֵׁשֶׁת: אִידֵּי וְאִידֵּי נוֹתְנִין לוֹ לֶחֶם צָר וּמַיִם לָחַץ עַד שֶׁיּוּקְטַן מַעְיָינוֹ, וַהֲדַר מַאֲכִילִין אוֹתוֹ שְׂעוֹרִין עַד שֶׁכְּרֵיסוֹ מִתְבַּקַּעַת.
+> 
+> The mishna teaches: **And feeds him sparing bread and scant water.** The Gemara asks: **What is different** in the mishna **here that** the _tanna_ **teaches** that the court **gives him sparing bread and scant water** in the vaulted chamber, **and what is different** in the previous mishna **there that** the _tanna_ **teaches** that the court **feeds him barley** bread **until his belly ruptures;** are these two different punishments? **Rav Sheshet says:** Both **this and that** are one punishment; first, the court **gives him sparing bread and scant water until his intestines contract** due to his starvation diet, **and then** the court **feeds him barley** bread that expands in his innards **until his belly ruptures.**
 
-**Bottom Line:** Beis Din would still technically kill such a person, but they would do so "indirectly".
+**Mishneh Torah by Maimonaides, Sefer Nezikim, Rotzeach (Murder and The Preservation of Life), 4, 8:**
+
+It codifies the above law.
+
+> הַהוֹרֵג נְפָשׁוֹת וְלֹא הָיוּ עֵדִים רוֹאִין אוֹתוֹ כְּאַחַת אֶלָּא רָאָהוּ הָאֶחָד אַחַר הָאֶחָד אוֹ שֶׁהָרַג בִּפְנֵי שְׁנֵי עֵדִים בְּלֹא הַתְרָאָה אוֹ שֶׁהֻכְחֲשׁוּ הָעֵדִים בִּבְדִיקוֹת וְלֹא הֻכְחֲשׁוּ בַּחֲקִירוֹת. כָּל אֵלּוּ הָרַצְחָנִים כּוֹנְסִין אוֹתָן לְכִפָּה וּמַאֲכִילִין אוֹתָן לֶחֶם צַר וּמַיִם לַחַץ עַד שֶׁיָּצֵרוּ מֵעֵיהֶן וְאַחַר כָּךְ מַאֲכִילִין אוֹתָן שְׂעוֹרִים עַד שֶׁתִּבָּקַע כְּרֵסָם מִכֹּבֶד הַחלִי:
+> 
+> The following laws apply when a person kills people, but the witnesses did not observe his act together - instead one saw him after the other did: a person killed in the presence of witnesses, but a warning was not given; or the witnesses to a murder contradicted each other with regard to the fine points of the testimony, but not with regard to the fundamental questions.  
+> 
+> All those murderers should be forced to enter a _kipah_.There they are fed parched bread and small amounts of water until their digestive tract contracts. Then they are fed barley until their bellies burst because of the extent of the sickness and they die.
 
 ## Cases of Executions
 
