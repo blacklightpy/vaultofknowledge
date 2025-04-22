@@ -13,7 +13,7 @@
 
 ## The Conditions of Execution
 
-**Mishneh Torah, Sefer Shoftim (Judges), Sanhedrin, Chapter 12, 1-3:**
+**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Sanhedrin, Chapter 12, 1-3:**
 
 - A person has to first be warned of the punishment, whether he is Torah scholar or a common person, and he has to acknowledge it, and not just say that he knows there is a punishment. (Even if he says: "I know," he is not liable for punishment until he accepts death upon himself, saying: "It is for this reason that I am doing this." In such a situation, he is executed.)
 - He must commit the crime directly after the warning, or else a warning should be issued again.
@@ -60,22 +60,80 @@
 > 
 > The place where the court conducts the execution is outside the court and removed from it, as implied by Leviticus 24:14: "Take the blasphemer outside the camp...." It appears to me that it should be approximately 6 _mil_ , the distance between the court of Moses our teacher which was before the entrance of the Tent of Meeting and the extremities of the camp of the Jewish people.
 
+**Mishneh Torah by Maimonaides, Testimony, Chapter 4, 1:**
 
+> עֵדֵי נְפָשׁוֹת צְרִיכִין שֶׁיִּהְיוּ שְׁנֵיהֶם רוֹאִים אֶת הָעוֹשֶׂה עֲבֵרָה כְּאֶחָד. וּצְרִיכִין לְהָעִיד כְּאֶחָד וּבְבֵית דִּין אֶחָד. אֲבָל דִּינֵי מָמוֹנוֹת אֵין צְרִיכִין לְכָךְ. כֵּיצַד. הָיָה אֶחָד רוֹאֵהוּ מֵחַלּוֹן זֶה כְּשֶׁעָבַר הָעֲבֵרָה וְהָעֵד הָאַחֵר רוֹאֵהוּ מֵחַלּוֹן אַחֵר. אִם הָיוּ שְׁנֵי הָעֵדִים רוֹאִין זֶה אֶת זֶה מִצְטָרְפִין וְאִם לָאו אֵין מִצְטָרְפִין. הָיָה זֶה הַמַּתְרֶה בּוֹ רוֹאֶה הָעֵדִים וְהָעֵדִים רוֹאִין אוֹתוֹ אַף עַל פִּי שֶׁאֵין רוֹאִין זֶה אֶת זֶה הַמַּתְרֶה מְצָרְפָן. הָיוּ שְׁנֵי הָעֵדִים בְּבַיִת אֶחָד וְהוֹצִיא אֶחָד מֵהֶן רֹאשׁוֹ מִן הַחַלּוֹן. וְרָאָהוּ זֶה שֶׁעוֹשֶׂה מְלָאכָה בְּשַׁבָּת וְאֶחָד מַתְרֶה בּוֹ. וְהִכְנִיס רֹאשׁוֹ וְחָזַר הָעֵד הַשֵּׁנִי וְהוֹצִיא רֹאשׁוֹ מֵאוֹתוֹ הַחַלּוֹן וְרָאָהוּ. אֵין מִצְטָרְפִין עַד שֶׁיִּרְאוּ שְׁנֵיהֶם כְּאֶחָד. הָיוּ שְׁנֵי עֵדִים רוֹאִין אוֹתוֹ מֵחַלּוֹן זֶה וּשְׁנֵי עֵדִים רוֹאִין אוֹתוֹ מֵחַלּוֹן אַחֵר וְאֶחָד מַתְרֶה בּוֹ בָּאֶמְצַע. בִּזְמַן שֶׁמִּקְצָתָן רוֹאִין אֵלּוּ אֶת אֵלּוּ הֲרֵי זוֹ עֵדוּת אַחַת וְאִם לֹא הָיוּ רוֹאִין אֵלּוּ אֶת אֵלּוּ וְלֹא צֵרֵף אוֹתָן הַמַּתְרֶה הֲרֵי אֵלּוּ שְׁתֵּי עֵדוּיוֹת. לְפִיכָךְ אִם נִמְצֵאת כַּת אַחַת מֵהֶן זוֹמְמִין הוּא וְהֵן נֶהֱרָגִין שֶׁהֲרֵי הוּא נֶהֱרָג בְּעֵדוּת הַכַּת הַשְּׁנִיָּה:
+> 
+> Both witnesses in cases involving capital punishment must see the person committing the transgression at the same time. They must deliver their testimony together, in the same court. These requirements do not apply with regard to cases involving financial matters.  
+> 
+> What is implied? If while looking from one window, a witness saw the person commit the transgression and the other witness saw him from the other window, their testimonies can be combined if they see each other. If they cannot see each other, their testimonies cannot be combined. If a person who administered the warning sees the witnesses and the witnesses see him, because of the person administering the warning, their testimony is combined even though they do not see each other.  
+> 
+> If they do not see the transgression at the same time, their testimony is not combined. For example, the two witnesses were in one house and one stuck his head out of the window and saw a person perform a forbidden labor on the Sabbath and another person issue a warning. He then thrust in his head and the other witness stuck his head out of the same window and saw the person commit the transgression. Their testimonies cannot be combined unless they both see the transgression at the same time.  
+> 
+> The following laws apply when two witnesses see the transgressor from one window, two other witnesses see him from another window, and there is a person who gives a warning in between. If some of them see each other, they are considered as one group of witnesses. If they do not see each other and the person giving the warning does not include them together, they are considered as two groups of witnesses. Therefore if one group are discovered to be _zomamim_, the transgressor and the witnesses are executed. For the transgressor is executed on the basis of the testimony of the second group of witnesses.
 ## Dealing with Serial Killers
 
 They are "indirectly" executed.
+
+
+In order for a person to get the death penalty, they need:
+
+- **1)** Two witnesses to explicitly warn the person the act in question violates the Torah and the punishment it carries (Rambam [Hilchos Sanhedrin 12:2](https://www.sefaria.org/Mishneh_Torah%2C_The_Sanhedrin_and_the_Penalties_within_their_Jurisdiction.12.2?lang=bi&with=all&lang2=en))
+- **2)** The action has to be committed "_toch k'dai dibbor_"/ ie a few seconds (ibid)
+- **3)** Two witnesses have to see the crime being committed (Rambam [Hilchos Eidus 4:1](https://www.sefaria.org/Mishneh_Torah%2C_Testimony.4.1?lang=bi&with=Sanhedrin&lang2=he))
+
+... and all of this is BEFORE the extensive _drisha v'chakira_ the witnesses will undergo in Beis Din.
+
+Due to all these technicalities and logistics, it makes it absurdly complicated to satify all these conditions and administer the death penalty.
+
+
+We've established that due to legalities/technicalities it's incredibly difficult to be administer the death penalty, but **what about a person who's a serial killer**-- who's shrewd, makes sure there are no witnesses for his killings etc; would the Sanhedrin **really** allow a person like that to freely roam around??
+
+
+The Talmud in [Sanhedrin 81b](https://www.sefaria.org/Sanhedrin.81b.13-16?lang=bi) tells us about the concept of a "_kippah_"- a small chamber where they would bring such a person.
+
+> מתני׳ ההורג נפש שלא בעדים מכניסין אותו ל**כיפה** ומאכילין אותו (ישעיהו ל, כ) לחם צר ומים לחץ:
+> 
+> MISHNA: one who kills a person not in the presence of witnesses [and it is impossible to judge him in court], the court places him into a **vaulted** (ie tiny) **chamber** and feeds him sparing bread and scant water (see Isaiah 30:20).
+
+The Rambam ([Hilchos Rotzeach 4:8](https://www.sefaria.org/Mishneh_Torah%2C_Murderer_and_the_Preservation_of_Life.4.8?lang=bi)) codifies what would happen:
+
+> הַהוֹרֵג נְפָשׁוֹת וְלֹא הָיוּ עֵדִים רוֹאִין אוֹתוֹ כְּאַחַת אֶלָּא רָאָהוּ הָאֶחָד אַחַר הָאֶחָד אוֹ שֶׁהָרַג בִּפְנֵי שְׁנֵי עֵדִים בְּלֹא הַתְרָאָה אוֹ שֶׁהֻכְחֲשׁוּ הָעֵדִים בִּבְדִיקוֹת וְלֹא הֻכְחֲשׁוּ בַּחֲקִירוֹת. **כָּל אֵלּוּ הָרַצְחָנִים כּוֹנְסִין אוֹתָן לְכִפָּה וּמַאֲכִילִין אוֹתָן לֶחֶם צַר וּמַיִם לַחַץ עַד שֶׁיָּצֵרוּ מֵעֵיהֶן וְאַחַר כָּךְ מַאֲכִילִין אוֹתָן שְׂעוֹרִים עַד שֶׁתִּבָּקַע כְּרֵסָם מִכֹּבֶד הַחלִי:**
+> 
+> Someone who commits a murder and the witnesses didn't the see the testimony as one, or if he killed in front of two witnesses but he wasn't warned, or the witnesses were "weakened" via the examining questions but not the investigation. **All of these murderers they would bring to a _kippah_ and feed him a small amount bread and scant water until his intestines contract and then the court feeds him barley that expands in his innards until his stomach explodes.**
+
+**Bottom Line:** Beis Din would still technically kill such a person, but they would do so "indirectly".
 
 ## Cases of Executions
 
 ### In the Miqra
 
+- Leviticus 24:23 (Moshe's Court executing the Blasphemer)
+- Numbers 15:36 (Moshe's Court executing the Shabbos violator)
+- Joshua 7:25 (Yehoshua's Court executing Achan for taking from the spoils of Jericho)
+- 1 Kings 21:13 (Nabouth being executed by the court of Jezreel on false charges)
+
 ### In the Talmud
 
-**Sanhedrin 71a, 15:**
+- Yehudah ben Tabbai and his court executing a false witness whose testimony was impeached _(huzam)_ ([Chagigah 16b](https://www.sefaria.org/Chagigah.16b.3-7?lang=bi) and [Makkos 5b](https://www.sefaria.org/Makkot.5b.17-20?lang=bi)) (Mistake)
+- Shimon ben Shatach and his court executing eighty women for practicing witchcraft ([Sanhedrin 45b](https://www.sefaria.org/Sanhedrin.45b.20-21?lang=bi&with=all&lang2=en), and more details in [Rashi ibid. 45b](https://www.sefaria.org/Sanhedrin.45b.21?lang=bi&p2=Rashi_on_Sanhedrin.45b.21.1&lang2=bi), from Yerushalmi Chagigah 2:2 and Sanhedrin 6:6) (Mass kill)
+- ...and then having his own son convicted (based on false testimony) and executed ([Rashi ibid. 44b](https://www.sefaria.org/Sanhedrin.44b.13?lang=bi&p2=Rashi_on_Sanhedrin.44b.13.3&lang2=bi), from Yerushalmi Sanhedrin 6:3) (own son)
+- Someone being executed "in the days of the Greeks" for riding a horse on Shabbos ([Yevamos 90b](https://www.sefaria.org/Yevamot.90b.10?lang=bi&with=all&lang2=en), [Sanhedrin 46a](https://www.sefaria.org/Sanhedrin.46a.11-12?lang=bi)) (Greek law was valid, but people were lazy with the mitzvot at the time)
+- Yeshu Hanotzri, also known as Ben Stada and Ben Pandira, who was executed on Erev Pesach ([Sanhedrin 43a](https://www.sefaria.org/Sanhedrin.43a.20-21?lang=bi&with=Rashi&lang2=en) and 67b, uncensored editions). A lot of ink has been spilled on the question of whether this person is identical with the founder of Christianity.
+- The _mekallel_ at the end of Parshat Emor (see: [Vayikra 24:10-16](https://www.sefaria.org/Leviticus.24.10-16?lang=bi&with=all&lang2=en), and [23](https://www.sefaria.org/Leviticus.24.23?lang=bi&with=all&lang2=en))  
+- The _mekosheish etzim_ in Parshat Shelach (see: [Bamidbar 15:32-36](https://www.sefaria.org/Numbers.15.35-36?lang=bi&with=all&lang2=en))
+- On [Gittin 57a](http://www.dafyomi.org/index.php?masechta=gitin&daf=57a&go=Go) a father and son are put to death for sleeping with a betrothed young woman on yom kippur. 
+- The words 'a father and son... Yom kippur' are used again in [Bava Metzia 83b](http://www.dafyomi.org/index.php?masechta=bava_metzia&daf=83b)
+- 
+
+**Sanhedrin 71a, 15 (Execution of a rebellious son / ben sorer u'moreh):**
 
 > אִיבָּעֵית אֵימָא: רַבִּי שִׁמְעוֹן הִיא, דְּתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן: וְכִי מִפְּנֵי שֶׁאָכַל זֶה תַּרְטֵימָר בָּשָׂר וְשָׁתָה חֲצִי לוֹג יַיִן הָאִיטַלְקִי, אָבִיו וְאִמּוֹ מוֹצִיאִין אוֹתוֹ לְסׇקְלוֹ? אֶלָּא לֹא הָיָה וְלֹא עָתִיד לִהְיוֹת, וְלָמָּה נִכְתַּב? דְּרוֹשׁ וְקַבֵּל שָׂכָר. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיו וְיָשַׁבְתִּי עַל קִבְרוֹ.
 > 
 > **If you wish, say** instead that this _baraita_ **is** in accordance with the opinion of **Rabbi Shimon. As it is taught** in a _baraita_ that **Rabbi Shimon says: And is it** simply **due to** the fact **that** the boy **ate a _tarteimar_ of meat and drank a half-_log_ of Italian wine** that **his father and his mother shall take him out to stone him? Rather, there has never been** a stubborn and rebellious son **and there will never be** one **in the future. And why,** then, **was** the passage relating to a stubborn and rebellious son **written** in the Torah? So that **you may expound** upon new understandings of the Torah **and receive reward** for your learning. **Rabbi Yonatan says:** This is not so, as **I saw** one. I was once in a place where a stubborn and rebellious son was condemned to death, **and I** even **sat on his grave** after he was executed.
 
-**Sanhedrin 71a, 17:**
+**Sanhedrin 71a, 17 (Destruction of an Idolatrous City):**
 
+> מַאי טַעְמָא? אָמַר קְרָא: ״וְאֶת כׇּל שְׁלָלָהּ תִּקְבֹּץ אֶל תּוֹךְ רְחֹבָהּ וְשָׂרַפְתָּ בָאֵשׁ״. וְכֵיוָן דְּאִי אִיכָּא מְזוּזָה, לָא אֶפְשָׁר, דִּכְתִיב: ״לֹא תַעֲשׂוּן כֵּן לַה׳ אֱלֹהֵיכֶם״. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיהָ וְיָשַׁבְתִּי עַל תִּילָּהּ.
+> 
+> The Gemara asks: **What is the reason** that a city that has even one _mezuza_ cannot become an idolatrous city? The Gemara answers: **The verse states: “And you shall gather all the spoil of it into the midst of the open space of the city, and shall burn with fire** both the city and the entire plunder taken in it” (Deuteronomy 13:17). **And since if there is a _mezuza_** there **it is impossible** to burn all the contents of the city, **as it is written:** “And you shall overthrow their altars, and break their pillars, and burn their _asherim_ with fire…**This you shall not do so to the Lord your God”** (Deuteronomy 12:3–4). It is derived from this verse that it is prohibited to destroy a sacred item such as a _mezuza_. Therefore, in a city that has even one _mezuza_, it is impossible to fulfill the _halakhot_ of an idolatrous city, as not all of its contents may be burned. **Rabbi Yonatan says:** This is not so, as **I** once **saw** an idolatrous city that was condemned to destruction, **and I** even **sat on its ruins.**
