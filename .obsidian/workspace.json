@@ -628,13 +628,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Holy Spirit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bat Kol"
+              "title": "Holy Spirit"
             }
           },
           {
@@ -742,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Holy Spirit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bat Kol"
+              "title": "Backlinks for Holy Spirit"
             }
           },
           {
@@ -804,13 +804,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Holy Spirit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bat Kol"
+              "title": "Outline of Holy Spirit"
             }
           },
           {
@@ -877,8 +877,8 @@
   },
   "active": "375f1d10ee89dfac",
   "lastOpenFiles": [
-    "Holy Spirit.md",
     "Bat Kol.md",
+    "Holy Spirit.md",
     "World to Come.md",
     "Executions in Judah-ism.md",
     "Did Rabbis have Superpowers.md",
