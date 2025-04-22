@@ -38,7 +38,7 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 
 #### Discussion
 
-**Talmud, Seder Nezikin, Bava Metzia 59a:12 - 59b:9:**
+**Talmud, Seder Nezikin, Bava Metzia 59a:12 - 59b:5:**
 
 > תְּנַן הָתָם: חֲתָכוֹ חוּלְיוֹת, וְנָתַן חוֹל בֵּין חוּלְיָא לְחוּלְיָא – רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין.
 > 
@@ -65,7 +65,11 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 > עָמַד רַבִּי יְהוֹשֻׁעַ עַל רַגְלָיו וְאָמַר: ״לֹא בַשָּׁמַיִם הִיא!״ מַאי ״לֹא בַּשָּׁמַיִם הִיא״? אָמַר רַבִּי יִרְמְיָה: שֶׁכְּבָר נִתְּנָה תּוֹרָה מֵהַר סִינַי, אֵין אָנוּ מַשְׁגִּיחִין בְּבַת קוֹל, שֶׁכְּבָר כָּתַבְתָּ בְּהַר סִינַי בַּתּוֹרָה ״אַחֲרֵי רַבִּים לְהַטֹּת״. אַשְׁכְּחֵיהּ רַבִּי נָתָן לְאֵלִיָּהוּ, אֲמַר לֵיהּ: מַאי עָבֵיד קוּדְשָׁא בְּרִיךְ הוּא בְּהַהִיא שַׁעְתָּא? אֲמַר לֵיהּ: קָא חָיֵיךְ וְאָמַר, ״נִצְּחוּנִי בָּנַי! נִצְּחוּנִי בָּנַי!״
 > 
 > **Rabbi Yehoshua stood on his feet and said:** It is written: **“It is not in heaven”** (Deuteronomy 30:12). The Gemara asks: **What** is the relevance of the phrase **“It is not in heaven”** in this context? **Rabbi Yirmeya says:** Since **the Torah was already given at Mount Sinai, we do not regard a Divine Voice, as You already wrote at Mount Sinai, in the Torah: “After a majority to incline”** (Exodus 23:2). Since the majority of Rabbis disagreed with Rabbi Eliezer’s opinion, the _halakha_ is not ruled in accordance with his opinion. The Gemara relates: Years after, **Rabbi Natan encountered Elijah** the prophet and **said to him: What did the Holy One, Blessed be He, do at that time,** when Rabbi Yehoshua issued his declaration? Elijah **said to him:** The Holy One, Blessed be He, **smiled and said: My children have triumphed over Me; My children have triumphed over Me.**
-> 
+
+#### Aftermath
+
+**Talmud, Seder Nezikin, Bava Metzia 59b:6-11:**
+
 > אָמְרוּ: אוֹתוֹ הַיּוֹם הֵבִיאוּ כׇּל טְהָרוֹת שֶׁטִּיהֵר רַבִּי אֱלִיעֶזֶר וּשְׂרָפוּם בָּאֵשׁ. וְנִמְנוּ עָלָיו וּבֵרְכוּהוּ, וְאָמְרוּ: מִי יֵלֵךְ וְיוֹדִיעוֹ? אֲמַר לָהֶם רַבִּי עֲקִיבָא: אֲנִי אֵלֵךְ, שֶׁמָּא יֵלֵךְ אָדָם שֶׁאֵינוֹ הָגוּן וְיוֹדִיעוֹ, וְנִמְצָא מַחְרִיב אֶת כָּל הָעוֹלָם כּוּלּוֹ.
 > 
 > The Sages **said:** On **that day,** the Sages **brought all the ritually pure** items **deemed pure by** the ruling of **Rabbi Eliezer** with regard to the oven **and burned them in fire, and** the Sages **reached a consensus in his regard and ostracized him. And** the Sages **said: Who will go and inform him** of his ostracism? **Rabbi Akiva,** his beloved disciple, **said to them: I will go, lest an unseemly person go** and inform him in a callous and offensive manner, **and he would thereby destroy the entire world.**
