@@ -225,9 +225,41 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 > וּמַעֲשֶׂה בְּאֶחָד שֶׁרָכַב עַל סוּס בְּשַׁבָּת בִּימֵי יְוָנִים, וֶהֱבִיאוּהוּ לְבֵית דִּין וּסְקָלוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ. שׁוּב מַעֲשֶׂה בְּאָדָם אֶחָד שֶׁהֵטִיחַ אֶת אִשְׁתּוֹ תַּחַת הַתְּאֵנָה, וֶהֱבִיאוּהוּ לְבֵית דִּין וְהִלְקוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ.
 > 
 > **And an incident** occurred **involving one who rode a horse on Shabbat during the days of the Greeks, and they brought him to court and stoned him, not because he deserved that** punishment, as riding a horse on Shabbat is forbidden only by rabbinic decree, **but because the hour required it,** as people had become lax in their observance of Shabbat and therefore it became necessary to impose the severe punishment for a relatively minor offense. **Another incident** occurred **involving a man who engaged in intercourse with his wife** in public **under a fig tree, and they brought him to court and flogged him, not because that** punishment **was fitting** for him, as such conduct is not forbidden by the Torah, **but because the hour required it.** People had become remiss in matters of modesty; therefore, stringent measures had to be taken to rectify the situation.
-### Yeshu Hanotrzri who was executed on Erev Pesach
+### Yeshu Hanotrzri (Jesus the Nazarene) who was executed on Erev Pesach
+
+**Sanhedrin 43a, 20-26:**
+
+> וְכָרוֹז יוֹצֵא לְפָנָיו. לְפָנָיו – אִין, מֵעִיקָּרָא – לָא. וְהָתַנְיָא: בְּעֶרֶב הַפֶּסַח תְּלָאוּהוּ לְיֵשׁוּ הַנּוֹצְרִי, וְהַכָּרוֹז יוֹצֵא לְפָנָיו אַרְבָּעִים יוֹם: ״יֵשׁוּ הַנּוֹצְרִי יוֹצֵא לִיסָּקֵל עַל שֶׁכִּישֵּׁף וְהֵסִית וְהִדִּיחַ אֶת יִשְׂרָאֵל. כׇּל מִי שֶׁיּוֹדֵעַ לוֹ זְכוּת יָבוֹא וִילַמֵּד עָלָיו״. וְלֹא מָצְאוּ לוֹ זְכוּת, וּתְלָאוּהוּ בְּעֶרֶב הַפֶּסַח.
+> 
+> The mishna teaches that **a crier goes out before** the condemned man. This indicates that it is only **before him,** i.e., while he is being led to his execution, that **yes,** the crier goes out, but **from the outset,** before the accused is convicted, he does **not** go out. The Gemara raises a difficulty: **But isn’t it taught** in a _baraita_: **On Passover Eve they hung** the corpse of **Jesus the Nazarene** after they killed him by way of stoning. **And a crier went out before him** for **forty days,** publicly proclaiming: **Jesus the Nazarene is going out to be stoned because he practiced sorcery, incited** people to idol worship, **and led the Jewish people astray. Anyone who knows** of a reason to **acquit him should come** forward **and teach** it **on his behalf. And** the court **did not find** a reason to **acquit him, and** so **they** stoned him and **hung his** corpse **on Passover eve.**
+> 
+> אָמַר עוּלָּא: וְתִסְבְּרָא? יֵשׁוּ הַנּוֹצְרִי בַּר הַפּוֹכֵי זְכוּת הוּא? מֵסִית הוּא, וְרַחֲמָנָא אָמַר: ״לֹא תַחְמֹל וְלֹא תְכַסֶּה עָלָיו!״ אֶלָּא שָׁאנֵי יֵשׁוּ, דְּקָרוֹב לְמַלְכוּת הֲוָה.
+> 
+> **Ulla said: And** how can **you understand** this proof? Was **Jesus the Nazarene worthy of** conducting **a search** for a reason to **acquit** him? **He** was **an inciter** to idol worship, **and the Merciful One states** with regard to an inciter to idol worship: **“Neither shall you spare, neither shall you conceal him”** (Deuteronomy 13:9). **Rather, Jesus was different, as he** had **close** ties **with the government,** and the gentile authorities were interested in his acquittal. Consequently, the court gave him every opportunity to clear himself, so that it could not be claimed that he was falsely convicted.
+> 
+> תָּנוּ רַבָּנַן: חֲמִשָּׁה תַּלְמִידִים הָיוּ לוֹ לְיֵשׁוּ הַנּוֹצְרִי – מַתַּאי, נַקַּאי, נֶצֶר, וּבוּנִי, וְתוֹדָה. אַתְיוּהּ לְמַתַּי. אֲמַר לְהוּ: מַתַּי יֵהָרֵג? הָכְתִיב ״מַתַּי אָבוֹא וְאֵרָאֶה פְּנֵי אֱלֹהִים״? אָמְרוּ לוֹ: אִין, מַתַּי יֵהָרֵג, דִּכְתִיב: ״מָתַי יָמוּת וְאָבַד שְׁמוֹ״.
+> 
+> Apropos the trial of Jesus, the Gemara cites another _baraita_, where **the Sages taught: Jesus the Nazarene had five disciples: Mattai, Nakai, Netzer, Buni, and Toda. They brought Mattai in** to stand trial. Mattai **said to** the judges: **Shall Mattai be executed?** But **isn’t it written: “When [_matai_] shall I come and appear before God?”** (Psalms 42:3). Mattai claimed that this verse alludes to the fact he is righteous. **They said to him: Yes, Mattai shall be executed, as it is written: “When [_matai_] shall he die, and his name perish?”** (Psalms 41:6).
+> 
+> אַתְיוּהּ לְנַקַּאי. אֲמַר לְהוּ: נַקַּאי יֵהָרֵג? הָכְתִיב ״וְנָקִי וְצַדִּיק אַל תַּהֲרֹג״? אָמְרוּ לוֹ: אִין, נַקַּאי יֵהָרֵג, דִּכְתִיב: ״בַּמִּסְתָּרִים יַהֲרֹג נָקִי״.
+> 
+> Then **they brought Nakai in** to stand trial. Nakai **said** to the judges: **Shall Nakai be executed?** But **isn’t it written: “And the innocent [_naki_] and righteous you shall not slay”** (Exodus 23:7)? **They said to him: Yes, Nakai shall be executed, as it is written: “In secret places he kills the innocent [_naki_]”** (Psalms 10:8).
+> 
+> אַתְיוּהּ לְנֶצֶר. אָמַר: נֶצֶר יֵהָרֵג? הָכְתִיב ״וְנֵצֶר מִשׇּׁרָשָׁיו יִפְרֶה״? אָמְרוּ לוֹ: אִין, נֶצֶר יֵהָרֵג, דִּכְתִיב: ״וְאַתָּה הׇשְׁלַכְתָּ מִקִּבְרְךָ כְּנֵצֶר נִתְעָב״.
+> 
+> Then **they brought Netzer in** to stand trial. **He said** to the judges: **Shall Netzer be executed?** But **isn’t it written: “And a branch [_netzer_] shall grow out of his roots”** (Isaiah 11:1)? **They said to him: Yes, Netzer shall be executed, as it is written: “But you are cast out of your grave like an abhorred branch [_netzer_]”** (Isaiah 14:19).
+> 
+> אַתְיוּהּ לְבוּנִי. אָמַר: בּוּנִי יֵהָרֵג? הָכְתִיב ״בְּנִי בְכֹרִי יִשְׂרָאֵל״! אָמְרוּ לוֹ: אִין, בּוּנִי יֵהָרֵג, דִּכְתִיב: ״הִנֵּה אָנֹכִי הוֹרֵג אֶת בִּנְךָ בְּכֹרֶךָ״.
+> 
+> Then **they brought Buni in** to stand trial. Buni **said** to the judges: **Shall Buni be executed?** But **isn’t it written: “My firstborn son [_beni_] is Israel”** (Exodus 4:22)? **They said to him: Yes, Buni shall be executed, as it is written: “Behold, I shall kill your firstborn son [_binkha_]”** (Exodus 4:23).
+> 
+> אַתְיוּהּ לְתוֹדָה. אָמַר: תּוֹדָה יֵהָרֵג? הָכְתִיב ״מִזְמוֹר לְתוֹדָה״? אָמְרוּ לוֹ: אִין, תּוֹדָה יֵהָרֵג, דִּכְתִיב: ״זֹבֵחַ תּוֹדָה יְכַבְּדָנְנִי״.
+> 
+> Then **they brought Toda in** to stand trial. Toda **said** to the judges: **Shall Toda be executed?** But **isn’t it written: “A psalm of thanksgiving [_toda_]”** (Psalms 100:1)? **They said to him: Yes, Toda shall be executed, as it is written: “Whoever slaughters a thanks-offering [_toda_] honors Me”** (Psalms 50:23).
 
 ### Mekallel at the end of Parshat Emor
+
+
 
 ### Mekosheish Etzin in Parshat Shelach
 
