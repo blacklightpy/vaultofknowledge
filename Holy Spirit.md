@@ -5,7 +5,7 @@ There are references to the Spirit of God.
 - Ruach HaKodesh (רוח הקודש): Holy Spirit
 - Ruach Elohim: Spirit of God
 
- 1 Samuel 28:3–6 mentions three methods of divine communication – dreams, prophets, and the Urim and Thummim.
+ 1 Samuel 28:3–6 mentions three methods of divine communication – dreams, prophets, and the Urim and Thummim. Urim and Thummim are mentioned in Exodus 28:30.
 
 **Word Gender:**
 
