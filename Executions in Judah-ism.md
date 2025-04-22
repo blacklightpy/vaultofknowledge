@@ -1,4 +1,6 @@
 
+## How Executions Must be Minimal
+
 **Talmud, Sefer Nezikin, Makkot 1:10:**
 
 - A court that executes once in 7 years is characterised as "destructive".
@@ -9,7 +11,7 @@
 > 
 > This mishna continues to discuss the matter of testimony in the case of one who is liable to be executed. Concerning **one whose verdict was delivered** and he was sentenced to death **and he fled, and he** then **came before the same court** that sentenced him, **they do not overturn his verdict** and retry him. Rather, the court administers the previous verdict. Consequently, in **any place where two** witnesses **will stand and say: We testify with regard to a man** called **so-and-so that his verdict was delivered** and he was sentenced to death **in the court of so-and-so, and so-and-so and so-and-so** were **his witnesses, that** person **shall be executed** on the basis of that testimony. The mishna continues: The mitzva to establish **a Sanhedrin** with the authority to administer capital punishments **is in effect** both **in Eretz** Yisrael **and outside Eretz** Yisrael. **A Sanhedrin that executes** a transgressor **once in seven years is characterized** as **a destructive** tribunal. Since the Sanhedrin would subject the testimony to exacting scrutiny, it was extremely rare for a defendant to be executed. **Rabbi Elazar ben Azarya says:** This categorization applies to a Sanhedrin that executes a transgressor **once in seventy years. Rabbi Tarfon and Rabbi Akiva say: If we had been** members **of the Sanhedrin,** we would have conducted trials in a manner whereby **no person would have ever been executed. Rabban Shimon ben Gamliel says:** In adopting that approach, **they too** would **increase** the number of **murderers among the Jewish people.** The death penalty would lose its deterrent value, as all potential murderers would know that no one is ever executed.
 
-## On the criteria
+## The Conditions of Execution
 
 **Mishneh Torah, Sefer Shoftim (Judges), Sanhedrin, Chapter 12, 1-3:**
 
@@ -56,3 +58,6 @@
 > We begin the judgment. If they find a rationale to acquit him, they acquit him. If it is necessary to add judges, they add. If there is a majority of judges who seek to convict him, and he is convicted, he is taken out to be executed immediately.  
 > 
 > The place where the court conducts the execution is outside the court and removed from it, as implied by Leviticus 24:14: "Take the blasphemer outside the camp...." It appears to me that it should be approximately 6 _mil_ , the distance between the court of Moses our teacher which was before the entrance of the Tent of Meeting and the extremities of the camp of the Jewish people.
+
+
+## D
