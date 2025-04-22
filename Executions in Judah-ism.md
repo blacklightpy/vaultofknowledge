@@ -1,5 +1,5 @@
 
-## How Executions Must be Minimal
+# How Executions Must be Minimal
 
 **Talmud, Sefer Nezikin, Makkot 1:10:**
 
@@ -11,7 +11,7 @@
 > 
 > This mishna continues to discuss the matter of testimony in the case of one who is liable to be executed. Concerning **one whose verdict was delivered** and he was sentenced to death **and he fled, and he** then **came before the same court** that sentenced him, **they do not overturn his verdict** and retry him. Rather, the court administers the previous verdict. Consequently, in **any place where two** witnesses **will stand and say: We testify with regard to a man** called **so-and-so that his verdict was delivered** and he was sentenced to death **in the court of so-and-so, and so-and-so and so-and-so** were **his witnesses, that** person **shall be executed** on the basis of that testimony. The mishna continues: The mitzva to establish **a Sanhedrin** with the authority to administer capital punishments **is in effect** both **in Eretz** Yisrael **and outside Eretz** Yisrael. **A Sanhedrin that executes** a transgressor **once in seven years is characterized** as **a destructive** tribunal. Since the Sanhedrin would subject the testimony to exacting scrutiny, it was extremely rare for a defendant to be executed. **Rabbi Elazar ben Azarya says:** This categorization applies to a Sanhedrin that executes a transgressor **once in seventy years. Rabbi Tarfon and Rabbi Akiva say: If we had been** members **of the Sanhedrin,** we would have conducted trials in a manner whereby **no person would have ever been executed. Rabban Shimon ben Gamliel says:** In adopting that approach, **they too** would **increase** the number of **murderers among the Jewish people.** The death penalty would lose its deterrent value, as all potential murderers would know that no one is ever executed.
 
-## The Conditions of Execution
+# The Conditions of Execution
 
 **Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Sanhedrin, Chapter 12, 1-3:**
 
@@ -71,9 +71,9 @@
 > If they do not see the transgression at the same time, their testimony is not combined. For example, the two witnesses were in one house and one stuck his head out of the window and saw a person perform a forbidden labor on the Sabbath and another person issue a warning. He then thrust in his head and the other witness stuck his head out of the same window and saw the person commit the transgression. Their testimonies cannot be combined unless they both see the transgression at the same time.  
 > 
 > The following laws apply when two witnesses see the transgressor from one window, two other witnesses see him from another window, and there is a person who gives a warning in between. If some of them see each other, they are considered as one group of witnesses. If they do not see each other and the person giving the warning does not include them together, they are considered as two groups of witnesses. Therefore if one group are discovered to be _zomamim_, the transgressor and the witnesses are executed. For the transgressor is executed on the basis of the testimony of the second group of witnesses.
-## Dealing with Serial Killers
+# Dealing with Serial Killers
 
-They are the ones who are known to be killers, but there are no legally valid witnesses, although the truth is They are "indirectly" executed.
+They are the ones who are known to be killers, but there are no legally valid witnesses, although the truth is clear. They are "indirectly" executed by sending them to a Kippah.
 
 **Sanhedrin 81b, 1-4:**
 
@@ -105,18 +105,59 @@ It codifies the above law.
 > 
 > All those murderers should be forced to enter a _kipah_.There they are fed parched bread and small amounts of water until their digestive tract contracts. Then they are fed barley until their bellies burst because of the extent of the sickness and they die.
 
-## Cases of Executions
+# Cases of Executions
 
-### In the Miqra
+## In the Miqra
 
 - Leviticus 24:23 (Moshe's Court executing the Blasphemer)
 - Numbers 15:36 (Moshe's Court executing the Shabbos violator)
 - Joshua 7:25 (Yehoshua's Court executing Achan for taking from the spoils of Jericho)
 - 1 Kings 21:13 (Nabouth being executed by the court of Jezreel on false charges)
 
-### In the Talmud
+## In the Talmud
 
-- Yehudah ben Tabbai and his court executing a false witness whose testimony was impeached _(huzam)_ ([Chagigah 16b](https://www.sefaria.org/Chagigah.16b.3-7?lang=bi) and [Makkos 5b](https://www.sefaria.org/Makkot.5b.17-20?lang=bi)) (Mistake)
+### Rabbi Yehuda ben Tabbai sentencing a false witness to death who was not to be punished, by a wrong understanding
+
+**Seder Moed, Chagigah, 16b, 3-7:**
+
+> מַאן תְּנָא לְהָא דְּתָנוּ רַבָּנַן: אָמַר רַבִּי יְהוּדָה בֶּן טָבַאי: אֶרְאֶה בְּנֶחָמָה אִם לֹא הָרַגְתִּי עֵד זוֹמֵם, לְהוֹצִיא מִלִּבָּן שֶׁל צַדּוּקִין. שֶׁהָיוּ אוֹמְרִים: אֵין עֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיֵּהָרֵג הַנִּידּוֹן.
+> 
+> The Gemara asks: **Who is the _tanna_** who taught **that which the Sages taught** in a _baraita_: **Rabbi Yehuda ben Tabbai said:** I swear that **I will** not **see the consolation** of Israel **if I did not kill a conspiring witness.** This means that Rabbi Yehuda ben Tabbai sentenced a conspiring witness to death, in order **to counter the views of the Sadducees, who would say: Conspiring witnesses are not executed unless the sentenced one has been executed.** Their views opposed the traditional view, which maintains that conspiring witnesses are executed only if the one sentenced by their testimony has not yet been executed.
+> 
+> אָמַר לוֹ שִׁמְעוֹן בֶּן שָׁטַח: אֶרְאֶה בְּנֶחָמָה אִם לֹא שָׁפַכְתָּ דָּם נָקִי, שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֵין עֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיִּזּוֹמּוּ שְׁנֵיהֶם, וְאֵין לוֹקִין עַד שֶׁיִּזּוֹמּוּ שְׁנֵיהֶם, וְאֵין מְשַׁלְּמִין מָמוֹן עַד שֶׁיִּזּוֹמּוּ שְׁנֵיהֶם.
+> 
+> **Shimon ben Shataḥ said to him:** I swear that **I will** not **see the consolation** of Israel **if you did not shed innocent blood, as the Sages said: Conspiring witnesses are not executed unless they are both found to be conspirators;** if only one is found to be a conspirator, he is not executed. **And they are not flogged** if they are liable to such a penalty, **unless they are both found to be conspirators. And** if they testified falsely that someone owed money, **they do not pay money unless they are both found to be conspirators.**
+> 
+> מִיָּד קִבֵּל עָלָיו יְהוּדָה בֶּן טָבַאי שֶׁאֵינוֹ מוֹרֶה הֲלָכָה אֶלָּא בִּפְנֵי שִׁמְעוֹן בֶּן שָׁטַח.
+> 
+> Hearing this, **Yehuda ben Tabbai immediately accepted upon himself not to rule** on any matter of **law unless he was in the presence of Shimon ben Shataḥ,** as he realized he could not rely on his own judgment.
+> 
+> כׇּל יָמָיו שֶׁל יְהוּדָה בֶּן טָבַאי הָיָה מִשְׁתַּטֵּחַ עַל קִבְרוֹ שֶׁל אוֹתוֹ הָרוּג, וְהָיָה קוֹלוֹ נִשְׁמָע. כִּסְבוּרִין הָעָם לוֹמַר שֶׁקּוֹלוֹ שֶׁל הָרוּג הוּא. אָמַר לָהֶם: קוֹלִי הוּא. תֵּדְעוּ, שֶׁלְּמָחָר הוּא מֵת, וְאֵין קוֹלוֹ נִשְׁמָע.
+> 
+> The _baraita_ further relates: **All of Yehuda ben Tabbai’s days, he would prostrate himself on the grave of that executed** individual, to request forgiveness, **and his voice was heard** weeping. **The people thought that it was the voice of that executed** person, rising from his grave. Yehuda ben Tabbai **said to them: It is my voice,** and **you** shall **know** that it is so, **for tomorrow,** i.e., sometime in the future, **he will die, and his voice will no** longer **be heard.** Yehuda ben Tabbai was referring to himself, but he did not want to mention something negative about himself in direct terms.
+> 
+> אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: וְדִלְמָא פַּיּוֹסֵי פַּיְּיסֵיהּ, אוֹ בְּדִינָא תַּבְעֵיהּ.
+> 
+> **Rav Aḥa, son of Rava, said to Rav Ashi:** This provides no conclusive proof that the voice was not that of the executed man, as **perhaps** ben Tabbai **appeased** the executed individual in the World-to-Come. **Or,** alternatively, the latter may have **prosecuted him by the law** of Heaven, and that is why his voice can no longer be heard.
+
+**Seder Nezikin, Makkot, 5b, 17-20:**
+
+> תַּנְיָא, אָמַר רַבִּי יְהוּדָה בֶּן טָבַאי: אֶרְאֶה בְּנֶחָמָה אִם לֹא הָרַגְתִּי עֵד זוֹמֵם לְהוֹצִיא מִלִּבָּן שֶׁל צַדּוּקִים. שֶׁהָיוּ אוֹמְרִים: אֵין הָעֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיֵּהָרֵג הַנִּדּוֹן.
+> 
+> § Apropos the dispute between the Sadducees and the Sages, **it is taught** in a _baraita_: **Rabbi Yehuda ben Tabbai says** in the form of an oath: **I will** not **see the** future **consolation** of the Jewish people **if I did not** as a member of the court **kill** a single **conspiring witness,** in order **to eradicate** this reasoning **from the hearts of the Sadducees, who would say: The conspiring witnesses are executed only** if they are rendered conspiring witnesses after the accused **will be killed.** Rabbi Yehuda ben Tabbai killed the conspiring witness while the accused remained alive.
+> 
+> אָמַר לוֹ שִׁמְעוֹן בֶּן שָׁטַח: אֶרְאֶה בְּנֶחָמָה אִם לֹא שָׁפַכְתָּ דָּם נָקִי, שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֵין הָעֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיִּזּוֹמּוּ שְׁנֵיהֶם, וְאֵין לוֹקִין עַד שֶׁיִּזּוֹמּוּ שְׁנֵיהֶם.
+> 
+> **Shimon ben Shataḥ said to him: I will** not **see the consolation** of the Jewish people **if you did not shed** thereby **innocent blood, as the Sages said: Conspiring witnesses are not executed unless both of them are rendered conspiring** witnesses, **and they are not flogged unless both of them are rendered conspiring** witnesses. In this case, only one was rendered a conspiring witness.
+> 
+> מִיָּד קִבֵּל עָלָיו רַבִּי יְהוּדָה בֶּן טָבַאי שֶׁאֵינוֹ מוֹרֶה הוֹרָאָה אֶלָּא לִפְנֵי שִׁמְעוֹן בֶּן שָׁטַח. וְכׇל יָמָיו שֶׁל רַבִּי יְהוּדָה בֶּן טָבַאי הָיָה מִשְׁתַּטֵּחַ עַל קִבְרוֹ שֶׁל אוֹתוֹ הָעֵד, וְהָיָה קוֹלוֹ נִשְׁמָע, וְכִסְבוּרִין הָעָם לוֹמַר: קוֹלוֹ שֶׁל הָרוּג. אָמַר: קוֹלִי שֶׁלִּי הוּא, תֵּדְעוּ – לְמָחָר הוּא מֵת, אֵין קוֹלוֹ נִשְׁמָע.
+> 
+> **Rabbi Yehuda ben Tabbai immediately accepted** a commitment **upon himself that he would issue a halakhic ruling only** when he was **before Shimon ben Shataḥ,** to avoid mistakes in the future. **And** throughout **all of Rabbi Yehuda ben Tabbai’s days he would** tearfully **prostrate himself on the grave of that witness** whom he executed, to request forgiveness for having done so, **and his voice was heard** from a distance. **And the people thought to say** that it was **the voice of** the **executed** witness that was heard. Rabbi Yehuda ben Tabbai **said** to them: **It is my voice. Know** that this is so, as **tomorrow,** i.e., sometime in the future, **he,** referring to himself, **will die,** and **his voice will no** longer **be heard.**
+> 
+> אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: דִּלְמָא בְּדִינָא קָם בַּהֲדֵיהּ, אִי נָמֵי פַּיּוֹסֵי פַּיְּיסֵיהּ.
+> 
+> **Rav Aḥa, son of Rava, said to Rav Ashi:** The fact that the voice will cease after Rabbi Yehuda ben Tabbai’s death is inconclusive as proof that the voice is not that of the executed witness. **Perhaps** the reason that the voice of the executed person will no longer be heard is that **he confronted** Rabbi Yehuda ben Tabbai **in trial** before the heavenly court, obviating the need for crying from his grave. **Alternatively,** perhaps Rabbi Yehuda ben Tabbai **appeased** the executed witness in the World-to-Come, and there is silence because no grievances remained.
+
 - Shimon ben Shatach and his court executing eighty women for practicing witchcraft ([Sanhedrin 45b](https://www.sefaria.org/Sanhedrin.45b.20-21?lang=bi&with=all&lang2=en), and more details in [Rashi ibid. 45b](https://www.sefaria.org/Sanhedrin.45b.21?lang=bi&p2=Rashi_on_Sanhedrin.45b.21.1&lang2=bi), from Yerushalmi Chagigah 2:2 and Sanhedrin 6:6) (Mass kill)
 - ...and then having his own son convicted (based on false testimony) and executed ([Rashi ibid. 44b](https://www.sefaria.org/Sanhedrin.44b.13?lang=bi&p2=Rashi_on_Sanhedrin.44b.13.3&lang2=bi), from Yerushalmi Sanhedrin 6:3) (own son)
 - Someone being executed "in the days of the Greeks" for riding a horse on Shabbos ([Yevamos 90b](https://www.sefaria.org/Yevamot.90b.10?lang=bi&with=all&lang2=en), [Sanhedrin 46a](https://www.sefaria.org/Sanhedrin.46a.11-12?lang=bi)) (Greek law was valid, but people were lazy with the mitzvot at the time)
@@ -125,15 +166,32 @@ It codifies the above law.
 - The _mekosheish etzim_ in Parshat Shelach (see: [Bamidbar 15:32-36](https://www.sefaria.org/Numbers.15.35-36?lang=bi&with=all&lang2=en))
 - On [Gittin 57a](http://www.dafyomi.org/index.php?masechta=gitin&daf=57a&go=Go) a father and son are put to death for sleeping with a betrothed young woman on yom kippur. 
 - The words 'a father and son... Yom kippur' are used again in [Bava Metzia 83b](http://www.dafyomi.org/index.php?masechta=bava_metzia&daf=83b)
-- 
 
-**Sanhedrin 71a, 15 (Execution of a rebellious son / ben sorer u'moreh):**
+### Shimon ben Shatach executing 80 women who practiced witchcraft
+
+### Shimon ben Shatach wrongly testifying against his own son
+
+### Someone being executed during the days of the Geeks for riding a horse on Shabbos
+
+### Yeshu Hanotrzri who was executed on Erev Pesach
+
+### Mekallel at the end of Parshat Emor
+
+### Mekosheish Etzin in Parshat Shelach
+
+### A father and a son are executed for sleeping with a betrothed young woman on Yom Kippur
+
+### Execution of a rebellious son / ben sorer u'moreh
+
+**Seder Nezikin, Sanhedrin 71a, 15:**
 
 > אִיבָּעֵית אֵימָא: רַבִּי שִׁמְעוֹן הִיא, דְּתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן: וְכִי מִפְּנֵי שֶׁאָכַל זֶה תַּרְטֵימָר בָּשָׂר וְשָׁתָה חֲצִי לוֹג יַיִן הָאִיטַלְקִי, אָבִיו וְאִמּוֹ מוֹצִיאִין אוֹתוֹ לְסׇקְלוֹ? אֶלָּא לֹא הָיָה וְלֹא עָתִיד לִהְיוֹת, וְלָמָּה נִכְתַּב? דְּרוֹשׁ וְקַבֵּל שָׂכָר. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיו וְיָשַׁבְתִּי עַל קִבְרוֹ.
 > 
 > **If you wish, say** instead that this _baraita_ **is** in accordance with the opinion of **Rabbi Shimon. As it is taught** in a _baraita_ that **Rabbi Shimon says: And is it** simply **due to** the fact **that** the boy **ate a _tarteimar_ of meat and drank a half-_log_ of Italian wine** that **his father and his mother shall take him out to stone him? Rather, there has never been** a stubborn and rebellious son **and there will never be** one **in the future. And why,** then, **was** the passage relating to a stubborn and rebellious son **written** in the Torah? So that **you may expound** upon new understandings of the Torah **and receive reward** for your learning. **Rabbi Yonatan says:** This is not so, as **I saw** one. I was once in a place where a stubborn and rebellious son was condemned to death, **and I** even **sat on his grave** after he was executed.
 
-**Sanhedrin 71a, 17 (Destruction of an Idolatrous City):**
+### Execution of an idolatrous city
+
+**Seder Nezikin, Sanhedrin 71a, 17 (Destruction of an Idolatrous City):**
 
 > מַאי טַעְמָא? אָמַר קְרָא: ״וְאֶת כׇּל שְׁלָלָהּ תִּקְבֹּץ אֶל תּוֹךְ רְחֹבָהּ וְשָׂרַפְתָּ בָאֵשׁ״. וְכֵיוָן דְּאִי אִיכָּא מְזוּזָה, לָא אֶפְשָׁר, דִּכְתִיב: ״לֹא תַעֲשׂוּן כֵּן לַה׳ אֱלֹהֵיכֶם״. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיהָ וְיָשַׁבְתִּי עַל תִּילָּהּ.
 > 
