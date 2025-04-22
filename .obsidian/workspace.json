@@ -668,7 +668,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -742,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Executions in Judah-ism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bat Kol"
+              "title": "Backlinks for Executions in Judah-ism"
             }
           },
           {
@@ -804,13 +804,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Executions in Judah-ism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bat Kol"
+              "title": "Outline of Executions in Judah-ism"
             }
           },
           {
@@ -875,10 +875,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "375f1d10ee89dfac",
+  "active": "479cc22b3ae37845",
   "lastOpenFiles": [
-    "Holy Spirit.md",
     "Bat Kol.md",
+    "Holy Spirit.md",
     "World to Come.md",
     "Executions in Judah-ism.md",
     "On the prohibition of wearing stitched clothes in temples.md",

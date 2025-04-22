@@ -149,6 +149,6 @@ Jehoshaphat knew two Prophets won't speak in the same manner. That's why he aske
 
 See The Sixth Principle: Prophecy, Lesson 19: Various Prophetic Terms and Experiences (Principles VI and VII, Pages 200-215), here: https://books.google.co.cr/books?id=t4TclPFTzfQC&lpg=PP1&pg=PA199#v=onepage&q&f=false
 
-Urim and Thummim are metioned in Exodus 28:30. See more on them at Pages 289-302.
+Urim and Thummim are metioned in Exodus 28:31. See more on them at Pages 289-302.
 
 ### Case 4: 
