@@ -22,10 +22,11 @@ I will use the examples of Agni-Hotra, Soma, Ashva-Medha and Purusha.
 > 
 > I glorify Agni, the high priest of the sacrifice, the divine, the ministrant, who presents the oblation (to the gods), and is the possessor of great wealth.
 
-Yajur Veda 1.5
+Krishna Yajur Veda, Tattireeya Samhithaa 1.5
 
 अग्ने॑ व्रतपते व्र॒तं च॑रिष्यामि॒ तच्छ॑केयं॒ तन्मे॑ राध्यताम्। इ॒दम॒हमनृ॑तात् स॒त्यमुपै॑मि ॥५॥
 
+अग्ने व्रतपते व्रतं चरिष्यामि तच् छकेयं तन् मे राध्यताम् ।  इदम् अहम् अनृतात् सत्यम् उपैमि ॥
 
 ## Braahmanam
 
