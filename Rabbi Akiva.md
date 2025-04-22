@@ -1,0 +1,1 @@
+He wrote Sifrei Devarim. He was martyred by the Roman Emperor Hadrian for continuing to teach the Jewish religion.

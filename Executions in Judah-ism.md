@@ -227,6 +227,10 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 > **And an incident** occurred **involving one who rode a horse on Shabbat during the days of the Greeks, and they brought him to court and stoned him, not because he deserved that** punishment, as riding a horse on Shabbat is forbidden only by rabbinic decree, **but because the hour required it,** as people had become lax in their observance of Shabbat and therefore it became necessary to impose the severe punishment for a relatively minor offense. **Another incident** occurred **involving a man who engaged in intercourse with his wife** in public **under a fig tree, and they brought him to court and flogged him, not because that** punishment **was fitting** for him, as such conduct is not forbidden by the Torah, **but because the hour required it.** People had become remiss in matters of modesty; therefore, stringent measures had to be taken to rectify the situation.
 ### Yeshu Hanotrzri (Jesus the Nazarene) who was executed on Erev Pesach (and his disciples)
 
+Note that there are three opinions: This is the account of Jesus, this is the account of someone else, and that this is the account of Jesus, but through mouth to mouth transmissions, it ended up with lots of elements from other people. Yeshu was such a common name, and even Yeshu the Nazarene could not be referring to the same person as the New Testament leader.
+
+It is also said that the Talmud should be telling the story of another Yeshu in Shabbat 104b and Sanhedrin 67a, since the 1st century historian Josephus recorded that Yeshua was crucified, even in the unaltered Arabic manuscripts.
+
 **Sanhedrin 43a, 20-26:**
 
 > וְכָרוֹז יוֹצֵא לְפָנָיו. לְפָנָיו – אִין, מֵעִיקָּרָא – לָא. וְהָתַנְיָא: בְּעֶרֶב הַפֶּסַח תְּלָאוּהוּ לְיֵשׁוּ הַנּוֹצְרִי, וְהַכָּרוֹז יוֹצֵא לְפָנָיו אַרְבָּעִים יוֹם: ״יֵשׁוּ הַנּוֹצְרִי יוֹצֵא לִיסָּקֵל עַל שֶׁכִּישֵּׁף וְהֵסִית וְהִדִּיחַ אֶת יִשְׂרָאֵל. כׇּל מִי שֶׁיּוֹדֵעַ לוֹ זְכוּת יָבוֹא וִילַמֵּד עָלָיו״. וְלֹא מָצְאוּ לוֹ זְכוּת, וּתְלָאוּהוּ בְּעֶרֶב הַפֶּסַח.
@@ -256,6 +260,10 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 > אַתְיוּהּ לְתוֹדָה. אָמַר: תּוֹדָה יֵהָרֵג? הָכְתִיב ״מִזְמוֹר לְתוֹדָה״? אָמְרוּ לוֹ: אִין, תּוֹדָה יֵהָרֵג, דִּכְתִיב: ״זֹבֵחַ תּוֹדָה יְכַבְּדָנְנִי״.
 > 
 > Then **they brought Toda in** to stand trial. Toda **said** to the judges: **Shall Toda be executed?** But **isn’t it written: “A psalm of thanksgiving [_toda_]”** (Psalms 100:1)? **They said to him: Yes, Toda shall be executed, as it is written: “Whoever slaughters a thanks-offering [_toda_] honors Me”** (Psalms 50:23).
+
+From another blog on this (since it seems senseless):
+
+> The five disciples are sentenced to death through a biblical gymnastic that cannot and is not historical, nor reliable. How can the Sanhedrin have fun on people in the middle of a death penalty trial? How could they execute them all together at the same time, which is against hallakha? Did they judge them by the biblical meaning of their names as the text says? In fact, did Judaism sentence to death to those who belonged to a different sect? It seems to me entire story is just a manner to have fun with how Christians twist verses from Scripture in order to apply them to Yeshua, and this seems to be the teaching here, that without a proper foundation on Scripture and hermeneutics one can deduce almost anything from any Biblical verse.
 
 **Sanhderin 67a, 14-15:**
 
@@ -297,6 +305,8 @@ ben Setada is thought to be Jesus, and in Aramaic, Miriam who braided womens' ha
 > הַמְסָרֵט עַל בְּשָׂרוֹ. תַּנְיָא, אָמַר לָהֶן רַבִּי אֱלִיעֶזֶר לַחֲכָמִים: וַהֲלֹא בֶּן סָטָדָא הוֹצִיא כְּשָׁפִים מִמִּצְרַיִם בִּסְרִיטָה שֶׁעַל בְּשָׂרוֹ? אָמְרוּ לוֹ: שׁוֹטֶה הָיָה, וְאֵין מְבִיאִין רְאָיָה מִן הַשּׁוֹטִים. ״בֶּן סָטָדָא״? בֶּן פַּנְדִּירָא הוּא! אָמַר רַב חִסְדָּא: בַּעַל ״סָטָדָא״, בּוֹעֵל ״פַּנְדִּירָא״. בַּעַל פַּפּוּס בֶּן יְהוּדָה הוּא? אֶלָּא אִמּוֹ ״סָטָדָא״. אִמּוֹ מִרְיָם מְגַדְּלָא שְׂעַר נְשַׁיָּא הֲוַאי? אֶלָּא כִּדְאָמְרִי בְּפוּמְבְּדִיתָא: סְטָת דָּא מִבַּעְלַהּ.
 > 
 > We learned in the mishna: If **one** unwittingly **scratches** letters **on his flesh** on Shabbat, Rabbi Eliezer deems him liable to bring a sin-offering and the Sages deem him exempt. **It was taught** in a _baraita_ that **Rabbi Eliezer said to the Rabbis: Didn’t** the infamous **ben Stada take** magic **spells out of Egypt in a scratch on his flesh? They said to him: He was a fool, and you cannot cite proof from a fool.** That is not the way that most people write. Incidentally, the Gemara asks: Why did they call him **ben Stada,** when **he was the son of Pandeira? Rav Ḥisda said:** His mother’s **husband,** who acted as his father, was named **Stada,** but the **one who had relations** with his mother and fathered him was named **Pandeira.** The Gemara asks: Wasn’t his mother’s **husband Pappos ben Yehuda? Rather, his mother** was named **Stada** and he was named ben Stada after her. The Gemara asks: But wasn’t **his mother Miriam, who braided women’s hair?** The Gemara explains: That is not a contradiction. **Rather,** Stada was merely a nickname, **as they say in Pumbedita: This** one **strayed [_setat da_] from her husband.**
+
+Pumbeditha means "having fun with the mouth".
 
 **Gittin 57a, 3-4:**
 
