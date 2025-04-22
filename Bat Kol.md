@@ -18,6 +18,8 @@ This means Divine Voice. An example of its use is in resolving the dispute betwe
 
 ## Distinguishing it from evil whispers
 
+Basically it's just that the Bat Kol cannot contradict the Halakha, or even upset the majority of Rabbi-s, as the Torah is "Not in Heaven." This is illustrated in the story of the Oven of Akhnai below, where Rabbi Eliezer's invocation of Bat Kol was denied by the Rabbi-s.
+
 ### Case 1: Oven of Akhnai
 
 The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This is to say that the meaning of the Torah is not to be uncovered by prophets, or even by the voice of God, but is to be interpreted by humans. Likewise, the Midrashic reading of Deuteronomy 17:11 is that God's will was revealed at Sinai its Grundnorm (basic norm), and he entrusted the interpretation of His will to the Sages.
@@ -150,5 +152,3 @@ Jehoshaphat knew two Prophets won't speak in the same manner. That's why he aske
 See The Sixth Principle: Prophecy, Lesson 19: Various Prophetic Terms and Experiences (Principles VI and VII, Pages 200-215), here: https://books.google.co.cr/books?id=t4TclPFTzfQC&lpg=PP1&pg=PA199#v=onepage&q&f=false
 
 Urim and Thummim are metioned in Exodus 28:31. See more on them at Pages 289-302 (Principles VI and VII, Appendix B: The Priestly Oracle), here: https://books.google.co.cr/books?id=t4TclPFTzfQC&lpg=PP1&pg=PA289#v=onepage&q&f=false
-
-### Case 4: 
