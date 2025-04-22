@@ -99,4 +99,8 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 > 
 > When she returned, **she found him** and saw **that he had lowered his head** in prayer. **She said to him: Arise, you** already **killed my brother. Meanwhile,** the sound of **a _shofar_ emerged from the house of Rabban Gamliel** to announce **that** the _Nasi_ **had died.** Rabbi Eliezer **said to her: From where did you know** that your brother would die? **She said to him: This is** the tradition that **I received from the house of the father of** my **father: All the gates** of Heaven are apt to be **locked, except for the gates** of prayer for victims **of** verbal **mistreatment.**
 
-### Case 2: 
+### Case 2: Spirit of Nabouth lying to Prophets of Ahab
+
+Nabouth was executed by King Ahab based on false charges set up by his wife Jezebel.
+
+1 Kings 22:22-23, 2 Chronicles 18:21-22
