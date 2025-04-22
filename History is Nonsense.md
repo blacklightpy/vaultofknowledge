@@ -5,3 +5,5 @@ Just look at:
 He tried electric shocks to convert homosexuals to heterosexuals? How foolish are people? This is laughable, that such people are even considered geniuses.
 
 This is why I hold that history is a nonsensical creation put in place by God.
+
+#complete 

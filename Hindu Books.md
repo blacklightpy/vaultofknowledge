@@ -38,3 +38,7 @@ Upanishads can also be grouped by their
 - Krishna Yajur-Veda Upanishad·s
 - Shukla Yajur-Veda Upanishad·s
 - Atharva-Veda Upanishad·s
+
+### 1.1.2.
+
+# 2. Naasthika
