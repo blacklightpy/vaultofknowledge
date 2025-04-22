@@ -105,15 +105,33 @@ Nabouth was executed by King Ahab based on false charges set up by his wife Jeze
 
 1 Kings 22:22-23 and 2 Chronicles 18:21-22
 
-It was the Spirit of Nabout who misled him:
+It was the Spirit of Nabout who misled him, and his desire to deceive Ahab also cost him his relationship with G-d, as he said "Go out" and do so:
 
-Sanhedrin 89a, 15
+**Talmud, Seder Nezikin, Sanhedrin 89a, 15-16:**
 
-הַמִּתְנַבֵּא מַה שֶּׁלֹּא שָׁמַע, כְּגוֹן צִדְקִיָּה בֶן כְּנַעֲנָה, דִּכְתִיב: ״וַיַּעַשׂ לוֹ צִדְקִיָּהוּ בֶן כְּנַעֲנָה קַרְנֵי בַרְזֶל״. מַאי הֲוָה לֵיהּ לְמֶעְבַּד? רוּחַ נָבוֹת אַטְעִיתֵיהּ, דִּכְתִיב: ״וַיֹּאמֶר ה׳ מִי יְפַתֶּה אֶת אַחְאָב וְיַעַל וְיִפֹּל בְּרָמֹת גִּלְעָד״. ״וַיֵּצֵא הָרוּחַ וַיַּעֲמֹד לִפְנֵי ה׳ וַיֹּאמֶר אֲנִי אֲפַתֶּנּוּ״. ״וַיֹּאמֶר תְּפַתֶּה וְגַם תּוּכָל צֵא וַעֲשֵׂה כֵן״.
-
-§ The mishna lists among those liable to be executed as a false prophet **one who prophesies that which** he **did not hear.** The Gemara comments: **For example, Zedekiah, son of Chenaanah,** who prophesied that Ahab should wage war against the kingdom of Aram and would be successful, **as it is written: “And Zedekiah, son of Chenaanah, made for him horns of iron,** and said: So says the Lord: With these shall you gore the Arameans, until they are consumed” (II Chronicles 18:10). The Gemara asks: **What was** Zedekiah, son of Chenaanah, **to do?** Why was he held responsible? After all, **the spirit of Naboth misled him, as it is written: “And the Lord said: Who shall entice Ahab, that he may go up and fall at Ramoth Gilead…and there came forth the spirit, and stood before the Lord, and said: I will entice him. And He said…You shall entice him, and shall prevail also; go forth, and do so”** (I Kings 22:20–22).
+> הַמִּתְנַבֵּא מַה שֶּׁלֹּא שָׁמַע, כְּגוֹן צִדְקִיָּה בֶן כְּנַעֲנָה, דִּכְתִיב: ״וַיַּעַשׂ לוֹ צִדְקִיָּהוּ בֶן כְּנַעֲנָה קַרְנֵי בַרְזֶל״. מַאי הֲוָה לֵיהּ לְמֶעְבַּד? רוּחַ נָבוֹת אַטְעִיתֵיהּ, דִּכְתִיב: ״וַיֹּאמֶר ה׳ מִי יְפַתֶּה אֶת אַחְאָב וְיַעַל וְיִפֹּל בְּרָמֹת גִּלְעָד״. ״וַיֵּצֵא הָרוּחַ וַיַּעֲמֹד לִפְנֵי ה׳ וַיֹּאמֶר אֲנִי אֲפַתֶּנּוּ״. ״וַיֹּאמֶר תְּפַתֶּה וְגַם תּוּכָל צֵא וַעֲשֵׂה כֵן״.
+> 
+> § The mishna lists among those liable to be executed as a false prophet **one who prophesies that which** he **did not hear.** The Gemara comments: **For example, Zedekiah, son of Chenaanah,** who prophesied that Ahab should wage war against the kingdom of Aram and would be successful, **as it is written: “And Zedekiah, son of Chenaanah, made for him horns of iron,** and said: So says the Lord: With these shall you gore the Arameans, until they are consumed” (II Chronicles 18:10). The Gemara asks: **What was** Zedekiah, son of Chenaanah, **to do?** Why was he held responsible? After all, **the spirit of Naboth misled him, as it is written: “And the Lord said: Who shall entice Ahab, that he may go up and fall at Ramoth Gilead…and there came forth the spirit, and stood before the Lord, and said: I will entice him. And He said…You shall entice him, and shall prevail also; go forth, and do so”** (I Kings 22:20–22).
+> 
+> אָמַר רַב יְהוּדָה: מַאי ״צֵא״? צֵא מִמְּחִיצָתִי. מַאי רוּחַ? אָמַר רַבִּי יוֹחָנָן: רוּחוֹ שֶׁל נָבוֹת הַיִּזְרְעֵאלִי.
+> 
+> **Rav Yehuda says: What** is the meaning of the apparently unnecessary term: **“Go forth”?** Could the Lord not have sufficed with telling the spirit: Do so? The term means: **Go forth from My proximity.** Since the spirit volunteered to engage in deceit, it was no longer fit to stand in proximity to God. **What** is the identity of the **spirit** that undertook to entice Ahab? **Rabbi Yoḥanan says:** It was **the spirit of Naboth the Jezreelite,** who was eager to take revenge upon Ahab.
 
 Jehoshaphat knew two Prophets won't speak in the same manner. That's why he asked for another Prophet of G-d.
 
-Nabouth's desire to deceive Ahab also cost him his relationship with G-d, as he said "Go out" and do so.
+**Talmud, Seder Nezikin, Sanhedrin 89a, 17-19:**
+
+> הֲוָה לֵיהּ לְמֵידַק, כִּדְרַבִּי יִצְחָק, דְּאָמַר רַבִּי יִצְחָק: סִיגְנוֹן אֶחָד עוֹלֶה לְכַמָּה נְבִיאִים, וְאֵין שְׁנֵי נְבִיאִים מִתְנַבְּאִין בְּסִיגְנוֹן אֶחָד.
+> 
+> The Gemara comments: **It was** incumbent **upon** Zedekiah **to discern** between actual prophecies and false prophecies, **in accordance with** the statement **of Rabbi Yitzḥak, as Rabbi Yitzḥak says:** A prophetic vision relating to **one** and the same **subject matter [_sigenon_] may appear to several prophets, but two prophets do not prophesy** employing **one** and the same **style** of expression.
+> 
+> עוֹבַדְיָה אָמַר: ״זְדוֹן לִבְּךָ הִשִּׁיאֶךָ״. יִרְמְיָה אָמַר: ״תִּפְלַצְתְּךָ הִשִּׁיא אֹתָךְ זְדוֹן לִבֶּךָ״. וְהָנֵי, מִדְּקָאָמְרִי כּוּלְּהוּ כַּהֲדָדֵי, שְׁמַע מִינַּהּ לָא כְּלוּם קָאָמְרִי.
+> 
+> An example of identical content expressed in different styles is the prophecy where **Obadiah said: “The pride of your heart has beguiled you”** (Obadiah 1:3), and **Jeremiah said** a similar message employing slightly different language: **“Your terribleness has deceived you, even the pride of your heart”** (Jeremiah 49:16). **And** with regard to **these** false prophets, **from** the fact **that** in their case **all** the prophets **are saying** their prophecies **like each other,** i.e., employing an identical style, **conclude from it** that **they are saying nothing** of substance and that it is a false prophecy.
+> 
+> דִּילְמָא לָא הֲוָה יָדַע לֵיהּ לְהָא דְּרַבִּי יִצְחָק? יְהוֹשָׁפָט הֲוָה הָתָם, וְקָאָמַר לְהוּ. דִּכְתִיב: ״וַיֹּאמֶר יְהוֹשָׁפָט הַאֵין פֹּה נָבִיא עוֹד לַה׳״. אֲמַר לֵיהּ: הָא אִיכָּא כֹּל הָנֵי. אֲמַר לֵיהּ: כָּךְ מְקוּבְּלַנִי מִבֵּית אֲבִי אַבָּא: סִיגְנוֹן אֶחָד עוֹלֶה לְכַמָּה נְבִיאִים, וְאֵין שְׁנֵי נְבִיאִים מִתְנַבְּאִים בְּסִיגְנוֹן אֶחָד.
+> 
+> The Gemara asks: **Perhaps** Zedekiah, son of Chenaanah, **did not know this** statement **of Rabbi Yitzḥak,** and therefore should not have been held responsible? The Gemara answers: **Jehoshaphat,** king of Judea, **was there, and he said to them** that they were false prophets, **as it is written: “But Jehoshaphat said: Is there not here besides a prophet of the Lord,** that we might inquire of him?” (I Kings 22:7). Ahab **said to him: But aren’t there all these** prophets here? Why seek others? Jehoshaphat **said to** Ahab: **This is** the tradition that **I received from the house of the father of my father,** the house of David: A prophetic vision relating to **one** and the same **subject matter may appear to several prophets, but two prophets do not prophesy** employing **one** and the same **style** of expression. They are false prophets, as they employed the same language when stating their prophecy.
+
+
 
