@@ -668,7 +668,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -700,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"2:256",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -742,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Executions in Judah-ism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bat Kol"
+              "title": "Backlinks for Executions in Judah-ism"
             }
           },
           {
@@ -804,13 +804,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bat Kol.md",
+                "file": "Executions in Judah-ism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bat Kol"
+              "title": "Outline of Executions in Judah-ism"
             }
           },
           {
@@ -875,10 +875,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "375f1d10ee89dfac",
+  "active": "479cc22b3ae37845",
   "lastOpenFiles": [
-    "Executions in Judah-ism.md",
+    "06. Collected Knowledge/rough Notes x6.md",
+    "06. Collected Knowledge/Rough Notes X8.md",
+    "06. Collected Knowledge/Hadith Organizing 2.md",
     "Bat Kol.md",
+    "Executions in Judah-ism.md",
     "Holy Spirit.md",
     "World to Come.md",
     "On the prohibition of wearing stitched clothes in temples.md",
@@ -900,9 +903,6 @@
     "06. Collected Knowledge/Tantras.md",
     "Tantra List Classifying.md",
     "06. Collected Knowledge/Hindu Sampradaayas.md",
-    "Initiation to Hindu Traditions.md",
-    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "Blueness of the Sky in Hindu-ism.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
