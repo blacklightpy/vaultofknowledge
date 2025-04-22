@@ -49,8 +49,6 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 > 
 > § Apropos the topic of verbal mistreatment, **we learned** in a mishna **there** (_Kelim_ 5:10): If **one cut** an earthenware oven widthwise **into segments, and placed sand between each and every segment, Rabbi Eliezer deems it ritually pure.** Because of the sand, its legal status is not that of a complete vessel, and therefore it is not susceptible to ritual impurity. **And the Rabbis deem it ritually impure,** as it is functionally a complete oven.
 > 
-> 59b
-> 
 > וְזֶה הוּא תַּנּוּר שֶׁל עַכְנַאי. מַאי עַכְנַאי? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שֶׁהִקִּיפוּ[הוּ] דְּבָרִים כְּעַכְנָא זוֹ, וְטִמְּאוּהוּ. תָּנָא: בְּאוֹתוֹ הַיּוֹם הֵשִׁיב רַבִּי אֱלִיעֶזֶר כׇּל תְּשׁוּבוֹת שֶׁבָּעוֹלָם, וְלֹא קִיבְּלוּ הֵימֶנּוּ.
 > 
 > **And this is** known as **the oven of _akhnai_.** The Gemara asks: **What** is the relevance of **_akhnai_,** a snake, in this context? **Rav Yehuda said** that **Shmuel said:** It is characterized in that manner due to the fact **that** the Rabbis **surrounded** it **with** their **statements like this snake,** which often forms a coil when at rest, **and deemed it impure.** The Sages **taught: On that day,** when they discussed this matter, **Rabbi Eliezer answered all** possible **answers in the world** to support his opinion, **but** the Rabbis **did not accept** his explanations **from him.**
@@ -103,7 +101,7 @@ The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This 
 
 Nabouth was executed by King Ahab based on false charges set up by his wife Jezebel.
 
-1 Kings 22:22-23 and 2 Chronicles 18:21-22
+In **1 Kings 22:22-23** and **2 Chronicles 18:21-22**, Micaiah said that a lying spirit misinformed the other Prophets gathered by Ahab to tell him that he'll win the war.
 
 It was the Spirit of Nabout who misled him, and his desire to deceive Ahab also cost him his relationship with G-d, as he said "Go out" and do so:
 
@@ -116,6 +114,20 @@ It was the Spirit of Nabout who misled him, and his desire to deceive Ahab also 
 > אָמַר רַב יְהוּדָה: מַאי ״צֵא״? צֵא מִמְּחִיצָתִי. מַאי רוּחַ? אָמַר רַבִּי יוֹחָנָן: רוּחוֹ שֶׁל נָבוֹת הַיִּזְרְעֵאלִי.
 > 
 > **Rav Yehuda says: What** is the meaning of the apparently unnecessary term: **“Go forth”?** Could the Lord not have sufficed with telling the spirit: Do so? The term means: **Go forth from My proximity.** Since the spirit volunteered to engage in deceit, it was no longer fit to stand in proximity to God. **What** is the identity of the **spirit** that undertook to entice Ahab? **Rabbi Yoḥanan says:** It was **the spirit of Naboth the Jezreelite,** who was eager to take revenge upon Ahab.
+
+**Talmud, Seder Nezikin, Sanhedrin 102b, 15-17:**
+
+> ״וַיֵּצֵא הָרוּחַ וַיַּעֲמֹד לִפְנֵי ה׳ וַיֹּאמֶר אֲנִי אֲפַתֶּנּוּ וַיֹּאמֶר ה׳ אֵלָיו בַּמָּה. וַיֹּאמֶר אֵצֵא וְהָיִיתִי רוּחַ שֶׁקֶר בְּפִי כׇּל נְבִיאָיו וַיֹּאמֶר תְּפַתֶּה וְגַם תּוּכָל צֵא וַעֲשֵׂה כֵן״. מַאי רוּחַ? אָמַר רַבִּי יוֹחָנָן: רוּחוֹ שֶׁל נָבוֹת הַיִּזְרְעֵאלִי.
+> 
+> With regard to God’s search for a volunteer to entice Ahab, it is written: **“And there came forth a spirit, and stood before the Lord, and said: I will entice him. And the Lord said to him: With what? And he said: I will go out, and I will be a lying spirit in the mouth of all his prophets. And He said: You shall entice him, and also prevail; go out, and do so”** (I Kings 22:21–22). The Gemara asks: **What spirit** was that? **Rabbi Yoḥanan says:** It was **the spirit of Naboth the Jezreelite,** who sought to take revenge against Ahab.
+> 
+> מַאי ״צֵא״? אָמַר רָבִינָא: ״צֵא מִמְּחִיצָתִי״, שֶׁכֵּן כְּתִיב: ״דֹּבֵר שְׁקָרִים לֹא יִכּוֹן לְנֶגֶד עֵינָי״. אָמַר רַב פָּפָּא: הַיְינוּ דְּאָמְרִי אִינָשֵׁי: דְּפָרַע קִינֵּיהּ מַחְרֵיב בֵּיתֵיהּ.
+> 
+> The Gemara asks: **What** is the meaning of the term **“go out”** that God instructed the spirit? **Ravina says** that it means: **Go out from** within **my partition** and do not return, **as so it is written: “He that speaks falsehoods shall not be established before My eyes”** (Psalms 101:7). The spirit that volunteered to lie may no longer be before God. **Rav Pappa says** that **this** is in accordance with the adage **that people say: One who avenges** due to **his zealotry destroys his** own **house.** The spirit of Naboth that sought revenge was expelled from before God.
+> 
+> ״וַיַּעַשׂ אַחְאָב אֶת הָאֲשֵׁרָה וַיּוֹסֶף אַחְאָב לַעֲשׂוֹת לְהַכְעִיס אֶת ה׳ אֱלֹהֵי יִשְׂרָאֵל מִכֹּל מַלְכֵי יִשְׂרָאֵל אֲשֶׁר הָיוּ לְפָנָיו״. אָמַר רַבִּי יוֹחָנָן: שֶׁכָּתַב עַל דַּלְתוֹת שֹׁמְרוֹן אַחְאָב כָּפַר בֵּאלֹהֵי יִשְׂרָאֵל, לְפִיכָךְ אֵין לוֹ חֵלֶק בֵּאלֹהֵי יִשְׂרָאֵל.
+> 
+> With regard to the verse: **“And Ahab made the _ashera_; and Ahab did more to provoke the Lord, God of Israel, to anger than all the kings of Israel that were before him”** (I Kings 16:33), **Rabbi Yoḥanan says:** It means **that he wrote on the doors of Samaria: Ahab denies the** existence of the **God of Israel, therefore he has no share in the God of Israel.**
 
 Jehoshaphat knew two Prophets won't speak in the same manner. That's why he asked for another Prophet of G-d.
 
