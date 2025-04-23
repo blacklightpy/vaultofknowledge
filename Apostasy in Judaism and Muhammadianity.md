@@ -6,4 +6,3 @@ Muslims argue that thereis more deniability for
 
 As per Judaism, there is no possibility of apostasy, as Judaism isn't a belief system. Regarding idol worshippers
 
-I cannot use the argument that I have provided you to criticize me, because it is sinful for me to do so.
