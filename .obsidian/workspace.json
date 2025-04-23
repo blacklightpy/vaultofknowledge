@@ -636,9 +636,19 @@
               "icon": "lucide-file",
               "title": "Apostasy in Judaism and Muhammadianity"
             }
+          },
+          {
+            "id": "5d2d66e3ed92100f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -843,7 +853,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0fb75f62261a268",
+  "active": "5d2d66e3ed92100f",
   "lastOpenFiles": [
     "Apostasy in Judaism and Muhammadianity.md",
     "Jyothish has \"Mathematical Intelligence\".md",
