@@ -636,19 +636,9 @@
               "icon": "lucide-file",
               "title": "Apostasy in Judaism and Muhammadianity"
             }
-          },
-          {
-            "id": "5d2d66e3ed92100f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -722,6 +712,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Apostasy in Judaism and Muhammadianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -731,7 +722,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Apostasy in Judaism and Muhammadianity"
             }
           },
           {
@@ -783,12 +774,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Apostasy in Judaism and Muhammadianity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Apostasy in Judaism and Muhammadianity"
             }
           },
           {
@@ -853,8 +845,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d2d66e3ed92100f",
+  "active": "a0fb75f62261a268",
   "lastOpenFiles": [
+    "Mahaa Jana-s.md",
     "Apostasy in Judaism and Muhammadianity.md",
     "Jyothish has \"Mathematical Intelligence\".md",
     "Hindu Books.md",
@@ -880,7 +873,6 @@
     "Bat Kol.md",
     "Rabbi Akiva.md",
     "Executions in Judah-ism.md",
-    "06. Collected Knowledge/Specific Problems with Christianity.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
