@@ -1,6 +1,6 @@
 # How Executions Must be Minimal
 
-**Talmud, Sefer Nezikin, Makkot Page 1:10:**
+**Mishnah Makkot Page 1:10 / Babylonian Talmud, Sefer Nezikin, Makkos, Page 7a:2-3:**
 
 - A court that executes once in 7 years is characterised as "destructive".
 - Rabbi Elazar upped it to once in 70 years.
@@ -74,7 +74,7 @@
 
 They are the ones who are known to be killers, but there are no legally valid witnesses, although the truth is clear. They are "indirectly" executed by sending them to a Kippah.
 
-**Sanhedrin Page 81b, 1-4:**
+**Babylonian Talmud, Sanhedrin, Page 81b, 1-4:**
 
 He is put in a Kippah (small chamber) and is fed sparing bread and scant water until his intestines explode.
 
@@ -94,7 +94,7 @@ He is put in a Kippah (small chamber) and is fed sparing bread and scant water u
 > 
 > The mishna teaches: **And feeds him sparing bread and scant water.** The Gemara asks: **What is different** in the mishna **here that** the _tanna_ **teaches** that the court **gives him sparing bread and scant water** in the vaulted chamber, **and what is different** in the previous mishna **there that** the _tanna_ **teaches** that the court **feeds him barley** bread **until his belly ruptures;** are these two different punishments? **Rav Sheshet says:** Both **this and that** are one punishment; first, the court **gives him sparing bread and scant water until his intestines contract** due to his starvation diet, **and then** the court **feeds him barley** bread that expands in his innards **until his belly ruptures.**
 
-**Mishneh Torah by Maimonaides, Sefer Nezikim, Rotzeach (Murder and The Preservation of Life), 4, 8:**
+**Mishneh Torah by Maimonaides, Sefer Nezikim, Rotzeach (Murder and The Preservation of Life), Page 4:8:**
 
 It codifies the above law.
 
@@ -117,7 +117,7 @@ It codifies the above law.
 I found 8 cases.
 ### (1/8) Rabbi Yehuda ben Tabbai sentencing a false witness to death who was not to be punished, by a wrong understanding
 
-**Seder Moed, Chagigah, 16b, 3-7:**
+**Babylonian Talmud, Seder Moed, Chagigah, Page 16b:3-7:**
 
 > מַאן תְּנָא לְהָא דְּתָנוּ רַבָּנַן: אָמַר רַבִּי יְהוּדָה בֶּן טָבַאי: אֶרְאֶה בְּנֶחָמָה אִם לֹא הָרַגְתִּי עֵד זוֹמֵם, לְהוֹצִיא מִלִּבָּן שֶׁל צַדּוּקִין. שֶׁהָיוּ אוֹמְרִים: אֵין עֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיֵּהָרֵג הַנִּידּוֹן.
 > 
@@ -139,7 +139,7 @@ I found 8 cases.
 > 
 > **Rav Aḥa, son of Rava, said to Rav Ashi:** This provides no conclusive proof that the voice was not that of the executed man, as **perhaps** ben Tabbai **appeased** the executed individual in the World-to-Come. **Or,** alternatively, the latter may have **prosecuted him by the law** of Heaven, and that is why his voice can no longer be heard.
 
-**Seder Nezikin, Makkot, 5b, 17-20:**
+**Babylonian Talmud, Seder Nezikin, Makkot, Page 5b:17-20:**
 
 > תַּנְיָא, אָמַר רַבִּי יְהוּדָה בֶּן טָבַאי: אֶרְאֶה בְּנֶחָמָה אִם לֹא הָרַגְתִּי עֵד זוֹמֵם לְהוֹצִיא מִלִּבָּן שֶׁל צַדּוּקִים. שֶׁהָיוּ אוֹמְרִים: אֵין הָעֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיֵּהָרֵג הַנִּדּוֹן.
 > 
@@ -159,19 +159,19 @@ I found 8 cases.
 
 ### (2/8) Shimon ben Shatach executing 80 women who practiced witchcraft
 
-**Seder Nezikin, Sanhedrin, 45b, 21:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 45b:21:**
 
 > הָאִישׁ תּוֹלִין אוֹתוֹ פָּנָיו כְּלַפֵּי הָעָם, וְהָאִשָּׁה פָּנֶיהָ כְּלַפֵּי הָעֵץ; דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים: הָאִישׁ נִתְלֶה וְאֵין הָאִשָּׁה נִתְלֵית. אָמַר לָהֶן רַבִּי אֱלִיעֶזֶר: וַהֲלֹא שִׁמְעוֹן בֶּן שָׁטַח תָּלָה נָשִׁים בְּאַשְׁקְלוֹן? אָמְרוּ לוֹ: שְׁמוֹנִים נָשִׁים תָּלָה, וְאֵין דָּנִין שְׁנַיִם בְּיוֹם אֶחָד.
 > 
 > The corpse of **a man is hung facing the people, but** the corpse of **a woman,** out of modesty, is hung **facing the tree;** this is **the statement of Rabbi Eliezer. And the Rabbis say:** the corpse of **a man is hung, but** the corpse of **a woman is not hung. Rabbi Eliezer said to** the Rabbis: **Did Shimon ben Shataḥ not hang in Ashkelon women** who were found guilty of witchcraft, proving that the corpse of a woman who is executed is also hung? **They said to him:** No proof can be brought from here, as **he hanged eighty women** on that day, **and** the _halakha_ is that the same court **may not judge** even **two** people charged with capital transgressions **on the same day.** It is therefore clear that he was not acting in accordance with Torah law, but rather his execution of the eighty women was an extraordinary punishment necessitated by unusually pressing circumstances.
 
-**Jerusalem Talmud, Seder Moed, Chagigah 2.2, 6:**
+**Jerusalem Talmud, Seder Moed, Chagigah, 2.2.6:**
 
 >  מָאן דְּאָמַר. שִׁמְעוֹן בֶּן שֶׁטַח נָשִׂיא. עוֹבְדָא דְאַשְׁקְלוֹן מְסַיֵיעַ לֵיהּ. תְּרֵין חֲסִידִין הֲווֹן בְאַשְׁקְלוֹן אָֽכְלִין כְּחָדָא וְשָׁתֵיי כְּחָדָא וְלָעֵיי בְּאוֹרַיְתָא כְּחָדָא. דְּמָךְ חַד מִינְּהוֹן וְלָא אִיתְגְּמַל לֵיהּ חֶסֶד. מִית בְּרֵיהּ דְּמַעְיָן מוּכָּס וּבְטֵלַת כָּל־מְדִינְתָא מִיגְמוֹל לֵיהּ חֶסֶד. שׁוֹרִי הַהוּא חֲסִידָא מִצְטָעֵר. אֲמַר. ווַי דְּלֵית לְשֹׂנְאֵיהוֹן דְּיִשְׂרָאֵל כְּלוּם. אִיתְחֲמִי לֵיהּ בְּחֶילְמָא וַאֲמַר לֵיהּ. לָא תִיבְזִי בְנֵי מָרֵיךְ. דֵּין עֲבַד חָדָא חוֹבָא וַאֲזַל בָּהּ. וְדֵין עֲבַד חָדָא טִיבוּ וַאֲזַל בָּהּ. וּמַה חוֹבָא עֲבַד הַהוּא חָסִידָא. [חַס] לֵיהּ לָא עֲבַד חוֹבָה מִן יוֹמוֹי. אֶלָּא פַעַם אַחַת הִקְדִּים תָּפִילִּין שֶׁל רֹאשׁ לִתְפִילִּין שֶׁל יַד. וּמַה טִיבוּ עֲבַד בְּרֵיהּ דְּמַעְיָן מוּכָּס. חַס לֵיהּ לָא עֲבַד טִיבוּ מִן יוֹמוֹי. אֶלָּא חַד זְמָן עֲבַד אֲרִיסְטוֹן לְבוּלֶבָטַייָא וְלָא אֲתוֹן אַכְלוּנֵיהּ. אֲמַר. יֵיכְלוּנֵיהּ מִיסְכֵּינַייָא דְּלָא יִטְ[לוֹן]. וְאִית דְּאָֽמְרִין. בְּשׁוּקָא הֲוָה עֲבַר וּנְפַל מִינֵיהּ חַד עִיגּוּל. וַחֲמָא חַד מִיסְכֵּן וּנְסַב לֵיהּ וְלֹא אָמַר לֵיהּ כְּלוּם [בְּגִין דְּלָא מְסַמְּקִי אַפּוֹיי]. בָּתָר יוֹמִין חֲמָא הַהוּא חָסִידָא לְחָסִידָא חַבְרֵיהּ מְטַיֵיל גַּו גַּנִּין גַּו פַּרְדֵּיסִין גַּו מַבּוּעִין דְּמַיי. וַחֲמָא לִבְרֵיהּ דְּמַעְיָן מוּכָּס לְשׁוֹנוֹ שׁוֹתֵת עַל פִּי הַנָּהָר. בְּעֵי מַמְטֵי מַיָּא וְלָא מַטֵּי. וַחֲמָא לְמִרְיָם בְּרַת עֲלֵי בְצָלִים. רִבִּי לָֽעְזָר בַּר יוֹסֵה אָמַר. תַּלְייָא בְחִיטֵּי בִיזַייָא. רִבִּי יוֹסֵי בֶּן חֲנִינָה אָמַר. צִירָא דְּתִרְעַא דְּגֵיהִנֹּם קְבִיעָ בְּאוּדְנָהּ. אֲמַר לוֹן. לָמָּה דָא כֵן. אָֽמְרִין לֵיהּ. דַּהֲוָות צַייְמָה וּמְפַרְסְִמָה. וְאִית דְּאָֽמְרֵי. דַּהֲוָות צַייְמָה חַד יוֹם וּמְקַזָּה לֵיהּ תְּרֵיי. אֲמַר לוֹן. עַד אֵימַת הִיא כֵן. אָֽמְרֵי לֵיהּ. עַד דְּיֵיתֵי שִׁמְעוֹן בֶּן שֶׁטַח וַאֲנָן מְרִימִין לָהּ מִן גַּו אוּדְנָהּ וְקָֽבְעִין לֵיהּ גַּו אוּדְנֵיהּ. [אֲמַר לוֹן. וְלָמָּה. אָֽמְרֵי לֵיהּ.] דַּאֲמַר. אִין אֲנָא מִתְעֲבִיד נְשִׂייָא אֲנָא מְקַטֵּל חָרָשַׁייָא. וְהָא אִיתְעֲבִיד נְשִׂייָא וְלָא קְטַל חָרָשַׁיָּא. וְהָא אִית תְּמַנִּין נָשִׁין חָרָשִׁייָן יְהִיבִין גַּו מְעָֽרְתָא דְּאַשְׁקְלוֹן מְחַבְּלָן עָֽלְמָא. אֶלָּא אֵיזִיל אֱמוֹר לֵיהּ. אֲמַר לוֹן. אֲנָא דְחִיל דְּהוּא גְּבַר נְשִׂייָא וְלֵית הוּא מְהֵיימְנָתִי. אָֽמְרֵי לֵיהּ. אִי הֵימְנָךְ הָא טַבָּאוּת. וְאִין לָא [עֲבִיד הָדֵין סֵימָנָךְ קוֹמוֹי.] הַב יָדָךְ עַל עֵיינָךְ וְאַפְקָהּ וְחַזְרָהּ וְהִיא חָֽזְרָה. אֲזַל וְתַנֵּי לֵיהּ עוֹבְדָה. בָּעָא מֵיעֲבַד [סֵימָנָא] קוֹמוֹי וְלָא שַׁבְקוּהּ. אֲמַר לֵיהּ. יְדַע אֲנָא דְּאַתְּ גְּבַר חָסִיד. יְתִיר מִן כֵּן אַתְּ יְכִיל עֲבַד. וְלֹא עוֹד אֶלָּא בְּפוּמִי לָא אַמְרֵית. בְּלִיבִּי חַשְׁבֵית. מִיַּד עָמַד שִׁמְעוֹן בֶּן שָׁטָח בְּיוֹם סַגְרִיר וּנְסַב עִימֵּיהּ תּוּמְנִין גּוּבְרִין בְּחִירִין. וִיהַב בִידֵיהוֹן תּוּמְנִיי לְבוּשִׁין נְקִיים וִיבוֹנָין גַּו קִידְרִין חַדְתִּין וְכַפּוֹנוֹן עַל רֵישֵׁיהוֹן. אֲמַר לוֹן. אִין צְפַרִית חַד זְמַן לַבְּשִׁוֹן לְבוּשֵׁיכוֹן. וְאִין צְפַרִית זֵמַן תִּנְייָן עוּלּוּן כּוּלְכוֹן כְּחָדָא. וְכֵיוָן דְּאַתּוּן עָֽלְלִין כָּל־חַד וָחַד מִינְּכוֹן יִגּוֹף חָדָא וִיטַלְטְלִינֵיהּ מִן אַרְעָא. דְּעִיסְקֵיהּ דְּהָדֵין חָרָשָׁא טַלְטְלִתְנֵיהּ מִן אַרְעָא לָא יְכִיל עֲבֲד כְּלוּם. אֲזַל וְקָם לֵיהּ עַל תִּרְעָא דִּמְעָֽרְתָא. אֲמַר לֵיהּ. אויים אויים. פִּתְחוּן לִי. דְּמִן דִּידְכָן אֲנָא. אָֽמְרוּן לֵיהּ. הֵיךְ אֲתִית לְהָכָא בְּהָדֵין יוֹמָא. אֲמַר לוֹן. בֵּינֵי טִיפַּייָא הֲוִינָא מְהַלֵּךְ. אָֽמְרוּן לֵיהּ. וּמָה אֲתִיתָא הָכָא מֵיעֲבֲד. אֲמַר. מֵילַף וּמֵילְפָא. כָּל־מַטֵּי יַעֲבִיד מַה דְהוּא חֲכַם. וַהֲוָת כָּל־חָדָא מִינְּהוֹן אָֽמְרָה מַה דָהִיא אָֽמְרָה וּמַייתֵיָא פִיתָּא. וְחָדָא אָֽמְרָה מַה דָהִיא אָֽמְרָה וּמַייתֵיָא קוּפָּד. אָֽמְרָה מַה דָהִיא אָֽמְרָה וּמַייתֵיָא תַבְשִׁילִין. אָֽמְרָה מַה דָהִיא אָֽמְרָה וּמַייתֵי חֲמָר. אָֽמְרוּן לֵיהּ. אַתְּ מָה אִית בָּךְ עֲבַד. אֲמַר לוֹן. אִית בִּי צְפַר תְּרֵין צַפְרִין וּמַייתִי לְכוֹן תְּמַנִּין גּובְרִין בְּחִירִין. הֲווֵי עִמְּכוֹן חֲדִיי וּמַחְדִּיי לְכוֹן. אָֽמְרוּן לֵיהּ. כֵּן אֲנָן בְּעָיי. צְפַר חָדָא זְמַן וְלָֽבְשׁוּן לְבוּשֵׁיהוֹן. צְפַר זְמַן תִּינְייָן וְעָלוּן כּוּלְהוֹן כְּחָדָא. אֲמַר. כָּל־דְּמַטֵּי יַחְכּוּם זוּגֵיהּ. וְטָעָנוּנוּן וְאָֽזְלוּן וְצַלְבוּנוּן. הָדָא הִיא דְּתַנִּינָן. מַעֲשֶׂה בְשִׁמְעוּן בֶּן שֶׁטַח שֶׁתָּלָה נָשִׁים בְּאַשְׁקְלוֹן. [אָֽמְרוּ. שְׁמוֹנִים נָשִׁים תָּלָה. וְאֵין דָּנִין שְׁנַיִם בְּיוֹם אֶחָד. אֶלָּא שֶׁהָֽיְתָה הַשָּׁעָה צְרִיכָה לְכָךְ.]
 > 
 > What happened in Ascalon supports him who said, Simeon ben Sheṭaḥ was president. Two pious men were in Ascalon. They ate together, drank together, and studied Torah together. One of them died, and nobody attended his funeral. The son of Ma'yan the publican died; the entire city stopped working to attend his funeral. The other pious man started crying and said woe, do the haters of Israel have no hope? He was shown in a dream that it was said to him, do not denigrate your Master’s children. This one committed one sin and died with it, the other one did one good deed and died with it. What sin did this pious man commit? Far be it that he committed a sin, but once he put on his head phylacteries before his arm phylacteries. What good deed did the son of publican Ma'yan do? Far be it that he ever committed a good deed, but once he prepared a breakfast for the city council but they did not come to eat it. He said, let the poor eat it, so it should not go to waste. Some say, he was walking in the street when a loaf fell down from him and a poor person picked it up. He did not say anything [in order not to embarrass him]. After days this pious man saw his comrade the pious walking in gardens, in orchards, at water sources, and he saw the son of Ma'yan the publican with his tongue out on the river bank trying in vain to reach the water. He also saw Miriam, Onion-leaf’s daughter. Rebbi Eleazar bar Yose said, she was hanging on her breast nipples. Rebbi Yose ben Ḥanina said, the hinge of Hell’s door was fixed in her ear. He asked them, why? They told him, because she fasted and made herself famous. Some say, she fasted one day and was dissolute two. He asked them for how long is she in this state? They told him, until Simeon ben Shetah comes, when we shall remove it from her ear and put it in his ear. [He asked them, and why?] They told him, because he said, that if I would be elected Patriarch, I would kill sorcerers. But now he was made Patriarch and he did not kill them. **In fact, there are eighty women sorcerers in the cave of Ascalon who hurt the world.** You shall go and tell him! He told them, I am afraid that since he is Patriarch he will not believe me. They told him, if he will believe you it will be good. In case that he will not believe you, perform a sign in front of him: put your hand on an eye and take it out, put it back and it will be back. He went and told him. He wanted to perform [the miracle] before him, but he told him, I know that you are a pious person; more than that you could do. In fact, I never spoke it with my mouth even though I intended so in my thoughts. Immediately Simeon ben Shetaḥ went on a stormy day and took with him eighty select men. He gave them eighty clean garments, put them in eighty new amphoras, and put them on them upside down. He told them, when I whistle once, put on your garments. When I whistle for the second time, come in all of you together. When you enter, each of you shall choose one and lift her from the ground, since the nature of this sorcery is that separated from the earth it cannot do anything. He went and stood at the entrance to the cave. He said אוים, אוים, open for me, I am one of yours. They asked, how did you come here on such a day? He said, I was walking between the raindrops. They asked him, what do you want to do here? He said, to learn and to teach. Every one should make what he is able to. One of them said what she said and produced bread. One of them said what she said and produced meat. One of them said what she said and produced dishes. One said what she said and produced wine. They asked him, what can you do? He told them, when I whistle twice, I shall bring here eighty select men for your pleasure and entertainment. They told him, that is what we desire. When he whistled the first time, they put on their garments; when he whistled for the second time, they all entered together. He said, every one who comes shall select his mate. **They lifted them, took them away, and crucified them.** That is what we have stated: “It happened that Simeon ben Shetaḥ hanged women in Ascalon. **[They said, he hanged eighty women but one does not try two on the same day.” But the hour needed it.]**
 
-**Seder Nezikin, Sanhedrin, 6, 4:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 6:4:**
 
 > בֵּית הַסְּקִילָה הָיָה גָבוֹהַּ שְׁתֵּי קוֹמוֹת. אֶחָד מִן הָעֵדִים דּוֹחֲפוֹ עַל מָתְנָיו. נֶהְפַּךְ עַל לִבּוֹ, הוֹפְכוֹ עַל מָתְנָיו. אִם מֵת בָּהּ, יָצָא. וְאִם לָאו, הַשֵּׁנִי נוֹטֵל אֶת הָאֶבֶן וְנוֹתְנָהּ עַל לִבּוֹ. אִם מֵת בָּהּ, יָצָא. וְאִם לָאו, רְגִימָתוֹ בְכָל יִשְׂרָאֵל, שֶׁנֶּאֱמַר (דברים יז) יַד הָעֵדִים תִּהְיֶה בּוֹ בָרִאשֹׁנָה לַהֲמִיתוֹ וְיַד כָּל הָעָם בָּאַחֲרֹנָה. כָּל הַנִּסְקָלִין נִתְלִין, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, אֵינוֹ נִתְלֶה אֶלָּא הַמְגַדֵּף וְהָעוֹבֵד עֲבוֹדָה זָרָה. הָאִישׁ תּוֹלִין אוֹתוֹ פָּנָיו כְּלַפֵּי הָעָם, וְהָאִשָּׁה פָּנֶיהָ כְלַפֵּי הָעֵץ, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, הָאִישׁ נִתְלֶה וְאֵין הָאִשָּׁה נִתְלֵית. אָמַר לָהֶן רַבִּי אֱלִיעֶזֶר, וַהֲלֹא שִׁמְעוֹן בֶּן שָׁטָח תָּלָה נָשִׁים בְּאַשְׁקְלוֹן. אָמְרוּ לוֹ, שְׁמֹנִים נָשִׁים תָּלָה, וְאֵין דָּנִין שְׁנַיִם בְּיוֹם אֶחָד. כֵּיצַד תּוֹלִין אוֹתוֹ, מְשַׁקְּעִין אֶת הַקּוֹרָה בָאָרֶץ וְהָעֵץ יוֹצֵא מִמֶּנָּה, וּמַקִּיף שְׁתֵּי יָדָיו זוֹ עַל גַּבֵּי זוֹ וְתוֹלֶה אוֹתוֹ. רַבִּי יוֹסֵי אוֹמֵר, הַקּוֹרָה מֻטָּה עַל הַכֹּתֶל, וְתוֹלֶה אוֹתוֹ כְּדֶרֶךְ שֶׁהַטַּבָּחִין עוֹשִׂין. וּמַתִּירִין אוֹתוֹ מִיָּד. וְאִם לָן, עוֹבֵר עָלָיו בְּלֹא תַעֲשֶׂה, שֶׁנֶּאֱמַר (דברים כא) לֹא תָלִין נִבְלָתוֹ עַל הָעֵץ כִּי קָבוֹר תִּקְבְּרֶנּוּ כִּי קִלְלַת אֱלֹהִים תָּלוּי וְגוֹ'. כְּלוֹמַר, מִפְּנֵי מָה זֶה תָלוּי, מִפְּנֵי שֶׁבֵּרַךְ אֶת הַשֵּׁם, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל:
 > 
@@ -181,13 +181,13 @@ I found 8 cases.
 
 This was done in retaliation for executing the 80 witches by their relatives, as Rashi's commentary clarifies.
 
-**Seder Nezikin, Sanhedrin 44b, 13:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 44b:13:**
 
 > וְכִי הָדְרִי בְּהוּ, מַאי הָוֵי? כֵּיוָן שֶׁהִגִּיד, שׁוּב אֵינוֹ חוֹזֵר וּמַגִּיד! לָא צְרִיכָא, דְּאַף עַל גַּב דְּקָא יָהֲבִי טַעְמָא לְמִילְּתַיְיהוּ, כִּי הָהוּא מַעֲשֶׂה דְּבַעְיָא מֹכְסָא.
 > 
 > The Gemara asks: Even **if** the witnesses **retracted** their testimony, **what of it?** It is still clear that the condemned man is to be executed, as the _halakha_ is that **once** a witness has **stated** his testimony, **he may not then state a revision** of that testimony. In other words, a witness’s retraction of his testimony has no validity. The Gemara answers: **No,** it is **necessary** to state that the condemned man is executed **even when** the witnesses retracted their testimony and **gave an explanation for** having lied in **their** initial **statement.** This is **like that incident involving Ba’aya the tax collector,** where it was discovered that witnesses had falsely accused the son of Rabbi Shimon ben Shataḥ in revenge for the son’s having sentenced to death for sorcery the witnesses’ relatives.
 
-**Rashi on Sanhedrin 44b, 13:**
+**Rashi on Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 44b:13:**
 
 > כיון שהגיד שוב אינו חוזר ומגיד - דבר המכחיש את הראשון דכתיב (ויקרא ה) אם לא יגיד אהגדה קמייתא קפיד קרא ואפי' מיחשדינהו נמי לא מיבעי דאיכא למימר דהאי דהדרי בהו דאמרי מה לנו לחוב בדמו:
 > 
@@ -197,20 +197,20 @@ This was done in retaliation for executing the 80 witches by their relatives, as
 > 
 > Of Bayah the tax-collector - It once happened that Jewish tax-farmer, evil, and a great scholar died on the same day and in the same place. All the people assembled to attend the burial of the great scholar; at the same time the relatives of the tax-farmer brought his bier for burial. Enemies attacked the group, so they all dropped both biers and ran. One student however stayed there guarding the body of his rabbi. Some time later the town dignitaries returned to resume the burial of the great scholar, but the biers of the rabbi and the tax-farmer somehow got exchanged and the protests of the student were of no avail. So the relatives of the tax-farmer buried the great rabbi, which greatly distressed the student; nor could he explain to himself what great sin had caused the one to be buried in such a shameful way and what great merit in the other had brought about his interment with such honor. His rabbi appeared to him in a dream and told him not to be distressed. "Come and let me show you how greatly I am honored in paradise and let me also show you that man in hell with the hinges of the gates of hell turning through his ears. Once I heard people calumniating the sages and did not protest (and that is why I was punished); he once prepared a banquet in honor of a city dignitary who did not show up, and he distributed the food to the poor (and that is why he was rewarded)." The student asked how long the poor man was doomed to suffer such difficult judgment. "Until Shimeon ben Shatach dies," was the reply, "who will then replace him!" "Why?" asked the student; "Because there are Jewish women in Ashkelon who practice witchcraft and he does not subject them to judgment." The following day the student related his dream to Shimeon ben Shatach. The latter assembled eighty tall young men and distributed to each of them a jar with a cloak wrapped up inside (it was a rainy day). He also told them to make sure that they were always eighty in number. "When you come inside," he said, "one of you must raise his jar from the ground; from that moment the witches will have no further hold over you; if that does not work then we can never beat them." Shimeon ben Shatach went into the witches' hall and left the young men outside. When the witches asked him who he was he replied that he was a wizard who had come to test them with his wizardry. "What tricks can you do?" they asked. "Despite the fact that it is raining today I can produce eighty young men with dry talitot!" "Show us!" He went outside and beckoned the young men inside. They removed the talitot from the jars, put them on, and came in. They took each man one witch and carried them, and were able to defeat them, and hung them all up. The relatives of the witches were incensed. Two of them came forward and perjured themselves by testifying that Shimeon ben-Shatach's son had committed some crime that was punishable by death. He was condemned to death. As he was being taken out to be stoned he said, "If I am guilty of this crime may my death bring me atonement, and if I am innocent may it atone for all my other sins and the responsibility for my death will be on the shoulders of the witnesses." When the perjurers heard this they recanted their testimony and explained that they had only acted because of their animosity at the fate of their women-folk, and so he wasn't killed.
 
-**Jerusalem Talmud, Seder Nezikin, Sanhderin, 6, 3:**
+**Jerusalem Talmud, Seder Nezikin, Sanhderin, 6:3:**
 
 > שִׁמְעוֹן בֶּן שֶׁטַח הָיוּ יָדָיו חֲמוּמוֹת. אֲתַא סִיעַת לֵיצָנִין אָֽמְרֵי. הֲבוּ עֵצָה נִיסְהוֹד עַל בְּרֵיהּ וְנִיקְטְלִינֵיהּ. אַסְהִידוּ עֲלוֹי. וְנִגְמַר דִּינוֹ לֵיהָרֵג. מִי נְפַק לְמִיתְקַטְּלָא אָֽמְרֵי לֵיהּ. מָרִי שִׁיקְרִין אֲנָן. בְּעָא אֲבוֹי מַחְזַרְתֵּיהּ. אֲמַר לֵיהּ. אַבָּא. אִם בִּיקַשְׁתָּה לָבוֹא תְשׁוּעָה עַל יָדָךְ עֲשֵׂה אוֹתִי כְאֶסְקוֹפָּה.
 > 
 > Simeon ben Sheṭaḥ’s hands were hot [He was quick in persecuting persons not conforming to pharisaic standards (cf. H. Graetz, _Geschichte der Juden_ 3–1, p. 146).]. There came a group of scoffers who said, let us take counsel, testify against his son, and kill him. They testified against him. He was sentenced to be executed. When he was taken to be killed, they told him, our Master, we are liars [They could confess their perjury with impunity. By Sadducee standards, a false witness in a capital case cannot be punished as long as the victim was not executed. By Pharisaic standards, no self-incrimination is admissible in court.]. His father wanted to return him [To have the conviction overturned, Sanhedrin 6:1:2-3 > Halakhah 1.]; he told him, my father, if you want that salvation come through you [By strict pharisaic (rabbinical) rules, witnesses cannot change their story once the phase of testimony was concluded and deliberations started (_Bava mesia'_ 1:2 Note 30; _Ševi'it_ 10:5 Note 96). By the strict letter of the law, there was no ground for reconsideration.], treat me as a target.
 ### (4/8) Someone being executed during the days of the Geeks for riding a horse on Shabbos
 
-**Seder Nashim, Yevamot, 90b, 10:**
+**Babylonian Talmud, Seder Nashim, Yevamot, Page 90b:10:**
 
 > תָּא שְׁמַע, אָמַר רַבִּי אֶלְעָזָר בֶּן יַעֲקֹב: שָׁמַעְתִּי שֶׁבֵּית דִּין מַכִּין וְעוֹנְשִׁין שֶׁלֹּא מִן הַתּוֹרָה, וְלֹא לַעֲבוֹר עַל דִּבְרֵי תוֹרָה, אֶלָּא לַעֲשׂוֹת סְיָיג לַתּוֹרָה. וּמַעֲשֶׂה בְּאָדָם אֶחָד שֶׁרָכַב עַל סוּס בַּשַּׁבָּת בִּימֵי יְוָנִים — וֶהֱבִיאוּהוּ לְבֵית דִּין וּסְקָלוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ.
 > 
 > The Gemara cites yet another relevant source. **Come** and **hear,** as **Rabbi Elazar ben Ya’akov said: I have heard that** the reason why **the court may administer lashes and punish not by Torah** law, i.e., in response to actions for which one is not liable to receive punishment by Torah law, is **not** so as **to transgress matters of Torah, but to establish a safeguard for the Torah. And** an example of this is **an incident involving a certain person who rode on a horse on Shabbat in the days of the Greeks,** an act that is prohibited by rabbinic law, **and they brought him to the court and they stoned him** as a desecrator of Shabbat. They did so **not because he was deserving of this,** as riding a horse is not punishable by stoning by Torah law, **but because the hour required it,** as at that time Jews were negligent with regard to Shabbat observance.
 
-**Seder Nezikin, Sanhedrin, 46a, 12:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 46a:12:**
 
 > וּמַעֲשֶׂה בְּאֶחָד שֶׁרָכַב עַל סוּס בְּשַׁבָּת בִּימֵי יְוָנִים, וֶהֱבִיאוּהוּ לְבֵית דִּין וּסְקָלוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ. שׁוּב מַעֲשֶׂה בְּאָדָם אֶחָד שֶׁהֵטִיחַ אֶת אִשְׁתּוֹ תַּחַת הַתְּאֵנָה, וֶהֱבִיאוּהוּ לְבֵית דִּין וְהִלְקוּהוּ, לֹא מִפְּנֵי שֶׁרָאוּי לְכָךְ, אֶלָּא שֶׁהַשָּׁעָה צְרִיכָה לְכָךְ.
 > 
@@ -221,7 +221,7 @@ Note that there are three opinions: This is the account of Jesus, this is the ac
 
 It is also said that the Talmud should be telling the story of another Yeshu in Shabbat 104b and Sanhedrin 67a, since the 1st century historian Josephus recorded that Yeshua was crucified, even in the unaltered Arabic manuscripts.
 
-**Seder Nezikin, Sanhedrin, 43a, 20-26:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 43a:20-26:**
 
 > וְכָרוֹז יוֹצֵא לְפָנָיו. לְפָנָיו – אִין, מֵעִיקָּרָא – לָא. וְהָתַנְיָא: בְּעֶרֶב הַפֶּסַח תְּלָאוּהוּ לְיֵשׁוּ הַנּוֹצְרִי, וְהַכָּרוֹז יוֹצֵא לְפָנָיו אַרְבָּעִים יוֹם: ״יֵשׁוּ הַנּוֹצְרִי יוֹצֵא לִיסָּקֵל עַל שֶׁכִּישֵּׁף וְהֵסִית וְהִדִּיחַ אֶת יִשְׂרָאֵל. כׇּל מִי שֶׁיּוֹדֵעַ לוֹ זְכוּת יָבוֹא וִילַמֵּד עָלָיו״. וְלֹא מָצְאוּ לוֹ זְכוּת, וּתְלָאוּהוּ בְּעֶרֶב הַפֶּסַח.
 > 
@@ -259,7 +259,7 @@ From another [blog article](https://www.13petals.org/yeshu-hanged-on-ecrev-pesak
 
 > So from all of this we know that this Baraitha originated when Christianity had already began to praise their “Jesus” as a god, and not earlier. At that moment, when Christianity began to worship Jesus, the Tannaim turned this character called Yeshu into the cosmic or metaphoric leader that led Christianity astray. They were “executing him” now, in their present, retrospectively, so in a sense the text is real, it tells the truth, it’s just not a historical truth. His teachings were now enticing people to worship a man, and therefore, all of his miracles were displaced outside of the Jewish Pharisaic framework, and therefore, they could be nothing but sorcery. Do you see the logic here?
 
-**Seder Nezikin, Sanhderin, 67a, 14-15:**
+**Babylonian Talmud, Seder Nezikin, Sanhderin, Page 67a:14-15:**
 
 ben Setada is thought to be Jesus, and in Aramaic, Miriam who braided womens' hair (Miriam megadla se'ar neshia) sounds a lot like Mary Magdalene, which makes people see parallels. But the story doesn't really add up.
 
@@ -273,14 +273,14 @@ ben Setada is thought to be Jesus, and in Aramaic, Miriam who braided womens' ha
 
 #### More References
 
-**Seder Nezikin, Sanhedrin, 107b, 8:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 107b:8:**
 
 > תָּנוּ רַבָּנַן: לְעוֹלָם תְּהֵא שְׂמֹאל דּוֹחָה וְיָמִין מְקָרֶבֶת, לֹא כֶּאֱלִישָׁע שֶׁדְּחָפוֹ לְגֵחֲזִי בִּשְׁתֵּי יָדַיִם, וְלֹא כִּיהוֹשֻׁעַ בֶּן פְּרַחְיָה שֶׁדְּחָפוֹ לְיֵשׁוּ הַנּוֹצְרִי בִּשְׁתֵּי יָדַיִם.
 > 
 > **The Sages taught: Always have the left** hand **drive** sinners **away and the right draw** them **near,** so that the sinner will not totally despair of atonement. This is **unlike Elisha, who pushed away Gehazi with his two hands** and caused him to lose his share in the World-to-Come, **and unlike Yehoshua ben Peraḥya, who pushed away Jesus the Nazarene with his two hands.**
 > 
 
-**Seder Nezikin, Sanhedrin, 107b, 12-14:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, 107b:12-14:**
 
 > יְהוֹשֻׁעַ בֶּן פְּרַחְיָה מַאי הִיא? כִּדְקַטְלִינְהוּ יַנַּאי מַלְכָּא לְרַבָּנַן, אֲזַל יְהוֹשֻׁעַ בֶּן פְּרַחְיָה וְיֵשׁוּ לַאֲלֶכְּסַנְדְּרִיָּא שֶׁל מִצְרַיִם. כִּי הֲוָה שְׁלָמָא, שְׁלַח לֵיהּ שִׁמְעוֹן בֶּן שָׁטַח: מִינִּי יְרוּשָׁלַיִם עִיר הַקֹּדֶשׁ לִיכִי אָלֶכְּסַנְדְּרִיָּה שֶׁל מִצְרַיִם, אֲחוֹתִי: בַּעֲלִי שָׁרוּי בְּתוֹכֵךְ וְאָנֹכִי יוֹשֶׁבֶת שׁוֹמֵמָה.
 > 
@@ -294,7 +294,7 @@ ben Setada is thought to be Jesus, and in Aramaic, Miriam who braided womens' ha
 > 
 > Jesus **came before** Yehoshua ben Peraḥya **several times** and **said to him: Accept our,** i.e., my, repentance. Yehoshua ben Peraḥya **took no notice of him. One day** Yehoshua ben Peraḥya **was reciting _Shema_** and Jesus **came before him** with the same request. Yehoshua ben Peraḥya **intended to accept his** request, and **signaled him with his hand** to wait until he completed his prayer. Jesus did not understand the signal and **thought: He is driving me away. He went** and **stood a brick** upright to serve as an idol **and he bowed to it.** Yehoshua ben Peraḥya then **said to** Jesus: **Repent.** Jesus **said to him: This** is the tradition that **I received from you: Whoever sins and causes the masses to sin is not given the opportunity to repent. And the Master says: Jesus performed sorcery, incited** Jews to engage in idolatry, **and led Israel astray.** Had Yehoshua ben Peraḥya not caused him to despair of atonement, he would not have taken the path of evil.
 
-**Seder Moed, Shabbat, 104, 5:**
+**Babylonian Talmud, Seder Moed, Shabbat, Page 104:5:**
 
 > הַמְסָרֵט עַל בְּשָׂרוֹ. תַּנְיָא, אָמַר לָהֶן רַבִּי אֱלִיעֶזֶר לַחֲכָמִים: וַהֲלֹא בֶּן סָטָדָא הוֹצִיא כְּשָׁפִים מִמִּצְרַיִם בִּסְרִיטָה שֶׁעַל בְּשָׂרוֹ? אָמְרוּ לוֹ: שׁוֹטֶה הָיָה, וְאֵין מְבִיאִין רְאָיָה מִן הַשּׁוֹטִים. ״בֶּן סָטָדָא״? בֶּן פַּנְדִּירָא הוּא! אָמַר רַב חִסְדָּא: בַּעַל ״סָטָדָא״, בּוֹעֵל ״פַּנְדִּירָא״. בַּעַל פַּפּוּס בֶּן יְהוּדָה הוּא? אֶלָּא אִמּוֹ ״סָטָדָא״. אִמּוֹ מִרְיָם מְגַדְּלָא שְׂעַר נְשַׁיָּא הֲוַאי? אֶלָּא כִּדְאָמְרִי בְּפוּמְבְּדִיתָא: סְטָת דָּא מִבַּעְלַהּ.
 > 
@@ -302,7 +302,7 @@ ben Setada is thought to be Jesus, and in Aramaic, Miriam who braided womens' ha
 
 Pumbeditha means "having fun with the mouth".
 
-**Seder Nashim, Gittin, 57a, 3-4:**
+**Babylonian Talmud, Seder Nashim, Gittin, Page 57a:3-4:**
 
 > אֲזַל אַסְּקֵיהּ בִּנְגִידָא לְיֵשׁוּ הַנּוֹצְרִי, אֲמַר לֵיהּ: מַאן חֲשִׁיב בְּהָהוּא עָלְמָא? אֲמַר לֵיהּ: יִשְׂרָאֵל. מַהוּ לְאִדַּבּוֹקֵי בְּהוּ? אֲמַר לֵיהּ: טוֹבָתָם דְּרוֹשׁ, רָעָתָם לֹא תִּדְרוֹשׁ, כׇּל הַנּוֹגֵעַ בָּהֶן כְּאִילּוּ נוֹגֵעַ בְּבָבַת עֵינוֹ.
 > 
@@ -314,13 +314,13 @@ Pumbeditha means "having fun with the mouth".
 
 ### (6/8) A father and a son are executed for sleeping with a betrothed young woman on Yom Kippur
 
-**Seder Nashim, Gittin, 57a, 17:**
+**Babylonian Talmud, Seder Nashim, Gittin, Page 57a:17:**
 
 > פְּתַח אִידַּךְ וַאֲמַר: מַעֲשֶׂה וְעָמְדוּ אַרְבָּעִים מוֹדִיּוֹת בְּדִינָר; נֶחְסַר הַשַּׁעַר מוֹדְיָא אַחַת, וּבָדְקוּ, וּמָצְאוּ אָב וּבְנוֹ שֶׁבָּאוּ עַל נַעֲרָה מְאוֹרָסָה בְּיוֹם הַכִּפּוּרִים; וֶהֱבִיאוּם לְבֵית דִּין וּסְקָלוּם, וְחָזַר הַשַּׁעַר לִמְקוֹמוֹ.
 > 
 > **Another** Sage **began** his remarks **and said: It once happened that** the market price of **forty _se’a_** of grain **stood at one dinar.** And then **the rate went down one _se’a_ [_modeya_],** so that only thirty-nine _se’a_ were sold for a dinar. **And they checked** to see what sin had caused this, **and they found a father and son who had engaged in sexual intercourse with a betrothed young woman on Yom Kippur. They brought** the offenders **to court and stoned them, and the rate returned to its** former **level.**
 
-**Seder Nezikin, Bava Metzia, 83b, 9-10:**
+**Babylonian Talmud, Seder Nezikin, Bava Metzia, Page 83b:9-10:**
 
 > שְׁלַח לֵיהּ: קוֹצִים אֲנִי מְכַלֶּה מִן הַכֶּרֶם. שְׁלַח לֵיהּ: יָבֹא בַּעַל הַכֶּרֶם וִיכַלֶּה אֶת קוֹצָיו. יוֹמָא חַד פְּגַע בֵּיהּ הָהוּא כּוֹבֵס, קַרְיֵיהּ ״חוֹמֶץ בֶּן יַיִן״. אָמַר: מִדַּחֲצִיף כּוּלֵּי הַאי – שְׁמַע מִינַּהּ רַשִּׁיעָא הוּא. אֲמַר לְהוּ: תִּפְסוּהּ. תַּפְסוּהּ.
 > 
@@ -332,7 +332,7 @@ Pumbeditha means "having fun with the mouth".
 
 ### (7/8) Execution of a rebellious son (Ben Sorer U'moreh)
 
-**Seder Nezikin, Sanhedrin, Chapter 8: Ben Sorer U'moreh, 71a, 15:**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Chapter 8: Ben Sorer U'moreh, Page 71a:15:**
 
 > אִיבָּעֵית אֵימָא: רַבִּי שִׁמְעוֹן הִיא, דְּתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן: וְכִי מִפְּנֵי שֶׁאָכַל זֶה תַּרְטֵימָר בָּשָׂר וְשָׁתָה חֲצִי לוֹג יַיִן הָאִיטַלְקִי, אָבִיו וְאִמּוֹ מוֹצִיאִין אוֹתוֹ לְסׇקְלוֹ? אֶלָּא לֹא הָיָה וְלֹא עָתִיד לִהְיוֹת, וְלָמָּה נִכְתַּב? דְּרוֹשׁ וְקַבֵּל שָׂכָר. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיו וְיָשַׁבְתִּי עַל קִבְרוֹ.
 > 
@@ -340,7 +340,7 @@ Pumbeditha means "having fun with the mouth".
 
 ### (8/8) Execution of an idolatrous city
 
-**Seder Nezikin, Sanhedrin, 71a, 17 (Destruction of an Idolatrous City):**
+**Babylonian Talmud, Seder Nezikin, Sanhedrin, Page 71a:17 (Destruction of an Idolatrous City):**
 
 > מַאי טַעְמָא? אָמַר קְרָא: ״וְאֶת כׇּל שְׁלָלָהּ תִּקְבֹּץ אֶל תּוֹךְ רְחֹבָהּ וְשָׂרַפְתָּ בָאֵשׁ״. וְכֵיוָן דְּאִי אִיכָּא מְזוּזָה, לָא אֶפְשָׁר, דִּכְתִיב: ״לֹא תַעֲשׂוּן כֵּן לַה׳ אֱלֹהֵיכֶם״. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיהָ וְיָשַׁבְתִּי עַל תִּילָּהּ.
 > 
