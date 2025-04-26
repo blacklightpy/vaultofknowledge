@@ -330,9 +330,9 @@ Pumbeditha means "having fun with the mouth".
 > 
 > **After his mind settled,** i.e., when his anger abated, Rabbi Elazar, son of Rabbi Shimon, regretted his hasty decision. **He went after** the laundryman in order **to ransom him** and save him from execution, **but he was unable** to do so. **He read** the verse **about him: “Whoever keeps his mouth and his tongue, keeps his soul from troubles”** (Proverbs 21:23), i.e., had the laundryman not issued his derogatory comment he would have been spared this fate. Ultimately, **they hanged** the laundryman. Rabbi Elazar, son of Rabbi Shimon, **stood beneath the gallows and wept.** Those who were present **said to him: Our teacher, let it not be bad in your eyes** that you caused his death, as this laundryman was a wholly wicked person; you should know **that he and his son** both **engaged in intercourse with a betrothed young woman on Yom Kippur.**
 
-### (7/8) Execution of a rebellious son / ben sorer u'moreh
+### (7/8) Execution of a rebellious son (Ben Sorer U'moreh)
 
-**Seder Nezikin, Sanhedrin, 71a, 15:**
+**Seder Nezikin, Sanhedrin, Chapter 8: Ben Sorer U'moreh, 71a, 15:**
 
 > אִיבָּעֵית אֵימָא: רַבִּי שִׁמְעוֹן הִיא, דְּתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן: וְכִי מִפְּנֵי שֶׁאָכַל זֶה תַּרְטֵימָר בָּשָׂר וְשָׁתָה חֲצִי לוֹג יַיִן הָאִיטַלְקִי, אָבִיו וְאִמּוֹ מוֹצִיאִין אוֹתוֹ לְסׇקְלוֹ? אֶלָּא לֹא הָיָה וְלֹא עָתִיד לִהְיוֹת, וְלָמָּה נִכְתַּב? דְּרוֹשׁ וְקַבֵּל שָׂכָר. אָמַר רַבִּי יוֹנָתָן: אֲנִי רְאִיתִיו וְיָשַׁבְתִּי עַל קִבְרוֹ.
 > 
