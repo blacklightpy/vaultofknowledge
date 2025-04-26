@@ -20,4 +20,10 @@ Talmud pages start from 2a due to typesetting reasons, and it also signifies how
 				- Mishnayot / Mishnah
 				- Gemara
 					- Sugyot / Sugya (Each passage of the Gemara)
-						- 
+						- Components
+							- Baraita
+							- Tosefta
+					- Description
+						- Sugyot can refer to scriptural, Tannaic and Amoraic statements
+						- Gemara points out inconsistencies between Tannaic and Amoraic statements
+						- Gemara explores Halakhic (legal) and Aggadic (story) teachings
