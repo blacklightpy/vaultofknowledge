@@ -1,6 +1,6 @@
 # How Executions Must be Minimal
 
-**Talmud, Sefer Nezikin, Makkot 1:10:**
+**Talmud, Sefer Nezikin, Makkot Page 1:10:**
 
 - A court that executes once in 7 years is characterised as "destructive".
 - Rabbi Elazar upped it to once in 70 years.
@@ -12,7 +12,7 @@
 
 # The Conditions of Execution
 
-**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Sanhedrin, Chapter 12, 1-3:**
+**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Sanhedrin, Page 12, 1-3:**
 
 - A person has to first be warned of the punishment, whether he is Torah scholar or a common person, and he has to acknowledge it, and not just say that he knows there is a punishment. (Even if he says: "I know," he is not liable for punishment until he accepts death upon himself, saying: "It is for this reason that I am doing this." In such a situation, he is executed.)
 - He must commit the crime directly after the warning, or else a warning should be issued again.
@@ -59,7 +59,7 @@
 > 
 > The place where the court conducts the execution is outside the court and removed from it, as implied by Leviticus 24:14: "Take the blasphemer outside the camp...." It appears to me that it should be approximately 6 _mil_ , the distance between the court of Moses our teacher which was before the entrance of the Tent of Meeting and the extremities of the camp of the Jewish people.
 
-**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Eidus (Testimony), Chapter 4, 1:**
+**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Eidus (Testimony), Page 4, 1:**
 
 > עֵדֵי נְפָשׁוֹת צְרִיכִין שֶׁיִּהְיוּ שְׁנֵיהֶם רוֹאִים אֶת הָעוֹשֶׂה עֲבֵרָה כְּאֶחָד. וּצְרִיכִין לְהָעִיד כְּאֶחָד וּבְבֵית דִּין אֶחָד. אֲבָל דִּינֵי מָמוֹנוֹת אֵין צְרִיכִין לְכָךְ. כֵּיצַד. הָיָה אֶחָד רוֹאֵהוּ מֵחַלּוֹן זֶה כְּשֶׁעָבַר הָעֲבֵרָה וְהָעֵד הָאַחֵר רוֹאֵהוּ מֵחַלּוֹן אַחֵר. אִם הָיוּ שְׁנֵי הָעֵדִים רוֹאִין זֶה אֶת זֶה מִצְטָרְפִין וְאִם לָאו אֵין מִצְטָרְפִין. הָיָה זֶה הַמַּתְרֶה בּוֹ רוֹאֶה הָעֵדִים וְהָעֵדִים רוֹאִין אוֹתוֹ אַף עַל פִּי שֶׁאֵין רוֹאִין זֶה אֶת זֶה הַמַּתְרֶה מְצָרְפָן. הָיוּ שְׁנֵי הָעֵדִים בְּבַיִת אֶחָד וְהוֹצִיא אֶחָד מֵהֶן רֹאשׁוֹ מִן הַחַלּוֹן. וְרָאָהוּ זֶה שֶׁעוֹשֶׂה מְלָאכָה בְּשַׁבָּת וְאֶחָד מַתְרֶה בּוֹ. וְהִכְנִיס רֹאשׁוֹ וְחָזַר הָעֵד הַשֵּׁנִי וְהוֹצִיא רֹאשׁוֹ מֵאוֹתוֹ הַחַלּוֹן וְרָאָהוּ. אֵין מִצְטָרְפִין עַד שֶׁיִּרְאוּ שְׁנֵיהֶם כְּאֶחָד. הָיוּ שְׁנֵי עֵדִים רוֹאִין אוֹתוֹ מֵחַלּוֹן זֶה וּשְׁנֵי עֵדִים רוֹאִין אוֹתוֹ מֵחַלּוֹן אַחֵר וְאֶחָד מַתְרֶה בּוֹ בָּאֶמְצַע. בִּזְמַן שֶׁמִּקְצָתָן רוֹאִין אֵלּוּ אֶת אֵלּוּ הֲרֵי זוֹ עֵדוּת אַחַת וְאִם לֹא הָיוּ רוֹאִין אֵלּוּ אֶת אֵלּוּ וְלֹא צֵרֵף אוֹתָן הַמַּתְרֶה הֲרֵי אֵלּוּ שְׁתֵּי עֵדוּיוֹת. לְפִיכָךְ אִם נִמְצֵאת כַּת אַחַת מֵהֶן זוֹמְמִין הוּא וְהֵן נֶהֱרָגִין שֶׁהֲרֵי הוּא נֶהֱרָג בְּעֵדוּת הַכַּת הַשְּׁנִיָּה:
 > 
@@ -74,7 +74,7 @@
 
 They are the ones who are known to be killers, but there are no legally valid witnesses, although the truth is clear. They are "indirectly" executed by sending them to a Kippah.
 
-**Sanhedrin 81b, 1-4:**
+**Sanhedrin Page 81b, 1-4:**
 
 He is put in a Kippah (small chamber) and is fed sparing bread and scant water until his intestines explode.
 
