@@ -668,7 +668,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -742,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Executions in Judah-ism.md",
+                "file": "Talmud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Executions in Judah-ism"
+              "title": "Backlinks for Talmud"
             }
           },
           {
@@ -804,13 +804,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Executions in Judah-ism.md",
+                "file": "Talmud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Executions in Judah-ism"
+              "title": "Outline of Talmud"
             }
           },
           {
@@ -875,10 +875,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "531cb3108e4ba1f5",
+  "active": "1a919daa742f6a06",
   "lastOpenFiles": [
-    "Talmud.md",
     "Executions in Judah-ism.md",
+    "Talmud.md",
     "About Holy Spirit - Why didn't earlier prophets know of the Trinity.md",
     "Orthodox Judah-ism on Sexuality.md",
     "Jyothish has \"Mathematical Intelligence\".md",
