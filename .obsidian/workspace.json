@@ -621,9 +621,19 @@
               "icon": "lucide-file",
               "title": "Jyothish has \"Mathematical Intelligence\""
             }
+          },
+          {
+            "id": "126767cae30babf4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -677,11 +687,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 313.5
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -697,7 +707,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jyothish has \"Mathematical Intelligence\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -707,7 +716,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jyothish has \"Mathematical Intelligence\""
+              "title": "Backlinks"
             }
           },
           {
@@ -759,13 +768,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jyothish has \"Mathematical Intelligence\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jyothish has \"Mathematical Intelligence\""
+              "title": "Outline"
             }
           },
           {
@@ -830,11 +838,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb2c4d91aa1d699",
+  "active": "126767cae30babf4",
   "lastOpenFiles": [
+    "Jyothish has \"Mathematical Intelligence\".md",
     "Shoodras who learned Vedas.md",
     "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
-    "Jyothish has \"Mathematical Intelligence\".md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",
     "Apostasy in Judah-ism and Muhammadianity.md",
     "Mahaa Jana-s.md",
