@@ -13,5 +13,11 @@ Structure:
 Talmud pages start from 2a due to typesetting reasons, and it also signifies how the Torah Shebaal Peh is not standalone, but is a continuation of Torah Shebichsav.
 
 
-- Sederim (Six Orders)
-	- Masekhtot
+- Sederim / Seder (Orders / Order): 6
+	- Masekhtot / Masekhet (Tractates / Tractate): 60 / 63
+		- Perakim / Perek (Chapters / Chapter): 517
+			- Building Blocks
+				- Mishnayot / Mishnah
+				- Gemara
+					- Sugyot / Sugya (Each passage of the Gemara)
+						- 
