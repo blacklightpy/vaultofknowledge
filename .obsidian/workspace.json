@@ -613,13 +613,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jyothish has \"Mathematical Intelligence\".md",
+                "file": "Jyothish has `Mathematical Intelligence`.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jyothish has \"Mathematical Intelligence\""
+              "title": "Jyothish has `Mathematical Intelligence`"
             }
           },
           {
@@ -854,8 +854,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -875,13 +874,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a919daa742f6a06",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Executions in Judah-ism.md",
     "Talmud.md",
     "About Holy Spirit - Why didn't earlier prophets know of the Trinity.md",
     "Orthodox Judah-ism on Sexuality.md",
-    "Jyothish has \"Mathematical Intelligence\".md",
+    "Jyothish has `Mathematical Intelligence`.md",
     "Shoodras who learned Vedas.md",
     "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",
