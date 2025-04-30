@@ -854,7 +854,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -874,7 +875,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "1a919daa742f6a06",
   "lastOpenFiles": [
     "Executions in Judah-ism.md",
     "Talmud.md",
