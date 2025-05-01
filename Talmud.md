@@ -10,7 +10,7 @@ Structure:
 1. Daf (Middle Portion: Mishnah + Gemara; Also the main folio)
 2. Tosafot (External Portion: Addentums)
 
-The Bavli Talmud's pagination starts from page 2a. The Baalbatishe explanation is that it is due to typesetting reasons, where the title page is considered page 1. The Yeshivache explanation is that it signifies how the Torah Shebaal Peh is not standalone, but is a continuation of Torah Shebichsav. Another reason I'd say is because page 1 could not be a folio since the left side is part of the book cover.
+The Bavli Talmud's pagination starts from page 2a. The Baalbatishe explanation is that it is due to typesetting reasons, where the title page is considered page 1. The Yeshivashe explanation is that it signifies how the Torah Shebaal Peh is not standalone, but is a continuation of Torah Shebichsav. Another reason I'd say is because page 1 could not be a folio since the left side is part of the book cover.
 
 Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (left and right).
 
