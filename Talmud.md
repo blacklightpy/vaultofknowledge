@@ -1,4 +1,4 @@
-It is called the Torah Shebaal Peh (Oral Torah), and is a continuation of the Torah Shebichsav (Written Torah).
+It is called the Torah Shebaal Peh (Oral Torah), and is a continuation of the Torah Shebichsav (Written Torah). It is also called the Shas (Six), referring to the Six Orders of the Talmud.
 
 Versions:
 
@@ -7,12 +7,12 @@ Versions:
 
 Structure:
 
-1. Daf (Middle Portion: Mishnah + Gemara)
+1. Daf (Middle Portion: Mishnah + Gemara; Also the main folio)
 2. Tosafot (External Portion: Addentums)
 
-The Bavli Talmud's pagination starts from page 2a. The Baalbatishe explanation is that it is due to typesetting reasons, where the title page is considered page 1. The Yeshivache explanation is that it signifies how the Torah Shebaal Peh is not standalone, but is a continuation of Torah Shebichsav.
+The Bavli Talmud's pagination starts from page 2a. The Baalbatishe explanation is that it is due to typesetting reasons, where the title page is considered page 1. The Yeshivache explanation is that it signifies how the Torah Shebaal Peh is not standalone, but is a continuation of Torah Shebichsav. Another reason I'd say is because page 1 could not be a folio since the left side is part of the book cover.
 
-Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b.
+Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (left and right).
 
 - Sederim / Seder (Orders / Order): 6
 	- Masekhtot / Masekhet (Tractates / Tractate): 60 / 63
@@ -29,10 +29,21 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b.
 						- Gemara points out inconsistencies between Tannaic and Amoraic statements
 						- Gemara explores Halakhic (legal) and Aggadic (story) teachings
 
+### Titles
+
 A Sage from the Mishnah-ic era is called a Tanna, while a Sage from the Talmud-ic era is called an Amora.
 
 Rabbi is a formal title only given to sages through the ceremony called the Shemichah, done within Eretz Yisra'El. The ones who did not have this done are called Rav. So anyone who is called Rav is a Babylonian Amora.
 
-The Sefaria project has a mapping of the beginning and end of each Mishna to it's Daf in the Bavli Talmud, [here](https://github.com/Sefaria/Sefaria-Project/blob/master/data/Mishnah%20Map.csv). There are 2391 Mishnah-s.
+### Mapping of the Mishnah-s to the Daf-s
 
+The Sefaria project has a mapping of the beginning and end of each Mishnah to it's Daf in the Bavli Talmud, [here](https://github.com/Sefaria/Sefaria-Project/blob/master/data/Mishnah%20Map.csv). There are 2391 Mishnah-s.
+
+### Reading
+
+Daf Yomi (Daily Daf) refers to the Daf that is read each day. It takes 2711 days, or 7.5 years to complete the entire Talmud in this manner, as there are 2711 Daf-s.
+
+This is often done as part of the Daf Hayomi program, where all people read the same Daf each day. This idea was put forward by Rabbi Meir Shapiro in 1923.
+
+The Siyum HaShas (Completion of the Six) is the event marking the completion of one Daf Yomi cycle, and it is held every 7.5 years.
 
