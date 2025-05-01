@@ -41,9 +41,9 @@ The Sefaria project has a mapping of the beginning and end of each Mishnah to it
 
 ### Reading
 
-Daf Yomi (Daily Daf) refers to the Daf that is read each day. It takes 2711 days, or 7.5 years to complete the entire Talmud in this manner, as there are 2711 Daf-s.
+Daf HaYomi (Daf of the Day) refers to the Daf that is read each day. It takes 2711 days, or 7.5 years to complete the entire Talmud in this manner, as there are 2711 Daf-s.
 
-This is often done as part of the Daf Hayomi program, where all people read the same Daf each day. This idea was put forward by Rabbi Meir Shapiro in 1923.
+This is often done as part of the Daf Yomi (Daily Daf) program, where all people read the same Daf each day. This idea was put forward by Rabbi Meir Shapiro in 1923.
 
 The Siyum HaShas (Completion of the Six) is the event marking the completion of one Daf Yomi cycle, and it is held every 7.5 years.
 
