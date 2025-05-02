@@ -1,9 +1,10 @@
 
 - Violating treaties that do not have a definite term
 - Fighting the Kuffaar (disbelievers) when the ratio of Muhammadians to Kuffaar is greater than 1:2
-- Killing Jews, Christians and Zoroastrians who refuse to pay the Jizyah and acknowledge humiliation
 - Killing the polytheists who are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s)
+- Killing Jews, Christians and Zoroastrians are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) who refuse to pay the Jizyah and acknowledge humiliation
 - Killing apostates
+- Considering anyone who defies the majority's interpretation of the Qur'aan and Sunnah as an apostate
 - Killing anyone who curses Muhammad or Allaah
 - Killing anyone who finds a fault with Muhammad or Allaah
 - Striking monks who shave the middle of their heads, to expel the devil
@@ -60,27 +61,32 @@
 - Not taking disbelievers as allies
 - Insulting disbelievers
 
-### Deception
+### Encouragement of Deception
 
 - Considering war to be deception
 - Permitting any lies to be told during war
 - Encouraging Muhammadians to hide the sins of other Muhammadians so their sins will be hidden by Allaah
 
-### War Encouragement
+- Acting according to good and Hadeeths is fine, but others cannot complain about those Hadeeths, since not all Muhammadians follow it
+- Weak Hadeeths are used in Da'wah, since it's usage is not forbidden, as they have plausible deniability
+
+### Encouragement of Hostile Attitudes
 
 - Considering that the end of Allah's purpose won't arrive until Jews fight the Muhammadians and they are killed
 - Considering that the end of Allah's purpose won't arrive until Muhammadians fight the Turks
 - Considering that the end of Allah's purpose won't arrive until Muhammadians fight people who have shoes made of hair
 - Considering that the end of Allah's purpose won't arrive until Muhammadians fight people who have small eyes
 
-### Inhumane
+### Inhumane towards animals
 
 - Killing black dogs without limit
 - Killing snakes without limit
 - Killing geckos without limit
 - Killing salamanders without limit
 
-- Lashing adulterers
+### Inhumane punishments
+
+- Considering it necessary to give 100 lashes to adulterers
 - Stoning adulterers to death
 
 ### Crazy
@@ -100,6 +106,8 @@
 
 - Considering it to be realistic that a woman would consent to sex right after all the men in her family and the whole tribe was beheaded and her newly wed husband was tortured and killed for not revealing the location of their treasure
 - Considering it to be realistic for a woman who gave herself in for marriage so that her tribe won't be killed to be happy in that marriage
+
+[Concern for me: If I think that it is not realistic, what opinion do I have of the Prophet? After thinking, I say: consenting to the marriage and intercourse was up to her, and coercing one to do so is not forbidden according to Muhammadians, so there is no fault according to the Muhammadian rationale]
 
 ### Prophet Contradictions
 

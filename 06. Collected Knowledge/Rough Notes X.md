@@ -168,7 +168,7 @@
 - To me your way, to you yours
 	- This was a Meccan verse
 	- This was a plea to leave the Muslims alone
-	- This was also a sign of disrespect - as how it was stated without "I will not follow your way"
+	- This was also a sign of disrespect - as he was never forced to follow their way (as I say in my next point)
 	- Mohammed was tolerated as someone who claims to be a divine messenger, until he insulted their history
 
 - We only have to fight oppressors
