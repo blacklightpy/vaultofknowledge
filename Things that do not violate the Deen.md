@@ -8,60 +8,52 @@ Todo:
 (1) I must keep proofs for each of these claims (there are 73 of them)
 (2) I must point out that these are my findings based on my study of those sources, and anyone who knows better than me should correct me
 
-I must also split this into (1) things that are "not don't-s" and (2) do-s. For example, if violence was simply not prohibited, it would not be an encouragement to go do it. Now, all things are stated to be not in violation of the Deen, but within this listing, I could point out which ones are simply not forbidden and which ones are encouraged. Also note that the do-s are different according to Maddhabs, so I will list them according to my knowledge of them. The specific categories I will use are (1) Not Forbidden, (2) Encouraged (that which is recommended) (3) Commanded (that which is mandatory to do), (4) Mandatory (that which should not be skipped).
+I must also split this into (1) things that are "not don't-s" and (2) do-s. For example, if violence was simply not prohibited, it would not be an encouragement to go do it. Now, all things are stated to be not in violation of the Deen, but within this listing, I could point out which ones are simply not forbidden and which ones are encouraged. Also note that the do-s are different according to Maddhabs, so I will list them according to my knowledge of them. The specific categories I will use are (1) Results of what was Instructed and (2) Results of what was not forbidden.
+
+Since saying "do X" does not tell you whether something is advised or mandatory, I will only consider as "mandatory" the things that are said as don't-s. As for teachings, I will consider them commanded
 
 ---
-## About Violence
+## About Fighting and Killing
 
-### Not Forbidden
+### Results of what was Instructed
 
 - Violating treaties that do not have a definite term
-
-### Encouraged
-
-
-### Commanded
-
 - Fighting the Kuffaar (disbelievers) when the ratio of Muhammadians to Kuffaar is greater than 1:2
-- Killing the polytheists who are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) [Exception: Maaliki Maddhab allows all polytheists to pay Jizya too, and Hanaafi Maddhab allows all but Arab polytheists to pay Jizya]
+- Fighting the polytheists who are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) [Exception: Maaliki Maddhab allows all polytheists to pay Jizya too, and Hanaafi Maddhab allows all but Arab polytheists to pay Jizya]
 - Striking monks who shave the middle of their heads, to expel the devil
-- Killing Jews, Christians and Zoroastrians are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) who refuse to pay the Jizyah and acknowledge humiliation
+- Fighting Jews, Christians and Zoroastrians are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) who refuse to pay the Jizyah and acknowledge humiliation
 - Killing atheists by stoning
 - Killing apostates
-- Burning the houses of believers who skip prayers
 - Considering anyone who defies the majority's interpretation of the Qur'aan and Sunnah as an apostate
-
-### Mandatory
-
+- Burning the houses of believers who skip prayers
 - Killing anyone who curses Muhammad or Allaah
 - Killing anyone who finds a fault with Muhammad or Allaah
 
-## Post Struggle
+## Handling Defeated Disbelievers after Fighting
 
-### Not Forbidden
-
-### Encouraged
+### Results of what was Instructed
 
 - Killing any defeated disbelieving male except those who do not have armpit hair, are elderly, or blind
 - Taking defeated disbelieving males as slaves
 - Taking the women of the defeated disbelievers as slaves
 - Considering the marriages of the captured women to be annulled even if their husbands are alive
-- Taking the wife of a slave man from him
 
-### Commanded
+### Results of what was not Forbidden
+
+- Taking the wife of a slave man from him
 
 ## Handling of Slaves
 
-### Encouraged
+### Results of what was Instructed
 
 - Buying and selling slave men
 - Encouraging the ownership of slaves, since freeing one's slaves frees them from their sins
-- Encouraging people to sell slaves to other Muhammdians instead of freeing them, as Muhammad advised
+- Encouraging people to sell slaves to other Muhammadians instead of freeing them, as Muhammad advised
 - Considering trading multiple disbelieving slaves - by the example of two black slaves -  to buy believing slaves
 
 ## Handling of Female Slaves
 
-### Encouraged
+### Results of what was Instructed
 
 - Having intercourse with the women of the disbelievers who have been defeated if she does not object
 - Buying and selling captive women after intercourse if the owner always pulled out, or if she is not pregnant
@@ -69,14 +61,14 @@ I must also split this into (1) things that are "not don't-s" and (2) do-s. For 
 
 ## Handling of Female Slaves who are Pregnant
 
-### Encouraged
+### ???
 
 - Keeping the mothers of their children slaves
 - Keeping the children of slave women slaves
 
 ## Marriage and Intercourse Rules
 
-### Encouraged
+### Results of what was Instructed
 
 - Marrying and having intercourse with any female who can withstand intercourse from among the Muhammadians or the People of the Book, as long as long as she or does not object
 - Considering silence from a woman as consent
@@ -84,46 +76,43 @@ I must also split this into (1) things that are "not don't-s" and (2) do-s. For 
 
 ## Treatment of Women
 
-### Encouraged
+### Results of what was Instructed
 
 - Considering wives one's property acquired through payment to her father
 - Prohibiting a wife from leaving one's property in any case
 - Prohibiting a wife from divorcing the husband without the help of a court (scary how a woman can be locked up in a large apartment if one is very rich, such that her screams won't be heard)
-
-### Commanded
-
 - Hitting wives who disobey
 - Considering that a man should not questioned of his authority to beat his wife
 
 ## Rights of women
 
-### Commanded
+### Results of what was Instructed
 
 - Not allowing any number of female witnesses to be able to report crimes
 - Considering it impermissible for a woman to go out without covering their face, hair and hands
 
 ## Handling of gay and effeminate men
 
-### Commanded
+### Results of what was Instructed
 
 - Men who have sexual intercourse with other men are to be killed
 - Effeminate men are to be expelled from one's houses
 
 ## Typical stereotyping of women
 
-### Encouraged
+### Results of what was Instructed
 
 - Considering women to be the worst trials
 - Considering women to approach like the devil
 - Considering the sight of women to be disruptive to prayer
 - Considering praying for the good in a woman and protection from the evil in her
 - One must prefer a younger woman to an older woman, because one can play with her
-### Commanded
-
 - Expecting wives to provide sex anytime one is tempted by another woman
 
 
 ## Emotionally abusive behaviour
+
+### Results of what was Instructed
 
 - Considering wives insignificant considering the maidens in heaven [RED, Abusive]
 - Considering women who complain about being beat to not be the best of women [RED, Abusive]
