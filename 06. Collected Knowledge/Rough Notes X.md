@@ -19,7 +19,7 @@
 - Her dolls were with her because she hadn't menstruated when she was 9 (from Hadiths)
 
 - Tafsir (IK) (I guess Iddah for pre-pubescent women, and Jihad)
-- Something from Fiqh (varies by Madhhabs)
+- Something from Fiqh (varies by Madhhabs - should be killing monks and the elderly)
 
 - Husbands can hit their wives, so long as it's not on the face and if it doesn't leave marks
 - Women are the worst trial for men

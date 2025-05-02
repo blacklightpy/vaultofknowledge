@@ -12,6 +12,7 @@
 - Taking the women of the defeated disbelievers as slaves
 
 - Buying and selling slave men
+- Encouraging the ownership of slaves, since freeing one's slaves frees them from their sins
 - Having intercourse with the women of the disbelievers who have been eliminated if she does not object
 - Buying and selling captive women after intercourse if the owner always pulled out, or if she is not pregnant
 
@@ -20,10 +21,36 @@
 
 - Marrying and having intercourse with any female who can withstand intercourse from among the Muhammadians or the People of the Book, as long as long as she or does not object
 
-- Considering females of any age to be able to withstand intercourse unless there is a clear objection that does not contradict the Sunnah - where a 9 year old girl too was demonstrated to be fit.
+- Considering females of any age to be able to withstand intercourse unless there is a clear objection that does not contradict the Sunnah - where a 9 year old girl who was pre-pubescent, too was demonstrated to be fit.
 
 - Considering wives one's property acquired through payment to her father
 - Prohibiting a wife from leaving one's property in any case
 - Hitting wives who disobey
 
 - Not allowing any number of female witnesses to be able to report crimes
+
+- Men who have sexual intercourse with other men are to be killed
+- Effeminate men are to be expelled from one's houses
+
+### Immoral
+
+- Considering women to be the worst trials
+- Considering women to approach like the devil
+- Considering the sight of women to be disruptive to prayer
+- Considering wives insignificant considering the maidens in heaven [RED, Abusive]
+- Considering praying for the good in a woman and protection from the evil in her
+- Considering angels to curse wives who refuse sex anytime the man asks them for it
+- Expecting wives to provide sex anytime he is tempted by another woman
+- Considering women who complain about being beat to not be the best of women [RED, Abusive]
+
+- Not taking disbelievers as allies
+- Insulting disbelievers
+
+### Inhumane
+
+- Killing dogs without limit
+- Killing snakes without limit
+
+### Crazy
+
+- Killing a believing boy if one fears that he may disbelieve later
