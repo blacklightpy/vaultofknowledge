@@ -6,15 +6,19 @@
 - Killing apostates
 - Killing anyone who curses Muhammad or Allaah
 - Killing anyone who finds a fault with Muhammad or Allaah
+- Striking monks who shave the middle of their heads, to expel the devil
 
 - Killing any defeated disbelieving male except those who do not have armpit hair, are elderly, or blind
 - Taking surrendered males as slaves
 - Taking the women of the defeated disbelievers as slaves
+- Considering the marriages of the captured women to be annulled even if their husbands are alive
+- Taking the wife of a slave man from him
 
 - Buying and selling slave men
 - Encouraging the ownership of slaves, since freeing one's slaves frees them from their sins
-- Having intercourse with the women of the disbelievers who have been eliminated if she does not object
+- Having intercourse with the women of the disbelievers who have been defeated if she does not object
 - Buying and selling captive women after intercourse if the owner always pulled out, or if she is not pregnant
+- Sharing slave women with others including one's own family for sex as long as they are not charged for it, if she does not object
 
 - Keeping the mothers of their children slaves
 - Keeping the children of slave women slaves
@@ -43,8 +47,13 @@
 - Expecting wives to provide sex anytime he is tempted by another woman
 - Considering women who complain about being beat to not be the best of women [RED, Abusive]
 
+- Men can have sex with any of their slave women, but women cannot have sex with any of their slave men
+
 - Not taking disbelievers as allies
 - Insulting disbelievers
+
+- Considering war to be deception
+- Permitting any lies to be told during war
 
 ### Inhumane
 
@@ -54,3 +63,9 @@
 ### Crazy
 
 - Killing a believing boy if one fears that he may disbelieve later
+- Drinking water from dirty wells by considering water to always be pure
+
+### Prophet Exemptions
+
+- Allowing the Prophet to break any term of any treaty without consequence as long as Allaah gives an exemption
+- Allowing the Prophet exemptions from several rules
