@@ -1,7 +1,9 @@
 Is it because of religion? No.
 
+In fact, some people have made up assumption that I could be lying or that I'm a prude. They are foolish beyond Jyothish's comprehension. This is what happened.
+
 (1) I have short sight
-(2) The Kerala government passed a law stating that if someone looks at a woman for more than 14 seconds, he can be sentenced to 3 months in jail
+(2) The Kerala government passed a rule in 2016 stating that if someone looks at a woman for more than 14 seconds, he can be sentenced to 3 months in jail
 
 As you can see, from (1) and (2), I found that it is better for me to not look at women.
 

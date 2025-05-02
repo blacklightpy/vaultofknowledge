@@ -2,7 +2,7 @@ Finding faults with Muhammad or Allaah is punishable by death.
 
 But following systems of belief other than the Deen of Muhammad is not problematic. So according to my system of belief which is not Muhammadian, I consider some things that are permitted in the Deen of Muhammad to be not compatible with my system of belief.
 
-(1) I must keep proofs for each of these claims
+(1) I must keep proofs for each of these claims (there are 73 of them)
 (2) I must point out that these are my findings based on my study of those sources, and anyone who knows better than me should correct me
 
 ---
@@ -11,15 +11,14 @@ But following systems of belief other than the Deen of Muhammad is not problemat
 - Violating treaties that do not have a definite term
 - Fighting the Kuffaar (disbelievers) when the ratio of Muhammadians to Kuffaar is greater than 1:2
 - Killing the polytheists who are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s)
+- Striking monks who shave the middle of their heads, to expel the devil
 - Killing Jews, Christians and Zoroastrians are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) who refuse to pay the Jizyah and acknowledge humiliation
+- Killing atheists by stoning
 - Killing apostates
+- Burning the houses of believers who skip prayers
 - Considering anyone who defies the majority's interpretation of the Qur'aan and Sunnah as an apostate
 - Killing anyone who curses Muhammad or Allaah
 - Killing anyone who finds a fault with Muhammad or Allaah
-
-- Striking monks who shave the middle of their heads, to expel the devil
-- Killing atheists by stoning
-- Burning the houses of believers who skip prayers
 
 ### Post Struggle
 
@@ -94,7 +93,6 @@ But following systems of belief other than the Deen of Muhammad is not problemat
 - Considering war to be deception
 - Permitting any lies to be told during war
 - Encouraging Muhammadians to hide the sins of other Muhammadians so their sins will be hidden by Allaah
-
 - Acting according to good and Hadeeths is fine, but others cannot complain about those Hadeeths, since not all Muhammadians follow it
 - Weak Hadeeths are used in Da'wah, since it's usage is not forbidden, as they have plausible deniability
 
@@ -114,10 +112,11 @@ But following systems of belief other than the Deen of Muhammad is not problemat
 - Killing geckos without limit
 - Killing salamanders without limit
 
-### Inhumane punishments
+### Inhumane punishments to civil crimes
 
-- Considering it necessary to give 100 lashes to adulterers
-- Stoning adulterers to death
+- Considering it necessary to give 100 lashes to adulterers [which]
+- Considering it necessary to stone adulterers to death [which]
+- Considering it necessary to cut off the hands of robbers
 
 ### Harmful Behaviours
 
