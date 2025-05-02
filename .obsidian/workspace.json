@@ -745,7 +745,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"i won't\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -920,9 +920,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "74edeb850f30e918",
   "lastOpenFiles": [
     "Post - Why I do not look at women.md",
+    "'In the pre-Muhammadian era'.md",
     "Things that do not violate the Deen.md",
     "06. Collected Knowledge/Rough Notes X.md",
     "06. Collected Knowledge/Rough Notes X2.md",
@@ -948,7 +949,6 @@
     "My Stance on Weapons.md",
     "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
     "Marriage Nonsense.md",
-    "My Opinion on Varna-Aashrama.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",

@@ -1,0 +1,3 @@
+There's a lot of things described as "oppressive practices in the pre-Muhammadian era", such as how men would repudiate their wives indefinitely and take them back at will, while the Qur'aan limits the number of repudiations to three, after which the woman will be divorced, and she should marry another man and consummate the marriage and be divorced by him to be legal for the first person to marry her again.
+
+After considering the nonsensical nature of this claim, basically it's not like everyone was doing this - like they talk about how before Muhammad's Deen people used to have sex with animals, and so on. 

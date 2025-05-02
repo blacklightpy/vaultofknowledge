@@ -78,11 +78,11 @@ Not Forbidden (Derived)
 
 - Having intercourse with the captive women of the disbelievers who have been defeated if she does not object
 - Buying and selling captive women after intercourse if the owner always pulled out, or if she is not pregnant
-- Sharing slave women with others including one's own family for sex as long as they are not charged for it, if she does not object
 
 ### Not Forbidden
 
 - Not giving them rights beyond basic survival rights to coerce them into having sex
+- Sharing slave women with others including one's own family for sex as long as they are not charged for it, if she does not object
 
 ## Handling of Female Slaves who are Pregnant
 
@@ -93,7 +93,7 @@ Not Forbidden (Derived)
 
 ## Marriage and Intercourse Rules
 
-### Results of what was Instructed
+### Instructed with Single Choice
 
 - Marrying and having intercourse with any female who can withstand intercourse from among the Muhammadians or the People of the Book, as long as long as she or does not object
 - Considering silence from a woman as consent
@@ -104,13 +104,14 @@ Not Forbidden (Derived)
 ### Instructed with Single Choice
 
 - Considering wives as one's property acquired through payment to her father
-- Prohibiting a wife from divorcing the husband without what he considers to be a valid reason (scary how a woman can be locked up in a large apartment if one is very rich, such that her screams won't be heard)
+- Prohibiting a wife from divorcing the husband without what he considers to be a valid reason [since it was considered that a man would never want to divorce his wife without a reason, and female nature is to want rationality and self-control - as a couple would get bad reputation since a divorce would expose their family secrets to the public]
+- Prohibiting a couple from re-marrying without the wife marrying another husband, having sexual intercourse with him, and then getting divorced by him
 - Hitting wives who disobey
 - Considering that a man should not questioned of his authority to beat his wife
 
 ### Not Forbidden
 
-- Prohibiting a wife from leaving one's property in any case
+- Prohibiting a wife from leaving one's property in any case (scary how a woman can be locked up in a large apartment if one is very rich, such that her screams won't be heard)
 - Prohibiting a wife from seeing her family if he considers that they will lead her astray [Hanaafi and Maaliki Maddhab-s object to this - and say that a wife should disobey the husband and serve her father, whether he is a Muhammadian or Kaafir; while Hanbaali and Shaafa'ee Maddhabs allow prohibiting the wife to go out, but does not allow prohibiting the family to come visit her, but he can still prohibit the meeting if he fears that some harm may result from their visit]
 
 ## Rights of women
