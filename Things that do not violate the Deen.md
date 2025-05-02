@@ -10,22 +10,37 @@ Todo:
 
 I must also split this into (1) things that are "not don't-s" and (2) do-s. For example, if violence was simply not prohibited, it would not be an encouragement to go do it. Now, all things are stated to be not in violation of the Deen, but within this listing, I could point out which ones are simply not forbidden and which ones are encouraged. Also note that the do-s are different according to Maddhabs, so I will list them according to my knowledge of them. The specific categories I will use are (1) Results of what was Instructed and (2) Results of what was not forbidden.
 
-Since saying "do X" does not tell you whether something is advised or mandatory, I will only consider as "mandatory" the things that are said as don't-s. As for teachings, I will consider them commanded
+Since saying "do X" does not tell you whether something is advised or mandatory, I will only consider as "mandatory" the things that are said as don't-s. As for teachings, I will consider them as "recommended", since they are recommended beliefs.
+
+Recommended
+Instructed with Single Choice
+Instructed with Multiple Choices
+Mandatory with Single Choice
+Mandatory with Multiple choices
+Mandatory (as per Companions) [would not sit down until the apostate Jew was killed; Bukhari 5157, 6923]
+Mandatory (as per Ijmaa)
+Not Forbidden
 
 ---
 ## About Fighting and Killing
 
-### Results of what was Instructed
+### Instructed with Single Choice
 
-- Violating treaties that do not have a definite term
+- Violating treaties that do not have a definite term when it is possible to fight
 - Fighting the Kuffaar (disbelievers) when the ratio of Muhammadians to Kuffaar is greater than 1:2
 - Fighting the polytheists who are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) [Exception: Maaliki Maddhab allows all polytheists to pay Jizya too, and Hanaafi Maddhab allows all but Arab polytheists to pay Jizya]
+- Fighting Jews, Christians and Zoroastrians who are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) and refuse to pay the Jizyah and acknowledge humiliation
 - Striking monks who shave the middle of their heads, to expel the devil
-- Fighting Jews, Christians and Zoroastrians are not in a valid treaty (Mu'aahid-s) or are protected visitors (Mu'ustamin-s) who refuse to pay the Jizyah and acknowledge humiliation
 - Killing atheists by stoning
-- Killing apostates
 - Considering anyone who defies the majority's interpretation of the Qur'aan and Sunnah as an apostate
 - Burning the houses of believers who skip prayers
+
+### Mandatory (as per Companions)
+
+- Killing apostates
+
+### Mandatory (as per Ijmaa)
+
 - Killing anyone who curses Muhammad or Allaah
 - Killing anyone who finds a fault with Muhammad or Allaah
 
