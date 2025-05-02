@@ -60,13 +60,25 @@
 - Not taking disbelievers as allies
 - Insulting disbelievers
 
+### Deception
+
 - Considering war to be deception
 - Permitting any lies to be told during war
+- Encouraging Muhammadians to hide the sins of other Muhammadians so their sins will be hidden by Allaah
+
+### War Encouragement
+
+- Considering that the end of Allah's purpose won't arrive until Jews fight the Muhammadians and they are killed
+- Considering that the end of Allah's purpose won't arrive until Muhammadians fight the Turks
+- Considering that the end of Allah's purpose won't arrive until Muhammadians fight people who have shoes made of hair
+- Considering that the end of Allah's purpose won't arrive until Muhammadians fight people who have small eyes
 
 ### Inhumane
 
-- Killing dogs without limit
+- Killing black dogs without limit
 - Killing snakes without limit
+- Killing geckos without limit
+- Killing salamanders without limit
 
 - Lashing adulterers
 - Stoning adulterers to death
@@ -78,6 +90,17 @@
 
 ### Prophet Exemptions
 
-- Allowing the Prophet to break any term of any treaty without consequence as long as Allaah gives an exemption
-- Allowing the Prophet exemptions from several rules
-- Allowing the Prophet to cancel the freeing of a slave, and to sell him to someone else
+- Killing anyone who finds a fault with the Prophet
+
+- Considering it right for the Prophet to break any term of any treaty without consequence as long as Allaah gives an exemption
+- Considering it right for the Prophet to have exemptions from several rules
+- Considering it right for the Prophet to cancel the freeing of a slave, and to sell him to someone else
+- Considering it right for the Prophet to reveal a verse allowing sex with female slaves when his wife objected to it
+
+
+- Considering it to be realistic that a woman would consent to sex right after all the men in her family and the whole tribe was beheaded and her newly wed husband was tortured and killed for not revealing the location of their treasure
+- Considering it to be realistic for a woman who gave herself in for marriage so that her tribe won't be killed to be happy in that marriage
+
+### Prophet Contradictions
+
+- Prophet considering that bells are the tools of Satan while also saying that he received revelations like the ringing of a bell
