@@ -104,7 +104,8 @@ Not Forbidden (Derived)
 ### Instructed with Single Choice
 
 - Considering wives as one's property acquired through payment to her father
-- Prohibiting a wife from divorcing the husband without what he considers to be a valid reason [since it was considered that a man would never want to divorce his wife without a reason, and female nature is to want rationality and self-control - as a couple would get bad reputation since a divorce would expose their family secrets to the public]
+- Prohibiting a wife from divorcing the husband directly, or requesting a divorce - by Talaq (repudiation) - without what he considers to be a valid reason - unless he gave deferred her the right to do it by herself, by giving her  - either during the marriage contract, or while married [since it was considered that a man would never want to divorce his wife without a reason, and female nature is to want rationality and self-control - as a couple would get bad reputation since a divorce would expose their family secrets to the public]
+- Prohibiting a wife from divorcing the husband judicially without providing what the Shareey'ah court considers to be a valid reason - which does not involve dislike of the husband [Exception: Maaliki Maddhab considers the hatred of the husband as a valid reason to request divorce, since such a relationship is harmful; while Hanaafi school prohibits such reasons]
 - Prohibiting a couple from re-marrying without the wife marrying another husband, having sexual intercourse with him, and then getting divorced by him
 - Hitting wives who disobey
 - Considering that a man should not questioned of his authority to beat his wife
