@@ -7,8 +7,8 @@ As you can see, from (1) and (2), I found that it is better for me to not look a
 
 In fact, people in my college have seen that I'd sit in the front bench and yet would not be able to see what's written on the board without my glasses.
 
-In fact, the only girls I have seen clearly in my life are 
+In fact, the only girls I have seen clearly in my life are older women, my cousins, all my teachers at school and college, wives of housemasters - specifically Asha ma'am and Jacqueline ma'am, two girl cadets - (1) Shithu - once at the housemaster's room, and a few times at the dentist's place - and (2) Amritha - the bitch who mocked me for not acting properly when acting was not my idea at all, but Sandhya miss's - a girl 
 
 and probably 5 girls in my college, including (1) Fiza (2) Luja (3) Safna (4) some girl I'd wrongly call Amritha (5) 
 
-In fact, during an inter-school debate compe
+In fact, during an inter-school debate competition in the auditorium, everyone was talking about how a girl from another school was so sexy, and since I could not see her and hence was not particularly finding the eye candy, just to catch up on the trend, I decided to ask Shambu who has sitting several housemates (of Vallathol, in 10th) towards my left for his specs, since I knew that his specs had a similar power as mine, and all the people in that chain of conversation started looking me as though I was the pervert.
