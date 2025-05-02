@@ -2,6 +2,9 @@ Finding faults with Muhammad or Allaah is punishable by death.
 
 But following systems of belief other than the Deen of Muhammad is not problematic. So according to my system of belief which is not Muhammadian, I consider some things that are permitted in the Deen of Muhammad to be not compatible with my system of belief.
 
+(1) I must keep proofs for each of these claims
+(2) I must point out that these are my findings based on my study of those sources, and anyone who knows better than me should correct me
+
 ---
 ### About Violence
 
@@ -19,6 +22,7 @@ But following systems of belief other than the Deen of Muhammad is not problemat
 - Burning the houses of believers who skip prayers
 
 ### Post Struggle
+
 - Killing any defeated disbelieving male except those who do not have armpit hair, are elderly, or blind
 - Taking surrendered males as slaves
 - Taking the women of the defeated disbelievers as slaves
@@ -26,48 +30,62 @@ But following systems of belief other than the Deen of Muhammad is not problemat
 - Taking the wife of a slave man from him
 
 ### Handling of Slaves
+
 - Buying and selling slave men
 - Encouraging the ownership of slaves, since freeing one's slaves frees them from their sins
 - Encouraging people to sell slaves to other Muhammdians instead of freeing them, as Muhammad advised
 - Considering trading multiple disbelieving slaves - by the example of two black slaves -  to buy believing slaves
 
 ### Handling of Female Slaves
+
 - Having intercourse with the women of the disbelievers who have been defeated if she does not object
 - Buying and selling captive women after intercourse if the owner always pulled out, or if she is not pregnant
 - Sharing slave women with others including one's own family for sex as long as they are not charged for it, if she does not object
 
 ### Handling of Female Slaves who are Pregnant
+
 - Keeping the mothers of their children slaves
 - Keeping the children of slave women slaves
 
 ### Marriage and Intercourse Rules
+
 - Marrying and having intercourse with any female who can withstand intercourse from among the Muhammadians or the People of the Book, as long as long as she or does not object
 - Considering silence from a woman as consent
 - Considering females of any age to be able to withstand intercourse unless there is a clear objection that does not contradict the Sunnah - where a 9 year old girl who was pre-pubescent, too was demonstrated to be fit.
 
-### Treatment and Rights of Women
+### Treatment of Women
+
 - Considering wives one's property acquired through payment to her father
 - Prohibiting a wife from leaving one's property in any case
 - Prohibiting a wife from divorcing the husband without the help of a court (scary how a woman can be locked up in a large apartment if one is very rich, such that her screams won't be heard)
 - Hitting wives who disobey
 
+### Rights of women
+
 - Not allowing any number of female witnesses to be able to report crimes
+- Considering it impermissible for a woman to go out without HIjaab
 
 ### Handling of gay and effeminate men
+
 - Men who have sexual intercourse with other men are to be killed
 - Effeminate men are to be expelled from one's houses
 
-### Typical  
+### Typical stereotyping of women
 
 - Considering women to be the worst trials
 - Considering women to approach like the devil
 - Considering the sight of women to be disruptive to prayer
-- Considering wives insignificant considering the maidens in heaven [RED, Abusive]
 - Considering praying for the good in a woman and protection from the evil in her
-- Considering angels to curse wives who refuse sex anytime the man asks them for it
-- Expecting wives to provide sex anytime he is tempted by another woman
-- Considering women who complain about being beat to not be the best of women [RED, Abusive]
+- Expecting wives to provide sex anytime one is tempted by another woman
 - One must prefer a younger woman to an older woman, because one can play with her
+
+### Emotionally abusive behaviour
+
+- Considering wives insignificant considering the maidens in heaven [RED, Abusive]
+- Considering women who complain about being beat to not be the best of women [RED, Abusive]
+- Considering angels to curse wives who refuse sex anytime the man asks them for it
+
+### Effective Double Standards
 
 - Men can have sex with any of their slave women, but women cannot have sex with any of their slave men, since intercourse is ownership, and a slave man cannot own a believing woman
 
