@@ -2,8 +2,13 @@ Finding faults with Muhammad or Allaah is punishable by death.
 
 But following systems of belief other than the Deen of Muhammad is not problematic. So according to my system of belief which is not Muhammadian, I consider some things that are permitted in the Deen of Muhammad to be not compatible with my system of belief.
 
+Saying so does not mean that I think it is objectively wrong, because I do not believe in objective morality, and none of it is wrong according to the Deen of Muhammad, and is only wrong according to my moral code.
+
+Todo:
 (1) I must keep proofs for each of these claims (there are 73 of them)
 (2) I must point out that these are my findings based on my study of those sources, and anyone who knows better than me should correct me
+
+I must also split this into (1) Don't-s and (2) Do-s. For example, if violence was simply not prohibited, it would not be an encouragement to go do it. Now, all things are stated to be not in violation of the Deen, but within this listing, I could point out which ones are simply not forbidden and which ones are encouraged. Also note that the do-s are according to Maddhabs
 
 ---
 ### About Violence
