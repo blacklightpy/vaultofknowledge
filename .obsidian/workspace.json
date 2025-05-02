@@ -688,13 +688,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "`Extremists` according to Muhammadians.md",
+                "file": "'Extremists' according to Muhammadians.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "`Extremists` according to Muhammadians"
+              "title": "'Extremists' according to Muhammadians"
             }
           }
         ],
@@ -772,7 +772,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "`Extremists` according to Muhammadians.md",
+                "file": "'Extremists' according to Muhammadians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -782,7 +782,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for `Extremists` according to Muhammadians"
+              "title": "Backlinks for 'Extremists' according to Muhammadians"
             }
           },
           {
@@ -834,13 +834,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "`Extremists` according to Muhammadians.md",
+                "file": "'Extremists' according to Muhammadians.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of `Extremists` according to Muhammadians"
+              "title": "Outline of 'Extremists' according to Muhammadians"
             }
           },
           {
@@ -884,8 +884,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -907,7 +906,7 @@
   },
   "active": "c09574dc97cf9a05",
   "lastOpenFiles": [
-    "`Extremists` according to Muhammadians.md",
+    "'Extremists' according to Muhammadians.md",
     "Vichaara Saagara notes - To Move.md",
     "Talmud.md",
     "_images/Talmud page contents.png",
