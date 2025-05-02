@@ -12,14 +12,17 @@ I must also split this into (1) things that are "not don't-s" and (2) do-s. For 
 
 Since saying "do X" does not tell you whether something is advised or mandatory, I will only consider as "mandatory" the things that are said as don't-s. As for teachings, I will consider them as "recommended", since they are recommended beliefs.
 
-Recommended
+
 Instructed with Single Choice
 Instructed with Multiple Choices
+
 Mandatory with Single Choice
 Mandatory with Multiple choices
-Mandatory (as per Companions) [would not sit down until the apostate Jew was killed; Bukhari 5157, 6923]
-Mandatory (as per Ijmaa)
-Not Forbidden
+Mandatory (as derived by Companions) [would not sit down until the apostate Jew was killed; Bukhari 5157, 6923]
+Mandatory (as derived by 'Ijmaa)
+
+Recommended
+Not Forbidden (Derived)
 
 ---
 ## About Fighting and Killing
@@ -35,35 +38,38 @@ Not Forbidden
 - Considering anyone who defies the majority's interpretation of the Qur'aan and Sunnah as an apostate
 - Burning the houses of believers who skip prayers
 
-### Mandatory (as per Companions)
+### Mandatory (as derived by Companions)
 
 - Killing apostates
 
-### Mandatory (as per Ijmaa)
+### Mandatory (as derived by 'Ijmaa)
 
 - Killing anyone who curses Muhammad or Allaah
 - Killing anyone who finds a fault with Muhammad or Allaah
 
 ## Handling Defeated Disbelievers after Fighting
 
-### Results of what was Instructed
+### Instructed with Multiple Choices
 
 - Killing any defeated disbelieving male except those who do not have armpit hair, are elderly, or blind
 - Taking defeated disbelieving males as slaves
 - Taking the women of the defeated disbelievers as slaves
 - Considering the marriages of the captured women to be annulled even if their husbands are alive
 
-### Results of what was not Forbidden
+### Not Forbidden (Derived)
 
 - Taking the wife of a slave man from him
 
 ## Handling of Slaves
 
-### Results of what was Instructed
+### Instructed with Multiple Choices
 
 - Buying and selling slave men
 - Encouraging the ownership of slaves, since freeing one's slaves frees them from their sins
 - Encouraging people to sell slaves to other Muhammadians instead of freeing them, as Muhammad advised
+
+### Recommended
+
 - Considering trading multiple disbelieving slaves - by the example of two black slaves -  to buy believing slaves
 
 ## Handling of Female Slaves
@@ -91,13 +97,16 @@ Not Forbidden
 
 ## Treatment of Women
 
-### Results of what was Instructed
+### Instructed with Single Choice
 
 - Considering wives one's property acquired through payment to her father
-- Prohibiting a wife from leaving one's property in any case
 - Prohibiting a wife from divorcing the husband without the help of a court (scary how a woman can be locked up in a large apartment if one is very rich, such that her screams won't be heard)
 - Hitting wives who disobey
 - Considering that a man should not questioned of his authority to beat his wife
+
+### Not Forbidden
+
+- Prohibiting a wife from leaving one's property in any case
 
 ## Rights of women
 
