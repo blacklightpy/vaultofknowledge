@@ -63,7 +63,7 @@ But following systems of belief other than the Deen of Muhammad is not problemat
 ### Rights of women
 
 - Not allowing any number of female witnesses to be able to report crimes
-- Considering it impermissible for a woman to go out without HIjaab
+- Considering it impermissible for a woman to go out without covering their face, hair and hands
 
 ### Handling of gay and effeminate men
 
