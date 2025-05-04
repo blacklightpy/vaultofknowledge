@@ -33,7 +33,9 @@ I agree with this statement. Discovery of truth has to be by experience and expe
 
 > Holy Spirit
 
-I'll agree on just one thing here. Your views of the Holy Spirit is that it "convicts one of sin" - and this is only true - according to you - if you believe in Jesus. But some also view that the Holy Spirit "convicts one to repent and turn to Jesus". My view is that the effect is true, but the cause is simply the same as how Jews interpret Ruach (ruach, indian)
+I'll agree on just one thing here. Your views of the Holy Spirit is that it "convicts one of sin" - and this is only true - according to you - if you believe in Jesus. But some also view that the Holy Spirit "convicts one to repent and turn to Jesus". My view is that the effect is true, but the cause is simply the same as how Jews see Ruach HaKodesh, or the Spirit of God; as well as how the Veda-s, Aagama-s and Thanthra-s of India view Eeshvara
+
+Also, in common psychology, there's the idea of how a person can never kill another person unless they dehumanize the other person somehow. In the military, they are trained to hate terrorists, while in Muhammad's recitation and the reports of his sayings do that for the followers of his Deen.
 
 An analogy: if a person only has knowledge of the set of causes, labelled X, and not other causes, labelled Y - upon seeing a condition K, he will only think that the cause of K could only have been one of the causes in X - even if in reality, it was one of the causes in Y. Now, not all people do this, but many people who are quick to judge will do it. 
 
