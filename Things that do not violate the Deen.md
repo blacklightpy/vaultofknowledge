@@ -24,6 +24,9 @@ Mandatory (as derived by 'Ijmaa)
 Recommended
 Not Forbidden (Derived)
 
+(also try: Fighting - Instructed; Directives after fighting: Mandatory - with one default ("fighting"))
+(also, for Fighting against polytheists, there, Qur'aan 9:5-16 overrides any Jizyah)
+
 ---
 ## About Fighting and Killing
 
