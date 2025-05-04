@@ -51,7 +51,9 @@ Ah - I remember the original analogy. It is from the distilled version of Kautil
 
 Fear is the reason you want to make this hasty conclusion. And it is a fear of something you have inferred by analogy, but analogy applied on experience does not give you the epistemic right to make an objective claim. That is, if you had seen either Eesho or Abba - and it was not in a normal dream - then it is merely a hypothesis, albeit it could be meaningful to you. What you cannot do is claim that you know the inference is the truth. You could say that for some reasons you have directly experienced, some other idea cannot be the truth - but you cannot use an inference to make the same claim.
 
+> Disagreement
 
+In order to understand any philosophy, you must understand its underlying philosophy deeply. Now that's the way most sciences are studied, but not in the case of Abrahamic religions. They use anthropic ideologies to mak
 
 ---
 ## About Fighting and Killing
