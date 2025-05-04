@@ -703,13 +703,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trying to find the reference for a verse.md",
+                "file": "Things that do not violate the Deen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trying to find the reference for a verse"
+              "title": "Things that do not violate the Deen"
             }
           }
         ],
@@ -745,7 +745,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -920,11 +920,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74edeb850f30e918",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
-    "'In the pre-Muhammadian era'.md",
     "Post - Why I do not look at women.md",
     "Things that do not violate the Deen.md",
+    "'In the pre-Muhammadian era'.md",
     "Trying to find the reference for a verse.md",
     "06. Collected Knowledge/Rough Notes X.md",
     "06. Collected Knowledge/Rough Notes X2.md",

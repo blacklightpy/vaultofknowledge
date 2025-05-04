@@ -28,15 +28,16 @@ Not Forbidden (Derived)
 (also, for Fighting against polytheists, there, Qur'aan 9:5-16 overrides any Jizyah)
 
 ---
+
 > Experience
 
-I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. In fact, it is also stated in the Maha Bhaaratha (Great India), in Yaksha Prashna, in the KM Ganguli translation:
+I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. In fact, it is also stated in the Maha Bhaaratha (Great India), in Yaksha Prashna, in the KM Ganguli version:
 
-Verse: tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ | dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ || 313.177
+> **Verse:** tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ | dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ ||
+> 
+> **Translation:** "Argument leads to no certain conclusion, Shruthi-s (scriptures) are different from one another; and there is not even one Rishi (sage) whose opinion can be accepted by all the truth about religion and duty is hid in caves; therefore, that alone is the path along which the Mahajana-s (great people) have trod."
 
-Translation: "Argument leads to no certain conclusion, Shruthi-s (scriptures) are different from one another; and there is not even one Rishi (sage) whose opinion can be accepted by all the truth about religion and duty is hid in caves; therefore, that alone is the path along which the Mahajana-s (great people) have trod."
-
-For this the analogy is what I stated yesterday.
+For this the analogy is what I stated yesterday. [state the analogy]
 
 > Holy Spirit
 
