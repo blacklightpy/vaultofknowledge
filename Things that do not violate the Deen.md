@@ -27,6 +27,13 @@ Not Forbidden (Derived)
 (also try: Fighting - Instructed; Directives after fighting: Mandatory - with one default ("fighting"))
 (also, for Fighting against polytheists, there, Qur'aan 9:5-16 overrides any Jizyah)
 
+
+I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. 
+
+I'll agree on just one thing here. Your views of the Holy Spirit is that it "convicts one of sin" - and this is only true - according to you - if you believe in Jesus. But some also view that the Holy Spirit "convicts one to repent and turn to Jesus". My view is that (ruach, indian)
+
+An analogy: if a person only has knowledge of the set of causes, labelled X, and not other causes, labelled Y - upon seeing a condition K, he will only think that the cause of K could only have been of the causes in X - even if 
+
 ---
 ## About Fighting and Killing
 
