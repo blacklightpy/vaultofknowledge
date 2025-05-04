@@ -32,7 +32,7 @@ Not Forbidden (Derived)
 
 I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. In fact, it is also stated in the Maha Bhaaratha (Great India), in Yaksha Prashna, in the KM Ganguli translation:
 
-Verse: tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ | dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ ||
+Verse: tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ | dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ || 313.177
 
 Translation: "Argument leads to no certain conclusion, Shruthi-s (scriptures) are different from one another; and there is not even one Rishi (sage) whose opinion can be accepted by all the truth about religion and duty is hid in caves; therefore, that alone is the path along which the Mahajana-s (great people) have trod."
 
