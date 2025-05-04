@@ -32,7 +32,9 @@ I agree with this statement. Discovery of truth has to be by experience and expe
 
 I'll agree on just one thing here. Your views of the Holy Spirit is that it "convicts one of sin" - and this is only true - according to you - if you believe in Jesus. But some also view that the Holy Spirit "convicts one to repent and turn to Jesus". My view is that (ruach, indian)
 
-An analogy: if a person only has knowledge of the set of causes, labelled X, and not other causes, labelled Y - upon seeing a condition K, he will only think that the cause of K could only have been of the causes in X - even if 
+An analogy: if a person only has knowledge of the set of causes, labelled X, and not other causes, labelled Y - upon seeing a condition K, he will only think that the cause of K could only have been one of the causes in X - even if in reality, it was one of the causes in Y. Now, not all people do this, but many people who are quick to judge will do it. 
+
+Ah - I remember the original analogy. It is from the distilled version of Kautilya Chaanakya's state-crafting manual, Artha Shaasthra (Science of Prosperity), namely Pancha Thantra (Five Treatises). In the Treatise 5: Poorly Considered Actions, there is a story of The Loyal Mongoose. One day, a priest's wife gave birth to a son. On the same day, a female mongoose gave birth to a baby mongoose, and the mother died.
 
 ---
 ## About Fighting and Killing
