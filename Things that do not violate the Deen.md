@@ -41,7 +41,7 @@ For this the analogy is what I stated yesterday. [state the analogy]
 
 > Holy Spirit
 
-I'll agree on just one thing here. Your views of the Holy Spirit is that it "convicts one of sin" - and this is only true - according to you - if you believe in Jesus. But some also view that the Holy Spirit "convicts one to repent and turn to Jesus". My view is that the effect is true, but the cause is simply the same as how Jews see Ruach HaKodesh, or the Spirit of God; as well as how the Veda-s, Aagama-s and Thanthra-s of India view Eeshvara
+I'll agree on just one thing here. Your views of the Holy Spirit is that it "convicts one of sin" - and this is only true - according to you - if you believe in Jesus. But some also view that the Holy Spirit "convicts one to repent and turn to Jesus". My view is that the effect is true, but the cause is simply the same as how Jews see Ruach HaKodesh, or the Spirit of God; as well as how the Veda-s, Aagama-s and Thanthra-s of India view Eeshvara Kripa (Divine )
 
 Also, in common psychology, there's the idea of how a person can never kill another person unless they dehumanize the other person somehow. In the military, they are trained to hate terrorists, while in Muhammad's recitation and the reports of his sayings do that for the followers of his Deen.
 
