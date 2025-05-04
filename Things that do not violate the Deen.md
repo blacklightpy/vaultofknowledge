@@ -28,8 +28,13 @@ Not Forbidden (Derived)
 (also, for Fighting against polytheists, there, Qur'aan 9:5-16 overrides any Jizyah)
 
 ---
+> Experience
 
-I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. 
+I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. In fact, it is also stated in the Maha Bhaaratha (Great India), in Yaksha Prashna, in the KM Ganguli translation:
+
+Verse: tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ | dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ ||
+
+Translation: "Argument leads to no certain conclusion, Shruthi-s (scriptures) are different from one another; and there is not even one Rishi (sage) whose opinion can be accepted by all the truth about religion and duty is hid in caves; therefore, that alone is the path along which the Mahajana-s (great people) have trod."
 
 For this the analogy is what I stated yesterday.
 
@@ -43,7 +48,7 @@ An analogy: if a person only has knowledge of the set of causes, labelled X, and
 
 Ah - I remember the original analogy. It is from the distilled version of Kautilya Chaanakya's state-crafting manual, Artha Shaasthra (Science of Prosperity), namely Pancha Thantra (Five Treatises). In the Treatise 5: Poorly Considered Actions, there is a story of The Loyal Mongoose. One day, a priest's wife gave birth to a son. On the same day, a female mongoose gave birth to a baby mongoose, and the mother died. Feeling pity, the couple took the baby mongoose, and raised like their son. She served her own breast-milk to both, and bathed them together and put them on oil, and so on. And the mongoose and her son too were fond of each other. But the wife did not trust the mongoose entirely, because she knew the mongoose was ultimately an animal, and it may harm her son some day. So she always kept a watch on him. Then one day she had to fetch some water, and she informed her husband to keep a watch on the mongoose. But the husband being careless went out for alms without telling her to get food. At this time, a snake entered the house and crawled to the child's bed. The mongoose, knowing the snake to be its enemy, and knowing it may harm its brother, it killed the snake and had his mouth and claws bloodied. Now the woman, knowing her husband's carelessness, was anxious and was hurrying backwards. The mongoose was very proud and decided to run with blood on his mouth to his mother, to show her what he did. But when when she saw the excited mongoose, she thought the evil mongoose must have eaten her baby and threw the water pitcher on the mongoose, killing it, and ran to her house. But when she got there, she found the baby sleeping peacefully, while a snake was torn to shreds. Seeing this, she started lamenting, and when her husband came home with food, not knowing whom to blame, she started calling him "Greedy! Greedy!", and said that it was because of his greed for food and not listening to her that she had to kill her son, the mongoose.
 
-Fear is the reason you want to make this hasty conclusion. And it is a fear of something you have inferred by analogy, but analogy applied on experience does not give you the epistemic right to make an objective claim. That is, if you had seen either Eesho or Abba - and it was not in a normal dream - then it is merely a hypothesis, albeit it could be meaningful to you. What you cannot do is claim that you know the infere
+Fear is the reason you want to make this hasty conclusion. And it is a fear of something you have inferred by analogy, but analogy applied on experience does not give you the epistemic right to make an objective claim. That is, if you had seen either Eesho or Abba - and it was not in a normal dream - then it is merely a hypothesis, albeit it could be meaningful to you. What you cannot do is claim that you know the inference is the truth. You could say that for some reasons you have directly experienced, some other idea cannot be the truth - but you cannot use an inference to make the same claim.
 
 
 
