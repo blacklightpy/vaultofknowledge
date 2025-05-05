@@ -70,7 +70,17 @@ Philosophy SE Question (https://philosophy.stackexchange.com/questions/98490/i-h
 
 2 but through knowledge, we realize that we are only able to distinguish things because of our sense organs and our brains. For example, colours do not really exist, only a spectral signature does. The three cone cells in our eyes produce a tristimulus based on each of their spectral sensitivities which is interpreted by the brain. They are therefore only as real as button press events existing within an app. It is the compiled object code that exists, and the app is simply its interpretation by the computer.
 
+3 using symbols are not necessary to know something. It just helps you in the process since your mind's context window is limited.
 
+Now, of course, language is lossy. But that doesn't mean that information is lost in language in all cases. If you are the one making the notes and reading it, you could, depending on your memory, remember the original event. This is the principle of Soothra-s in Indian literature - which are similar to a list of key points - which can often be in the form of incomplete phrases - which are meant to be used by someone who knows the real field of study to remember key points.
+
+For example, while an equation does not have all the information about some event, the person who wrote the equation would have the complete idea since if they had directly experienced the effect beforehand.
+
+4 we do see that they have similarities as well as differences. By that, we take care to ensure the earlier point - that is - information that is conveyed by symbols would only be relatable to the extend we share similarities with the other person. If they use private symbols, it won't help us - and the same is true for private meanings applied to symbols.
+
+and as I stated before, the so called subjective perceptions could ultimately be illusions.
+
+5 that conclusion can be made, but then as I said earlier, the distinction between the outside world and the inside world may just be arbitrary. It is never the app's code that is reacting to the inputs to the CPU - the app's code is loaded into a running state, and it is that running state that is reacting to inputs. The app remains unmodified, but is the source of the r
 
 ---
 ## About Fighting and Killing
