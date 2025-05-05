@@ -11,7 +11,10 @@ Summary:
 - During the time of the Salaaf-s, all rulers were Arabs, so he proposed the Arabs should rule.
 - To make his vision a reality, he took the help of a local tribal warlord, Muhammad bin Saud, to clean Arabia of non-Arabs, modernity, and anything not Muhammadianity.
 - While Muhammadianity preaches against hereditary monarchy, Wahhabism promotes it, as long as the ruler is a Saud.
-- Back in the day, the Ottomans loved Muhammadian arts so much that they refused the Qur'aan to be mass printed
+- Back in the day, the Ottomans loved Muhammadian arts so much that they refused the Qur'aan to be mass printed.
+- So the Qur'aan was mostly mass printed in Europe more than the Muhammadian world - mainly in UK.
+- Meanwhile, the Wahhab-Saud duo took weapons and training from Britain, and began to mass-print ibn Taymiyyah's works.
+- This teaching to non-Sauds required a new tactic - since they had leaders who were not Sauds - which became Wahhab-ism 2.0, or modern Salaaf-ism.
 
 > Wahhabis and Salafis (they're similar movements, but not exactly the same) are still Muslims (kind of), they're just revisionists who have reinvented Islam to make it seem like their Islam is more authentic (which it isn't). To understand this, I'll outline the origins of Salafism, how Wahhabism grew out of Salafism, and how modern Salafism grew out of Wahhabism. The terminology is going to get confusing because there are at least two groups that use the "Salafi" label and differentiating them can be a headache.
 > 
