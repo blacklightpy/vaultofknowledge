@@ -32,13 +32,15 @@ Not Forbidden (Derived)
 
 > Experience
 
-I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. In fact, it is also stated in the Maha Bhaaratha (Great India), in Yaksha Prashna, in the KM Ganguli version:
+I agree with this statement. Discovery of truth has to be by experience and experience alone. But actually that is where I disagree with Christians - and it is also the principle followed by all Eastern religions - at least the ones I'm aware of. About arguments being ineffective, it is also stated in the Maha Bhaaratha (Great India), in Yaksha Prashna, in the KM Ganguli version:
 
 > **Verse:** tarkoʼpratiṣṭhaḥ śrutayo vibhinnā naiko ṛṣiryasya mataṃ pramāṇam‌ | dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ ||
 > 
 > **Translation:** "Argument leads to no certain conclusion, Shruthi-s (scriptures) are different from one another; and there is not even one Rishi (sage) whose opinion can be accepted by all the truth about religion and duty is hid in caves; therefore, that alone is the path along which the Mahajana-s (great people) have trod."
 
 For this the analogy is what I stated yesterday. [state the analogy]
+
+(If your mind is not tuned, you simply cannot know.)
 
 > Holy Spirit
 
@@ -59,6 +61,16 @@ Fear is the reason you want to make this hasty conclusion. And it is a fear of s
 > Disagreement (actually same as above - but extra point)
 
 In order to understand any philosophy, you must understand its underlying philosophy deeply. Now that's the way most sciences are studied, but not in the case of Abrahamic religions. They use anthropic ideologies to make their claims quickly - and only study metaphysics from there through apophatic and cataphatic theology - and that too, only the priests mostly - while the majority are believers - so they don't have to spend time studying metaphysics when the Church does that for you. But it's for the same reason that they go about condemning all other religions without studying their underlying principles.
+
+---
+
+Philosophy SE Question (https://philosophy.stackexchange.com/questions/98490/i-have-seven-steps-to-conclude-a-dualist-reality-which-of-these-steps-are-consi/98543#98543) Answer:
+
+1 is wrong. You stated: "This is the only thing we know to exist. The existence of other things can only be inferred." But the entire principle of Indian religions is to tune your mind so that you can directly realize your objective self.
+
+2 but through knowledge, we realize that we are only able to distinguish things because of our sense organs and our brains. For example, colours do not really exist, only a spectral signature does. The three cone cells in our eyes produce a tristimulus based on each of their spectral sensitivities which is interpreted by the brain. They are therefore only as real as button press events existing within an app. It is the compiled object code that exists, and the app is simply its interpretation by the computer.
+
+
 
 ---
 ## About Fighting and Killing
