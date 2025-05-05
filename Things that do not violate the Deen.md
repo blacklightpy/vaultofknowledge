@@ -80,7 +80,11 @@ For example, while an equation does not have all the information about some even
 
 and as I stated before, the so called subjective perceptions could ultimately be illusions.
 
-5 that conclusion can be made, but then as I said earlier, the distinction between the outside world and the inside world may just be arbitrary. It is never the app's code that is reacting to the inputs to the CPU - the app's code is loaded into a running state, and it is that running state that is reacting to inputs. The app remains unmodified, but is the source of the r
+5 that conclusion can be made, but then as I said earlier, the distinction between the outside world and the inside world may just be arbitrary. It is never the app's code that is reacting to the inputs to the CPU - the app's code is loaded into a running state, and it is that running state that is reacting to inputs. The app remains unmodified, but is the source of the running state.
+
+6 but if the external world is endless, either inwards or outwards - then we would have an ontological difficulty in describing why it exists. And we'll start to wonder whether our mind is making all things up.
+
+7 in step 3 what I realized is that language is only a tool and not the ultimate way of knowing something. The tool can never be the real thing. In other words, a whirlpool is not a mathematical formulation of the whirlpool.
 
 ---
 ## About Fighting and Killing
