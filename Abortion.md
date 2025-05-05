@@ -114,12 +114,14 @@ Says: Every action is faulty, and it is better to perform faulty actions by one'
 
 My criticism: He has said that no one should question anyone's faith because it hurts their feelings and it cannot be repaired. I call it bullshit. It is naive and naivety is dangerous. Likewise, here too, he speaks on the basis of feelings.
 
-**Osho Rajneesh:**
-
-[[Osho on Abortion]]. He nailed this part haha.
-
 **Prabhupada, in Hare Krishna Explosion by Hayagriva Das, Chapter 3:**
 
 > Abortion, birth control: “They are killing the baby in the womb. How cruel! In this age of unwanted population, man is losing his compassion. When you kill a living entity, even an ant, you are interfering with its spiritual evolution, its progress. That living entity must again take on that same life form to complete its designated life term in that body. And the killer must return to pay for damages.…
 
 My criticism: See [[Problems with ISKCON and its founder Prabhupada]]. To not to simply be ad-hominem, he totally misrepresents the nuances of the topic anyways. Abortion doesn't exist because people want to kill kids for fun. Also, the theory of Karma, I do not follow it. See [[Osho on Stupidities of the Karma-Rebirth Theory]].
+
+### Supportive
+
+**Osho Rajneesh:**
+
+[[Osho on Abortion]]. He nailed this part haha.
