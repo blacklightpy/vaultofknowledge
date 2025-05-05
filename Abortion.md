@@ -11,7 +11,7 @@ Says: Every action is faulty, and it is better to perform faulty actions by one'
 
 > 47] Faulty Swa-Dharma (self tendency) is better than well performed Para-Dharma (other's tendency); Naturally prescribed performance of Karma never achieves sinful reactions.
 > 
-> 48] O son of Kunti, trivial(natural) Karma should never be given up, even though [it is] faulty; All initiations [of Karma] are faulty, like how smoke covers the fire.
+> 48] O son of Kunti, trivial (natural) Karma should never be given up, even though [it is] faulty; All initiations [of Karma] are faulty, like how smoke covers the fire.
 
 ## Smrithi (Most them say it's an unforgivable sin, but some have ways out)
 

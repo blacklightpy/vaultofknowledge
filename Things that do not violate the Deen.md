@@ -28,6 +28,7 @@ Not Forbidden (Derived)
 (also, for Fighting against polytheists, there, Qur'aan 9:5-16 overrides any Jizyah)
 
 ---
+#rough (Reply to the Christian Redditor)
 
 > Experience
 
