@@ -1,8 +1,17 @@
 From Reddit ([source](https://www.reddit.com/r/progressive_islam/comments/x6goeo/deleted_by_user/in75pt8/) ):
 
 Summary:
+
 - Qur'aan supports Sunnah
-- Sunnah considers the Salaaf-ism
+- Sunnah shows a report stating that the righteousness decreases through the generations, and also records the reports of the Salaaf only, since the reports were compiled in the 3rd generation
+- In 13th century, ibn Taymiyyah said that all the Muhammadian scholarship from the 4th generation was corrupt, and one had to follow the Salaaf on all matters
+- Though ibn Taymiyyah was jailed for forming a cult, he wrote books while in jail
+- Then in the 18th century, the Arabs were unhappy with the Turks for heading the Muhammadian Khilaafat under the Ottoman Empire
+- Then, Abd al-Wahhab revived ibn Taymiyyah's teachings and said that the modern Muhammadians had innovated, and he promised to restore the Muhammadian world to the way it was in during the time of the Salaaf-s.
+- During the time of the Salaaf-s, all rulers were Arabs, so he proposed the Arabs should rule.
+- To make his vision a reality, he took the help of a local tribal warlord, Muhammad bin Saud, to clean Arabia of non-Arabs, modernity, and anything not Muhammadianity.
+- While Muhammadianity preaches against hereditary monarchy, Wahhabism promotes it, as long as the ruler is a Saud.
+- Back in the day, the Ottomans loved Muhammadian arts so much that they refused the Qur'aan to be mass printed
 
 > Wahhabis and Salafis (they're similar movements, but not exactly the same) are still Muslims (kind of), they're just revisionists who have reinvented Islam to make it seem like their Islam is more authentic (which it isn't). To understand this, I'll outline the origins of Salafism, how Wahhabism grew out of Salafism, and how modern Salafism grew out of Wahhabism. The terminology is going to get confusing because there are at least two groups that use the "Salafi" label and differentiating them can be a headache.
 > 
