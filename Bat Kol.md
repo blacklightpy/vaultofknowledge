@@ -107,7 +107,7 @@ In **1 Kings 22:22-23** and **2 Chronicles 18:21-22**, Micaiah said that a lying
 
 It was the Spirit of Nabout who misled him, and his desire to deceive Ahab also cost him his relationship with G-d, as he said "Go out" and do so:
 
-**Talmud, Seder Nezikin, Sanhedrin 89a, 15-16:**
+**Talmud, Seder Nezikin, Sanhedrin, Page 89a, Lines 15-16:**
 
 > הַמִּתְנַבֵּא מַה שֶּׁלֹּא שָׁמַע, כְּגוֹן צִדְקִיָּה בֶן כְּנַעֲנָה, דִּכְתִיב: ״וַיַּעַשׂ לוֹ צִדְקִיָּהוּ בֶן כְּנַעֲנָה קַרְנֵי בַרְזֶל״. מַאי הֲוָה לֵיהּ לְמֶעְבַּד? רוּחַ נָבוֹת אַטְעִיתֵיהּ, דִּכְתִיב: ״וַיֹּאמֶר ה׳ מִי יְפַתֶּה אֶת אַחְאָב וְיַעַל וְיִפֹּל בְּרָמֹת גִּלְעָד״. ״וַיֵּצֵא הָרוּחַ וַיַּעֲמֹד לִפְנֵי ה׳ וַיֹּאמֶר אֲנִי אֲפַתֶּנּוּ״. ״וַיֹּאמֶר תְּפַתֶּה וְגַם תּוּכָל צֵא וַעֲשֵׂה כֵן״.
 > 
@@ -117,7 +117,7 @@ It was the Spirit of Nabout who misled him, and his desire to deceive Ahab also 
 > 
 > **Rav Yehuda says: What** is the meaning of the apparently unnecessary term: **“Go forth”?** Could the Lord not have sufficed with telling the spirit: Do so? The term means: **Go forth from My proximity.** Since the spirit volunteered to engage in deceit, it was no longer fit to stand in proximity to God. **What** is the identity of the **spirit** that undertook to entice Ahab? **Rabbi Yoḥanan says:** It was **the spirit of Naboth the Jezreelite,** who was eager to take revenge upon Ahab.
 
-**Talmud, Seder Nezikin, Sanhedrin 102b, 15-17:**
+**Talmud, Seder Nezikin, Sanhedrin, Page 102b, Lines 15-17:**
 
 > ״וַיֵּצֵא הָרוּחַ וַיַּעֲמֹד לִפְנֵי ה׳ וַיֹּאמֶר אֲנִי אֲפַתֶּנּוּ וַיֹּאמֶר ה׳ אֵלָיו בַּמָּה. וַיֹּאמֶר אֵצֵא וְהָיִיתִי רוּחַ שֶׁקֶר בְּפִי כׇּל נְבִיאָיו וַיֹּאמֶר תְּפַתֶּה וְגַם תּוּכָל צֵא וַעֲשֵׂה כֵן״. מַאי רוּחַ? אָמַר רַבִּי יוֹחָנָן: רוּחוֹ שֶׁל נָבוֹת הַיִּזְרְעֵאלִי.
 > 
