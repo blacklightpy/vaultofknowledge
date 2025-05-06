@@ -716,10 +716,15 @@
             "id": "2741f67f68c747dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Swami Vivekananada on Christianity and Muhammadianity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Swami Vivekananada on Christianity and Muhammadianity"
             }
           }
         ],
@@ -932,6 +937,7 @@
   },
   "active": "2741f67f68c747dd",
   "lastOpenFiles": [
+    "Swami Vivekananada on Christianity and Muhammadianity.md",
     "Things that do not violate the Deen.md",
     "Salaaf-ism, Wahhab-ism and Saudi Arabia.md",
     "About Transformability of People and Things.md",
@@ -958,7 +964,6 @@
     "Hindu Books.md",
     "Trying to Consolidate Hinduism 1.md",
     "Do I consider the Veda·s authoritative.md",
-    "Logic of the Left on the War.md",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",
     "_images/Morons from Hinduism SE.png",
     "_images/Screenshot of a common delusion of Muhammadians.png",
