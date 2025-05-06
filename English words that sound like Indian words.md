@@ -1,8 +1,5 @@
 ![[Pasted image 20250506202448.png]]
 
-Interesting fact
-
-
 Devanagari | Malayalam: English Words
 
 ङ | ങ: Banger, Dung, Bling
@@ -34,7 +31,28 @@ Devanagari | Malayalam: English Words
 श | ശ: Pasture, 
 ष | ഷ: Cash, Shiver
 
-ॱ  ं | ം : Stunt, Trunk (Like न / ന - combined with next consonant, but can also be म | മ)
+ॱ  ं | ം : Stunt, Trunk, Bunch, Dunk
+
+> [!NOTE] Interesting Fact
+> The Anusvaar ( ं | ം) is different depending on the vowel that comes after it according to a rule. The consonants in all Hindustani scripts are arranged beginning with five groups of five letters, which are the same sounds in all languages, before breaking off.
+> 
+> e.g.
+> 
+> क ख ग घ ङ
+> च छ ज झ ञ
+> ट ठ ड ढ ण
+> त थ द ध न
+> प फ ब भ म
+> 
+> ക ഖ ഗ ഘ ങ
+> ച ഛ ജ ഝ ഞ
+> ട ഠ ഡ ഢ ണ
+> ത ഥ ദ ധ ന
+> പ ഫ ബ ഭ മ
+> 
+> They are in l
+
+
 
 **Doublets:**
 
