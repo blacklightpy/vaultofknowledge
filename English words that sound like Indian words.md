@@ -31,7 +31,8 @@ Devanagari | Malayalam: English Words
 श | ശ: Pasture, 
 ष | ഷ: Cash, Shiver
 
-ॱ  ं | ം : Stunt, Trunk, Bunch, Dunk
+ ं | ം (Anusvaara): Stunt, Trunk, Bunch, Dunk
+ ः | ഃ (Visarga): 
 
 > [!NOTE] Interesting Fact about Anusvaara-s
 > 
@@ -84,64 +85,9 @@ ja with dot beneath: za
 ം
 ഃ
 
-Oഌ (deprecated)
-
+Old Script: ഌ, ഩ, ൡ
 Vowels: ഏ, ഓ
-
-
-ാ
-	Malayalam Vowel Sign Aa Symbol
-ി
-	Malayalam Vowel Sign I Symbol
-ീ
-	Malayalam Vowel Sign Ii Symbol
-ു
-	Malayalam Vowel Sign U Symbol
-ൂ
-	Malayalam Vowel Sign Uu Symbol
-ൃ
-	Malayalam Vowel Sign Vocalic R Symbol
-െ
-	Malayalam Vowel Sign E Symbol
-േ
-	Malayalam Vowel Sign Ee Symbol
-ൈ
-	Malayalam Vowel Sign Ai Symbol
-ൊ
-	Malayalam Vowel Sign O Symbol
-ോ
-	Malayalam Vowel Sign Oo Symbol
-ൌ
-	Malayalam Vowel Sign Au Symbol
-്
-	Malayalam Sign Virama Symbol
-ൗ
-	Malayalam Au Length Mark Symbol
-ൠ
-	Malayalam Letter Vocalic Rr Symbol
-ൡ
-	Malayalam Letter Vocalic Ll Symbol
-൦
-	Malayalam Digit Zero Symbol
-൧
-	Malayalam Digit One Symbol
-൨
-	Malayalam Digit Two Symbol
-൩
-	Malayalam Digit Three Symbol
-൪
-	Malayalam Digit Four Symbol
-൫
-	Malayalam Digit Five Symbol
-൬
-	Malayalam Digit Six Symbol
-൭
-	Malayalam Digit Seven Symbol
-൮
-	Malayalam Digit Eight Symbol
-൯
-	Malayalam Digit Nine Symbol
-
+Diacritics: േ, ോ
 
 **Funny Pronunciations (Internal Joke)**
 
