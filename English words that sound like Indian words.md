@@ -1,3 +1,8 @@
+![[Pasted image 20250506202448.png]]
+
+Interesting fact
+
+
 Devanagari | Malayalam: English Words
 
 ङ | ങ: Banger, Dung, Bling
@@ -29,7 +34,7 @@ Devanagari | Malayalam: English Words
 श | ശ: Pasture, 
 ष | ഷ: Cash, Shiver
 
-ॱ | ം : Stunt, Trunk (Like न / ന - combined with next consonant, but can also be म | )
+ॱ  ं | ം : Stunt, Trunk (Like न / ന - combined with next consonant, but can also be म | മ)
 
 **Doublets:**
 
