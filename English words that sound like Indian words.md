@@ -64,25 +64,17 @@ Malayalam: ൦ ൧ ൨ ൩ ൪ ൫ ൬ ൭ ൮ ൯
 Roman: 0 1 2 3 4 5 6 7 8
 
 **Only in Devanagari:**
-ऄ
 
-ऌ ऍ ऎ
 
-ए ऐ ऑ ऒ ओ औ
+ Punctuation Marks:। ॥
 
-ऽ ॐ ॠ ॡ
+Vowels: ॰ ऄ ऌ ऍ ऎ ऑ ऒ औ ॲ ॳ ॴ ॵ ॶ ॷ   
+Diacritics: ऀ,  ँ, ः, ऺ, ़, ा, ॄ, ॅ, ॆ, ॉ, ॊ, ्, ॎ, ॏ , ॑ , ॒ , ॓, ॔, ॕ, ॖ, ॗ, ॢ, ॣ, ॱ
 
-ऩ ऱ 
+Consonants: ऽ ॐ ॠ ॡ ऩ ऱ ॹ ॺ ॻ ॼ ॽ ॾ ॿ ೱ ೲ
 
- 
-
-Punctuation Marks:। ॥
-
-॰ ॲ ॳ ॴ ॵ ॶ ॷ  ॹ ॺ ॻ ॼ ॽ ॾ ॿ ೱ ೲ
-
-ऀ,  ँ,  ं, ः, ऺ, ऻ, ़, ा, ि, ी, ु, ू, ृ, ॄ, ॅ, ॆ, े, ै, ॉ, ॊ, ो, ौ, ्, ॎ, ॏ , ॑ , ॒ , ॓, ॔, ॕ, ॖ, ॗ, ॢ, ॣ, ॱ
-
->
+ka with dot beneath: qa
+ja with dot beneath: za
 
 **Only in Dravidian Languages:**
 
@@ -92,83 +84,11 @@ Punctuation Marks:। ॥
 ം
 ഃ
 
-ഌ (deprecated)
+Oഌ (deprecated)
 
-ഏ
-ഓ
+Vowels: ഏ, ഓ
 
-ക
-	Malayalam Letter Ka Symbol
-ഖ
-	Malayalam Letter Kha Symbol
-ഗ
-	Malayalam Letter Ga Symbol
-ഘ
-	Malayalam Letter Gha Symbol
-ങ
-	Malayalam Letter Nga Symbol
-ച
-	Malayalam Letter Ca Symbol
-ഛ
-	Malayalam Letter Cha Symbol
-ജ
-	Malayalam Letter Ja Symbol
-ഝ
-	Malayalam Letter Jha Symbol
-ഞ
-	Malayalam Letter Nya Symbol
-ട
-	Malayalam Letter Tta Symbol
-ഠ
-	Malayalam Letter Ttha Symbol
-ഡ
-	Malayalam Letter Dda Symbol
-ഢ
-	Malayalam Letter Ddha Symbol
-ണ
-	Malayalam Letter Nna Symbol
-ത
-	Malayalam Letter Ta Symbol
-ഥ
-	Malayalam Letter Tha Symbol
-ദ
-	Malayalam Letter Da Symbol
-ധ
-	Malayalam Letter Dha Symbol
-ന
-	Malayalam Letter Na Symbol
-പ
-	Malayalam Letter Pa Symbol
-ഫ
-	Malayalam Letter Pha Symbol
-ബ
-	Malayalam Letter Ba Symbol
-ഭ
-	Malayalam Letter Bha Symbol
-മ
-	Malayalam Letter Ma Symbol
-യ
-	Malayalam Letter Ya Symbol
-ര
-	Malayalam Letter Ra Symbol
-റ
-	Malayalam Letter Rra Symbol
-ല
-	Malayalam Letter La Symbol
-ള
-	Malayalam Letter Lla Symbol
-ഴ
-	Malayalam Letter Llla Symbol
-വ
-	Malayalam Letter Va Symbol
-ശ
-	Malayalam Letter Sha Symbol
-ഷ
-	Malayalam Letter Ssa Symbol
-സ
-	Malayalam Letter Sa Symbol
-ഹ
-	Malayalam Letter Ha Symbol
+
 ാ
 	Malayalam Vowel Sign Aa Symbol
 ി
