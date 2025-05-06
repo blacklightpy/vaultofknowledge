@@ -4,7 +4,7 @@ Devanagari / Malayalam
 झ | ഝ: 
 ञ | ഞ:
 
-ഖ: 
+ख | ഖ: 
 घ | ഘ: 
 
 च | ച: Batch, Catch
@@ -24,12 +24,26 @@ Devanagari / Malayalam
 ण | ണ: Panda, Ponder, Monica, Tone
 
 र | ര and റ: Parent (ര) - as well as - Rover, Rodeo (റ)
-ഋ: 
+ॠ | ഋ: 
 ळ | ള: Rolex, Bowler [Not in Hindi]
+श | ശ: Pasture, 
+ष | ഷ: Cash, Shiver
+
+**Doublets:**
+
+**Numbers:**
+
+Devanagari: ० १ २ ३ ४ ५ ६ ७ ८ ९
+Malayalam: ൦ ൧ ൨ ൩ ൪ ൫ ൬ ൭ ൮ ൯
+Roman: 0 1 2 3 4 5 6 7 8
+
+**Only in Devanagari:**
+
 
 **Only in Dravidian Languages:**
-റ്റ: Pattern, Batter, Better, Bet, Time
-ഴ: Tamizh, Course, Force
+
+റ്റ: Pattern, Batter, Better, Bet, Time [Only in Malayalam]
+ഴ: Tamizh, Course, Force [Only in Tamizh and Malayalam]
 
 **Funny Pronunciations (Internal Joke)**
 
