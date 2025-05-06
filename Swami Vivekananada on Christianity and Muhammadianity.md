@@ -1,4 +1,4 @@
-
+Skipping sources #todo
 ### Criticisms
 
 > He (Muhammad) was not a trained yogi and did not know the reason of what he was doing. Think of what good Muhammad did to the world and think of the great evil which has been done through his fanaticism.

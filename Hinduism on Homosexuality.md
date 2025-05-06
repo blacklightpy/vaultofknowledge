@@ -14,7 +14,7 @@ But this one is likely a case of Devatha Tattva being used.
 It is given punishments in Garuda Puraana, and it was also used in the movie Anniyan.
 ### Garuda Puraana
 
-
+#todo 
 
 ## From Dharma Shaasthra
 
