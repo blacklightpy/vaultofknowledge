@@ -63,7 +63,7 @@ Fear is the reason you want to make this hasty conclusion. And it is a fear of s
 In order to understand any philosophy, you must understand its underlying philosophy deeply. Now that's the way most sciences are studied, but not in the case of Abrahamic religions. They use anthropic ideologies to make their claims quickly - and only study metaphysics from there through apophatic and cataphatic theology - and that too, only the priests mostly - while the majority are believers - so they don't have to spend time studying metaphysics when the Church does that for you. But it's for the same reason that they go about condemning all other religions without studying their underlying principles.
 
 ---
-
+#rough 
 Philosophy SE Question (https://philosophy.stackexchange.com/questions/98490/i-have-seven-steps-to-conclude-a-dualist-reality-which-of-these-steps-are-consi/98543#98543) Answer:
 
 1 is wrong. You stated: "This is the only thing we know to exist. The existence of other things can only be inferred." But the entire principle of Indian religions is to tune your mind so that you can directly realize your objective self.

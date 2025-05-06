@@ -84,3 +84,14 @@ On Bhagavad Geetha 7.8:
 
 > This verse explains how the Lord is all-pervasive by His diverse material and spiritual energies. The Supreme Lord can be preliminarily perceived by His different energies, and in this way He is realized impersonally. As the demigod in the sun is a person and is perceived by his all-pervading energy, the sunshine, so the Lord, although in His eternal abode, is perceived by His all-pervading diffusive energies. The taste of water is the active principle of water. No one likes to drink sea water, because the pure taste of water is mixed with salt. Attraction for water depends on the purity of the taste, and this pure taste is one of the energies of the Lord. The impersonalist perceives the presence of the Lord in water by its taste, and the personalist also glorifies the Lord for His kindly supplying tasty water to quench man's thirst. That is the way of perceiving the Supreme. **Practically speaking, there is no conflict between personalism and impersonalism. One who knows God knows that the impersonal conception and personal conception are simultaneously present in everything and that there is no contradiction.** Therefore Lord Caitanya established His sublime doctrine: acintya bheda-and-abheda-tattva -- simultaneous oneness and difference.
 
+---
+
+# To Organize
+
+Saying that Western philosophers do not get to the level of Vedaanta, and nor is Shankara right:
+
+> "The Western philosophers mostly of the Sankhya school have less aquaintance with the Vedanta Darsana and philosophers like Kant, Mill, Aristotle or Schopenhauer etc all belong to either of the above five Darsanas except Vedanta because limited human thinking power cannot go beyond that stage. But Vedanta Darsana is far beyond the limited mental speculation of the human brain conditioned by material nature. Unfortunately Sankara who belonged to the Mayavada school made a misinterpretation of the Vedanta for his own purpose to convert the Buddhists in India.
+> 
+> ....Other Acaryas such as Ramanuja, Madhva etc and lately Sri Caitanya--all belong to the original Vedantist school by direct disciplic succession. According to these Acaryas Bhagavad-gita and Srimad-Bhagavatam are, in their original stand, the real commentaries of the Vedanta Sutras. The Mayavadins who do not actually belong to the Vedanta school have overcast a cloud unnecessarily over the Bhagavad-gita and therefore common people are misled by them. In other words they have no entrance in the Vedanta Darsana so to say."
+> 
+> **Srila Prabhupada Letter to Mr. Bailey, 10-02-51**
