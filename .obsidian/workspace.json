@@ -711,9 +711,19 @@
               "icon": "lucide-file",
               "title": "Things that do not violate the Deen"
             }
+          },
+          {
+            "id": "2741f67f68c747dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -920,10 +930,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74edeb850f30e918",
+  "active": "2741f67f68c747dd",
   "lastOpenFiles": [
-    "Salaaf-ism, Wahhab-ism and Saudi Arabia.md",
     "Things that do not violate the Deen.md",
+    "Salaaf-ism, Wahhab-ism and Saudi Arabia.md",
     "About Transformability of People and Things.md",
     "Abortion.md",
     "Post - Why I do not look at women.md",
