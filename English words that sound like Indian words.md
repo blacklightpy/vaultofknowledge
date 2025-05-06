@@ -1,22 +1,17 @@
-त
+त: Path, Thief, Thanks, Threw, Thin
+थ: Thorium, Thud
+द: The
+ध: Though
 
-थ
+ट: Trick, Time, Tent
+ठ: Potassium, 
+ड: Denver, Don't
+ढ: Paddy
 
-द
+Pattern, Batter, Better, Bet
 
-ध
-
-Path
-Thief
-Thanks
-Threw
-Though
-Thin
-
-Thorium
-Thud
-
-The
+न: Never, Man
+ण: Panda, Ponder, Monica, Tone
 
 **Funny Pronunciations (Internal Joke)**
 
