@@ -29,7 +29,21 @@ Prathyaksha is primary, Anumaana is secondary, and Shabda is tertiary - except i
 ### Vishishta Adhvaitha Vedaantha
 
 
+Path
+Thief
+Thanks
+Threw
+Though
+Thin
 
+Thorium
+Thud
+
+The
+
+
+Breej Block
+Real e Taim Kinemaatic
 ### Bhedha- Vedaantha
 
 
