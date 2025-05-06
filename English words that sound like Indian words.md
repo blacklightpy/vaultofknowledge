@@ -6,7 +6,7 @@ Devanagari | Malayalam: English Words
 झ | ഝ: 
 ञ | ഞ:
 
-ख | ഖ: 
+ख | ഖ: Bucket, Duck
 घ | ഘ: 
 
 च | ച: Batch, Catch
