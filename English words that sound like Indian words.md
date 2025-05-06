@@ -1,23 +1,33 @@
 Devanagari / Malayalam
 
+ङ | ങ: Banger, Dung, Bling
+झ | : 
+ञ | ഞ:
+
+च | : 
+छ | : 
+ज | : 
+
 त | : Path, Thief, Thanks, Threw, Thin
 थ | : Thorium, Thud
 द | : The
 ध | : Though
 
-ट | : Trick, Time, Tent
+ट | ട: Trick, Time, Tent
 ठ | : Potassium, 
-ड | : Denver, Don't
+ड | ഡ: Denver, Don't
 ढ | : Paddy
 
-न | ന: Never, Man (old letter ഩ) - as well as - Band
-ण | : Panda, Ponder, Monica, Tone
+ട, ഡ, ങ, ഞ ണ
+
+न | ന: Never, Man (used to be Malayalam letter ഩ) - as well as - Band, Bend (ന) [e.g. two n-s in no and denial]
+ण | ണ: Panda, Ponder, Monica, Tone
 
 र | : Parent
 
 റ്റ: Pattern, Batter, Better, Bet, Time
-ള: Rolex, Bowler
-റ: Rover, Rodeo
+ळ | ള: Rolex, Bowler
+र | റ: Rover, Rodeo
 ഴ: Tamizh, Course, Force
 
 ട, ഡ, ങ, ഞ ണ is there in Sanskrit as well as Hindi
