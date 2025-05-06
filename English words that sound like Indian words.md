@@ -33,8 +33,9 @@ Devanagari | Malayalam: English Words
 
 ॱ  ं | ം : Stunt, Trunk, Bunch, Dunk
 
-> [!NOTE] Interesting Fact
-> The Anusvaar ( ं | ം) is different depending on the vowel that comes after it according to a rule. The consonants in all Hindustani scripts are arranged beginning with five groups of five letters, which are the same sounds in all languages, before breaking off.
+> [!NOTE] Interesting Fact about Anusvaara-s
+> 
+> The Anusvaara ( ं | ം) is different depending on the vowel that comes after it according to a rule. The consonants in all Hindustani scripts are arranged beginning with five groups of five letters, which are the same sounds in all languages, before breaking off.
 > 
 > e.g.
 > 
@@ -50,7 +51,7 @@ Devanagari | Malayalam: English Words
 > ത ഥ ദ ധ ന
 > പ ഫ ബ ഭ മ
 > 
-> They are in l
+> They are in groups of letters that sound like ka, cha, ta, tha and pa. Now the thing is, if the letter that comes after an Anusvaara is of either of these groups, the Anusvaara will sound like the last letter of that letter's group combined with that letter (coming before it). e.g. Dunk, Bunch, Pond, Band, Pump. But if it is any other letter - I have not seen any such words in usage - it would sound like it was prefixed by म | മ. e.g. Bumra, Bumya, Tumya, Tumla, Bum'a.
 
 
 
