@@ -1,4 +1,4 @@
-Devanagari / Malayalam
+Devanagari | Malayalam: English Words
 
 ङ | ങ: Banger, Dung, Bling
 झ | ഝ: 
@@ -38,7 +38,23 @@ Malayalam: ൦ ൧ ൨ ൩ ൪ ൫ ൬ ൭ ൮ ൯
 Roman: 0 1 2 3 4 5 6 7 8
 
 **Only in Devanagari:**
+ऄ
 
+अ आ इ ई उ ऊ ऋ ऌ ऍ ऎ ए ऐ ऑ ऒ ओ औ
+
+ऽ ॐ ॠ ॡ
+
+ऩ ऱ 
+
+ 
+
+Punctuation Marks:। ॥
+
+॰ ॲ ॳ ॴ ॵ ॶ ॷ  ॹ ॺ ॻ ॼ ॽ ॾ ॿ ೱ ೲ
+
+ऀ,  ँ,  ं, ः, ऺ, ऻ, ़, ा, ि, ी, ु, ू, ृ, ॄ, ॅ, ॆ, े, ै, ॉ, ॊ, ो, ौ, ्, ॎ, ॏ , ॑ , ॒ , ॓, ॔, ॕ, ॖ, ॗ, ॢ, ॣ, ॱ
+
+>
 
 **Only in Dravidian Languages:**
 
