@@ -1001,3 +1001,9 @@ It only means that we are not following the same religion.
 ---
 
 Shaiva Siddhaanta is based on Upanishads (Vedanta), but not on Vedanta (Brahma Soothra).
+
+---
+
+Nyaaya Soothra-s 4.1.19-21 (see [here](https://archive.org/details/the-nyaya-sutras-of-gautama-with-english-notes-4-ganganatha-jha/page/1457/mode/2up?view=theater)) deny God by contradiction.
+
+In Nyaaya Kusumanjali, Udayana Aachaarya gives a proof for God.
