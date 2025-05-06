@@ -11,7 +11,7 @@
 
 > Again the vast majority of the Hindus converted to Islam and Christianity are perverts by sword, or the descendants of these.
 > 
-> - Speech published on Prabuddha Bharat on April 1899
+> - Speech published on Prabuddha Bharat on April 1899, and recorded in The Complete Works of Swami Vivekananda Vol. 5, Page 233
 
 ### Support of Muhammadianity
 
