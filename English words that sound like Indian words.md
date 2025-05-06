@@ -1,5 +1,7 @@
 ![[Pasted image 20250506202448.png]]
 
+Also see: https://www.omniglot.com/language/articles/devanagari.htm
+
 Devanagari | Malayalam: English Words
 
 ङ | ങ: Banger, Dung, Bling
