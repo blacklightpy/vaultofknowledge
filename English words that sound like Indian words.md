@@ -29,6 +29,8 @@ Devanagari | Malayalam: English Words
 श | ശ: Pasture, 
 ष | ഷ: Cash, Shiver
 
+ॱ | ം : Stunt, Trunk (Like न / ന - combined with next consonant, but can also be म | )
+
 **Doublets:**
 
 **Numbers:**
@@ -62,6 +64,140 @@ Punctuation Marks:। ॥
 
 റ്റ: Pattern, Batter, Better, Bet, Time [Only in Malayalam]
 ഴ: Tamizh, Course, Force [Only in Tamizh and Malayalam]
+
+ം
+ഃ
+
+ഌ (deprecated)
+
+ഏ
+ഓ
+
+ക
+	Malayalam Letter Ka Symbol
+ഖ
+	Malayalam Letter Kha Symbol
+ഗ
+	Malayalam Letter Ga Symbol
+ഘ
+	Malayalam Letter Gha Symbol
+ങ
+	Malayalam Letter Nga Symbol
+ച
+	Malayalam Letter Ca Symbol
+ഛ
+	Malayalam Letter Cha Symbol
+ജ
+	Malayalam Letter Ja Symbol
+ഝ
+	Malayalam Letter Jha Symbol
+ഞ
+	Malayalam Letter Nya Symbol
+ട
+	Malayalam Letter Tta Symbol
+ഠ
+	Malayalam Letter Ttha Symbol
+ഡ
+	Malayalam Letter Dda Symbol
+ഢ
+	Malayalam Letter Ddha Symbol
+ണ
+	Malayalam Letter Nna Symbol
+ത
+	Malayalam Letter Ta Symbol
+ഥ
+	Malayalam Letter Tha Symbol
+ദ
+	Malayalam Letter Da Symbol
+ധ
+	Malayalam Letter Dha Symbol
+ന
+	Malayalam Letter Na Symbol
+പ
+	Malayalam Letter Pa Symbol
+ഫ
+	Malayalam Letter Pha Symbol
+ബ
+	Malayalam Letter Ba Symbol
+ഭ
+	Malayalam Letter Bha Symbol
+മ
+	Malayalam Letter Ma Symbol
+യ
+	Malayalam Letter Ya Symbol
+ര
+	Malayalam Letter Ra Symbol
+റ
+	Malayalam Letter Rra Symbol
+ല
+	Malayalam Letter La Symbol
+ള
+	Malayalam Letter Lla Symbol
+ഴ
+	Malayalam Letter Llla Symbol
+വ
+	Malayalam Letter Va Symbol
+ശ
+	Malayalam Letter Sha Symbol
+ഷ
+	Malayalam Letter Ssa Symbol
+സ
+	Malayalam Letter Sa Symbol
+ഹ
+	Malayalam Letter Ha Symbol
+ാ
+	Malayalam Vowel Sign Aa Symbol
+ി
+	Malayalam Vowel Sign I Symbol
+ീ
+	Malayalam Vowel Sign Ii Symbol
+ു
+	Malayalam Vowel Sign U Symbol
+ൂ
+	Malayalam Vowel Sign Uu Symbol
+ൃ
+	Malayalam Vowel Sign Vocalic R Symbol
+െ
+	Malayalam Vowel Sign E Symbol
+േ
+	Malayalam Vowel Sign Ee Symbol
+ൈ
+	Malayalam Vowel Sign Ai Symbol
+ൊ
+	Malayalam Vowel Sign O Symbol
+ോ
+	Malayalam Vowel Sign Oo Symbol
+ൌ
+	Malayalam Vowel Sign Au Symbol
+്
+	Malayalam Sign Virama Symbol
+ൗ
+	Malayalam Au Length Mark Symbol
+ൠ
+	Malayalam Letter Vocalic Rr Symbol
+ൡ
+	Malayalam Letter Vocalic Ll Symbol
+൦
+	Malayalam Digit Zero Symbol
+൧
+	Malayalam Digit One Symbol
+൨
+	Malayalam Digit Two Symbol
+൩
+	Malayalam Digit Three Symbol
+൪
+	Malayalam Digit Four Symbol
+൫
+	Malayalam Digit Five Symbol
+൬
+	Malayalam Digit Six Symbol
+൭
+	Malayalam Digit Seven Symbol
+൮
+	Malayalam Digit Eight Symbol
+൯
+	Malayalam Digit Nine Symbol
+
 
 **Funny Pronunciations (Internal Joke)**
 
