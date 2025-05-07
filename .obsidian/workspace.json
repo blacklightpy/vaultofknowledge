@@ -670,7 +670,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elijah",
+                "query": "mishnah sanhedrin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -845,7 +845,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77f5b19303c40f2",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Executions in Judah-ism.md",
     "Bat Kol.md",
