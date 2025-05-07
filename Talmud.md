@@ -41,6 +41,10 @@ A Sage from the Mishnah-ic era is called a Tanna, while a Sage from the Talmud-i
 
 Rabbi is a formal title only given to sages through the ceremony called the Shemichah, done within Eretz Yisra'El. The ones who did not have this done are called Rav. So anyone who is called Rav is a Babylonian Amora.
 
+### Coverage
+
+The Jerusalem Talmud covers 39 tractates, while the Babylonian Talmud covers 36 and a half tractates, na
+
 ### Mapping of the Mishnah-s to the Daf-s
 
 The Sefaria project has a mapping of the beginning and end of each Mishnah to it's Daf in the Bavli Talmud, [here](https://github.com/Sefaria/Sefaria-Project/blob/master/data/Mishnah%20Map.csv). There are 2391 Mishnah-s.

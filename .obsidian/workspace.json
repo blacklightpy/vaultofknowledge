@@ -643,13 +643,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "God of Jyothish.md",
+                "file": "Talmud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "God of Jyothish"
+              "title": "Talmud"
             }
           }
         ],
@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mishnah sanhedrin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -862,8 +862,8 @@
   },
   "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
-    "The Difference between a King and a Commoner.md",
     "God of Jyothish.md",
+    "The Difference between a King and a Commoner.md",
     "Bat Kol.md",
     "Executions in Judah-ism.md",
     "Trying to Consolidate Hinduism 1.md",
