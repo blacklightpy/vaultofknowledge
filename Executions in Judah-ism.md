@@ -1,6 +1,6 @@
 # How Executions Must be Minimal
 
-**Mishnah Makkot Page 1:10 / Babylonian Talmud, Sefer Nezikin, Makkos, Page 7a:2-3:**
+**Mishnah Makkos, Chapter 1, Page 1, Line 10 (Daf: Babylonian Talmud, Sefer Nezikin, Makkos, Chapter 2: Ellu Hen HaGolin, Page 7a, Lines 2-3:)**
 
 - A court that executes once in 7 years is characterised as "destructive".
 - Rabbi Elazar upped it to once in 70 years.
@@ -139,7 +139,7 @@ I found 8 cases.
 > 
 > **Rav Aḥa, son of Rava, said to Rav Ashi:** This provides no conclusive proof that the voice was not that of the executed man, as **perhaps** ben Tabbai **appeased** the executed individual in the World-to-Come. **Or,** alternatively, the latter may have **prosecuted him by the law** of Heaven, and that is why his voice can no longer be heard.
 
-**Babylonian Talmud, Seder Nezikin, Makkot, Page 5b:17-20:**
+**Babylonian Talmud, Seder Nezikin, Makkos, Page 5b:17-20:**
 
 > תַּנְיָא, אָמַר רַבִּי יְהוּדָה בֶּן טָבַאי: אֶרְאֶה בְּנֶחָמָה אִם לֹא הָרַגְתִּי עֵד זוֹמֵם לְהוֹצִיא מִלִּבָּן שֶׁל צַדּוּקִים. שֶׁהָיוּ אוֹמְרִים: אֵין הָעֵדִים זוֹמְמִין נֶהֱרָגִין עַד שֶׁיֵּהָרֵג הַנִּדּוֹן.
 > 
