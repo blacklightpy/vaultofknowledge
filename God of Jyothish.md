@@ -1,0 +1,2 @@
+> In the beginning of our silent prayer, was addressed the G-d of Abraham, G-d of Isaac, and G-d of Jacob.  One of the many insights of this cryptic introduction is the grammar; why not just say “G-d of Abraham, Isaac, and Jacob.”  I was told by my rabbi that G-d, of course, stays the same.  But each of our forefathers’ path to G-d was so unique that they literally brought a new element of Godliness into the world.  The G-d of Abraham was fundamentally different than the G-d of Jacob.  
+
