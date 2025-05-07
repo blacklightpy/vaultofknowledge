@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mishna",
+                "query": "\"sanhedrin,\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -860,13 +860,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
+    "Bat Kol.md",
+    "Executions in Judah-ism.md",
     "Talmud.md",
     "God of Jyothish.md",
     "The Difference between a King and a Commoner.md",
-    "Bat Kol.md",
-    "Executions in Judah-ism.md",
     "Trying to Consolidate Hinduism 1.md",
     "Things that do not violate the Deen.md",
     "Prabhupada's Misrepresentation of Shankara's Argument.md",

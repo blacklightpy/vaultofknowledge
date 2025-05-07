@@ -24,7 +24,7 @@ Basically it's just that the Bat Kol cannot contradict the Halakha, or even upse
 
 The phrase "Lo Bashamayim Hi" (Not in Heaven) was derived from this story. This is to say that the meaning of the Torah is not to be uncovered by prophets, or even by the voice of God, but is to be interpreted by humans. Likewise, the Midrashic reading of Deuteronomy 17:11 is that God's will was revealed at Sinai its Grundnorm (basic norm), and he entrusted the interpretation of His will to the Sages.
 
-**Mishnah Kelim 5:10 (Referenced in the discussion below)**
+**Mishnah, Seder Tahorot, Mishnah Kelim, Page 5, Line 10 (Referenced in the discussion below)**
 
 > חֲתָכוֹ חֻלְיוֹת וְנָתַן חֹל בֵּין חֻלְיָא לְחֻלְיָא, רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין. זֶה תַנּוּרוֹ שֶׁל עַכְנָאי. יוֹרוֹת הָעַרְבִיִּין שֶׁהוּא חוֹפֵר בָּאָרֶץ וְטָח בְּטִיט, אִם יָכוֹל הַטִּיחַ לַעֲמוֹד בִּפְנֵי עַצְמוֹ, טָמֵא. וְאִם לָאו, טָהוֹר. וְזֶה תַנּוּרוֹ שֶׁל בֶּן דִּינָאי:
 > 
