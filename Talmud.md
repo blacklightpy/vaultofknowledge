@@ -35,7 +35,7 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 						- Gemara points out inconsistencies between Tannaic and Amoraic statements
 						- Gemara explores Halakhic (legal) and Aggadic (story) teachings
 
-### Titles
+### Titles of Sages
 
 A Sage from the Mishnah-ic era is called a Tanna, while a Sage from the Talmud-ic era is called an Amora.
 
@@ -43,7 +43,11 @@ Rabbi is a formal title only given to sages through the ceremony called the Shem
 
 ### Coverage
 
-The Jerusalem Talmud covers 39 tractates, while the Babylonian Talmud covers 36 and a half tractates, na
+The Jerusalem Talmud covers 39 tractates, while the Babylonian Talmud covers 36 and a half tractates, and includes a few minor tractates.
+
+### Resources
+
+Baraita: Teachings outside the Mishnah
 
 ### Mapping of the Mishnah-s to the Daf-s
 
