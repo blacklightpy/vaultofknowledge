@@ -62,13 +62,17 @@ The defining texts of the religion are the Tanakh and the Talmud
 		- They only follow the written Torah. Some say they could be from the Sadducees.
 		- They do not follow the Rabbinic tradition.
 	- Reform (Progressive and social justice oriented)
+		- They consider the Oral Torah to be man-made and not legally binding
 	- Conservative (Mid-way between Reform and Orthodox)
+		- They consider the Oral Torah authoritative, but allow a lot of flexibility
 	- Orthodox
-		- Modern Orthodox (In Harmony with other religions)
-		- Haredi (Those who Tremble) / Ultra-Orthodox
-			- Hasidic (Devotional)
-			- Yeshivish (Academic)
-		- Open Orthodox (Supports women's leadership and openness to non-Orthodox Jews)
+		- They consider the Oral Torah authoritative and legally binding, as it was codified in the Mishneh Torah and Shulchan Arukh, and consider it to be exactly the same as 
+		- Types
+			- Modern Orthodox (In Harmony with other religions)
+			- Haredi (Those who Tremble) / Ultra-Orthodox
+				- Hasidic (Devotional)
+				- Yeshivish (Academic)
+			- Open Orthodox (Supports women's leadership and openness to non-Orthodox Jews)
 	- Smaller
 		- Reconstructionist (First to support gays)
 		- Jewish Renewal (Gender Equality, Eco-conscious, Secular)
