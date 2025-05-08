@@ -66,7 +66,7 @@ The defining texts of the religion are the Tanakh and the Talmud
 	- Conservative (Mid-way between Reform and Orthodox)
 		- They consider the Oral Torah authoritative, but allow a lot of flexibility
 	- Orthodox
-		- They consider the Oral Torah authoritative and legally binding, as it was codified in the Mishneh Torah and Shulchan Arukh, and consider it to be exactly the same as 
+		- They consider the Oral Torah authoritative and legally binding, as it was codified in the Mishneh Torah and Shulchan Arukh, and consider it to be exactly the same as the tradition followed from the revelation at Sinai.
 		- Types
 			- Modern Orthodox (In Harmony with other religions)
 			- Haredi (Those who Tremble) / Ultra-Orthodox
