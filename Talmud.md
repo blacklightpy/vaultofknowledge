@@ -44,7 +44,7 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 	- Savoraim (Reasoners)
 - Geonim (Excellency-s - the presidents in the Abbasid Khilaafat)
 - Rishonim (The Early Ones)
-- Acharonim (The L)
+- Acharonim (The Last Ones)
 
 ### Titles of Sages
 

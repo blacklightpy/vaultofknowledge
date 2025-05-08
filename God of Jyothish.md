@@ -9,3 +9,12 @@ This shows that each hierophant must have their own vision of God. Yet, it is no
 > § Apropos Ahithophel, the Gemara relates the events that led to his death. **Rav Yehuda says** that **Rav says: A person should never bring himself to** undergo **an ordeal, as David, king of Israel, brought himself to** undergo **an ordeal and failed.** David **said before** God: **Master of the Universe, for what** reason **does one say** in prayer: **God of Abraham, God of Isaac, and God of Jacob, and one does not say: God of David?** God **said** to David: **They have undergone ordeals before Me, and you have not undergone an ordeal before Me.** David **said before Him: Examine me and subject me to an ordeal, as it is stated: “Examine me, Lord, and subject me to an ordeal;** try my kidneys and my heart” (Psalms 26:2).
 
 God did not inform Abraham, Isaac, and Jacob of their ordeals before they had them, but David was informed, and this ended up having the effect of him trying to prevent it, which caused him to fail. He would not have slept with Bathsheba after seeing her if he was not overindulging in sex to satisfy his lust to prevent this from happening. And he would have had Bathsheba after Uriel had normally died in battle. Yet, as according to Psalms 38:18, this was always how it was going to unfold.
+
+---
+
+About my vision:
+
+- State my vision.
+- Define the theology.
+- Define the ethical code.
+- Define the way of updating.

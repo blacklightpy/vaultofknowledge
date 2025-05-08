@@ -18,15 +18,15 @@ The defining texts of the religion are the Tanakh and the Talmud
 		-  **Baraita (Outside the Six Orders)**
 	- **Gemara (Discussion and Analysis by Rabbis)**
 
-- **Midrash** refers to early TaNaKh interpretations, which are not currently of importance.
+- **Midrash** refers to early TaNaKh interpretations, which are not currently of importance. Midrasha refers to learning, and is cognate with the Arabic word Madrasa.
 	- **Midrash Halakha (Laws)**
-	- **Midrash Aggada (Biblical Narratives)**
+	- **Midrash Aggadah (Tales)**
 ## Active Law (Halakha)
 
 - Mishneh Torah by Rambam (or Maimonides) (12th century legal code which is one of the most organized pillars of Hebrew Legal Code)
 - The Tur (The 14th century legal code which formed the basis for The Shulchan Arukh, by Rabbi Yakov Ben Asher)
 	- The Beit Yosef by Rabbi Joseph Karo (Commentary)
-- The Shulchan Arukh (A simplified version of The Beit Yosef compiled in the 16th century by Rav Yosef Karo) (The most widely accepted legal code)
+- The Shulchan Arukh (Set Table) (A simplified version of The Beit Yosef compiled in the 16th century by Rav Yosef Karo) (The most widely accepted legal code)
 	- Turei Zahav (or Taz) by Rabbi David HaLevi Segal (or Taz) (Commentary)
 	- Siftei Kohen (or Shach) by Rabbi Shabbatai Hakohen (or Shach) (Commentary)
 	- Mishna Berura by Rambam (or Maimonides) (Commentary)

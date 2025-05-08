@@ -1,3 +1,5 @@
+#todo Need to split this transliteration into verses and obtain the translations.
+
 ഓ നമഃ ശിവായ നിഖിലതത്ത്വാത്മനേ
 
 അഥ
