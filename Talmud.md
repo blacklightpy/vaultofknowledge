@@ -37,7 +37,7 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 
 ### Titles of Sages
 
-A Sage from the Mishnah-ic era is called a Tanna, while a Sage from the Talmud-ic era is called an Amora (Translators).
+A Sage from the Mishnah-ic era is called a Tanna (Aramaic: Teacher), while a Sage from the Talmud-ic era is called an Amora (Aramaic: Interpreter).
 
 Rabbi is a formal title only given to sages through the ceremony called the Shemichah, done within Eretz Yisra'El. The ones who did not have this done are called Rav. So anyone who is called Rav is a Babylonian Amora.
 
