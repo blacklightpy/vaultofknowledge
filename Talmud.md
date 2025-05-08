@@ -1,5 +1,7 @@
 It is called the Torah Shebaal Peh (Oral Torah), and is a continuation of the Torah Shebichsav (Written Torah). It is also called the Shas (Six), referring to the Six Orders of the Talmud.
 
+For example, what is to be wo
+
 Versions:
 
 1. Yarushalami / Eretz Yisra'El / Jerusalem / Palestinian Talmud

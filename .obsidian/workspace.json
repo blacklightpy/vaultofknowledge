@@ -643,13 +643,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text Analysis Theory.md",
+                "file": "Talmud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Text Analysis Theory"
+              "title": "Talmud"
             }
           },
           {
@@ -877,8 +877,8 @@
   },
   "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
-    "Paraa Praveshika.md",
     "Text Analysis Theory.md",
+    "Paraa Praveshika.md",
     "God of Jyothish.md",
     "The Difference between a King and a Commoner.md",
     "07. Miscellaneous/Religions/The Hebrew Religion.md",
