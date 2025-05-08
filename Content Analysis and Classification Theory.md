@@ -1,4 +1,3 @@
-
 I have enumerated 6 rules.
 
 (1) For each long article, divide the article into a maximum of a set number of major segments (about 10), and summarize each segment using a maximum of a set number of words (about 20).
@@ -19,4 +18,8 @@ Now note that this division appeals only to instructive materials, and not to st
 
 (6) As for content depth, after thinking about using various different systems, I've come to realize that content cannot always be made to be of a uniform depth, and therefore it should be allowed to grow without restrictions, and structure should only fit the content than the other way around.
 
-So for example, if you consider the documentation for a game engine, 
+So for example, if you consider the documentation for a game engine, it will have 10 main divisions, but division 7 may for example have a under division 8, about 7 divisions, and division 5 in it would have many divisions, going for up to about 7 layers of depth, while others would only have 2 or 3 layers of depth. In this case, the topic that goes deeper would be considered a vast topic compared to others.
+
+(7) If in any case, a division of more than 10 elements becomes necessary, it should be considered an alternative index.
+
+For example, Kashmir Shaiva Matham has 36 Tattva-s, and even though one could group them into 3 divisions on one hand, or 5 divisions on another, they would still end up having more subdivisions, especially in the case of the classification into 3 divisions here, even when the direct list of 36 Tattva-s would be easier to grasp. Or, maybe not, because when I first learned it, I started with the 23 Tattva-s of Saankhya, just as Abhinava Guptha did
