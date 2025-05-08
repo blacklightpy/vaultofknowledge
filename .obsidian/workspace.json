@@ -643,13 +643,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Executions in Judah-ism.md",
+                "file": "Talmud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Executions in Judah-ism"
+              "title": "Talmud"
             }
           },
           {
@@ -668,7 +668,7 @@
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -875,10 +875,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eab4443e4448184",
+  "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
-    "Paraa Praveshika.md",
     "Executions in Judah-ism.md",
+    "Paraa Praveshika.md",
     "Bat Kol.md",
     "Talmud.md",
     "God of Jyothish.md",
