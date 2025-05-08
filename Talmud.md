@@ -35,6 +35,17 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 						- Gemara points out inconsistencies between Tannaic and Amoraic statements
 						- Gemara explores Halakhic (legal) and Aggadic (story) teachings
 
+### Rabbinical Eras
+
+- Chazal (Mishna-ic and Talmudic Era-s)
+	- Zugot (Pairs)
+	- Tannaim (Teachers)
+	- Amoraim (Interpreters)
+	- Savoraim (Reasoners)
+- Geonim (Excellency-s - the presidents in the Abbasid Khilaafat)
+- Rishonim
+- Acharonim
+
 ### Titles of Sages
 
 A Sage from the Mishnah-ic era is called a Tanna (Aramaic: Teacher), while a Sage from the Talmud-ic era is called an Amora (Aramaic: Interpreter).
