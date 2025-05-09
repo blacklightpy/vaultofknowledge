@@ -23,7 +23,13 @@ Firstly, the theory argues that a person (Sookshma Shareera) with 'so and so' Va
 
 Secondly, it defies how (1) the Shruthi-s such as Bhagavad Geetha quotes how Varna-s are based on one's Guna-s and secondly, that the proportion of Guna-s in the mind arise through one's Karma-s and that in the body arises through the food they consume.
 
-The fourth Prapaathaka of Chaandogya Upanishad (4.4.3 - 4.4.5) deal with the case of Sathyakaama Jaabaala, who wanted to learn the Veda-s, whose mother Jaabaala was a prostitute and  father was unknown, and
+The fourth Prapaathaka of Chaandogya Upanishad (4.4.3 - 4.4.5) deal with the case of Sathyakaama Jaabaala, who wanted to learn the Veda-s, whose mother Jaabaala was a prostitute, and his father was unknown. When he told this to sage Gauthama, he understood that he was a Braahmana simply because he was truthful, and proceeded to initiate him.
+
+Now, I was arguing this example with a proponent of birth-based Varna-s, who based his claims on the Manu Smrithi (the common one, and not Aarya Samaaj's Vishuddha Manu Smrithi) who unsurprisingly was extremely bigoted as well. He replied that this meant that his father was a Braahmana.
+
+But then I pointed out to him the analogy of the carpenter's son wanting to be something else, as well as how the Manu Smrithi 
+
+When I pointed out to him that as per the Manu Smrithi, the 
 
 Braahmana whore (I think he should be given an award for cooking up such bullshit)
 
