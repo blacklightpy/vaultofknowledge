@@ -2,7 +2,7 @@ The difference between a king and a commoner is
 
 
 ---
-Replies to Shizuka's article:
+**Replies to Shizuka's article:**
 
 Either you are deliberately trying to **sabotage** my religion, or you don't know, which I'm afraid, is worse.
 
