@@ -83,4 +83,6 @@ Soothra: Give the analogy of one who wants to climb an obstacle course.
 
 (Regarding the apparent contradiction between the analogies, and the notion that Brahman is unchanging. Consider the analogy of a person who wants to complete an obstacle course. He will have a plan. But when he executes it, there will be differences. This is because we are imperfect beings. But when it comes to God, he says "let it be done" and so it will be done. In that sense, our imperfections too are part of the perfect will of God.)
 
-(But Advaita Vedaanta is different. In it, Brahman is too complete to even have a will. The world of duality is therefore only due to Maaya, and one's existence is due to Aavidya, a component of Maaya, also known as the Kaarana Shareera.)
+(But Advaita Vedaanta is different. In it, Brahman is too complete to even have a will. The world of duality is therefore only due to Maaya or Aavidya, and one's existence is due the resemblance of Brahman on the Kaarana Shareera, or causal body, an aspect of Maaya. A Jeeva is the resemblance of Brahman on the Kaarana Shareera when Prakrithi is unmanifest (i.e. during deep sleep), while it is the resemblance of Brahman on the Antah Karana or Sookshma Shareera when Prakrithi is manifest (when awake or dreaming)).
+
+(It can be assumed that Vikshepa Shakthi and Avarna Shakthi of Maaya are like crests and troughs imposed on Brahman, while Brahman is the unaltered plane surface that provides relative existence to the crests and troughs).
