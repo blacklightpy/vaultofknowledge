@@ -46,3 +46,6 @@ A common analogy that describes this is the Ghata-Aakasha (pot-space) analogy. H
 - In terms of levels of existence, there are 3 Shareera-s (bodies): Sthoola Shareera (gross body), Sookshma Shareera (subtle body), Kaarana Shareera (causal body)
 - In terms of states of consciousness, there are 3 + 1 Avastha-s (states): Jaagratha (waking), Nidra (dreaming), Sushupthi (deep sleep) - as well as Turiya (the trascendental, or ultimate state)
 - In terms of coverings, there are 5 Kosha-s (sheaths): Aananda-Maya Kosha (blissful sheath), Vijnaana-Maya Kosha (intelligent sheath), Mano-Maya Kosha (mental sheath), Praaana-Maya Sheath (life-rich sheath) and Anna-Maya Kosha (food-rich sheath, i.e. material body)
+
+Analogies:
+1. As the spider weaves
