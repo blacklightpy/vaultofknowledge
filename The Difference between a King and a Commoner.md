@@ -40,13 +40,17 @@ In Hindu-ism, we do not have a 'good and bad' dichotomy, we have a tri-stimulus 
 
 Now, why are 
 
+<> Explain Pramaana-s.
+
 ---
 
-On secularism:
+On secularism (post to r/Hinduism):
 
 Respect
 
 ---
+
+**To Mozbir Ullah:**
 
 What the above verse says is that Brahman (Ultimate Reality) is True, World is apparent (Mithya, i.e. not unreal), Jeeva (Living Beings) and Brahman are not unlike. By living beings, we are referring to their Aatman, or Jeeva-Aatman, not their bodies or their minds - which are all considered to be part of the material world.
 
@@ -71,4 +75,12 @@ A common analogy that describes this is the Ghata-Aakasha (pot-space) analogy. H
 - In terms of coverings, there are 5 Kosha-s (sheaths): Aananda-Maya Kosha (blissful sheath), Vijnaana-Maya Kosha (intelligent sheath), Mano-Maya Kosha (mental sheath), Praaana-Maya Sheath (life-rich sheath) and Anna-Maya Kosha (food-rich sheath, i.e. material body)
 
 Analogies:
-1. As the spider weaves
+1. As the spider weaves (this is in reference to the )
+
+Note: Learn Saankhya Yoga
+
+Soothra: Give the analogy of one who wants to climb an obstacle course.
+
+(Regarding the apparent contradiction between the analogies, and the notion that Brahman is unchanging. Consider the analogy of a person who wants to complete an obstacle course. He will have a plan. But when he executes it, there will be differences. This is because we are imperfect beings. But when it comes to God, he says "let it be done" and so it will be done. In that sense, our imperfections too are part of the perfect will of God.)
+
+(But Advaita Vedaanta is different. In it, Brahman is too complete to even have a will.)
