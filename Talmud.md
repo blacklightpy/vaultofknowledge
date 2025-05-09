@@ -12,7 +12,7 @@ Versions:
 Vilna Layout Structure:
 
 1. Daf (Middle Portion: Mishnah + Gemara (Aramaic: Completion); Also the main folio)
-2. Tosafot (External Portion: Addentums)
+2. Tosafot (External Portion: Addentums to Rashi's commentary (not to be confused with Tosefta))
 
 Example:
 
