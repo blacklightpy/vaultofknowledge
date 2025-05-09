@@ -30,12 +30,13 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 			- Building Blocks
 				- Mishnayot / Mishnah
 				- Gemara
-					- Sugyot / Sugya (Each passage of the Gemara)
+					- Sugyot / Sugya (Each passage of the Talmud)
+						- Each Sugyot is the portion from one Mishnah to another.
 						- Components
 							- Memra (Hebrew: "to say", confused with Memrot (Logos / Divine Word))
-							- Baraita (Aramaic: External)
-							- Shakla and 
-							- Stamim (Last generation Amoraim, anonymous)
+							- Baraita (Aramaic: "external", external Mishnaic Teachings)
+							- Shakla and Tarya (Debate)
+							- Stamim (Hebrew: "unattributed", Last generation Amoraim, anonymous)
 					- Description
 						- Sugyot can refer to scriptural, Tannaic and Amoraic statements
 						- Gemara points out inconsistencies between Tannaic and Amoraic statements
