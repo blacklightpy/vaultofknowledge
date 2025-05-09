@@ -17,6 +17,16 @@ No, that's not how it works.
 
 Remember how I once told you that Malayalam would soon be replaced by English, considering the way of progress? At the time, I didn't see the relevance of the languages. But now, even if no one else does it, I will single handedly preserve and make relevant all Dravidian and Devanagari scripts and languages.
 
+Caste is Jaathi, not Varna. Jaathi is part of the Samskrithi (culture), while Varna is one's inclination as per the constitution of their Guna-s. Now, there are people who argue that the Guna-s in one's body is inherited through their parents' genes. However this theory falls flat on its head when using either (1) verses from the Shruthi, or (2) empirical data, which is usually part of common sense.
+
+Firstly, the theory argues that a person (Sookshma Shareera) with so and so Vaasana-s (mental impressions by accumulated Guna-s) will only take birth (i.e. acquire a Sthoola Shareera) to a parent
+
+Braahmana whore
+
+There are other instances, where Karna was able to withstand the pain of being bitten by a scorpion, and seeing this Parashurama was able to infer that he was a Kshathriya. 
+
+Neither do you know what Purusha is, neither do you know what God is. By God
+
 ---
 
 On secularism:
