@@ -19,7 +19,9 @@ Remember how I once told you that Malayalam would soon be replaced by English, c
 
 ---
 
-On secularism
+On secularism:
+
+Respect
 
 ---
 
@@ -32,6 +34,8 @@ Advaitha Vedaantha describes that Aatman is Brahman. But this is only qualitativ
 So to those schools, Brahman is Eeshvara, and is Saguna, since Eeshvara is Saguna. 
 
 Krishna is Param Aatman (BG).
+Saankhya Yoga
+
 Chariot Analogy.
 Katha (two birds)
 
