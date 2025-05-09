@@ -19,3 +19,17 @@ Remember how I once told you that Malayalam would soon be replaced by English, c
 ---
 
 On secularism
+
+---
+
+What the above verse says is that Brahman (Ultimate Reality) is True, World is apparent (Mithya, i.e. not unreal), Jeeva (Living Beings) and Brahman are not unlike. By living beings, we are referring to their Aatman, or Jeeva-Aatman, not their bodies or their minds - which are all considered to be part of the material world.
+
+Now, schools of Hindu-ism describe the differences between Aatman, Param-Aatman and Brahman. Aatman is J, Param-Aatman is Eeshvara, and 
+
+Advaitha Vedaantha describes that Aatman is Brahman. But this is only qualitatively true, not quantitatively. But Advaitha Vedaantha holds that Maaya is only an illusion that disappears upon Brahma Jnaana, while other schools hold that Maaya is sustained by Param-Aatman.
+
+So to those schools, Brahman is Eeshvara, and is Saguna, since Eeshvara is Saguna. 
+
+Krishna is Param Aatman.
+
+The knowledge acquired in the material world is, just like modern science, limited in its scope, and cannot make any claims about what is beyond the material world. Because of this, Veda-s are the only sources for
