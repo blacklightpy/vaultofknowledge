@@ -35,6 +35,7 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 						- Components
 							- Memra (Hebrew: "to say", confused with Memrot (Logos / Divine Word))
 							- Baraita (Aramaic: "external", external Mishnaic Teachings)
+							- Tosfeta (Portions of Baraita organized according to Mishnah)
 							- Shakla and Tarya (Debate)
 							- Stamim (Hebrew: "unattributed", Last generation Amoraim, anonymous)
 					- Description
@@ -65,9 +66,10 @@ The Jerusalem Talmud covers 39 tractates, while the Babylonian Talmud covers 36 
 
 ### Resources
 
-- Midrash: The entire collection of teachings
+
 - Mishnah: The portion of the Tanna-ic Era Midrash selected by Yehudah HaNasi (Judah the Prince)
-- Baraita: Teachings outside the Mishnah written by the Tanna-s
+- Baraitot Sources: Teachings outside the Mishnah written by the Tanna-s
+	- Midrash: The entire collection of teachings
 - Tosefta: Baraita organiszed in accordance with the Mishnah, and is larger than the Mishnah
 
 ### Mapping of the Mishnah-s to the Daf-s
