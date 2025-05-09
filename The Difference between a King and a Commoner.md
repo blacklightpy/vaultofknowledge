@@ -25,9 +25,7 @@ Secondly, it defies how (1) the Shruthi-s such as Bhagavad Geetha quotes how Var
 
 The fourth Prapaathaka of Chaandogya Upanishad (4.4.3 - 4.4.5) deal with the case of Sathyakaama Jaabaala, who wanted to learn the Veda-s, whose mother Jaabaala was a prostitute, and his father was unknown. When he told this to sage Gauthama, he understood that he was a Braahmana simply because he was truthful, and proceeded to initiate him.
 
-Now, I was arguing this example with a proponent of birth-based Varna-s, who based his claims on the Manu Smrithi (the common one, and not Aarya Samaaj's Vishuddha Manu Smrithi) who unsurprisingly was extremely bigoted as well. He replied that this meant that his father was a Braahmana.
-
-But then I pointed out to him the analogy of the carpenter's son wanting to be something else, as well as how the Manu Smrithi 
+Now, I was arguing this example with a proponent of birth-based Varna-s, who based his claims on the Manu Smrithi (the common one, and not Aarya Samaaj's Vishuddha Manu Smrithi) who unsurprisingly was extremely bigoted as well. I told him how the son of a Shoodra was initiated as a Braahmana. He replied that Gauthama recognizing him to be a Braahmana meant that his father was a Braahmana. But then I pointed out to him the analogy of the carpenter's son wanting to be something else, as well as how the Manu Smrithi shows that the son of a Braahmana man and a Shoodra woman would be a Nishaada.
 
 When I pointed out to him that as per the Manu Smrithi, the 
 
