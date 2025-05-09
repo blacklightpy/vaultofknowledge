@@ -9,6 +9,7 @@ Either you are deliberately trying to **sabotage** my religion, or you don't kno
 (1) Static Monism and Dynamic Monism
 (2) No. The Veda-s do not care about managing Vyavahaarika Sathya, except to ensure that people can be led to Brahma Jnaana. That is what the Shaasthra-s do.
 
+Which infidel said that? Let me know, so that I may slay him.
 Ardha-Naari-Eeshvar
 
 No, that's not in our religion.
