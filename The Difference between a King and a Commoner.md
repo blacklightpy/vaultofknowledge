@@ -19,15 +19,22 @@ Remember how I once told you that Malayalam would soon be replaced by English, c
 
 Caste is Jaathi, not Varna. Jaathi is part of the Samskrithi (culture), while Varna is one's inclination as per the constitution of their Guna-s. Now, there are people who argue that the Guna-s in one's body is inherited through their parents' genes. However this theory falls flat on its head when using either (1) verses from the Shruthi, or (2) empirical data, which is usually part of common sense.
 
-Firstly, the theory argues that a person (Sookshma Shareera) with so and so Vaasana-s (mental impressions by accumulated Guna-s) will only take birth (i.e. acquire a Sthoola Shareera) to a parent
+Firstly, the theory argues that a person (Sookshma Shareera) with 'so and so' Vaasana-s (mental impressions by accumulated Guna-s) will only take birth (i.e. acquire a Sthoola Shareera) in the household of a family who has the same Vaasana-s. But then, that would refute how a carpenter's son would be inclined to be a musician.
 
-Braahmana whore
+Secondly, it defies how (1) the Shruthi-s such as Bhagavad Geetha quotes how Varna-s are based on one's Guna-s and secondly, that the proportion of Guna-s in the mind arise through one's Karma-s and that in the body arises through the food they consume.
+
+The fourth Prapaathaka of Chaandogya Upanishad (4.4.3 - 4.4.5) deal with the case of Sathyakaama Jaabaala, who wanted to learn the Veda-s, whose mother Jaabaala was a prostitute and  father was unknown, and
+
+Braahmana whore (I think he should be given an award for cooking up such bullshit)
 
 There are other instances, where Karna was able to withstand the pain of being bitten by a scorpion, and seeing this Parashurama was able to infer that he was a Kshathriya. 
 
+It is not implied in the Purusha Sootha either.
 Neither do you know what Purusha is, neither do you know what God is. By the term God, what is implied?
 
-In Hindu-ism, we do not have a 'good and bad' dichotomy, we have a tri-stimulus of the three Guna-s: Satthva (Brightness), Thamas (Inertia / Darkness) and Rajas (Excitement / Action) - that is, in nature (Prakrithi). However, the ultimate reality is beyond this material nature of three Guna-s, and is called Brahman (not Braahmana).
+In Hindu-ism, we do not have a 'good and bad' dichotomy, we have a tri-stimulus of the three Guna-s: Satthva (Brightness), Thamas (Inertia / Darkness) and Rajas (Excitement / Action) - that is, in nature (Prakrithi). However, the ultimate reality is beyond this material nature of three Guna-s, and is called Brahman (not Braahmana - so that you won't insinuate).
+
+Now, why are 
 
 ---
 
