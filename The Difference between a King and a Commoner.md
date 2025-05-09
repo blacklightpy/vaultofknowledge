@@ -15,3 +15,7 @@ No, that's not in our religion.
 No, that's not how it works.
 
 Remember how I once told you that Malayalam would soon be replaced by English, considering the way of progress? At the time, I didn't see the relevance of the languages. But now, even if no one else does it, I will single handedly preserve and make relevant all Dravidian and Devanagari scripts and languages.
+
+---
+
+On secularism
