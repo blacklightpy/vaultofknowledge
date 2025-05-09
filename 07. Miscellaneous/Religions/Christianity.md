@@ -1,4 +1,4 @@
-In addition to [[The Hebrew Religion]], Christianity added the Gospel of Jesus.
+In addition to [[Judah-ism]], Christianity added the Gospel of Jesus.
 
 The added books include:
 - Deuterocanonical Books (by Catholics and Eastern Orthodox, but not Protestants or Jews)

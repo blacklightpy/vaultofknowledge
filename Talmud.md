@@ -9,9 +9,9 @@ Versions:
 1. Yarushalami / Eretz Yisra'El / Jerusalem / Palestinian Talmud
 2. Bavli / Babylonian Talmud
 
-Structure:
+Vilna Layout Structure:
 
-1. Daf (Middle Portion: Mishnah + Gemara; Also the main folio)
+1. Daf (Middle Portion: Mishnah + Gemara (Aramaic: Completion); Also the main folio)
 2. Tosafot (External Portion: Addentums)
 
 Example:
@@ -32,8 +32,10 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 				- Gemara
 					- Sugyot / Sugya (Each passage of the Gemara)
 						- Components
-							- Baraita
-							- Tosefta
+							- Memra (Hebrew: "to say", confused with Memrot (Logos / Divine Word))
+							- Baraita (Aramaic: External)
+							- Shakla and 
+							- Stamim (Last generation Amoraim, anonymous)
 					- Description
 						- Sugyot can refer to scriptural, Tannaic and Amoraic statements
 						- Gemara points out inconsistencies between Tannaic and Amoraic statements
@@ -41,7 +43,7 @@ Each page-unit in the Talmud, called Daf, is a folio, with two pages a and b (le
 
 ### Rabbinical Eras
 
-- Chazal (Mishna-ic and Talmudic Era-s)
+- Chazal / ḤaZaL / Ḥakhameinu Zikhronam Liv'rakh (Mishna-ic and Talmudic Era-s)
 	- Zugot (Pairs)
 	- Tannaim (Teachers)
 	- Amoraim (Interpreters)
