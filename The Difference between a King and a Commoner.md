@@ -83,4 +83,4 @@ Soothra: Give the analogy of one who wants to climb an obstacle course.
 
 (Regarding the apparent contradiction between the analogies, and the notion that Brahman is unchanging. Consider the analogy of a person who wants to complete an obstacle course. He will have a plan. But when he executes it, there will be differences. This is because we are imperfect beings. But when it comes to God, he says "let it be done" and so it will be done. In that sense, our imperfections too are part of the perfect will of God.)
 
-(But Advaita Vedaanta is different. In it, Brahman is too complete to even have a will.)
+(But Advaita Vedaanta is different. In it, Brahman is too complete to even have a will. The world of duality is therefore only due to Maaya, and one's existence is due to Aavidya, a component of Maaya, also known as the Kaarana Shareera.)
