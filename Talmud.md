@@ -62,6 +62,8 @@ The Jerusalem Talmud covers 39 tractates, while the Babylonian Talmud covers 36 
 
 ### Resources
 
+- Midrash: The entire collection of teachings
+- Mishnah: The portion of the Tanna-ic Era Midrash selected by Yehudah HaNasi (Judah the Prince)
 - Baraita: Teachings outside the Mishnah written by the Tanna-s
 - Tosefta: Baraita organiszed in accordance with the Mishnah, and is larger than the Mishnah
 

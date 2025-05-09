@@ -700,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ardha",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -875,16 +875,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
+    "Talmud.md",
+    "Jyothish Standard for Devanagari Transliteration.md",
+    "The Difference between a King and a Commoner.md",
     "God of Jyothish.md",
     "Content Analysis and Classification Theory.md",
-    "Jyothish Standard for Devanagari Transliteration.md",
-    "Talmud.md",
     "07. Miscellaneous/Religions/The Hebrew Religion.md",
     "_images/Tefillin.png",
     "Paraa Praveshika.md",
-    "The Difference between a King and a Commoner.md",
     "Executions in Judah-ism.md",
     "Bat Kol.md",
     "Trying to Consolidate Hinduism 1.md",
