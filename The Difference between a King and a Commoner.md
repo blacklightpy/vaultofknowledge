@@ -31,9 +31,13 @@ Advaitha Vedaantha describes that Aatman is Brahman. But this is only qualitativ
 So to those schools, Brahman is Eeshvara, and is Saguna, since Eeshvara is Saguna. 
 
 Krishna is Param Aatman (BG).
+Chariot Analogy.
 Katha (two birds)
 
 The knowledge acquired in the material world is, just like modern science, limited in its scope, and cannot make any claims about what is beyond the material world. Because of this, the Veda-s are the only sources for Brahma Jnaana (as per the Veda-s). But Thanthra-s do the same thing, so the more general term is Shruthi (what is heard, through meditation).
 
 A common analogy that describes this is the Ghata-Aakasha (pot-space) analogy. However, I'll use a shorter analogy. Consider a monitor of an infinite resolution and DPI to be projecting an image on to its screen. There, each entity in the image is covering a part of the monitor. Now, the part of the monitor that covers a living being is called the Jeeva-Aatma, while the entire monitor, i.e. what underlies the whole image, is called the Param Aatma, or Eeshvara (God).
 
+- In terms of levels of existence, there are 3 Shareera-s (bodies): Sthoola Shareera (gross body), Sookshma Shareera (subtle body), Kaarana Shareera (causal body)
+- In terms of states of consciousness, there are 3 + 1 Avastha-s (states): Jaagratha (waking), Nidra (dreaming), Sushupthi (deep sleep) - as well as Turiya (the trascendental, or ultimate state)
+- In terms of coverings, there are 5 Kosha-s (sheaths): Aananda-Maya Kosha (blissful sheath), Vijnaana-Maya Kosha (intelligent sheath), Mano-Maya Kosha (mental sheath), Praaana-Maya Sheath (life-rich sheath) and Anna-Maya Kosha (food-rich sheath, i.e. material body)
