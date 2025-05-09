@@ -25,7 +25,9 @@ Braahmana whore
 
 There are other instances, where Karna was able to withstand the pain of being bitten by a scorpion, and seeing this Parashurama was able to infer that he was a Kshathriya. 
 
-Neither do you know what Purusha is, neither do you know what God is. By God
+Neither do you know what Purusha is, neither do you know what God is. By the term God, what is implied?
+
+In Hindu-ism, we do not have a 'good and bad' dichotomy, we have a tri-stimulus of the three Guna-s: Satthva (Brightness), Thamas (Inertia / Darkness) and Rajas (Excitement / Action) - that is, in nature (Prakrithi). However, the ultimate reality is beyond this material nature of three Guna-s, and is called Brahman (not Braahmana).
 
 ---
 
