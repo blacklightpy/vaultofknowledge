@@ -1,0 +1,8 @@
+- He thought that the needs of the rich mattered more than that of the poor - because he was all about greatness.
+- He viewed most of humanity as industrial waste in the process of creating superhumans.
+- His idealized superhumans won't be caring about happiness, but would be hard ascetics.
+- They would care about efficiency.
+- He hated metaphysics, since he thought philosophers couldn't decide whether the transcendental reality or the world of appearances is more real.
+- In Thus Spoke Zarathusthra, he wrote: ""
+- He wrote Thus Spoke Zarathusthra because he thought Zarathusthra was the first person to bring up morality - the divide between good and evil.
+- He uses Zarathusthra to go beyond morality and metaphysics.
