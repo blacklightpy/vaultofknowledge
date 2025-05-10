@@ -40,4 +40,18 @@ The sections I divided the whole thing into using Gemini 2.0 are (including the 
 - Marxism has been one of the most influential monistic system in the modern times, and although some of its thinkers have been pluralistic "in their methodology in some fields of enquiry", Marxism has always been monistic.
 - The author views Marxism to have been more dynamic than the static monism of the Catholic Church in the Medieval Times, yet it derives its analysis of the world from a single principle, so he considers it to be a form of dynamic monism.
 - To him, pluralism is a belief in a multiplicity of principles, pioneered by Empedocles in Ancient Greece.
-- But the author's view here is about Marxism and Monism, and he had discussed Pluralism in Western 
+- But the author's view here is about Marxism and Monism, and he had discussed Pluralist view in Western Philosophy in another paper (linked in the article).
+
+- He believes the first consistent formulation of dynamic monism in the history of philosophy to have been in the philosophy of Heraclitus in Ancient Greece.
+- He wonders that the Zoroastrians could have been the precursors in religion, but in philosophy, he believes it was Heraclitus who first proposed it by the postulating a Dichotomous Unity as the foundation of his philosophy.
+- Regarding Parmenides, he considers him to be the pioneer of static monism in Ancient Greece, as he considered the immutability and indivisibility of the "fundamental substance" as absolute.
+- He says, on the other had, to Heraclitus, changes and contradictions occupy the position of the absolute.
+- In his philosophy, dialectics was not just a philosophy, but was the actual state of the universe and society.
+
+- Heraclitus considers fire as the "fundamental substance" which is ever-changing, but retains its unity in a state of flux.
+- He considers the soul to be made of fire and water, and has a contradictory nature.
+- The distinguishing feature of his philosophy is the unity of opposites.
+- Two things: (1) the use of force for good, and (2) the belief in war - as the father of all things, comprise the main points of his politics and ethics, and justice is nothing but a strife.
+- In sum, the whole development of nature and society is considered in Heraclitean monism as a spiral evolutionary process which unfolds by negations and contradictions.
+
+- Heraclitean thought gained the attention of the intellectuals of Europe during the Renaissance Age.
