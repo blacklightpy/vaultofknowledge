@@ -55,3 +55,14 @@ The sections I divided the whole thing into using Gemini 2.0 are (including the 
 - In sum, the whole development of nature and society is considered in Heraclitean monism as a spiral evolutionary process which unfolds by negations and contradictions.
 
 - Heraclitean thought gained the attention of the intellectuals of Europe during the Renaissance Age.
+- The end of the Middle Ages witness two movements controversial to the Catholic Church: Reformation and Renaissance.
+- The Reformation was more pluralistic in its outlook relative to the Catholic Church (again, refer the paper on the Pluralist view in Western Philosophy linked in the article), while the Renaissance took a monistic worldview, although a dynamic monism.
+- The new scientific discoveries were irreconcilable with the static outlook of the medieval times.
+- (1) Copernican heliocentric theory was incompatible with the static notion of Aristotelian and Ptolemaic geocentric systems.
+- (2) The discoveries of Kepler, Galileo, Harvey, Laplace, etc. dealt further blows to the static outlooks of Medieval thought.
+- (3) Motion in its mechanical form was increasingly acknowledged by science. The Heraclitean model of monism with its stress on the notions of motion, contradictions and evolutionary flux was more in accordance with the state of science than the Parmenidean model of static monism.
+
+[My comments: So far I don't see a real reason to favour dynamic monism over static monism from my Indian view of monism and idealism.]
+
+
+- 
