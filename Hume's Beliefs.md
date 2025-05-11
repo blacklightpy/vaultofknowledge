@@ -47,3 +47,4 @@ Hume on the other hand, does not hold "synthetic a priori" statements to be true
 
 ![[Hume's Fork and Kant's Pitchfork.png]]
 
+In the 1920s, logical positivists sought to discard this by asserting that only statements that can be verified, i.e. Analytic a priori and Synthetic a posteriori statements, could be meaningful. The movement died out by the 1950s.

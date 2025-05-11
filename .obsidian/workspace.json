@@ -658,13 +658,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schopenhauer's Beliefs.md",
+                "file": "Hume's Beliefs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Schopenhauer's Beliefs"
+              "title": "Hume's Beliefs"
             }
           }
         ],
@@ -877,9 +877,9 @@
   },
   "active": "0eab4443e4448184",
   "lastOpenFiles": [
-    "Schopenhauer on Upanishads.md",
-    "Schopenhauer's Beliefs.md",
     "06. Collected Knowledge/Immanuel Kant.md",
+    "Schopenhauer's Beliefs.md",
+    "Schopenhauer on Upanishads.md",
     "Notes from Marxism and Monism.md",
     "Hume's Beliefs.md",
     "Creatio Ex Nihilo.md",
