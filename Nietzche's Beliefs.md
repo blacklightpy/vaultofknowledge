@@ -10,3 +10,8 @@
 - He wrote Thus Spoke Zarathusthra because he thought Zarathusthra was the first person to bring up morality - the divide between good and evil.
 - He wrote in Ecce Homo: "Zarathustra was the first to see in the struggle of good and evil the true wheel in the working of things — the translation of morality into the metaphysical, as force, first cause, end-in-itself, is his work."
 - He uses Zarathusthra to go beyond morality and metaphysics.
+
+- He mocked Kant's noumena
+- He filtered his idea of "eternal recurrence" through Hegel and Kant
+- He was too impressed by Hume to take "things in themselves" seriously
+- He believed in "will to power" or a desire to achieve self-perfection over Schope
