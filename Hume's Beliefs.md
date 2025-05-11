@@ -12,7 +12,7 @@ His compatibilist theory of free will takes causal determinism as fully compatib
 
 Immanuel Kant credited Hume as the inspiration that awakened him from dogmatic slumbers.
 
-### Hume's Fork
+### Hume's Fork, as described by Kant, and Kant's Trident
 
 Basically, it is a relation between "relations of ideas" and "matters of fact".
 
@@ -41,5 +41,9 @@ But (3) is self-contradicting. So ruling it out, he said that all statements are
 
 Example of "Analytic" and "A posteriori" statements were given above. For "Synthetic a priori", he gives the examples in mathematics and physics.
 
-He says that "synthetic a priori" statements cannot be verified. But he states that 
+He says that "synthetic a priori" statements cannot be verified. But he states that they are possible, and that is a defense of the field of metaphysics.
+
+Hume on the other hand, does not hold "synthetic a priori" statements to be true. Hence, we get the following image of Hume's fork and Kant's pitchfork or trident:
+
+![[Hume's Fork and Kant's Pitchfork.png]]
 
