@@ -65,4 +65,6 @@ The sections I divided the whole thing into using Gemini 2.0 are (including the 
 [My comments: So far I don't see a real reason to favour dynamic monism over static monism from my Indian view of monism and idealism.]
 
 
-- 
+I can read this, and the attached articles (Pluralism in Western Philosophy, and Marxism and Futurism, later)
+
+#todo-optional

@@ -27,5 +27,6 @@
 
 # Arguments
 ## Isn't what caused monism to exist plural from it, making it invalid
+
 This statement is only made in the language of pluralism, not by the language of monism.
 The axioms of monism are not violated by this argument.
