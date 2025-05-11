@@ -14,4 +14,4 @@
 - He mocked Kant's noumena
 - He filtered his idea of "eternal recurrence" through Hegel and Kant
 - He was too impressed by Hume to take "things in themselves" seriously
-- He believed in "will to power" or a desire to achieve self-perfection over Schope
+- He believed in "will to power" or a desire to achieve self-perfection over Schopenhauer's blind "will to live"
