@@ -6,6 +6,8 @@ He believed in (1) empiricism, (2) philosophical skepticism (as opposed to ratio
 
 As opposed to philosophical rationalists, he said that passion, rather than reason, governs human behaviour. He also said that ethics are based on feelings rather than some moral principle.
 
+He also pointed out that those who report miracles are most likely doing it for (1) the benefit of their religion, or (2) for fame; and that they mostly only come from ignorant and barbarous nations. While he leaves the possibility open, he gives several arguments against this never occurred in history. In Section 10 of An Enquiry Concerning Human Understanding, Hume defines a miracle as "a transgression of a law of nature by a particular volition of the Deity, or by the interposition of some invisible agent".
+
 He is held to be the first European philosopher to have clearly expounded the "is-ought" problem, which is that one form a normative conclusion of an "ought" (what one should do) directly from an "is" (what is). This is called Hume's Fork or Hume's Law (explained below).
 
 His compatibilist theory of free will takes causal determinism as fully compatible with human freedom. He also denied "argument from design" for God's existence.
