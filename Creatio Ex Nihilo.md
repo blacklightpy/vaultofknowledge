@@ -9,3 +9,7 @@ The Catholic Church held the view that God created reality from nothing, not fro
 Plotinus, the founder of Neo-Platonism, said that the world emanated from God, instead of being created. His view was unacceptable to Early Church Fathers, and was also rejected by Arabic and Hebrew philosophers.
 
 CS Lewis also rejected radical dualism by saying that God never fight Satan, but rather, Satan is the rival of Michael, as a defense of moral absolutism. Others said that Satan fights God but by the free will given by God, and for the duration that God allows.
+
+## Muhammadians
+
+Qur'aan-ic literalists such as ibn Taymiyyah and Wahhabists reject the argument by reading from the Qur'aan that the world was created out of some primordial matter. They do not like to think too much and refute the Qur'aan.
