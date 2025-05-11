@@ -4,7 +4,8 @@ The argument for the immanence of God is because (1) there is a belief that the 
 
 ## Creatio Ex-Nihilo
 
-The Catholic Church held the view that God created reality from nothing, not from his self.
+The Catholic Church held the view that God created reality from nothing, not from his self. The opposition to this is called creatio ex materia (Creation out of Material) or ex nihilo nihil fit (Nothing comes from Nothing).
 
 Plotinus, the founder of Neo-Platonism, said that the world emanated from God, instead of being created. His view was unacceptable to Early Church Fathers, and was also rejected by Arabic and Hebrew philosophers.
 
+CS Lewis also rejected radical dualism by saying that God never fight Satan, but rather, Satan is the rival of Michael, as a defense of moral absolutism. Others said that Satan fights God but by the free will given by God, and for the duration that God allows.

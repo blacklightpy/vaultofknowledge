@@ -1,0 +1,1 @@
+He saw that inductive reasoning, as opposed to deductive reasoning 
