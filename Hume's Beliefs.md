@@ -47,4 +47,6 @@ Hume on the other hand, does not hold "synthetic a priori" statements to be true
 
 ![[Hume's Fork and Kant's Pitchfork.png]]
 
-In the 1920s, logical positivists sought to discard this by asserting that only statements that can be verified, i.e. Analytic a priori and Synthetic a posteriori statements, could be meaningful. The movement died out by the 1950s.
+In the 1920s, logical positivists sought to discard this by asserting that only statements that can be verified, i.e. Analytic a priori and Synthetic a posteriori statements, could be meaningful. They held to Hume's fork, and hinged it at language by the analytic-synthetic division, by presuming that by holding on to analyticity, they could develop a logical syntax entailing both necessity and aprioricity on one end, and demand for empirical verification on the other end.
+
+In the 1950s, Willard Van Orman Quine undermined this analytic-synthetic division, by pointing out ontological relativity, as every statement has its meaning dependent on (1) a vast network of knowledge and beliefs, and (2) the speaker's conception of the whole world.
