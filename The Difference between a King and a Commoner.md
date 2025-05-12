@@ -21,6 +21,33 @@ To Malayalam: After ടവർഗ്ഗം, there was a ഺവർഗ്ഗം wit
 ഩ
 ൔ / ം, ൕ / യ്, ൖ / ഴ്
 
+Payjzhaya Lipi (pre-1971 reform):
+
+ഽ - പ്രശ്ലേഷം. സന്ധിയിൽ ഒരു അകാരം മറഞ്ഞ് കിടക്കുന്നതിനെ സൂചിപ്പിക്കുന്നു. (നമോ + അസ്തു = നമോഽസ്തു)
+
+ഌ - ലു് (Lú)
+
+ൡ - ഌ ന്റെ ദീർഘ സ്വരം (Lúú)
+
+ഺ - റ്റ യുടെ പകുതി ( റ്റ was originally ഺ്ഺ)
+
+ൄ - ൃ യുടെ ദീർഘ സ്വരം
+
+ൠ - ഋ ന്റെ ദീർഘ സ്വരം (Rúú)
+
+ൢ -Combining form of ഌ (How ൃ is for ഋ)
+
+ൣ - ൢ യുടെ ദീർഘ സ്വരം
+
+൳ - ¼
+
+൴ - ½
+
+൵ - ¾
+
+൹ - തിയതി (‌Eg: മേടം 13൹)
+
+
 Remember how I once told you that Malayalam would soon be replaced by English, considering the way of progress? At the time, I didn't see the relevance of the languages. But now, even if no one else does it, I will single handedly preserve and make relevant all Dravidian and Devanagari scripts and languages.
 
 Caste is Jaathi, not Varna. Jaathi is part of the Samskrithi (culture), while Varna is one's inclination as per the constitution of their Guna-s. Now, there are people who argue that the Guna-s in one's body is inherited through their parents' genes. However this theory falls flat on its head when using either (1) verses from the Shruthi, or (2) empirical data, which is usually part of common sense.
