@@ -57,10 +57,10 @@ Payjzhaya Lipi (pre-1971 reform):
 ൹ - തിയതി (‌Eg: മേടം 13൹)
 
 Doublets: ഞ്ഞ ക്ക ബ്ബ ച്ച ഗ്ഗ ജ്ജ ട്ട ണ്ട ഡ്ഡ ണ്ണ ങ്ക ഞ്ച ഞ്ജ ണ്ഡ ന്ത ന്റ ന്ദ ന്ധ ത്ത ദ്ദ പ്പ മ്മ ന്മ ഗ്മ ഹ്മ ള്ള
-Confusing: ര്ര റ്ര ല്ല
+Confusing: ര്ര റ്ര, ല്ല
 Uncommon: ܦܘ (fa, Lakshadweep), റ്റ (Outstanding), ஸ (za)
 
-ലിപി-s: (0) ബ്രാഹ്മി ലിപി, (1) വെട്ടെഴുത്ത് / വട്ടെഴുത്ത് (written with cuts using ഉളി), (2) കോലെഴുത്ത് (written with കോൽ / എഴുത്താണി / നാരായം), (3) മലയാണ്മ / തെക്കൻ മലയാണ്മ (the earlier 2 were also called മലയായ്മ or just മലയാണ്മ), (4) ഗ്രന്ഥാക്ഷരം / ആര്യ എഴുത്ത്  (imported Samskritham letters), (5) മലയാള ലിപി (17th century)
+ലിപി-s: (0) ബ്രാഹ്മി ലിപി, (1) വെട്ടെഴുത്ത് / വട്ടെഴുത്ത് (written with cuts using ഉളി), (2) കോലെഴുത്ത് (written with കോൽ / എഴുത്താണി / നാരായം), (3) മലയാണ്മ / തെക്കൻ മലയാണ്മ (the earlier 2 were also called മലയായ്മ or just മലയാണ്മ), (4) ഗ്രന്ഥാക്ഷരം (imported Samskritham letters) (5) Tulu എഴുത്ത് / ആര്യ എഴുത്ത്  / മലയാള ലിപി (17th century)
 
 Also see article on: കൂട്ടക്ഷരം
 
