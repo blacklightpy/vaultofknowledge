@@ -17,13 +17,14 @@ No, that's not how it works.
 
 To Malayalam: After ടവർഗ്ഗം, there was a ഺവർഗ്ഗം with ഺ and ഩ. ഺ and ഩ got replaced by റ and ന. ഺ was never used in singular, but was used as ഺ്ഺ and ഩ്ഺ, which got replaced by റ്റ and ന്റ. // Thamiyzh / yzha / yjzha / Vayjzha
 
-ഋ (ൃ), ൠ (ൄ), ഌ (ൢ), ൡ (ൣ), ല (ல), യ ( ്യ), ര ( ്ര), വ ( ്വ), അം (ം), അഃ (ഃ) 
-ഩ
-ൔ / ം, ൕ / യ്, ൖ / ഴ്
+Vowels: ഋ (ൃ), ൠ (ൄ), ഌ (ൢ), ൡ (ൣ), ല (ல), യ ( ്യ), ര ( ്ര), വ ( ്വ), അം (ം), അഃ (ഃ) 
+Old Consonant: ഩ
+Chandrakkala: ൿ (ക), ൔ / ം, ൕ / യ്, ൖ / ഴ് 
 
-(Looks like, since Samskritham has ळ, then yzha, റ)
+Hindi: क्ष, त्र, ज्ञ, श्र
+More in Samskritham: द्य (dya), न्न (nna, looks different), क्त (kta, looks different)
 
-क्ष, त्र, ज्ञ, श्र
+(Looks like, since Samskritham has ळ (ള), then ഴ, റ from Malayalam, and क्ष, त्र, ज्ञ, श्र from Hindi don't exist in it, although they can be derived)
 
 Payjzhaya Lipi (pre-1971 reform):
 
