@@ -9,7 +9,7 @@ It should be okay, since a defining trait is that they indeed have to follow Moh
 
 I heard that they were called Chonaka / Jonaka Mappila / Yavanaka Mappila, to differentiate them from Jews (Judah Mappila) and Christians (Nasrani Mappila). But I couldn't relate to this, and the sources were from some old texts, as reported by Westerners. Yavana-s referred to the Greeks (Iona-s), so I failed to see the connection, but then I found this source from https://muslimheritage.in/innermore/10:
 
-> പെരിയാറിലൂടെ സ്വര്‍ണവുമായി കൊടുങ്ങല്ലൂരില്‍ വന്നിരുന്ന യവനരെപ്പറ്റി സംഘകാല തമിഴ് സാഹിത്യ കൃതിയായ അകം 149-ല്‍ പരാമര്‍ശിച്ചിട്ടുണ്ട്. യവനര്‍ എന്നറിയപ്പെട്ടിരുന്നത് അറബികളാണെന്നാണ് ദ്രാവിഡ ഭാഷകളെപ്പറ്റി ഗവേഷണം നടത്തിയ ബിഷപ് റോബര്‍ട്ട് കാള്‍ഡ്‌വെല്(1814-1891)ന്റെ അഭിപ്രായം. അതുവഴിയാവണം ജോനകര്‍ എന്ന പേര്‍ മുസ്‌ലിംകള്‍ക്ക് കിട്ടിയത്.
+> പെരിയാറിലൂടെ സ്വര്‍ണവുമായി കൊടുങ്ങല്ലൂരില്‍ വന്നിരുന്ന യവനരെപ്പറ്റി സംഘകാല തമിഴ് സാഹിത്യ കൃതിയായ അകം 149-ല്‍ പരാമര്‍ശിച്ചിട്ടുണ്ട്. യവനര്‍ എന്നറിയപ്പെട്ടിരുന്നത് അറബികളാണെന്നാണ് ദ്രാവിഡ ഭാഷകളെപ്പറ്റി ഗവേഷണം നടത്തിയ ബിഷപ് റോബര്‍ട്ട് കാള്‍ഡ്‌വെല്ലി(1814-1891)ന്റെ അഭിപ്രായം. അതുവഴിയാവണം ജോനകര്‍ എന്ന പേര്‍ മുസ്‌ലിംകള്‍ക്ക് കിട്ടിയത്.
 # Important Festivals
 - Id
 # Keywords
@@ -134,4 +134,5 @@ Both men and women are required to dress modestly under Islam. But what it means
 > Also, hijabs and burqas not only the only form of modest coverings, there are others too.
 > 
 > Examples:
+> 
 > ![[Islamic Covering Clothing for Women.jpg]]

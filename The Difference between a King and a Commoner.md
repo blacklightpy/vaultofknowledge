@@ -118,7 +118,7 @@ Chinnangal (in brackets):
 തിര 	( ~ )
 അനുച്ഛേദകം 	( § ) 
 
-Types of languages: ആങ്യമൊഴി (Sign), ശബ്ദമൊഴി (Sound), വാമൊഴി (Speech), ചിത്രമൊഴി (Picture), വരമൊഴി (Drawing), അച്ചടിമൊഴി (Printing)
+Types of languages: ആങ്യമൊഴി (Sign), ശബ്ദമൊഴി (Sound), വാമൊഴി (Speech), ചിത്രമൊഴി (Picture), വരമൊഴി (Drawing / Writing), അച്ചടിമൊഴി (Printing)
 
 Also study: 2022 reformation.
 
