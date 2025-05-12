@@ -643,13 +643,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Difference between a King and a Commoner.md",
+                "file": "03. Culture/Culture/Muslim Culture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Difference between a King and a Commoner"
+              "title": "Muslim Culture"
             }
           }
         ],
@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "m",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -860,10 +860,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
-    "Studying the Malayalam Script.md",
     "The Difference between a King and a Commoner.md",
+    "03. Culture/Culture/Muslim Culture.md",
+    "Studying the Malayalam Script.md",
     "Jyothish Standard for Devanagari Transliteration.md",
     "Tamil From Malayalam.md",
     "_images/Tamil, Malayalam, Grantha and Sinhalese scripts.png",
@@ -890,7 +891,6 @@
     "Prabhupada's Misrepresentation of Shankara's Argument.md",
     "Deceptions of Muhammadians 1 - Don't Criticize Us, But Let Us Criticize Others.md",
     "Hinduism on Homosexuality.md",
-    "Swami Vivekananada on Christianity and Muhammadianity.md",
     "_images/Pasted image 20250506202448.png",
     "_images/Talmud page contents.png",
     "_images/About Page of Say No To Censorship on Hinduism SE.png",

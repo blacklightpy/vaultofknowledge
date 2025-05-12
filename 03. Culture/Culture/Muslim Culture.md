@@ -4,8 +4,12 @@ Islam means submission.
 By language, this is ambiguous.
 So I will term them as Mohammedans.
 
-It is a term they prefer to not use, however, it is ambigious for me to us.
+It is a term they prefer to not use, however, it is ambiguous for me to us.
 It should be okay, since a defining trait is that they indeed have to follow Mohammed.
+
+I heard that they were called Chonaka / Jonaka Mappila / Yavanaka Mappila, to differentiate them from Jews (Judah Mappila) and Christians (Nasrani Mappila). But I couldn't relate to this, and the sources were from some old texts, as reported by Westerners. Yavana-s referred to the Greeks (Iona-s), so I failed to see the connection, but then I found this source from https://muslimheritage.in/innermore/10:
+
+> പെരിയാറിലൂടെ സ്വര്‍ണവുമായി കൊടുങ്ങല്ലൂരില്‍ വന്നിരുന്ന യവനരെപ്പറ്റി സംഘകാല തമിഴ് സാഹിത്യ കൃതിയായ അകം 149-ല്‍ പരാമര്‍ശിച്ചിട്ടുണ്ട്. യവനര്‍ എന്നറിയപ്പെട്ടിരുന്നത് അറബികളാണെന്നാണ് ദ്രാവിഡ ഭാഷകളെപ്പറ്റി ഗവേഷണം നടത്തിയ ബിഷപ് റോബര്‍ട്ട് കാള്‍ഡ്‌വെല്(1814-1891)ന്റെ അഭിപ്രായം. അതുവഴിയാവണം ജോനകര്‍ എന്ന പേര്‍ മുസ്‌ലിംകള്‍ക്ക് കിട്ടിയത്.
 # Important Festivals
 - Id
 # Keywords
@@ -43,24 +47,24 @@ The Qur'an is divided in various ways.
 - Hadith - The text that records the Sunnah. It contains both the Chain of Reports and the main text.
 # Other Keywords
 - Deen (Religion)
-- Imaan (Faith)
-- Mumin (Believer)
-- Muslim (Submitter)
-- Fasiq (Open Sinner, Corrupt)
+- Eemaan (Faith)
+- Mu'umin (Believer)
+- Musleem (Submitter)
+- Faasiq (Open Sinner, Corrupt)
 - Fajir (Sinner)
-- Kafir (Disbeliever)
-- Munafiq (Hypocrite)
+- Kaafir (Disbeliever)
+- Munaafiq (Hypocrite)
 
 - Maddhabs (Sects / Schools of Jurispudence) (Historically, about 19 in Sunni and Shi'a)
 	- Sunni / Ahl as-Sunnah wa'l Jama'ah
-		- Hanbali, By Imam Ahmed ibn Hanbal
-		- Shafi'i, By Imam Ash-Shafi'i
-		- Hanafi, By Imam Abu Hanifa
-		- Maliki, By Imam Malik
-	- Shi'a
-		- Jafari
-	- Ibadi
-	- Sufi
+		- Hanbaali, By Imaam Ahmed ibn Hanbal
+		- Shaafa'ee, By Imaam Ash-Shaafa'ee
+		- Hanaafi, By Imaam Abu Hanifa
+		- Maaliki, By Imaam Maalik
+	- Shee'ah
+		- Jaafari
+	- Ibaadi
+	- Soofi
 
 - Kalam (Theology)
 
@@ -119,6 +123,7 @@ The Qur'an is divided in various ways.
 	- Fatwas (Opinions by Muftis)
 
 # Dressing
+
 Both men and women are required to dress modestly under Islam. But what it means for a woman to dress modestly is highly subjective, and these rules are often very oppressive towards women. Islam in particular is known to be very strict with its women followers.
 
 > [!NOTE]

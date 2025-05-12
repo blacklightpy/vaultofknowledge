@@ -122,9 +122,7 @@ Types of languages: ആങ്യമൊഴി (Sign), ശബ്ദമൊഴി (S
 
 Also study: 2022 reformation.
 
-https://muslimheritage.in/innermore/10:
 
-പെരിയാറിലൂടെ സ്വര്‍ണവുമായി കൊടുങ്ങല്ലൂരില്‍ വന്നിരുന്ന യവനരെപ്പറ്റി സംഘകാല തമിഴ് സാഹിത്യ കൃതിയായ അകം 149-ല്‍ പരാമര്‍ശിച്ചിട്ടുണ്ട്. യവനര്‍ എന്നറിയപ്പെട്ടിരുന്നത് അറബികളാണെന്നാണ് ദ്രാവിഡ ഭാഷകളെപ്പറ്റി ഗവേഷണം നടത്തിയ ബിഷപ് റോബര്‍ട്ട് കാള്‍ഡ്‌വെല്ലി(1814-1891)ന്റെ അഭിപ്രായം. അതുവഴിയാവണം ജോനകര്‍ എന്ന പേര്‍ മുസ്‌ലിംകള്‍ക്ക് കിട്ടിയത്.
 
 Remember how I once told you that Malayalam would soon be replaced by English, considering the way of progress? At the time, I didn't see the relevance of the languages. But now, even if no one else does it, I will single handedly preserve and make relevant all Dravidian and Devanagari scripts and languages.
 
