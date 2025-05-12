@@ -22,7 +22,9 @@ Old Consonant: ഩ
 Chandrakkala: ൿ (ക), ൔ / ം, ൕ / യ്, ൖ / ഴ് 
 
 Hindi: क्ष, त्र, ज्ञ, श्र
-More in Samskritham: द्य (dya), न्न (nna, looks different), क्त (kta, looks different)
+More in Samskritham: द्य (dya), न्न (nna, looks different), त्त
+
+ൠ (ൄ)
 
 (Looks like, since Samskritham has ळ (ള), then ഴ, റ from Malayalam, and क्ष, त्र, ज्ञ, श्र from Hindi don't exist in it, although they can be derived)
 
