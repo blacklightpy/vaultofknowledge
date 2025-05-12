@@ -87,7 +87,7 @@ ja with dot beneath: za
 ം
 ഃ
 
-Old Script: ഌ, ഩ, ൡ
+Old Script: ഌ, ൡ, ഩ
 Vowels: ഏ, ഓ
 Diacritics: േ, ോ
 
