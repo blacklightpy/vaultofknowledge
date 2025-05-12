@@ -19,7 +19,8 @@ To Malayalam: After ടവർഗ്ഗം, there was a ഺവർഗ്ഗം wit
 
 Vowels: ഋ (ൃ), ൠ (ൄ), ഌ (ൢ), ൡ (ൣ), ല (ல), യ ( ്യ), ര ( ്ര), വ ( ്വ), അം (ം), അഃ (ഃ) 
 Old Consonant: ഩ
-Chandrakkala: ൿ (ക), ൔ / ം, ൕ / യ്, ൖ / ഴ് 
+Old Chil: ൿ (ക), ൔ / ം, ൕ / യ്, ൖ / ഴ് 
+More: ँ (Chandrabindu, for Om sound)
 
 Hindi: क्ष, त्र, ज्ञ, श्र
 More in Samskritham: द्य (dya), न्न (nna, looks different), त्त
@@ -61,6 +62,65 @@ Uncommon: ܦܘ (fa, Lakshadweep), റ്റ (Outstanding), ஸ (za)
 
 ലിപി-s: (0) ബ്രാഹ്മി ലിപി, (1) വെട്ടെഴുത്ത് / വട്ടെഴുത്ത് (written with cuts using ഉളി), (2) കോലെഴുത്ത് (written with കോൽ / എഴുത്താണി / നാരായം), (3) മലയാണ്മ / തെക്കൻ മലയാണ്മ (the earlier 2 were also called മലയായ്മ or just മലയാണ്മ), (4) ഗ്രന്ഥാക്ഷരം / ആര്യ എഴുത്ത്  (imported Samskritham letters), (5) മലയാള ലിപി (17th century)
 
+Also see article on: കൂട്ടക്ഷരം
+
+സ്വവർഗ കൂട്ടക്ഷരങ്ങൾ
+
+ഖരാദി 	മൃദാദി 	പഞ്ചാദി 	മധ്യമാദി 	ഊഷ്മാദി
+
+ക്ക 	ഗ്ഗ 	ങ്ങ 	യ്യ 	സ്സ
+ച്ച 	ജ്ജ 	ഞ്ഞ 	ര്ര 	ശ്ശ
+ട്ട 	ഡ്ഡ 	ണ്ണ 	ല്ല 	
+ത്ത 	ദ്ദ 	ന്ന 	വ്വ 	
+പ്പ 	ബ്ബ 	മ്മ 	ള്ള 	
+
+വർഗേതര കൂട്ടക്ഷരങ്ങൾ
+
+ഖരനകാരം 	മൃദുനകാരം 	മൃദുമകാരം
+
+ങ്ക 	ഗ്ന 	ഗ്മ
+ഞ്ച 	ഞ്ജ 	ണ്മ
+ണ്ട 	ണ്ഡ 	ന്മ
+ന്ത 	ന്ദ 	ത്മ
+മ്പ 	ഹ്ന 	ഹ്മ
+
+തുടങ്ങിയ 15 അക്ഷരങ്ങളും, കൂടാതെ താഴെ ചേർത്തിരിക്കുന്ന 20 അക്ഷരങ്ങളുമാണ്.
+
+ഏകതരം 	ദ്വയതരം 	ത്രയതരം 	ചതുർതരം
+
+ക്ഷ 	ശ്ച 	ജ്ഞ 	ന്ഥ
+സ്ഥ 	ത്ഥ 	ത്സ 	സ്റ്റ
+ത്ഭ 	ന്ധ 	ദ്ധ 	ന്റ
+ക്ത 	ല്പ 	ത്ര 	ന്ര
+ത്ന 	ഗ്ദ 	ച്ഛ 	ന്റെ
+
+Chinnangal (in brackets):
+
+വിശ്ലേഷം 	( \`)
+വലയം 	( ( ) )
+കോഷ്ഠം 	([ ])
+ഭിത്തിക 	( : )
+രേഖ 	( ― )
+വിക്ഷേപണി 	( ! )
+ബിന്ദു 	( . )
+രോധിനി 	( ; )
+അങ്കുശം 	( , )
+ശൃംഖല 	( - )
+കാകു 	( ? )
+ചായ് വര 	( / )
+ഉദ്ധരണി 	( ' )
+പ്രശ്ലേഷം 	( ഽ )
+ഇട 	( )
+സമുച്ചയം 	( & )
+താരിക 	( * )
+പിൻ ചായ് വര 	( \ )
+ശതമാനം 	( % )
+തിര 	( ~ )
+അനുച്ഛേദകം 	( § ) 
+
+Types of languages: ആങ്യമൊഴി (Sign), ശബ്ദമൊഴി (Sound), വാമൊഴി (Speech), ചിത്രമൊഴി (Picture), വരമൊഴി (Drawing), അച്ചടിമൊഴി (Printing)
+
+Also study: 2022 reformation.
 
 Remember how I once told you that Malayalam would soon be replaced by English, considering the way of progress? At the time, I didn't see the relevance of the languages. But now, even if no one else does it, I will single handedly preserve and make relevant all Dravidian and Devanagari scripts and languages.
 
