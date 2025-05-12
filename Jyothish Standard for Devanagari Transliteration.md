@@ -6,6 +6,13 @@ This does not differentiate the two in writing, and that's because it is not pos
 
 The benefit is simply that a new reader who is not familiar with diacritics may think they can be totally ignored, and end up reading "Sāṃkhya" as "Samkhya" instead of "Saankhya," which is the right pronunciation. It would feel bad sometimes, especially in the case of terms that are adopted in the West, such as Mantra and Tantra, when I have to call them "Manthra" and "Thanthra" instead.
 
+## My Studies (to replace what's below)
+
+"tch" can suit "cch" (pacha, patcha), while "ja" can suit "cha" (paja, pacha).
+Also get ideas from my paper notes.
+
+---
+
 ## Vowels
 
 | Devanagari | IAST | My System |
@@ -31,7 +38,6 @@ The benefit is simply that a new reader who is not familiar with diacritics may 
 | अँ         | m̐   | am        |
 |            |      |           |
 | ऽ          | '    | '         |
-
 
 ### Diacritics
 
@@ -91,7 +97,7 @@ The Devanaagari standalone consonant letters are followed by an implicit schwa (
 | ह           | ha   | ha        |
 | ळ           | ḻa   | la        |
 
-### Irregular consonant clusters
+### Irregular consonant clusters (from Hindi)
 
 | Devanaagari | ITRANS      | ITRANS |
 | ----------- | ----------- | ------ |
@@ -100,7 +106,7 @@ The Devanaagari standalone consonant letters are followed by an implicit schwa (
 | ज्ञ         | GYa/j~na    | jna    |
 | श्र         | shra        | shra   |
 
-### Other consonants
+### Other consonants (Accented)
 
 | Devanaagari | ITRANS   | My System |
 | ----------- | -------- | --------- |
