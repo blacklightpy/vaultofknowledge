@@ -1,3 +1,6 @@
+Malayalam literally has the most letters:
+
+![[Tamil, Malayalam, Grantha and Sinhalese scripts.png]]
 
 |അ|அ|
 |---|---|
