@@ -21,6 +21,10 @@ To Malayalam: After ടവർഗ്ഗം, there was a ഺവർഗ്ഗം wit
 ഩ
 ൔ / ം, ൕ / യ്, ൖ / ഴ്
 
+(Looks like, since Samskritham has ळ, then yzha, റ)
+
+क्ष, त्र, ज्ञ, श्र
+
 Payjzhaya Lipi (pre-1971 reform):
 
 ഽ - പ്രശ്ലേഷം. സന്ധിയിൽ ഒരു അകാരം മറഞ്ഞ് കിടക്കുന്നതിനെ സൂചിപ്പിക്കുന്നു. (നമോ + അസ്തു = നമോഽസ്തു)
@@ -51,7 +55,7 @@ Doublets: ഞ്ഞ ക്ക ബ്ബ ച്ച ഗ്ഗ ജ്ജ ട്ട 
 Confusing: ര്ര റ്ര ല്ല
 Uncommon: ܦܘ (Lakshadweep), റ്റ (Outstanding)
 
-ലിപി-s: (1) വെട്ടെഴുത്ത് / വട്ടെഴുത്ത് (written with cuts using ഉളി), (2) കോലെഴുത്ത് (written with കോൽ / എഴുത്താണി / നാരായം), (3) മലയാണ്മ / തെക്കൻ മലയാണ്മ (the earlier 2 were also called മലയായ്മ or just മലയാണ്മ), (4) ഗ്രന്ഥാക്ഷരം / ആര്യ എഴുത്ത്  (imported Samskritham letters), (5) മലയാള ലിപി (17th century)
+ലിപി-s: (0) ബ്രാഹ്മി ലിപി, (1) വെട്ടെഴുത്ത് / വട്ടെഴുത്ത് (written with cuts using ഉളി), (2) കോലെഴുത്ത് (written with കോൽ / എഴുത്താണി / നാരായം), (3) മലയാണ്മ / തെക്കൻ മലയാണ്മ (the earlier 2 were also called മലയായ്മ or just മലയാണ്മ), (4) ഗ്രന്ഥാക്ഷരം / ആര്യ എഴുത്ത്  (imported Samskritham letters), (5) മലയാള ലിപി (17th century)
 
 
 Remember how I once told you that Malayalam would soon be replaced by English, considering the way of progress? At the time, I didn't see the relevance of the languages. But now, even if no one else does it, I will single handedly preserve and make relevant all Dravidian and Devanagari scripts and languages.
