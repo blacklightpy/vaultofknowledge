@@ -56,7 +56,7 @@ Respect
 
 **To Mozbir Ullah:**
 
-What I meant by the word machine - if you throw an apple - no need to think even about wheels and spokes - "Brahma Sathya; Jagan Mithya; Jeevo Brahmaiva Na-Paraha" (the ultimate self is real, the word is a misapprehension, living beings and the ultimate self are not different) - Shankara Aachaarya's Brahma Jnaanavali Maala, Verse 20.
+What I meant by the word machine - if you throw an apple - the same is true for humans - no need to think even about wheels and spokes - "Brahma Sathya; Jagan Mithya; Jeevo Brahmaiva Na-Paraha" (the ultimate self is real, the word is a misapprehension, living beings and the ultimate self are not different) - Shankara Aachaarya's Brahma Jnaanavali Maala, Verse 20.
 
 What the above verse says is that Brahman (Ultimate Reality) is True, World is apparent (Mithya, i.e. not unreal), Jeeva (Living Beings) and Brahman are not unlike. By living beings, we are referring to their Aatman, or Jeeva-Aatman, not their bodies or their minds - which are all considered to be part of the material world.
 
