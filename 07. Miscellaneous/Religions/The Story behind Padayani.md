@@ -33,3 +33,6 @@ Padayani, as it is known today, has, apart from its artistic function, the funct
 
 Each Kolam has a purpose and a meaning, its function is not individual but social.
 
+Relation to Kathakali:
+
+> Kathakali incorporates several other elements from traditional and ritualistic art forms like Mudiyettu, Thiyyattu, Theyyam and Padayani besides a minor share of folk arts like Porattunatakam.
