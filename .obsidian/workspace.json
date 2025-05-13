@@ -643,17 +643,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Miscellaneous/Religions/The Story behind Padayani.md",
+                "file": "Studying the Malayalam Script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Story behind Padayani"
+              "title": "Studying the Malayalam Script"
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paday",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -860,10 +860,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd5c8c28bb51e2b2",
+  "active": "531cb3108e4ba1f5",
   "lastOpenFiles": [
+    "Vichaara Saagara notes - To Move.md",
     "Studying the Malayalam Script.md",
     "The Difference between a King and a Commoner.md",
+    "07. Miscellaneous/Religions/The Story behind Padayani.md",
     "Jyothish Standard for Devanagari Transliteration.md",
     "06. Collected Knowledge/Malayalam Words.md",
     "06. Collected Knowledge/Malayalam Language.md",
@@ -888,8 +890,6 @@
     "Paraa Praveshika.md",
     "God of Jyothish.md",
     "Talmud.md",
-    "07. Miscellaneous/Religions/Judah-ism.md",
-    "Content Analysis and Classification Theory.md",
     "_images/Tefillin.png",
     "_images/Pasted image 20250506202448.png",
     "_images/Talmud page contents.png",

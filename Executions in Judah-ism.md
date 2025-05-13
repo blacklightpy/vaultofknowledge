@@ -12,7 +12,7 @@
 
 # The Conditions of Execution
 
-**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Sanhedrin, Page 12, 1-3:**
+**Mishneh Torah by Maimonaides, Sefer Shoftim (Judges), Sanhedrin, Page 12, Lines 1-3:**
 
 - A person has to first be warned of the punishment, whether he is Torah scholar or a common person, and he has to acknowledge it, and not just say that he knows there is a punishment. (Even if he says: "I know," he is not liable for punishment until he accepts death upon himself, saying: "It is for this reason that I am doing this." In such a situation, he is executed.)
 - He must commit the crime directly after the warning, or else a warning should be issued again.

@@ -19,6 +19,8 @@ Darika used the rod of brahma forcing Kali to retreat. Goddess Kartyayani, an al
 With all the powerful mantras of the opponent now with her, Kali fought with Darika and on the twenty-second day she captured the rod of Brahma, cut her opponent's head and slaked her thirst with his blood. Kali’s fury raged even after the war ended. Her army of goddesses and phantoms, terrified at the unusual anger of their leader, fled the field and sought refuge in Shiva. Shiva proposed several modes of entertainment to cool her down. Dance, music, comic dialogues and mime were tried but all in vain. But when Lord Subrahmanya drew her furious form on the ground, and then acted her out with gorgeous accoutrement and rhythmic movement, Kali was amused and pleased.
 
 This, in brief, is the story behind Padayani.
+
+The song Pallivaalu Bhadra Vattakam is associated with this event.
 # The art form
 ## The Myths Exist to Propagate Ethics
 Mythical narratives of this sort that form background to art forms like Padayani are also ground for the founding of certain ethics.
