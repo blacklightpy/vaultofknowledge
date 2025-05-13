@@ -9,14 +9,20 @@ To Malayalam:
 
 ## Letters
 
-### Classic Order
+### Classic Order (or Kindergarten Order)
 
-Vowels: 
+Here,I'll only be listing the letters I was originally taught, excluding deprecated symbols.
+
+#### Vowels
+
+There are 15 vowels.
 
 | അ   | ആ   | ഇ   | ഈ   | ഉ   | ഊ   | ഋ   | എ   | ഏ   | ഐ   | ഒ   | ഓ   | ഔ   | അം  | അഃ  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-Consonants:
+#### Consonants
+
+There are 36 consonants
 
 | ക   | ഖ   | ഗ   | ഘ   | ങ   |
 | --- | --- | --- | --- | --- |
@@ -30,19 +36,42 @@ Consonants:
 | ശ   | ഷ   | സ   | ഹ   |
 | ള   | റ   | ഴ   |     |
 
-Chil-s:
+#### Chil-s
+
+There are 5 chil-s
 
 | ൺ   | ൻ   | ർ   | ൽ   | ൾ   |
 | --- | --- | --- | --- | --- |
 
-കൂട്ടക്ഷരങ്ങൾ (Koottaksharam-s / Double-Letters):
+#### Double-Letters
 
-| ക്ക | ഗ്ഗ | ങ്ങ | യ്യ | സ്സ | ച്ച | ജ്ജ | ഞ്ഞ | ര്ര | ശ്ശ |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ച്ച | ജ്ജ | ഞ്ഞ | ര്ര | ശ്ശ |     |     |     |     |     |     |     |
-| ട്ട | ഡ്ഡ | ണ്ണ | ല്ല |     |     |     |     |     |     |     |     |
-| ത്ത | ദ്ദ | ന്ന | വ്വ |     |     |     |     |     |     |     |     |
-| പ്പ | ബ്ബ | മ്മ | ള്ള |     |     |     |     |     |     |     |     |
+There are a total of 57 double letters.
+
+**സ്വവർഗ കൂട്ടക്ഷരങ്ങൾ (Same-Class Double-Letters):**
+
+There are 22 same-class double-letters.
+
+| ക്ക | ഗ്ഗ | ങ്ങ | യ്യ | സ്സ | ച്ച | ജ്ജ | ഞ്ഞ | ര്ര | ശ്ശ | ട്ട |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ഡ്ഡ | ണ്ണ | ല്ല | ത്ത | ദ്ദ | ന്ന | വ്വ | പ്പ | ബ്ബ | മ്മ | ള്ള |
+
+**വർഗേതര കൂട്ടക്ഷരങ്ങൾ (Different-Class Double-Letters):**
+
+There are 35 different-class double-letters.
+
+| ങ്ക | ഗ്ന | ഗ്മ | ഞ്ച | ഞ്ജ | ണ്മ | ണ്ട | ണ്ഡ | ന്മ | ന്ത | ന്ദ   | ത്മ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- |
+| മ്പ | ഹ്ന | ഹ്മ | ക്ഷ | ശ്ച | ജ്ഞ | ന്ഥ | സ്ഥ | ത്ഥ | ത്സ | സ്റ്റ | ത്ഭ |
+| ന്ധ | ദ്ധ | ന്റ | ക്ത | ല്പ | ത്ര | ന്ര | ത്ന | ഗ്ദ | ച്ഛ | ന്റെ  |     |
+
+#### Diacritics
+
+There are diacritics corresponding to all the vowels.
+
+|     | ാ   | ി   | ീ   | ു   | ൂ   | ൃ   | െ   | േ   | ൈ   | ൊ   | ോ   | ൌ   | ം   | ഃ   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+And after this, we'd apply the diacritics to each of the consonants. That would give a combination of 36 x 15 = 540 consonants with diacritics, and that's excluding the double-letters and vowels.
 
 
 [Also see article on: കൂട്ടക്ഷരം]
@@ -70,12 +99,12 @@ Chil-s:
 തുടങ്ങിയ 15 അക്ഷരങ്ങളും, കൂടാതെ താഴെ ചേർത്തിരിക്കുന്ന 20 അക്ഷരങ്ങളുമാണ്.
 
 | ഏകതരം | ദ്വയതരം | ത്രയതരം | ചതുർതരം |
-| --- | --- | --- | --- |
-| ക്ഷ | ശ്ച | ജ്ഞ | ന്ഥ |
-| സ്ഥ | ത്ഥ | ത്സ | സ്റ്റ |
-| ത്ഭ | ന്ധ | ദ്ധ | ന്റ |
-| ക്ത | ല്പ | ത്ര | ന്ര |
-| ത്ന | ഗ്ദ | ച്ഛ | ന്റെ |
+| ----- | ------- | ------- | ------- |
+| ക്ഷ   | ശ്ച     | ജ്ഞ     | ന്ഥ     |
+| സ്ഥ   | ത്ഥ     | ത്സ     | സ്റ്റ   |
+| ത്ഭ   | ന്ധ     | ദ്ധ     | ന്റ     |
+| ക്ത   | ല്പ     | ത്ര     | ന്ര     |
+| ത്ന   | ഗ്ദ     | ച്ഛ     | ന്റെ    |
 
 
 Diacritics:
@@ -86,10 +115,11 @@ Diacritics:
 ### Full List
 
 
-Deprecated Chil-s:
+#### Chil-s
 
-| ൿ / ക് | ൔ / ം | ൕ / യ് | ൖ / ഴ് |
-| ------ | ----- | ------ | ------ |
+| Chil      | ൿ   | ൔ   | ൕ   | ൖ   |
+| --------- | --- | --- | --- | --- |
+| Expansion | ക്  | ം   | യ്  | ഴ്  |
 
 
 ് - Chandrakkala (Malayalam Name) / Viraamam (General Indic Name)
