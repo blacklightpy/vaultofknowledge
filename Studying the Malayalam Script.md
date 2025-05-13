@@ -20,6 +20,8 @@ There are 15 vowels.
 | അ   | ആ   | ഇ   | ഈ   | ഉ   | ഊ   | ഋ   | എ   | ഏ   | ഐ   | ഒ   | ഓ   | ഔ   | അം  | അഃ  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+അം is Anusvaaram, and അഃ is Visargam
+
 #### Consonants (വ്യഞ്ജനങ്ങൾ)
 
 There are 36 consonants
@@ -68,12 +70,22 @@ There are 35 different-class double-letters.
 
 #### Diacritics
 
+**Vowel Diacritics:**
+
 There are diacritics corresponding to all the vowels.
 
 |     | ാ   | ി   | ീ   | ു   | ൂ   | ൃ   | െ   | േ   | ൈ   | ൊ   | ോ   | ൌ   | ം   | ഃ   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 And after this, we'd apply the diacritics to each of the consonants. That would give a combination of 36 x 15 = 540 consonants with diacritics, and that's excluding the double-letters and vowels.
+
+**Consonant Diacritics:**
+
+There are only 5 of them:
+
+| Diacritic | ്യ  | ്ര  | ്വ  | ல   |
+| --------- | --- | --- | --- | --- |
+| Consonant | യ   | ര   | വ   | ല   |
 
 
 [Also see article on: കൂട്ടക്ഷരം]
