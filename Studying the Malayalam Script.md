@@ -88,7 +88,7 @@ There are only 5 of them:
 | Consonant | യ   | ര   | വ   | ല   |
 
 ൦ ൧ ൨ ൩ ൪ ൫ ൬ ൭ ൮ ൯ (0-9)
-
+൰, ൱, ൲ (10, 100, 1000)
 
 [Also see article on: കൂട്ടക്ഷരം]
 
