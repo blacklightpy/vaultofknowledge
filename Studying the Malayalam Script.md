@@ -1,5 +1,3 @@
-To Malayalam: 
-
 ## Notes about nuances
 
 (1) After ടവർഗ്ഗം, there was a ഺവർഗ്ഗം with ഺ and ഩ. ഺ and ഩ got replaced by റ and ന. ഺ was never used in singular, but was used as ഺ്ഺ and ഩ്ഺ, which got replaced by റ്റ and ന്റ.
@@ -9,18 +7,20 @@ To Malayalam:
 
 ## Letters
 
+The letters in the Malayalam alphabet are arranged according to the Samskritham style, as are all other Dravidian scripts (and Indic scripts in general).
+
 ### Classic Order (or Kindergarten Order)
 
 Here,I'll only be listing the letters I was originally taught, excluding deprecated symbols.
 
-#### Vowels
+#### Vowels (സ്വരങ്ങൾ)
 
 There are 15 vowels.
 
 | അ   | ആ   | ഇ   | ഈ   | ഉ   | ഊ   | ഋ   | എ   | ഏ   | ഐ   | ഒ   | ഓ   | ഔ   | അം  | അഃ  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-#### Consonants
+#### Consonants (വ്യഞ്ജനങ്ങൾ)
 
 There are 36 consonants
 
@@ -36,12 +36,14 @@ There are 36 consonants
 | ശ   | ഷ   | സ   | ഹ   |
 | ള   | റ   | ഴ   |     |
 
-#### Chil-s
+#### Chil Letters (ചില്ലക്ഷരങ്ങൾ)
 
-There are 5 chil-s
+There are 5 chil letters.
 
 | ൺ   | ൻ   | ർ   | ൽ   | ൾ   |
 | --- | --- | --- | --- | --- |
+
+(I think it is the absence of more chil letters that give Indians their accent - like, how "cut" is pronounced as "kattu". That is, they do not have the letters to end with sound like, e.g. "t", without using a viraamam, which makes it sound like "ttu". A better example is how we got "puttu" from "put").
 
 #### Double-Letters
 
