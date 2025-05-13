@@ -643,13 +643,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studying the Malayalam Script.md",
+                "file": "07. Miscellaneous/Religions/The Story behind Padayani.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Studying the Malayalam Script"
+              "title": "The Story behind Padayani"
             }
           }
         ],
@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "paday",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -862,8 +862,8 @@
   },
   "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
-    "The Difference between a King and a Commoner.md",
     "Studying the Malayalam Script.md",
+    "The Difference between a King and a Commoner.md",
     "Jyothish Standard for Devanagari Transliteration.md",
     "06. Collected Knowledge/Malayalam Words.md",
     "06. Collected Knowledge/Malayalam Language.md",
