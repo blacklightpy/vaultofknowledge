@@ -193,6 +193,7 @@ The ligature _nṯa_ is written as _n_ ന്‌ + _ṟa_ റ and pronounced /nd
 | Digraph     | ൻറ    | ററ    |
 
 
+
 ### Full List
 
 
