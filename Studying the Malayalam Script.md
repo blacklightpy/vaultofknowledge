@@ -47,7 +47,7 @@ There are 5 chil letters.
 
 (I think it is the absence of more chil letters that give Indians their accent - like, how "cut" is pronounced as "kattu". That is, they do not have the letters to end with sound like, e.g. "t", without using a viraamam, which makes it sound like "ttu". A better example is how we got "puttu" from "put").
 
-#### Double-Letters
+#### Double-Letters / Ligatures
 
 There are a total of 57 double letters.
 
