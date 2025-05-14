@@ -99,12 +99,23 @@ There are only 5 of them:
 ൝ (3⁄20, മൂന്നുമാ)
 ൞ (1⁄5 = 4⁄20, നാലുമാ)
 ൙ (1⁄40, അരമാ)
+കാണി
 ൚ (3⁄80, മുക്കാണി)
 ൘ (1⁄160, അരക്കാണി)
 
-1/5 = Kaale Maakaani
-6/16 = Kaale Arakkaal
+൳
+൴
+൵
 
+5/16 = Kaale Maakaani
+6/16 = Kaale Arakkaal
+7/16 = Kaale Mundaani
+9/16 = Are Maakaani
+10/16 = Are Arakkaal
+11/16 = Are Mundaani
+13/16 = Mukkaale Maakaani
+14/16 = Mukkaale Arakkaal
+15/16 = Mukkaale Mundaani
 
 ൏ (പറ, unit of grains)
 ൹ (Date-mark)
