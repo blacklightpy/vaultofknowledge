@@ -97,7 +97,11 @@ There are only 5 of them:
 ൸ (3⁄16, മുണ്ടാണി)
 ൝ (3⁄20, മൂന്നമ)
 
+൘ ൙ ൚ ൛ ൜ ൝ ൞ ൟ ൏ ൷ ൸
+
 ൹ (Date-mark)
+
+Other signs: ◌഻ (Vertical Bar Viraama, replaced by Chandrakkala), ◌഼ (Circular Viraama, replaced by Chandrakkala), ൎ (dot reph), ഀ (Arachaic, Samskritham Anusvaara), ഄ (Archaic, Vedic Standalone Chandrabindu),
 
 [Also see article on: കൂട്ടക്ഷരം]
 
