@@ -90,6 +90,10 @@ There are only 5 of them:
 ൦ ൧ ൨ ൩ ൪ ൫ ൬ ൭ ൮ ൯ (0-9)
 ൰, ൱, ൲ (10, 100, 1000)
 
+൳, ൴, ൵, ൷ ()
+
+൹ (Date-mark)
+
 [Also see article on: കൂട്ടക്ഷരം]
 
 സ്വവർഗ കൂട്ടക്ഷരങ്ങൾ (Sva-Varga Koottaksharam-s / Same Class Double-Letters) 
