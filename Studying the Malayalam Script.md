@@ -108,6 +108,11 @@ There are only 5 of them:
 ൴
 ൵
 
+ലേ 
+രേ
+
+കാലേ മാകാണി
+
 5/16 = Kaale Maakaani
 6/16 = Kaale Arakkaal
 7/16 = Kaale Mundaani
