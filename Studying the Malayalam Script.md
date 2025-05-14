@@ -171,6 +171,28 @@ Diacritics:
 |     | ാ   | ി   | ീ   | ു   | ൂ   | ൃ   | െ   | േ   | ൈ   | ൊ   | ോ   | ൌ   | ം   | ഃ   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+Common ligatures
+
+|  | _kka_ | _ṅka_ | _ṅṅa_ | _cca_ | _ñca_ | _ñña_ | _ṭṭa_ | _ṇṭa_ | _ṇṇa_ | _tta_ | _nta_ | _nna_ | _ppa_ | _mpa_ | _mma_ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Non-ligated | ക്‌ക | ങ്‌ക | ങ്‌ങ | ച്‌ച | ഞ്‌ച | ഞ്‌ഞ | ട്‌ട | ണ്‌ട | ണ്‌ണ | ത്‌ത | ന്‌ത | ന്‌ന | പ്‌പ | മ്‌പ | മ്‌മ |
+| Ligated | ക്ക | ങ്ക | ങ്ങ | ച്ച | ഞ്ച | ഞ്ഞ | ട്ട | ണ്ട | ണ്ണ | ത്ത | ന്ത | ന്ന | പ്പ | മ്പ | മ്മ |
+
+The ligature _mpa_ മ്പ was historically derived from _npa_ ന്‌പ. The ligatures _cca_, _bba_, _yya_, and _vva_ are special in that a doubled consonant is denoted by a triangle sign below a consonant letter.
+
+|             | _cca_ | _bba_ | _yya_ | _vva_ |
+| ----------- | ----- | ----- | ----- | ----- |
+| Non-ligated | ച്‌ച  | ബ്‌ബ  | യ്‌യ  | വ്‌വ  |
+| Ligated     | ച്ച   | ബ്ബ   | യ്യ   | വ്വ   |
+The ligature _nṯa_ is written as _n_ ന്‌ + _ṟa_ റ and pronounced /nda/. The ligature _ṯṯa_ is written as _ṟ_ റ് + _ṟa_ റ.
+
+|             | _nṯa_ | _ṯṯa_ |
+| ----------- | ----- | ----- |
+| Non-ligated | ന്‌റ  | റ്‌റ  |
+| Ligated     | ന്റ   | റ്റ   |
+| Digraph     | ൻറ    | ററ    |
+
+
 ### Full List
 
 
