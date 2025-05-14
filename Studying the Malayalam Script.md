@@ -93,15 +93,25 @@ There are only 5 of them:
 ൳, ൴, ൵, (1⁄4 (കാൽ), 1⁄2 (അര), 3⁄4 (മുക്കാൽ))
 ൷ (1⁄8, അരക്കാൽ)
 ൶ (1⁄16, മാകാണി)
-
 ൸ (3⁄16, മുണ്ടാണി)
-൝ (3⁄20, മൂന്നമ)
+൛ (1⁄20, ഒരുമാ)
+൜ (1⁄10 = 2⁄20, രണ്ടുമാ)
+൝ (3⁄20, മൂന്നുമാ)
+൞ (1⁄5 = 4⁄20, നാലുമാ)
+൙ (1⁄40, അരമാ)
+൚ (3⁄80, മുക്കാണി)
+൘ (1⁄160, അരക്കാണി)
 
-൘ ൙ ൚ ൛ ൜ ൝ ൞ ൟ ൏ ൷ ൸
+1/5 = Kaale Maakaani
+6/16 = Kaale Arakkaal
 
+
+൏ (പറ, unit of grains)
 ൹ (Date-mark)
 
-Other signs: ◌഻ (Vertical Bar Viraama, replaced by Chandrakkala), ◌഼ (Circular Viraama, replaced by Chandrakkala), ൎ (dot reph), ഀ (Arachaic, Samskritham Anusvaara), ഄ (Archaic, Vedic Standalone Chandrabindu),
+Other signs: ◌഻ (Vertical Bar Viraama, replaced by Chandrakkala), ◌഼ (Circular Viraama, replaced by Chandrakkala), ൎ (Used to append the chil ർ), ഀ (Arachaic, Samskritham Anusvaara), ഄ (Archaic, Vedic Standalone Chandrabindu),
+
+Old Script: ൟ (old symbol of ഈ)
 
 [Also see article on: കൂട്ടക്ഷരം]
 
