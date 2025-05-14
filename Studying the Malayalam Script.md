@@ -126,8 +126,10 @@ Ambedkar: “To the Muslims, a Hindu is a Kaffir. A Kaffir is not worthy of resp
 
 ൏ (പറ, unit of grains)
 ൹ (Date-mark)
+। (Dand, Delimiter for verses)
+॥ (Double Dand, Delimiter for verses)
 
-Other signs: ◌഻ (Vertical Bar Viraama, replaced by Chandrakkala), ◌഼ (Circular Viraama, replaced by Chandrakkala), ൎ (Used to append the chil ർ), ഀ (Arachaic, Samskritham Anusvaara), ഄ (Archaic, Vedic Standalone Chandrabindu),
+Other signs: ◌഻ (Vertical Bar Viraama, replaced by Chandrakkala), ◌഼ (Circular Viraama, replaced by Chandrakkala), ൎ (Used to append the chil ർ), ഀ (Arachaic, Samskritham Anusvaara, mostly used only in the Grantha script), ഄ (Archaic, Vedic Standalone Chandrabindu),
 
 Old Script: ൟ (old symbol of ഈ)
 
