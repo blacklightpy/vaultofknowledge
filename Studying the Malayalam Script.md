@@ -122,6 +122,8 @@ There are only 5 of them:
 ഇലി: 1⁄21600 = 1⁄60 x 1⁄360 (1 Degree)
 ഷഷ്ഠാംശം / ഷൾഭാഗം: ⅙
 
+Ambedkar: “To the Muslims, a Hindu is a Kaffir. A Kaffir is not worthy of respect. He is low-born and without status. That is why a country that is ruled by a Kaffir is Dar-ul-Harb to a Musalman. Given this, no further evidence seems to be necessary to prove that the Muslims will not obey a Hindu government. The basic feelings of deference and sympathy, which predispose persons to obey the authority of government, do not simply exist. But if a proof is wanted, there is no dearth of it. It is so abundant that the problem is what to tender and what to omit…In the midst of the Khilafat agitation, when the Hindus were doing so much to help the Musalmans, the Muslims did not forget that as compared with them the Hindus were a low and an inferior race,” BR Ambedkar had said.
+
 ൏ (പറ, unit of grains)
 ൹ (Date-mark)
 
