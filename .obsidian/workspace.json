@@ -643,13 +643,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studying the Tamil Script.md",
+                "file": "Studying the Malayalam Script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Studying the Tamil Script"
+              "title": "Studying the Malayalam Script"
             }
           }
         ],
@@ -862,8 +862,8 @@
   },
   "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
-    "README.md",
     "Studying the Tamil Script.md",
+    "README.md",
     "Studying the Malayalam Script.md",
     "07. Miscellaneous/Religions/The Story behind Padayani.md",
     "The Difference between a King and a Commoner.md",
