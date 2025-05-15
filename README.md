@@ -1,7 +1,9 @@
 [![CC Zero 1.0](https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 > [!INFO]
-> This repository also includes some content from sources like Wikipedia. Although they are used under the "fair use" policy, this should be known. Though Wikipedia is CC-BY-SA, which is non-restrictive, it being BY requires the content to be attributed, and SA requires the content to be shared under the same licens
+> This repository also includes some content from sources like Wikipedia. Although they are used under the "fair use" policy, this should be known. Though Wikipedia is CC-BY-SA, which is non-restrictive, it being BY requires the content to be attributed, and SA requires the content to be shared under the same license.
+> 
+> But since the goal is to ensure freedom for the content rather than to protect copyrights for the content, the use in this blog does not violate the license as long as I don't impose another license on that content. Further, it is in my interest to learn from the content and write it in my own words later.
 # Vault of Knowledge
 
 This is my personal knowledgebase where I organize information for future reference. Taking notes in this manner helps reduce entropy in my head, and might also help others.
