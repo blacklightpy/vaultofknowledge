@@ -215,7 +215,10 @@ The ligature _nṯa_ is written as _n_ ന്‌ + _ṟa_ റ and pronounced /nd
 ക്യ 	സ്ക
 ക്വ 	സ്പ
 
-വ്യഞ്ജനങ്ങൾ കൂടിച്ചേരുമ്പോഴും, അക്ഷരത്തിനൊപ്പം സ്വരം ചേർക്കുമ്പോഴും ചിഹ്നാദി കൂട്ടക്ഷരങ്ങൾ ഉത്ഭവിക്കുന്നു. (ക് + ത = ക്ത, ക് + ര = ക്ര മുതലായവ) രണ്ടിലധികം അക്ഷരങ്ങൾ ചേർന്നും കൂട്ടക്ഷരങ്ങൾ ഉണ്ടാവുന്നു. ഓരോ അക്ഷരങ്ങളും ചന്ദ്രക്കലയിട്ടു് ബന്ധിപ്പിക്കുന്നു. (ദ്ധ്യ = ദ് + ധ് + യ, ഗ്ദ്ധ്ര = ഗ് + ദ് + ധ് + ര മുതലായവ) (see https://rachana.org.in/glist-rachana-bold.html, for a font that contains the proper glyph of ഗ്ദ്ധ്ര, which looks like ![[Malayalam Ligature for gddhrya.png]] ![[Pasted image 20250516011110.png]] ![[Pasted image 20250516011210.png]]; A similar letter in Devanaagari is ग्ध्र्य (ഗ്ധ്ര്യ, close to ഗ്ദ്ധ്ര്യ), and द्ध्र्य (द् + ध् + र् + य), the example given in the Wikipedia page on ligatures for complex ligatures in Samskritham, which is written as: ![[Devanagari Ligature for ddhrya.png]] )
+വ്യഞ്ജനങ്ങൾ കൂടിച്ചേരുമ്പോഴും, അക്ഷരത്തിനൊപ്പം സ്വരം ചേർക്കുമ്പോഴും ചിഹ്നാദി കൂട്ടക്ഷരങ്ങൾ ഉത്ഭവിക്കുന്നു. (ക് + ത = ക്ത, ക് + ര = ക്ര മുതലായവ) രണ്ടിലധികം അക്ഷരങ്ങൾ ചേർന്നും കൂട്ടക്ഷരങ്ങൾ ഉണ്ടാവുന്നു. ഓരോ അക്ഷരങ്ങളും ചന്ദ്രക്കലയിട്ടു് ബന്ധിപ്പിക്കുന്നു. (ദ്ധ്യ = ദ് + ധ് + യ, ഗ്ദ്ധ്ര = ഗ് + ദ് + ധ് + ര മുതലായവ) (see https://rachana.org.in/glist-rachana-bold.html, for a font that contains the proper glyph of ഗ്ദ്ധ്ര, which looks like: ![[Malayalam Ligature for gddhra.png]]; A similar letter in Devanaagari is ग्ध्र्य (ഗ്ധ്ര്യ, close to ഗ്ദ്ധ്ര്യ), and द्ध्र्य (द् + ध् + र् + य), the example given in the Wikipedia page on ligatures for complex ligatures in Samskritham, which is written as: ![[Devanagari Ligature for ddhrya.png]]
+
+There is also ഗ്ദ്ധ്യ, as in വൈദഗ്ദ്ധ്യം (see https://xcancel.com/santhoshtr/status/1825926059667370384: ![[Malayalam word vaidagddhyam.png]], and the standalone ligature at https://xcancel.com/TiroTypeworks/status/1825993243831447855: ![[Malayalam ligature for gddhrya.png]]
+))
 
 ഒട്ടുമിക്ക അക്ഷരങ്ങളും ഇത്തരത്തിൽ ചിഹ്ന സഹായത്തോടെ എഴുതാൻ സാധിക്കുന്നു, എങ്കിലും ഒരു അക്ഷരമായി നിലകൊള്ളാൻ സാധിക്കാത്തതിനാൽ ഉത്തമ അക്ഷരമായി അതിനെ പരിഗണിക്കുന്നില്ല, അതിനാൽ തന്നെ അതിനെ കൂട്ടക്ഷരം എന്ന് പറയുന്നുവെങ്കിലും അത് കൂട്ടക്ഷരം അല്ല. (i.e. Referring to കൃ, ക്ര, etc.)
 
