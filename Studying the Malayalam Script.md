@@ -322,6 +322,7 @@ From https://ml.quora.com/%E0%B4%85%E0%B5%BC%E0%B4%A4%E0%B5%8D%E0%B4%A5%E0%B4%82
 For Syriac Malayalam, see: https://www.hendoacademy.org/articles/suriyani-malayalam-script-correspondence
 ### Full List
 
+See 2022 standard: https://fliphtml5.com/kzooh/bmuw/basic
 
 #### Chil-s
 
