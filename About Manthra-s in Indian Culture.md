@@ -27,3 +27,6 @@ Then I found this post of FB:
 > Veda Ghosham aims to educate people on such important Dharma Shastra rules which are taken very casually in the current world and finally when people suffer then they seek refuge of various means of getting out of the problem and spend huge amount of money searching for remedy to get out of their problem.  
 
 From the last para, it feels like they hook people on these Dharma Shaasthra-s which are horrendous and bigoted. Of course, if you can follow bigotry, then your intellect needs to be distorted in prior, and that seems to be the reason people follow these procedures.
+
+And power of Manthra? What is that, in this context? What kind of Manthra-s would be passed down in a Vedic Upanayana that would have any utility in Vyavahaarika Sathya? Aren't these the same people who follow the same Vedaanta tradition based on Brahma Soothra-s, whereby Adi Shankara wrote in Saundarya Lahari that all 64 Shaaktha Tanthra-s should not be followed in Kali Yuga?
+
