@@ -219,7 +219,7 @@ The ligature _nṯa_ is written as _n_ ന്‌ + _ṟa_ റ and pronounced /nd
 
 There is also ഗ്ദ്ധ്യ, as in വൈദഗ്ദ്ധ്യം (see https://xcancel.com/santhoshtr/status/1825926059667370384: ![[Malayalam word vaidagddhyam.png]], and the standalone ligature at https://xcancel.com/TiroTypeworks/status/1825993243831447855: ![[Malayalam ligature for gddhya.png]]
 
-Now all of these are four consonant, or CCCC ligatures. But there is also a 5 consonant, or CCCCC ligature, namely ഗ്ദ്ധ്ര്യ, mentioned at https://xcancel.com/TiroTypeworks/status/1825246981545197800, referred from https://thottingal.in/blog/2017/05/21/a-formal-grammar-for-malayalam-conjunct/. It is rendered there as ![[Malayalam ligature for gddhrya.png]], but it's more like gddha with the sign ligatures; and sign ligatures are not formally double letters as explained below. Also, here's the letter without the )
+Now all of these are four consonant, or CCCC ligatures. But there is also a 5 consonant, or CCCCC ligature, namely ഗ്ദ്ധ്ര്യ, mentioned at https://xcancel.com/TiroTypeworks/status/1825246981545197800, referred from https://thottingal.in/blog/2017/05/21/a-formal-grammar-for-malayalam-conjunct/. It is rendered there as ![[Malayalam ligature for gddhrya.png]], but it's more like gddha with the sign ligatures; and sign ligatures are not formally double letters as explained below. Also, here's the letter without the initial ഗ്, and is rendered better in many fonts: ദ്ധ്ര്യ)
 
 ഒട്ടുമിക്ക അക്ഷരങ്ങളും ഇത്തരത്തിൽ ചിഹ്ന സഹായത്തോടെ എഴുതാൻ സാധിക്കുന്നു, എങ്കിലും ഒരു അക്ഷരമായി നിലകൊള്ളാൻ സാധിക്കാത്തതിനാൽ ഉത്തമ അക്ഷരമായി അതിനെ പരിഗണിക്കുന്നില്ല, അതിനാൽ തന്നെ അതിനെ കൂട്ടക്ഷരം എന്ന് പറയുന്നുവെങ്കിലും അത് കൂട്ടക്ഷരം അല്ല. (i.e. Referring to കൃ, ക്ര, etc.)
 

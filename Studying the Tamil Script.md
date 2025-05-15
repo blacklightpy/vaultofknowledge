@@ -1,3 +1,9 @@
+For calligraphy, see: https://xcancel.com/ThariqueAzeez/status/1900228876946812944:
+
+| Side A                               | Side B                                |
+| ------------------------------------ | ------------------------------------- |
+| ![[Pasted image 20250516015254.png]] |  ![[Pasted image 20250516015310.png]] |
+
 # Numerals
 
 I'm adding this section directly off Wikipedia now for referring the additional numbers I couldn't get from Malayalam sources.
