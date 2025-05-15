@@ -1,8 +1,8 @@
 For calligraphy, see: https://xcancel.com/ThariqueAzeez/status/1900228876946812944:
 
-| Side A                               | Side B                                |
-| ------------------------------------ | ------------------------------------- |
-| ![[Pasted image 20250516015254.png]] |  ![[Pasted image 20250516015310.png]] |
+| Side A                                              | Side B                               |
+| --------------------------------------------------- | ------------------------------------ |
+| ![[Tamil Calligraphy Workshop Pamphlet Side A.png]] | ![[Tamil Calligraphy Workshop Pamphlet Side B.png]] |
 
 # Numerals
 
