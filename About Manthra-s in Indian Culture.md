@@ -45,3 +45,27 @@ Apparently, one should not chant the Gayathri Manthra unless:
 > 
 > Only if you observe all the above listed requirements, you may chant the Gayatri at the Trisandhya timings (dawn, dusk and noon). Or at whatever time and however much your guru instructs you. Otherwise please avoid doing so.
 
+> Only brahmin, khatriya, vaishya male with upanayan can chant vedic mantra. Other doing it can be fruitless, there is non vedic but puranic equivalent gayatri mantra.
+
+> Mantras chanted by the uninitiated do not give the required effects. Some of the asuri shaktis (demonic entities) are waiting for people do mistakes like this and steal the effects of the karma.
+> 
+> As for the Gayatri it is unique in the sense it is passed down from father to son. This is probably the only mantra like this, if a guru initiates one into the gayatri that is like adopting the disciple. His gotra and things would probably change too.
+> 
+> You can say the Gayatri like a prayer without intonations, up to 3 times (some say 10 times).
+> 
+> Typically, only people who are initiated have the adhikAra (sanction) to chant it with intonations. Because getting the intonations right needs a proper guru. So Youtube videos won't probably give you the proper initiation.
+> 
+> Also you need to be initiated into your veda shakha, that your family follows, not some random shakha. Each shakha has different way of chanting it.
+> 
+> If you are a vaishnava, typically the moola mantra should also be initiated along with the Gayatri. Because both are said together, with the mUla mantra being 3x of Gayatri.
+> 
+> It is not gatekeeping if someone says, you need to get training with using a shotgun, otherwise you'll end up blowing your feet off.
+> 
+> I heard a story from my guru, of someone who was initiated into the Gayatri and chanted it a large number of times. The people who initiated him did not check if the disciple had yogyata (capability). Well he ended up with uncontrollable anger problems and, ended up killing or crippling people.
+> 
+> Nobody is saying you should not get initiated into the Gayatri, if you find a proper guru. Irrespective of your caste or origin you could get initiated into it, if you find a proper guru, who identifies your capability.
+> 
+> But before doing something that you are going to regret, please gain some knowledge and follow proper procedure is what they are saying.
+> 
+> Even rAvaNa was initiated into the Gayatri and look what happened ?
+
