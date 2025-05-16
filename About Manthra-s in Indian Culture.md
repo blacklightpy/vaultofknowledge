@@ -30,3 +30,18 @@ From the last para, it feels like they hook people on these Dharma Shaasthra-s w
 
 And power of Manthra? What is that, in this context? What kind of Manthra-s would be passed down in a Vedic Upanayana that would have any utility in Vyavahaarika Sathya? Aren't these the same people who follow the same Vedaanta tradition based on Brahma Soothra-s, whereby Adi Shankara wrote in Saundarya Lahari that all 64 Shaaktha Tanthra-s should not be followed in Kali Yuga?
 
+---
+
+Apparently, one should not chant the Gayathri Manthra unless:
+
+(1) Their Yagyopaveet ceremony (Upanayana (initiation)) has been performed.
+(2) Only a Braahmana, Kshathriya and Vaishya can chant the Manthra.
+
+> The Gayatri mantra is a very powerful mantra . One should not chant it unless their Yagyopavīt ceremony has been performed, and they are regularly doing Sandhya vandanam. One should also observe brahmacharya, or atleast only engage in sexual activity for the Creation of children.
+> 
+> I don't get why peaple think it's "gatekeeping " to say this. It's for your own good. There are certain rules to chanting the Gayatri. Otherwise it will yeild the opposite fruits of what you want. Just as one should not take powerful medicine without the proper guidance and permission of a doctor , one should not chant more powerful mantras like the Gayatri without properly following the rules and having recived guidance from a legit guru.
+> 
+> If you are not initiated, your Yagyopavit sanskar is not done, you aren't observing 3 times daily Sandhya vandanam and brahmacharya, don't chant it. Better to chant hare krishna mahamantra, Panchakshari mantra (Om namah shivay) or the Surya namaskar mantra (which is addressed to the same deity as the Gayatri mantra), as these mantras don't require initiation. You can also just chant the name of your Ishta devata.
+> 
+> Only if you observe all the above listed requirements, you may chant the Gayatri at the Trisandhya timings (dawn, dusk and noon). Or at whatever time and however much your guru instructs you. Otherwise please avoid doing so.
+
