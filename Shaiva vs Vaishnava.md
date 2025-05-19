@@ -1,7 +1,7 @@
 
 I think I should study Shiva Tattva, Vishnu Tattva and Jeeva Tattva to resolve this. Source: https://iskcondesiretree.com/profiles/blogs/lord-krishna-s-64-qualities (As enumerated in Bhakti Rasāmṛrta Sindhu (Nectar of Devotion) by Srila Rupa Gosvami, a disciple of Chaithanya Mahaprabhu) (also stated here: https://vaniquotes.org/wiki/Krsna_has_sixty-four_transcendental_qualities)
 
-Also, there is the idea that Prabhupada said Jesus and Allah are equal to Vishnu, but Shiva is not the Supreme Godhead. But others say that he only said that under Vaishnvaism, Jesus, Allah and Shiva are all understood to be descriptions of the Godhead, but to them Krishna is the biggest Godhead.
+Also, there is the idea that Prabhupada said Jesus and Allah are equal to Vishnu, but Shiva is not the Supreme Godhead. But others say that he only said that under Vaishnavism, Jesus, Allah and Shiva are all understood to be descriptions of the Godhead, but to them Krishna is the biggest Godhead.
 
 Now I've seen Hare Krishna pages saying Shiva Tattva is only 84.375% of the Krishna Tattva, while Jeeva Tattvas are at most 78.125%. In that sense, this could be seen as a hierarchy. But then, it could simply be a comparison of Godhead Tattvas. But then, they say Krishna has 64 Tattvas, and Vishnu has only 60 (93.75%), while Shiva has 54 and Jeevas have 50. So certainly, these are just comparisons of Godhead Tattvas. So they would even consider Vishnu to be an expansion of Krishna, and so Vishnu would not be the Godhead too.
 
