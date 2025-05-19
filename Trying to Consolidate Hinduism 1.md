@@ -19,7 +19,7 @@
 						- **Etymology and Linguistics**
 						- **Astrology**
 						- **Rituals and Rites of Passage**
-			- **Techniques** [==Tantra:==] / **Arriving Knowledge from the Denomination of Shakthi** [==Shaaktha Aagama==]
+			- **Techniques** [==Tantra:==] / **Sought Knowledge from the Denomination of Shakthi** [==Shaaktha Nigama==]
 		- **Arriving Knowledge (Traditions)** [==Aagama==]
 			- **Techniques** [==Tantra:==]
 			- **Devices** [==Yantra:==]
