@@ -58,18 +58,13 @@ In Indian religion and culture, we have something called Pramaana-s. It is what'
 
 What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), which in other words, is the "natural world" (considered to be made up of three Guna-s), the three Pramaana-s alone hold validity. And only when it comes to knowledge about the super-natural, does the Veda-s hold authority. By the same principle, the idea that Purusha is "split" into many different entities does not mean the same thing as in your interpretation.
 
-(To be more precise, in Aabhaasa-Vaada, the Swaroopa of a Jeeva is Brahma Chaithanya Avachinna (delimited) on Kaarana Shareera, which is a part of Maaya. And in Prathibimba Vaada, Maaya itself is a Prathibimba (reflection) of Brahma Chaithanya. The 
+(To be more precise, in Avaccheda Vaada (theory of limitation) and Aabhaasa Vaada (theory of resemblance), the Swaroopa (true form) of a Jeeva (living being) is Brahma Chaithanya (ultimate nature) Avachinna (delimited) on Kaarana Shareera (causal body), which is a part of Maaya (illusion). And in Prathibimba Vaada, Maaya itself is a Prathibimba (reflection) of Brahma Chaithanya. By this analogy, the material world is non-different from its source.
 
-(What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. The shortest analogy I can make is, consider multiple objects displayed on a screen. Now one can reason that behind each object, there should be a screen. But, are there multiple screens? No, there is only one, although one feels that there should be many.
+What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. The shortest analogy I can make is, consider multiple objects displayed on a screen. Now one can reason that behind each object, there should be a screen. But, are there multiple screens? No, there is only one, although one feels that there should be many.
 
-Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the aphoristic saying that "without Shakthi, Shiva is Shava."
+Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the aphoristic saying that "without Shakthi, Shiva is Shava." Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Naari-Eeshvara analogy - which I state further below.)
 
-Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Naari-Eeshvara analogy.
-
-)
-
-If I say "you are the head of the group," it doesn't mean that "the group" is a "being" with a "head." Also, if I say "I'm the fire, the sword and the gun," it doesn't mean I'm not human
-
+If I say "you are the head of the group," it doesn't mean that "the group" is a "being" with a "head." Also, if I say "I'm the fire, the sword and the gun," it doesn't mean I'm not human.
 
 In order to understand any field of study, you have to understand its foundation. I also like to phrase it in Malayalam to tell elders, that in order to understand any Shaasthra, you have to understand its Adhishtaana. You can't just use someone else's theology to criticize someone else's religion. To even make the point that all religions do the same thing is moot, as per the point I raised earlier.
 
