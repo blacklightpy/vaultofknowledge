@@ -72,21 +72,23 @@ For example, I come from the Shaaktha Sampradaaya, and our Godhead, Bhadra Kaali
 
 You can say all you want about how "Captain Kube" is not real. But that was never the point. Another analogy is how schools teach simplified models earlier on, with the intention of teaching the real thing later. But schools are not misinforming children by teaching them the Bohr model. Yet many people who skipped the portions or don't pursue higher education (in the US) think that the solar system model of the atom is accurate. But that is not the problem of the school, but simply, a problem of reality. We can only organize information into large blocks that need to be nommed up "nom nom nom". That's literally why we go to school.
 
-Now I'll also like to add that the feminine and masculine here are referring to the "divine feminine" and "divine masculine", which have no connection to the human feminine and masculine aspects. Shakthi is the whole Prakrthi, including all animals. Shiva is the Aatma. Explaining this part is hard
+<<
+
+Now I'll also like to add that the feminine and masculine here are referring to the "divine feminine" and "divine masculine", which have no connection to the human feminine and masculine aspects. Shakthi is the whole Prakrthi, including all animals. Shiva is the Aatma. Explaining this is hard, but this is necessary to invalidate the Pathi-Parameshvara argument.
 
 Going back to the monitor analogy: the part of the screen that underlies an object (Jeeva) would be it's Aatma or Jeev-Aatma. And the whole screen is called Param-Aatma. As you see, Jeev-Aatma is a part of Param-Aatma, but Param-Aatma is part-less. So this "part" only comes into being when the "image," or Maaya appears.
 
+Then, in Avachheda-Vaada, the Brahma Chaithanya delimited by the Kaarana Shareera is also called Kootashtha Chainthanya (anvil-like nature). This is, because the Kootastha Chaithanya or screen area does not change, while the image covering it will change. While the Aatma or Jeev-Aatma is taken to be the Kootastha Chaithanya, the term Jeeva or Jeeva Chaithanya (life-form nature) also refers to both the Kaarana Shareera and the Brahma Chaithanya reflected on the Kaarana Shareera. And since this is (1) a reflection on a medium, and (2) a reflection is not the original, this reflection is also called Chit-Aabhaasa, or a resemblance of consciousness (Chit).
+
+Since that was a lot, to understand this better: as Maaya (image) is created, which includes Kaarana Shareera-s (objects), because of the presence of the object, there also comes into being (1) the screen-area delimited by the object, and (2) the Brahma Chaithanya reflected on the Kaarana Shareera (like screen's brightness filtered through the image). So, (1) Kaarana Shareera, (2) Kootastha Chaithanya and (3) Brahma Chaithanya reflected on the Kaarana Shareera define the Jeeva.
+
+Also, just as Brahma Chaithanya Avachinna by Kaarana Shareera is Jeeva-Aatma, Brahma Chaithanya Avachinna by the entire Maaya is Eeshvara. And just as Jeeva Chaithanya also included the reflecting medium and the reflection, Eeshvara Chaithanya also refers to Maaya, and Brahma Chaithanya reflected on Maaya. This reflected Brahma Chaithanya is Chit-Aabhaasa too, but since it is reflected on a larger area, it is still different from Jeeva-s.
 
 
-To understand this better, as Maaya (image) is created, which includes Kaarana Shareera-s (objects), because of the presence of the object, there also comes into being (1) the screen-area delimited by the object, and (2) the Brahma Chaithanya reflected on the Kaarana Shareera (like screen's brightness filtered through the image). So, (1) Kaarana Shareera, (2) Kootastha Chaithanya and (3) Brahma Chaithanya reflected on the Kaarana Shareera define the Jeeva.
 
-In terms of Avachheda-Vaada, the Brahma Chaithanya delimited by the Kaarana Shareera is also called Kootashtha Chainthanya (anvil-like nature). This is, because the Kootastha Chaithanya, or screen area does not change, while the image covering it will change.
+Then Prathibimba Vaada points out that Avidya or Maaya itself is the reflection of Brahma Chaithanya on itself, and that itself is the 
 
-While Jeev-Aatma is taken to be the Kootastha Chaithanya, the term Jeeva also refers to both the Kaarana Shareera and the Brahma Chaithanya reflected on the Kaarana Shareera.
 
-Since this is a reflection on a medium, 
-
-Also, just as Brahma Chaithanya Avachinna on Kaarana Shareera is Jeeva-Aatma, Br
 
 Vidya Vox: "Remember, the meaning. The old folk song we'll be singing. Pallivaalu Bhadra-Vattakam, Kayyilenthum Thamburaatti.." (LOL).
 
