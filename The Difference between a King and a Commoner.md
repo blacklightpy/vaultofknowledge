@@ -94,7 +94,7 @@ Vidya Vox: "Remember, the meaning. The old folk song we'll be singing. Pallivaal
 
 Mudiyettu is a play that enacts the story of Daarika Vadha. Padayani is a play that enacts the cosplay performed by Subramanya to calm down Kaali.
 
-When Indians say "God is all-present", or that "the individual soul and God are one", we are referring to the screen-areas, not to the images.
+When Indians say "God is all-present", or that "the individual soul and God are one", we are referring to the screen-areas, not to the images. The purpose of Veda-s is then, to point out "this is Jeeva," "this is Eeshvara," "these are the differences," "this is why," and "this is the reality."
 
 ---
 
