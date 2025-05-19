@@ -62,7 +62,7 @@ What this means is that, in Jagat, or the world of duality under Maaya, which is
 
 What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. The shortest analogy I can make is, consider multiple objects displayed on a screen. Now one can reason that behind each object, there should be a screen. But, are there multiple screens? No, there is only one, although one feels that there should be many.
 
-Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the aphoristic saying that "without Shakthi, Shiva is Shava." Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Naari-Eeshvara analogy - which I state further below.)
+Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the aphoristic saying that "without Shakthi, Shiva is Shava." Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Naari-Eeshvara analogy - which I state further below. Also, Purusha is the same thing as Shiva here, i.e. the static aspect.)
 
 If I say "you are the head of the group," it doesn't mean that "the group" is a "being" with a "head." Also, if I say "I'm the fire, the sword and the gun," it doesn't mean I'm not human.
 
@@ -70,7 +70,9 @@ In order to understand any field of study, you have to understand its foundation
 
 For example, I come from the Shaaktha Sampradaaya, and our Godhead, Bhadra Kaali, is feminine, and her ultimate form is as Ardha-Naari-Eeshvar (Half-Female). This iconography represents some metaphysical concepts, but I'm not trying to write a book here. For example, it's easier to teach moral concepts using Pancha-Tantra tales than to use mathematical logic. There's also the recent example of CNCF's "The Illustrated Children's Guide to Kubernetes," which is an official guide for beginners to get started with Kubernetes, an "OCI container orchestration system."
 
-You can say all you want about how "Captain Kube" is not real. But that was never the point. Another analogy is how schools teach simplified models earlier on, with the intention of teaching the real thing later. But schools are not misinforming children by teaching them the Bohr model. Yet many people who skipped the portions or don't pursue higher education (in the US) think that the solar system model of the atom is accurate. But that is not the problem of the school, but simply, a problem of reality. We can only organize information into large blocks that need to be nommed up
+You can say all you want about how "Captain Kube" is not real. But that was never the point. Another analogy is how schools teach simplified models earlier on, with the intention of teaching the real thing later. But schools are not misinforming children by teaching them the Bohr model. Yet many people who skipped the portions or don't pursue higher education (in the US) think that the solar system model of the atom is accurate. But that is not the problem of the school, but simply, a problem of reality. We can only organize information into large blocks that need to be nommed up "nom nom nom". That's literally why we go to school.
+
+Now I'll also like to add that the feminine and masculine here are referring to the "divine feminine" and "divine masculine", which have no connection to the human feminine and masculine aspects.
 
 ---
 
