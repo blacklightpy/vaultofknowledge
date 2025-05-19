@@ -58,6 +58,12 @@ In Indian religion and culture, we have something called Pramaana-s. It is what'
 
 What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), which in other words, is the "natural world" (considered to be made up of three Guna-s), the three Pramaana-s alone hold validity. And only when it comes to knowledge about the super-natural, does the Veda-s hold authority. By the same principle, the idea that Purusha
 
+(To be more precise, in Aabhaasa-Vaada, the Swaroopa of a Jeeva is Brahma Chaithanya Avachinna (delimited) on Kaarana Shareera, which is a part of Maaya. And in Prathibimba Vaada, Maaya itself is a Prathibimba (reflection) of Brahma Chaithanya)
+
+(What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. To make a
+
+)
+
 If I say "you are the head of the group," it doesn't mean that "the group" is a "being" with a "head." Also, if I say "I'm the fire, the sword and the gun," it doesn't mean I'm not human
 
 
