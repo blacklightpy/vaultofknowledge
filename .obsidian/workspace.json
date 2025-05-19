@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ardha",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -860,8 +860,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "cd5c8c28bb51e2b2",
   "lastOpenFiles": [
+    "Requirements to Criticize a Religion.md",
+    "The Difference between a King and a Commoner.md",
     "Studying the Malayalam Script.md",
     "Things that do not violate the Deen.md",
     "Trying to Consolidate Hinduism 1.md",
@@ -892,12 +894,10 @@
     "_images/Pasted image 20250516011110.png",
     "_images/dsfa.png",
     "07. Miscellaneous/Religions/The Story behind Padayani.md",
-    "The Difference between a King and a Commoner.md",
     "Executions in Judah-ism.md",
     "Vichaara Saagara notes - To Move.md",
     "Jyothish Standard for Devanagari Transliteration.md",
     "06. Collected Knowledge/Malayalam Words.md",
-    "06. Collected Knowledge/Malayalam Language.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
     "08. External Resources/Dictionaries",
     "Add to How I Learn",
