@@ -72,9 +72,14 @@ For example, I come from the Shaaktha Sampradaaya, and our Godhead, Bhadra Kaali
 
 You can say all you want about how "Captain Kube" is not real. But that was never the point. Another analogy is how schools teach simplified models earlier on, with the intention of teaching the real thing later. But schools are not misinforming children by teaching them the Bohr model. Yet many people who skipped the portions or don't pursue higher education (in the US) think that the solar system model of the atom is accurate. But that is not the problem of the school, but simply, a problem of reality. We can only organize information into large blocks that need to be nommed up "nom nom nom". That's literally why we go to school.
 
-Now I'll also like to add that the feminine and masculine here are referring to the "divine feminine" and "divine masculine", which have no connection to the human feminine and masculine aspects. Shakthi is the whole Prakrthi, including all animals. Shiva is the Atma. Going back to the monitor analogy: the part of the screen that underlies an object (Jeeva) would be 
+Now I'll also like to add that the feminine and masculine here are referring to the "divine feminine" and "divine masculine", which have no connection to the human feminine and masculine aspects. Shakthi is the whole Prakrthi, including all animals. Shiva is the Aatma. Going back to the monitor analogy: the part of the screen that underlies an object (Jeeva) would be it's Aatma or Jeev-Aatma. And the whole screen is called Param-Aatma. In terms of Avachheda-Vaada, the Brahma Chaithanya delimited by the Kaarana Shareera is also called Kootashtha Chainthanya (anvil-like nature). This is, because the Kootastha Chaithanya, or Aatma does not change, while the image covering it will change. While Jeev-Aatma is the Kootastha Chaithanya, Jeeva itself is the 
+
+Also, just as Brahma Chaithanya Avachinna on Kaarana Shareera is Jeeva-Aatma, Br
 
 Vidya Vox: "Remember, the meaning. The old folk song we'll be singing. Pallivaalu Bhadra-Vattakam, Kayyilenthum Thamburaatti.." (LOL).
+
+
+Mudiyettu is a play that enacts the story of Daarika Vadha. Padayani is a play that enacts the cosplay performed by Subramanya to calm down Kaali.
 
 ---
 
