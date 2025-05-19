@@ -56,15 +56,15 @@ On that note, I'd like to point out that religion is not always about power, it 
 
 In Indian religion and culture, we have something called Pramaana-s. It is what's known in Western Philosophy as "epistemological sources," or simply, "valid sources of acquiring knowledge." Broadly, the Pramaana-s can be grouped into three: Prathyaksha / Drishta (what is seen), Anumaana (logically inferred) and Shabda (testimony). The different schools of religions, or Darshana-s differ on what is acceptable. Now, the Advaita Vedaanta Darshana for example, considers the three Pramaana-s as valid. Their order of priority for Vyavahaarika Sathya (day to day reality) is first Prathyaksha, then Anumaana and then Shabda. But when it comes to Param-Aarthika Sathya (ultimate reality), or Brahma-Jnaana (knowledge of the ultimate reality), the Shabda of the Veda-s is the only Pramaana.
 
-What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), which in other words, is the "natural world" (considered to be made up of three Guna-s), the three Pramaana-s alone hold validity. And only when it comes to knowledge about the super-natural, does the Veda-s hold authority. By the same principle, the idea that Purusha
+What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), which in other words, is the "natural world" (considered to be made up of three Guna-s), the three Pramaana-s alone hold validity. And only when it comes to knowledge about the super-natural, does the Veda-s hold authority. By the same principle, the idea that Purusha is "split" into many different entities does not mean the same thing as in your interpretation.
 
-(To be more precise, in Aabhaasa-Vaada, the Swaroopa of a Jeeva is Brahma Chaithanya Avachinna (delimited) on Kaarana Shareera, which is a part of Maaya. And in Prathibimba Vaada, Maaya itself is a Prathibimba (reflection) of Brahma Chaithanya)
+(To be more precise, in Aabhaasa-Vaada, the Swaroopa of a Jeeva is Brahma Chaithanya Avachinna (delimited) on Kaarana Shareera, which is a part of Maaya. And in Prathibimba Vaada, Maaya itself is a Prathibimba (reflection) of Brahma Chaithanya. The 
 
 (What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. The shortest analogy I can make is, consider multiple objects displayed on a screen. Now one can reason that behind each object, there should be a screen. But, are there multiple screens? No, there is only one, although one feels that there should be many.
 
-Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the saying
+Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the aphoristic saying that "without Shakthi, Shiva is Shava."
 
-Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Nareeshvara analogy.
+Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Naari-Eeshvara analogy.
 
 )
 
