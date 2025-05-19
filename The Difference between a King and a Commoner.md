@@ -56,7 +56,13 @@ On that note, I'd like to point out that religion is not always about power, it 
 
 In Indian religion and culture, we have something called Pramaana-s. It is what's known in Western Philosophy as "epistemological sources," or simply, "valid sources of acquiring knowledge." Broadly, the Pramaana-s can be grouped into three: Prathyaksha / Drishta (what is seen), Anumaana (logically inferred) and Shabda (testimony). The different schools of religions, or Darshana-s differ on what is acceptable. Now, the Advaita Vedaanta Darshana for example, considers the three Pramaana-s as valid. Their order of priority for Vyavahaarika Sathya (day to day reality) is first Prathyaksha, then Anumaana and then Shabda. But when it comes to Param-Aarthika Sathya (ultimate reality), or Brahma-Jnaana (knowledge of the ultimate reality), the Shabda of the Veda-s is the only Pramaana.
 
-What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), 
+What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), which in other words, is the "natural world" (considered to be made up of three Guna-s), the three Pramaana-s alone hold validity. And only when it comes to knowledge about the super-natural, does the Veda-s hold authority. By the same principle, the idea that Purusha
+
+In order to understand any field of study, you have to understand its foundation. I also like to phrase it in Malayalam to tell elders, that in order to understand any Shaasthra, you have to understand its Adhishtaana. You can't just use someone else's theology to criticize someone else's religion. To even make the point that all religions do the same thing is moot, as per the point I raised earlier.
+
+For example, I come from the Shaaktha Sampradaaya, and our Godhead, Bhadra Kaali, is feminine, and her ultimate form is as Ardha-Naari-Eeshvar (Half-Female).
+
+This iconography represents some metaphysical concepts. For example, 
 
 ---
 

@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ardha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -860,7 +860,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd5c8c28bb51e2b2",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Studying the Malayalam Script.md",
     "Things that do not violate the Deen.md",
