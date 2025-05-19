@@ -52,7 +52,11 @@ I have a long reply to make to this article. But since I do not have the time fo
 
 I don't like the concept of Pathi-Parameshvar, and I'd never expect it from my girl. I'm not telling this because I like you, because I like another girl, and I'd never want her to treat me that way. I don't mean I don't like you, I like you, but not in that way.
 
-On that note, I'd like to point out that religion is not always about power, it is not 
+On that note, I'd like to point out that religion is not always about power, it is not always made up, and it is not always about morality. Replace "religion" with a "system of belief" and you'll get closer to it; and in addition, this particular system of belief deals with "ontology," or "how things come into being." Now, there are more nuances, which as you learn about it, you will realize that not all belief systems "get in your way" of living your life. I'll explain one additional example which will be helpful.
+
+In Indian religion and culture, we have something called Pramaana-s. It is what's known in Western Philosophy as "epistemological sources," or simply, "valid sources of acquiring knowledge." Broadly, the Pramaana-s can be grouped into three: Prathyaksha / Drishta (what is seen), Anumaana (logically inferred) and Shabda (testimony). The different schools of religions, or Darshana-s differ on what is acceptable. Now, the Advaita Vedaanta Darshana for example, considers the three Pramaana-s as valid. Their order of priority for Vyavahaarika Sathya (day to day reality) is first Prathyaksha, then Anumaana and then Shabda. But when it comes to Param-Aarthika Sathya (ultimate reality), or Brahma-Jnaana (knowledge of the ultimate reality), the Shabda of the Veda-s is the only Pramaana.
+
+What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), 
 
 ---
 
