@@ -1,4 +1,4 @@
-The difference between a king and a commoner is
+The difference between a king and a commoner is (a king does not expect returns)
 
 
 ---
@@ -37,7 +37,7 @@ Braahmana whore (I think he should be given an award for cooking up such bullshi
 
 There are other instances, where Karna was able to withstand the pain of being bitten by a scorpion, and seeing this Parashurama was able to infer that he was a Kshathriya. 
 
-It is not implied in the Purusha Sootha either.
+It is not implied in the Purusha Sooktha either.
 Neither do you know what Purusha is, neither do you know what God is. By the term God, what is implied?
 
 In Hindu-ism, we do not have a 'good and bad' dichotomy, we have a tri-stimulus of the three Guna-s: Satthva (Brightness), Thamas (Inertia / Darkness) and Rajas (Excitement / Action) - that is, in nature (Prakrithi). However, the ultimate reality is beyond this material nature of three Guna-s, and is called Brahman (not Braahmana - so that you won't insinuate).
@@ -48,7 +48,11 @@ Now, why are
 
 ---
 
-Due
+I have a long reply to make to this article. But since I do not have the time for it right now, I'll just stick to this one point.
+
+I don't like the concept of Pathi-Parameshvar, and I'd never expect it from my girl. I'm not telling this because I like you, because I like another girl, and I'd never want her to treat me that way. I don't mean I don't like you, I like you, but not in that way.
+
+On that note, I'd like to point out that religion is not always about power, it is not 
 
 ---
 
