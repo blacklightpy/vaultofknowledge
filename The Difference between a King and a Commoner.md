@@ -58,14 +58,14 @@ In Indian religion and culture, we have something called Pramaana-s. It is what'
 
 What this means is that, in Jagat, or the world of duality under Maaya, which is Vyavahaarika Sathya, or Mithya (a misapprehension of true reality), which in other words, is the "natural world" (considered to be made up of three Guna-s), the three Pramaana-s alone hold validity. And only when it comes to knowledge about the super-natural, does the Veda-s hold authority. By the same principle, the idea that Purusha
 
+If I say "you are the head of the group," it doesn't mean that "the group" is a "being" with a "head." Also, if I say "I'm the fire, the sword and the gun," it doesn't mean I'm not human
+
 
 In order to understand any field of study, you have to understand its foundation. I also like to phrase it in Malayalam to tell elders, that in order to understand any Shaasthra, you have to understand its Adhishtaana. You can't just use someone else's theology to criticize someone else's religion. To even make the point that all religions do the same thing is moot, as per the point I raised earlier.
 
 For example, I come from the Shaaktha Sampradaaya, and our Godhead, Bhadra Kaali, is feminine, and her ultimate form is as Ardha-Naari-Eeshvar (Half-Female). This iconography represents some metaphysical concepts, but I'm not trying to write a book here. For example, it's easier to teach moral concepts using Pancha-Tantra tales than to use mathematical logic. There's also the recent example of CNCF's "The Illustrated Children's Guide to Kubernetes," which is an official guide for beginners to get started with Kubernetes, an "OCI container orchestration system."
 
-You can say all you want about how "Captain Kube" is not real. But that was never the point. Another analogy is how schools teach simplified models earlier on, with the intention of teaching the real thing later. But schools are not misinforming children by teaching them 
-
-Yet many people who fail school, skipped the portions or 
+You can say all you want about how "Captain Kube" is not real. But that was never the point. Another analogy is how schools teach simplified models earlier on, with the intention of teaching the real thing later. But schools are not misinforming children by teaching them the Bohr model. Yet many people who skipped the portions or don't pursue higher education (in the US) think that the solar system model of the atom is accurate. But that is not the problem of the school, but simply, a problem of reality. We can only organize information into large blocks that need to be nommed up
 
 ---
 
