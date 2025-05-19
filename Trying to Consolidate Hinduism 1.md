@@ -1,6 +1,6 @@
 - **Scriptures**
 	- **Heard (Eternal Wisdom)** [==Shruthi==]
-		- **Non-Arriving Knowledge (Sought) [==Nigama==]
+		- **Non-Arriving Knowledge (Sought)** [==Nigama==]
 			- **Samskrita Books of Knowledge** [==Vedaha==]
 				- Divisions
 					- **Action Section** [==Karma Kaanda==]

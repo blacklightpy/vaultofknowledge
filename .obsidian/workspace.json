@@ -685,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saundarya",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -862,6 +862,9 @@
   },
   "active": "dee13472f47bef58",
   "lastOpenFiles": [
+    "Abortion.md",
+    "07. Miscellaneous/Religions/Hinduism/Dharma Shaasthra.md",
+    "Trying to Consolidate Hinduism 1.md",
     "06. Collected Knowledge/Evolution of Indian Religions.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
     "07. Miscellaneous/Religions/Hinduism Notes.md",
@@ -895,9 +898,6 @@
     "Jyothish Standard for Devanagari Transliteration.md",
     "06. Collected Knowledge/Malayalam Words.md",
     "06. Collected Knowledge/Malayalam Language.md",
-    "Tamil From Malayalam.md",
-    "Comparing Tamizh and Samskritham.md",
-    "Word Compounding in Samskritham.md",
     "08. External Resources/Dictionaries/Saṃskṛtam",
     "08. External Resources/Dictionaries",
     "Add to How I Learn",
