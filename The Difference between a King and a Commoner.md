@@ -60,7 +60,11 @@ What this means is that, in Jagat, or the world of duality under Maaya, which is
 
 (To be more precise, in Aabhaasa-Vaada, the Swaroopa of a Jeeva is Brahma Chaithanya Avachinna (delimited) on Kaarana Shareera, which is a part of Maaya. And in Prathibimba Vaada, Maaya itself is a Prathibimba (reflection) of Brahma Chaithanya)
 
-(What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. To make a
+(What does "delimited" mean here? In order to understand that, you need to understand analogies like the Ghata-Aakaasha-Nyaaya (Pot-Space Analogy), Urna-Naabhi-Nyaaya (Spider-Web Analogy) and so on. The shortest analogy I can make is, consider multiple objects displayed on a screen. Now one can reason that behind each object, there should be a screen. But, are there multiple screens? No, there is only one, although one feels that there should be many.
+
+Now, the screen's power to project the image is called Shakthi, and the screen is called Shiva. There's also the saying
+
+Why are those two entities separately described if they are ultimately non-separate? It's because Shiva is the "static" aspect, and Shakthi is the "dynamic" aspect. Hence why the Ardha-Nareeshvara analogy.
 
 )
 
