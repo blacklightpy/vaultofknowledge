@@ -1,5 +1,7 @@
 From IslamQA (https://m.islamqa.info/en/answers/75644/what-is-the-ruling-on-professional-pursuit-of-football-(soccer)):
 
+Note that Shaykh Muhammad ibn Ibraaheem was a scholar who lived in the early 20th century.
+
 > **Question: 75644**
 > 
 > What is the ruling on professional pursuit of football (soccer)?.
