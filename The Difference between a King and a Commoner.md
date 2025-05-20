@@ -98,7 +98,7 @@ Mudiyettu is a play that enacts the story of Daarika Vadha. Padayani is a play t
 
 [When Indians say "God is all-present", or that "the individual soul and God are one", we are referring to the screen-areas, not to the images. The purpose of Veda-s is then, to point out "this is Jeeva," "this is Eeshvara," "these are the differences," "this is why," and "this is the reality."]
 
-Now movies like Nirmalyam may point out that Eeshvara has no value, but reality is 
+Now movies like Nirmalyam may point out that Eeshvara has no value, but ground reality is different from fiction. My father was a communist, and once three people decided to falsely frame someone to get people to kill him. But then he pointed out the truth, so everyone gave up. Then they decided to kill him instead for foiling their plans. So he prayed to Kaali and stayed on guard. Within a week, all three of them died horrible deaths. Now you may think that
 
 ---
 
