@@ -1022,4 +1022,13 @@ Brahman means "ultimate," as inferred from the following passage, and surroundin
 > 
 > The mind is superior to speech. Just as a person can hold in his fist two āmalaka fruits, or two kola fruits [plums], or two akṣa fruits, so also the mind can hold within it both speech and name. If a person thinks, ‘I will read the mantras,’ he reads them. If he thinks, ‘I will do this,’ he does it. If he decides, ‘I will have children and animals,’ he can try to have them. If he decides, ‘I will conquer this world and the next,’ he can try to do it. [This is the characteristic of the mind. If it says it will do something, it can do it.] The mind is the self. The mind is the world. The mind is Brahman. Worship the mind.
 
-Though it says "mind is Brahman," what is implied is that "mind is greater." The word Brahman is used progressively to go from name -> speech -> mind -> will -> intellect -> meditation -> ultimate. So it also means "greatest" or "highest."
+Though it says "mind is Brahman," what is implied is that "mind is greater." The word Brahman is used progressively to go from name -> speech -> mind -> will -> intellect -> meditation (Dhyaanam) -> Vijnaana (Total Awareness) -> strength -> ultimate. So it also means "greatest" or "highest."
+
+About "strength" here:
+
+> What is higher than understanding? Strength. You might remember that startling remark Swami Vivekananda made in the course of a lecture: ‘**You will reach heaven quicker by playing football than by reading the Gita.**’ Why do we play football? To be strong, to have strong muscles and a healthy body. How will you understand what Śrī Kṛṣṇa is saying unless you have a strong body and nerves? If you are weak, you can never grasp the real meaning of the Gītā. As the Muṇḍaka Upaniṣad (III.ii.4) says, ‘Nāyamātmā balahīnena labhyaḥ—This Self cannot be known by the weak.’
+
+
+Our difference:
+(In 6th) You guys play football, while I tried to make stone tools by the side of the football field.
+(This is sanctioned by the Chhandogya Upanishad - that strength is higher than intellect)
