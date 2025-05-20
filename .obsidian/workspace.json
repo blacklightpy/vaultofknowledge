@@ -666,9 +666,24 @@
               "icon": "lucide-file",
               "title": "Vichaara Saagara notes - To Move"
             }
+          },
+          {
+            "id": "f87814fdafd73dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most Indians are 'Minions'.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Most Indians are 'Minions'"
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -875,13 +890,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1ac814be0537e10",
+  "active": "f87814fdafd73dc3",
   "lastOpenFiles": [
+    "Most Indians are 'Minions'.md",
+    "Vichaara Saagara notes - To Move.md",
     "Analysis of Caste.md",
     "06. Collected Knowledge/Upaasana.md",
     "Crazy Penances in Hinduism.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Casteism and Reforms.md",
-    "Vichaara Saagara notes - To Move.md",
     "Salaaf-ist Sharee'yah on Football.md",
     "On 'Vox Populi, Vox Dei'.md",
     "The Difference between a King and a Commoner.md",
@@ -902,7 +918,6 @@
     "My Vision of God.md",
     "Shaiva vs Vaishnava.md",
     "Hindu Books.md",
-    "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
     "_images/Malayalam ligature for gddhrya.png",
