@@ -1032,3 +1032,5 @@ About "strength" here:
 Our difference:
 (In 6th) You guys play football, while I tried to make stone tools by the side of the football field.
 (This is sanctioned by the Chhandogya Upanishad - that strength is higher than intellect)
+(This is true, because, in case of war - I had knowledge of the situation - but I knew I couldn't do anything, as I was unarmed. So I deferred to the armed forces)
+(Now another issue is that in Muhammadianity, football is forbidden - so as usual, anything good is forbidden)
