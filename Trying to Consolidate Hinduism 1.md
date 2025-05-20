@@ -1010,3 +1010,16 @@ In Nyaaya Kusumanjali, Udayana Aachaarya gives a proof for God.
 
 ---
 
+Brahman means "ultimate," as inferred from the following passage, and surrounding context, from Chhandogya Upanishad:
+
+**Chhandogya Upanishad 7.3.1:**
+
+> **IAST Transliteration:**
+> 
+> mano vāva vāco bhūyo yathā vai dve vāmalake dve vā kole dvau vākṣau muṣṭiranubhavatyevaṃ vācaṃ ca nāma ca mano'nubhavati sa yadā manasā manasyati mantrānadhīyīyetyathādhīte karmāṇi kurvīyetyatha kurute putrāṃśca paśūṃśceccheyetyathecchata imaṃ ca lokamamuṃ ceccheyetyathecchate mano hyātmā mano hi loko mano hi brahma mana upāssveti ||
+> 
+> **Translation:**
+> 
+> The mind is superior to speech. Just as a person can hold in his fist two āmalaka fruits, or two kola fruits [plums], or two akṣa fruits, so also the mind can hold within it both speech and name. If a person thinks, ‘I will read the mantras,’ he reads them. If he thinks, ‘I will do this,’ he does it. If he decides, ‘I will have children and animals,’ he can try to have them. If he decides, ‘I will conquer this world and the next,’ he can try to do it. [This is the characteristic of the mind. If it says it will do something, it can do it.] The mind is the self. The mind is the world. The mind is Brahman. Worship the mind.
+
+Though it says "mind is Brahman," what is implied is that "mind is greater." The word Brahman is used progressively to go from name -> speech -> mind -> will -> intellect -> meditation -> ultimate. So it also means "greatest" or "highest."
