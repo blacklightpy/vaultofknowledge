@@ -14,3 +14,15 @@ https://www.reddit.com/r/IndianHistory/comments/1jpjuy0/most_likely_origin_of_ca
 https://www.reddit.com/r/IndianHistory/comments/1jy3uhs/are_dalit_or_sc_people_genetically_different_from/
 
 https://www.reddit.com/r/IndianHistory/comments/1jkyczy/was_the_idea_of_caste_system_in_ancient_india/ (I've replied to some comments)
+
+---
+
+**Parashara Smrithi:**
+
+> 17] All laws arose in the Krita age; all have vanished in the Kali age. Expound a part of the rules of conduct fit for the four castes, such as are common (to all).
+
+> 21] The author of the Veda there is none; (he) the four-faced (God), at each succeeding revolution of a Kalpa, recalls to mind the Veda; and so does Manu remember the law.
+> 
+> 22] In conformity to the character of the age, the rules of law (suitable) for men differ from age to age. The rules for the Krita differ from the Treta rules; the Dvapara laws are not identical with the Kali rules.
+
+It points out that rules differ from time to time. 
