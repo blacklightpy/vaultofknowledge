@@ -11,5 +11,6 @@ Specific combinations of GNU utilities with the Linux kernel are called GNU/Linu
 - gimp - GNU Image Manipulation Program
 - coreutils - GNU Core Utilities
 - GNU Social (social networking site)
-- GNU Talon (private currency)
+- GNU Taler (private currency)
 - GNS - GNU Name System
+- GNU Wget

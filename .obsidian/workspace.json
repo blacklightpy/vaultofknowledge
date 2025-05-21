@@ -673,17 +673,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Collected Knowledge/GNU Plus Linux - Article.md",
+                "file": "Most Indians are 'Minions'.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GNU Plus Linux - Article"
+              "title": "Most Indians are 'Minions'"
             }
           }
         ],
-        "currentTab": 44
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -715,7 +715,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GNU",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -890,10 +890,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f87814fdafd73dc3",
+  "active": "f1ac814be0537e10",
   "lastOpenFiles": [
-    "06. Collected Knowledge/How to use a Linux System.md",
     "Most Indians are 'Minions'.md",
+    "06. Collected Knowledge/How to use a Linux System.md",
+    "06. Collected Knowledge/GNU Plus Linux - Article.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+    "01. Personal/Project Ideas/Blacklight OS Idea 2.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/C Libraries.md",
+    "07. Miscellaneous/Articles - Ideas/The App Hype.md",
+    "06. Collected Knowledge/Free Software Index.md",
+    "06. Collected Knowledge/Diagramming Linux Internals using Eraser.io.md",
+    "04. Organized Knowledge - Old Format/Marketplace and Creations/Popular Companies, Products and Services Map.md",
+    "06. Collected Knowledge/Comparing UX of Operating Systems.md",
     "Vichaara Saagara notes - To Move.md",
     "Analysis of Caste.md",
     "06. Collected Knowledge/Upaasana.md",
@@ -909,15 +918,6 @@
     "Requirements to Criticize a Religion.md",
     "Studying the Malayalam Script.md",
     "Things that do not violate the Deen.md",
-    "Abortion.md",
-    "07. Miscellaneous/Religions/Hinduism/Dharma Shaasthra.md",
-    "06. Collected Knowledge/Evolution of Indian Religions.md",
-    "07. Miscellaneous/Religions/Hinduism/Hinduism Rough Notes.md",
-    "07. Miscellaneous/Religions/Hinduism Notes.md",
-    "Right and Left.md",
-    "Analyzing Darshanas.md",
-    "My Vision of God.md",
-    "Shaiva vs Vaishnava.md",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
     "_images/Malayalam ligature for gddhrya.png",
