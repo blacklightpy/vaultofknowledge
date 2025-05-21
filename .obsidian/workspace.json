@@ -673,13 +673,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Indians are 'Minions'.md",
+                "file": "06. Collected Knowledge/GNU Plus Linux - Article.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Most Indians are 'Minions'"
+              "title": "GNU Plus Linux - Article"
             }
           }
         ],
@@ -715,7 +715,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GNU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -892,6 +892,7 @@
   },
   "active": "f87814fdafd73dc3",
   "lastOpenFiles": [
+    "06. Collected Knowledge/How to use a Linux System.md",
     "Most Indians are 'Minions'.md",
     "Vichaara Saagara notes - To Move.md",
     "Analysis of Caste.md",
@@ -917,7 +918,6 @@
     "Analyzing Darshanas.md",
     "My Vision of God.md",
     "Shaiva vs Vaishnava.md",
-    "Hindu Books.md",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
     "_images/Malayalam ligature for gddhrya.png",
