@@ -715,7 +715,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vowel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -834,8 +834,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -861,16 +861,15 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -885,10 +884,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "broken-links:View broken links": false
     }
   },
-  "active": "f1ac814be0537e10",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Vichaara Saagara notes - To Move.md",
     "01. Personal/Daily Notes/Entry of 23rd May, 2025.md",
