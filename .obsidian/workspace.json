@@ -658,13 +658,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vichaara Saagara notes - To Move.md",
+                "file": "01. Personal/Daily Notes/Entry of 23rd May, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vichaara Saagara notes - To Move"
+              "title": "Entry of 23rd May, 2025"
             }
           },
           {
@@ -834,8 +834,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -844,8 +844,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -861,8 +861,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -874,11 +874,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "broken-links:View broken links": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -886,12 +881,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "f1ac814be0537e10",
   "lastOpenFiles": [
+    "Vichaara Saagara notes - To Move.md",
+    "01. Personal/Daily Notes/Entry of 23rd May, 2025.md",
     "Most Indians are 'Minions'.md",
     "06. Collected Knowledge/How to use a Linux System.md",
     "06. Collected Knowledge/GNU Plus Linux - Article.md",
@@ -903,7 +903,6 @@
     "06. Collected Knowledge/Diagramming Linux Internals using Eraser.io.md",
     "04. Organized Knowledge - Old Format/Marketplace and Creations/Popular Companies, Products and Services Map.md",
     "06. Collected Knowledge/Comparing UX of Operating Systems.md",
-    "Vichaara Saagara notes - To Move.md",
     "Analysis of Caste.md",
     "06. Collected Knowledge/Upaasana.md",
     "Crazy Penances in Hinduism.md",
@@ -917,7 +916,6 @@
     "Nature of physis in Christianity.md",
     "Requirements to Criticize a Religion.md",
     "Studying the Malayalam Script.md",
-    "Things that do not violate the Deen.md",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
     "_images/Malayalam ligature for gddhrya.png",
