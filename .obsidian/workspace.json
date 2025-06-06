@@ -715,7 +715,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"device tree\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -736,7 +736,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -891,8 +892,10 @@
   },
   "active": "f1ac814be0537e10",
   "lastOpenFiles": [
-    "01. Personal/Daily Notes/Entry of 23rd May, 2025.md",
+    "06. Collected Knowledge/Device Trees.md",
+    "06. Collected Knowledge/Building a custom Android distribution.md",
     "02. To Share/Project Resources/Redmi Y1 (Redmi Note 5A Prime).md",
+    "01. Personal/Daily Notes/Entry of 23rd May, 2025.md",
     "02. To Share/Project Resources",
     "01. Personal/Daily Notes/Entry of 6th Jun, 2025.md",
     "Vichaara Saagara notes - To Move.md",
@@ -916,8 +919,6 @@
     "The Difference between a King and a Commoner.md",
     "On 'Peace Means Having a Bigger Stick than the Other Guy'.md",
     "Trying to Consolidate Hinduism 1.md",
-    "Implication of Caste for Moksha.md",
-    "Nature of physis in Christianity.md",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
     "_images/Malayalam ligature for gddhrya.png",
