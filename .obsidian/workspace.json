@@ -681,9 +681,19 @@
               "icon": "lucide-file",
               "title": "Most Indians are 'Minions'"
             }
+          },
+          {
+            "id": "3d0bfe6a786264fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -715,7 +725,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"device tree\"",
+                "query": "\"divine feminine\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -890,11 +900,11 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "f1ac814be0537e10",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
+    "02. To Share/Project Resources/Redmi Y1 (Redmi Note 5A Prime).md",
     "06. Collected Knowledge/Device Trees.md",
     "06. Collected Knowledge/Building a custom Android distribution.md",
-    "02. To Share/Project Resources/Redmi Y1 (Redmi Note 5A Prime).md",
     "01. Personal/Daily Notes/Entry of 23rd May, 2025.md",
     "02. To Share/Project Resources",
     "01. Personal/Daily Notes/Entry of 6th Jun, 2025.md",
