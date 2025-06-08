@@ -8,7 +8,7 @@ Now, for each product sold, the founder takes 30% of the revenue, while the empl
 
 Now, consider that a new automation technology emerged, that can do 70 units of work for free. Just consider the work required to maintain the machine as negligible, like friction or air resistance. A real example would be like the machine automates 70 units of work, but requires 10 units for its maintenance, raising the total work to 110 units. But that just makes the math a bit complicated for no big difference. Just like when we add air resistance. It's useful in practice, but not when we are thinking roughly.
 
-So then, if the product's price is not reduced, the profits are still $200.
+So then, if the product's price is not reduced, the profits are still $200. The work required is still 100 units, but only 30 units have to be performed by humans. That means, ideally, each person would only have to do 6 units of work, and they'd still get $28 from the profits. But what happens is that 
 
 
 ---
