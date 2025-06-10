@@ -4,7 +4,7 @@ From Tafsir ibn Katheer of 48:25-26:
 
 Then it goes on to show how his Companions, like Abu Bakr would use ad hominem attacks insulting their deities.
 
-> **Hearing that, Abu Bakr verbally abused him and said, 'Go suck Al-Lat's womb! Are you saying we would run and leave the Prophet alone'** 'Urwah said, 'Who is that man' They said, 'He is Abu Bakr.' 'Urwah said to Abu Bakr, 'By Him in Whose Hands my life is, were it not for the favor which you did to me and which I did not compensate, I would rebuke you.'
+> **Hearing that, Abu Bakr verbally abused him and said, 'Go suck Al-Lat's womb (translation: pussy)! Are you saying we would run and leave the Prophet alone'** 'Urwah said, 'Who is that man' They said, 'He is Abu Bakr.' 'Urwah said to Abu Bakr, 'By Him in Whose Hands my life is, were it not for the favor which you did to me and which I did not compensate, I would rebuke you.'
 
 Now 'Urwah would grab Muhammad's beard, a strange thing, and would get hit by Al-Mughirah for it.
 
