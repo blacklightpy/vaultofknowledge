@@ -197,7 +197,7 @@ As for Maslama, he had already killed Marhab from Khaybar for his revenge.
 
 (Actual reports say it was Ali not Maslamah who killed Marhab.)
 
-(add: wiki: 
+(add: wiki: (So Maslamah definitely killed another, Yusayr before killing Kinana)
 
 > On the same day, Ibn Maslamah avenged his brother by killing Marhab in a vicious duel which was so intense to the point that [palm trees](https://en.wikipedia.org/wiki/Phoenix_(plant) "Phoenix (plant)") within the garden outside the fortress wall, were chopped-off completely. ([18](https://en.wikipedia.org/wiki/Muhammad_ibn_Maslamah#cite_note-Sealed_Nectar3-18)) The battle ended with Ibn Maslamah managing to chop off one of Marhab's legs. ([18](https://en.wikipedia.org/wiki/Muhammad_ibn_Maslamah#cite_note-Sealed_Nectar3-18)) However, before Ibn Maslamah delivered the killing blow. he was intercepted by [Ali](https://en.wikipedia.org/wiki/Ali "Ali") who passed by and cut off Marhab's head. This entitled Ali to take the booty which prompted Ibn Maslamah to argue the claims of Ali to Muhammad, and after they referred their dispute to him, he granted Marhab's sword, shield, cap and helmet to Ibn Maslamah. ([18](https://en.wikipedia.org/wiki/Muhammad_ibn_Maslamah#cite_note-Sealed_Nectar3-18), [5](https://en.wikipedia.org/wiki/Muhammad_ibn_Maslamah#cite_note-ishaq-5): 513, [9](https://en.wikipedia.org/wiki/Muhammad_ibn_Maslamah#cite_note-waqidi-9): 323, [17](https://en.wikipedia.org/wiki/Muhammad_ibn_Maslamah#cite_note-Tabari8-17): 118)
 > 
