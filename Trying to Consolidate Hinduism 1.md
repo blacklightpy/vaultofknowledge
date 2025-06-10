@@ -29,10 +29,10 @@
 			- **Idol Construction** [==Shilpa Shaasthra==]
 		- **The Song of God (from The Great Bhaarat)** [==Bhagavad Geeta, from Mahaabhaarata==]
 	- **Remembered (Transmitted Writings Inspired by Scriptures)** [==Smrithi==]
-		- **History (Epics)** [==Ithihaasa:==]
+		- **Myths (It's been said) / Epics** [==Ithihaasa:==]
 			- **The Great Bhaarat** [==Mahaabhaarata==]
 			- **The Journey of Raam** [==Raamaayana==]
-		- **Legends** [==Puraana:==]
+		- **Myths (In the Ancient Times..)** [==Puraana:==]
 		- **Aphorisms** [==Soothra:==]
 			- **Ethical Aphorisms** [==Dharma Soothra:==]
 				- **Ethical Aphorisms by Apasthamba** [==Apasthamba Dharma Soothra:==]
@@ -897,6 +897,8 @@ This is called Kalpa Bheda
 ---
 
 My final thought on Puraanas is that anything is subjective history unless they violate observations of science they themselves affirm.
+
+Actually, there's one more nuance. Puraana-s, which use Moorthi-s, are like for the same reason, simply analogical tales. To illustrate a concept, one may use different analogies. However, (1) since analogies are simplified models, they will be lacking in some ways, and (2) different analogies would always contradict each other, since they do not have to be compatible. However, their referent always remains the same.
 
 ---
 

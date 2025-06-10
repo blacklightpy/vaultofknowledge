@@ -34,4 +34,4 @@ Aurora Aksnes is a far leftist (anarchist). I'm an anarcho-communist, but I real
 
 ### Letter to Bevan
 
-See in [[Counter Argument for Who Created God]].
+See in [[Counter Argument for 'Who Created God']].
