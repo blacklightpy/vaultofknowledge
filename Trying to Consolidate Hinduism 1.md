@@ -900,6 +900,8 @@ My final thought on Puraanas is that anything is subjective history unless they 
 
 Actually, there's one more nuance. Puraana-s, which use Moorthi-s, are like for the same reason, simply analogical tales. To illustrate a concept, one may use different analogies. However, (1) since analogies are simplified models, they will be lacking in some ways, and (2) different analogies would always contradict each other, since they do not have to be compatible. However, their referent always remains the same.
 
+This is just like how different words for the same entity will always have the same entity as the referent, although their direct meanings may be different. For example the word HaShem that means The Lord and Adonai that means The One, both refers to The Creator.
+
 ---
 
 - Medical Terms:

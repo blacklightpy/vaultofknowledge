@@ -683,16 +683,6 @@
             }
           },
           {
-            "id": "3d0bfe6a786264fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "02ec050b8d3fe251",
             "type": "leaf",
             "state": {
@@ -708,7 +698,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -915,10 +905,12 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "dee13472f47bef58",
+  "active": "02ec050b8d3fe251",
   "lastOpenFiles": [
-    "Counter Argument for 'Who Created God'.md",
+    "Most Indians are 'Minions'.md",
     "Final Example of Communism.md",
+    "Trying to Consolidate Hinduism 1.md",
+    "Counter Argument for 'Who Created God'.md",
     "06. Collected Knowledge/Specific Problems with Christianity.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "The Difference between a King and a Commoner.md",
@@ -929,7 +921,6 @@
     "02. To Share/Project Resources",
     "01. Personal/Daily Notes/Entry of 6th Jun, 2025.md",
     "Vichaara Saagara notes - To Move.md",
-    "Most Indians are 'Minions'.md",
     "06. Collected Knowledge/How to use a Linux System.md",
     "06. Collected Knowledge/GNU Plus Linux - Article.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
@@ -943,7 +934,6 @@
     "Analysis of Caste.md",
     "06. Collected Knowledge/Upaasana.md",
     "Crazy Penances in Hinduism.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Casteism and Reforms.md",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
     "_images/Malayalam ligature for gddhrya.png",
