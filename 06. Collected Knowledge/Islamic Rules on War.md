@@ -42,6 +42,7 @@
 	- The old Jewish woman Umm Qirfa was cruelly killed by Mo after her tribe _surrendered_ (https://wikiislam.net/wiki/The_Story_of_Umm_Qirfa)
 	- When he slaughtered the Qurayza, everyone older than a child was murdered:
 		- The Messenger of Allah commanded that all of the Jewish men and boys who had reached puberty should be beheaded. Then the Prophet divided the wealth, wives, and children of the Banu Qurayza Jews among the Muslims. **Al-Tabari, Vol. 8, p. 38**
+		- The associated Hadeeth makes it clear that anyone who did not have pubic hair were killed. (look it up)
 - 4. Don't Destroy a Church, Temple or Building
 	- 'Dhul Khalasa' was a temple, known as the southern Ka’ba, to rival the Ka’ba at Mecca, so Muhammad ordered its demolition. Jarir ibn Abdullah al-Bajali was sent to demolish it. Not to forget Muhammad destroyed the sacred idols of the Meccans.
 	- Muhammad ordered the homes of Muslims who don't pray be burnt.
