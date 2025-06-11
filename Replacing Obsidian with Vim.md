@@ -15,14 +15,18 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 	- vim-roam.nvim (roam, has bi-direction)
 	- vimwiki-roam (roam, has bi-direction)
 - Tools
-	- telescope.nvim (file picker and preview) [Checked]
-	- conjure (file picker)
-	- fzf (file picker)
-	- Treesitter
-	- nvim-tree
-	- vista.nvim
-	- vim-graphviz (generate DOT files)
-
+	- File Picker
+		- telescope.nvim (file picker and preview) [Checked]
+		- conjure (file picker)
+		- fzf (file picker)
+	- Mind Mapper
+		- vim-mind-mapper (too plain, based on Groovy DSL and sigma.js) [Checked]
+	- Graph Viewer
+		- vim-graphviz (generate DOT files)
+	- IDK
+		- Treesitter
+		- nvim-tree
+		- vista.nvim
 
 ---
 
