@@ -10,7 +10,7 @@ Also see: https://github.com/rockerBOO/awesome-neovim
 	- MeanderingProgrammer/render-markdown.nvim (TUI-style rendering) [Checked]
 	- VimWiki
 		- vim-zettel (addon)
-	- zk.nvim
+	- zk / zk-nvim
 	- telekasten.nvim (based on telescope.nvim) (TUI-style layout, latex?) [Checked]
 	- Neorg (org mode in Vim, has blocks)
 	- obsidian-vim
