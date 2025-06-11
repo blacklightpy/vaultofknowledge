@@ -4,6 +4,8 @@ Need: Bi-Directional Links, Blocks (for Xanadu / block-quotes or code blocks), n
 
 Project Xanadu basically considers blocks to be independent of files (called virtual files). So files basically collect blocks into them. Like, they are like block maps, like MOCs, but instead of files, individual blocks.
 
+Also see: https://github.com/rockerBOO/awesome-neovim
+
 - Markdown
 	- MeanderingProgrammer/render-markdown.nvim (TUI-style rendering) [Checked]
 	- VimWiki
@@ -20,13 +22,17 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 		- barbar.nvim
 		- vim-buffet
 		- bufferline.nvim + nvim-web-devicons
+	- Session
+		- mhinz/vim-startify
+		- rmagatti/auto-session
 	- File Picker
 		- telescope.nvim (fuzzy file picker and preview) [Checked]
 		- conjure (file picker)
 		- fzf (fuzzy file picker)
 		- Command-T (fast file picker) [Checked]
 		- ranger-nvim
-		- nvim-tree
+	- Sidebar File Navigator
+		- nvim-tree (Sidebar)
 	- Mind Mapper
 		- vim-mind-mapper (too plain, based on Groovy DSL and sigma.js) [Checked]
 	- Graph Viewer
