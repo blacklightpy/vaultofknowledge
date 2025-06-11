@@ -19,9 +19,9 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 	- Tabs
 		- barbar.nvim
 	- File Picker
-		- telescope.nvim (file picker and preview) [Checked]
+		- telescope.nvim (fuzzy file picker and preview) [Checked]
 		- conjure (file picker)
-		- fzf (file picker)
+		- fzf (fuzzy file picker)
 		- Command-T (fast file picker) [Checked]
 		- ranger-nvim
 		- nvim-tree
