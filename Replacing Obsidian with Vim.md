@@ -18,6 +18,8 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 - Tools
 	- Tabs
 		- barbar.nvim
+		- vim-buffet
+		- bufferline.nvim + nvim-web-devicons
 	- File Picker
 		- telescope.nvim (fuzzy file picker and preview) [Checked]
 		- conjure (file picker)
@@ -30,7 +32,7 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 	- Graph Viewer
 		- vim-graphviz (generate DOT files)
 	- IDK
-		- Treesitter
+		- nvim-tree-sitter (Tree-Sitter language parsing and syntax highlighting)
 		- vista.nvim
 
 ---
