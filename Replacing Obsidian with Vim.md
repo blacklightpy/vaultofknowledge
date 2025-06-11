@@ -19,6 +19,7 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 		- telescope.nvim (file picker and preview) [Checked]
 		- conjure (file picker)
 		- fzf (file picker)
+		- Command-T (fast file picker) [Checked]
 	- Mind Mapper
 		- vim-mind-mapper (too plain, based on Groovy DSL and sigma.js) [Checked]
 	- Graph Viewer
