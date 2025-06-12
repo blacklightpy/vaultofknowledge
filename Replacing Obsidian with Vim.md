@@ -6,6 +6,8 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 
 Also see: https://github.com/rockerBOO/awesome-neovim
 
+- Other Apps
+	- tp-note
 - Markdown
 	- MeanderingProgrammer/render-markdown.nvim (TUI-style rendering) [Checked]
 	- VimWiki
