@@ -718,13 +718,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replacing Obsidian with Vim.md",
+                "file": "06. Collected Knowledge/Vim Customizing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Replacing Obsidian with Vim"
+              "title": "Vim Customizing"
             }
           }
         ],
@@ -760,7 +760,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tp-note",
+                "query": "plugin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -935,10 +935,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "de0bdf31e46d6e55",
   "lastOpenFiles": [
-    "Resetting Password with Live CD.md",
     "Replacing Obsidian with Vim.md",
+    "Resetting Password with Live CD.md",
     "06. Collected Knowledge/Poetic Metre.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Hatred of Idol Worship.md",
     "06. Collected Knowledge/Rough Notes X4.md",
