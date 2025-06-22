@@ -15,3 +15,14 @@ Soothra-s (short notes):
 (7) Combinations of patterns at different scales can generate variations.
 Like how all colours are merely combinations of light at different frequencies,
 filtered by our eyes. Merely a different form of data.
+
+---
+
+Just as you fashion characters in your dream, but you yourself are a central character.
+God fashions you in his dream, but you may not be a central character.
+
+And while your dream leaves memories in your mind,
+God's dream is not stored in his mind.
+
+Also, God creates the dream, not you.
+God may create dreams so that you know you are created in the same way.
