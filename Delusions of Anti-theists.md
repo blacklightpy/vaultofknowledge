@@ -154,11 +154,11 @@ Absolutely. Let's build a compact, logically rigorous critique of logical positi
 ## **Concise Logical Argument**
 
 1. **(P1)** Logical positivism asserts that _only_ statements that are either **empirically verifiable** or **analytically true** are **meaningful**.
-    
+
 2. **(P2)** The statement in (P1) itself—“Only empirically verifiable or analytically true statements are meaningful”—is **neither empirically verifiable nor analytically true**.
-    
+
 3. **∴ (C1)** Therefore, by its own standard, logical positivism is **self-refuting**.
-    
+
 
 > _This is the classic self-referential inconsistency. If the verification principle is not itself verifiable or tautological, then it is meaningless by its own rule._
 
@@ -171,24 +171,24 @@ Absolutely. Let's build a compact, logically rigorous critique of logical positi
 ## **Extended Argument Using Gödel and Quine**
 
 4. **(P3)** Gödel’s First Incompleteness Theorem shows that in **any sufficiently powerful formal system**, there are **true statements that cannot be proven within the system**.
-    
+
 5. **(P4)** Logical positivism relies on formal systems (e.g., logic, mathematics, empirical verification) as the total scope of knowable truths.
-    
+
 6. **(P5)** Therefore, **there exist truths about reality that cannot be accessed or validated by logical positivist methods**.
-    
+
 7. **∴ (C2)** Logical positivism **cannot capture all truths**—it is **epistemologically incomplete**.
-    
+
 
 ---
 
 ### Quine’s Hammer (Against Analytic/Synthetic Distinction)
 
 8. **(P6)** Quine (in _“Two Dogmas of Empiricism”_) shows that the distinction between **analytic** (true by definition) and **synthetic** (true by empirical verification) statements is **not philosophically sustainable**.
-    
+
 9. **(P7)** Logical positivism depends fundamentally on this analytic/synthetic distinction.
-    
+
 10. **∴ (C3)** The foundational distinction of logical positivism **collapses**, undermining its entire structure.
-    
+
 
 ---
 
@@ -197,11 +197,11 @@ Absolutely. Let's build a compact, logically rigorous critique of logical positi
 Logical positivism is:
 
 - **Self-refuting** (via its verification principle),
-    
+
 - **Epistemologically limited** (via Gödel),
-    
+
 - **Conceptually incoherent** (via Quine).
-    
+
 
 Therefore, it cannot function as a logically sound, comprehensive worldview.
 
@@ -214,11 +214,11 @@ Even if one rejects anything “non-empirical,” this position cannot survive i
 Thus, the most “rational” stance is not rigid verificationism, but a **layered epistemology**—one that acknowledges that:
 
 - Not all truth is empirically accessible,
-    
+
 - Some meaningful propositions transcend formal proof,
-    
+
 - And the limits of systems must be part of the system’s awareness (Gödelian humility).
-    
+
 
 ---
 
@@ -241,19 +241,30 @@ A **syllogism** is a form of reasoning where a conclusion is drawn from two pr
 Think of it as:
 
 - A tree where each **node** is a proposition,
-    
+
 - And each **branch** shows logical dependency.
-    
+
 
 ---
 
 ### 🔽 Example: Syllogism Tree (Simplified View)
 
-pgsql
+```pgsql 
+[P1] Only empirically verifiable or analytically true statements are meaningful.
+[P2] This very statement is neither empirically verifiable nor analytically true.
+			   ↓
+   [C1] Therefore, it is meaningless (self-refuting).
 
-CopyEdit
+[P3] Gödel: Some truths cannot be proven in formal systems.
+[P4] Logical positivism relies only on formal systems.
+			   ↓
+   [C2] Therefore, it misses some truths (incomplete).
 
-           `[P1] Only empirically verifiable or analytically true statements are meaningful.            [P2] This very statement is neither empirically verifiable nor analytically true.                                ↓                    [C1] Therefore, it is meaningless (self-refuting).             [P3] Gödel: Some truths cannot be proven in formal systems.            [P4] Logical positivism relies only on formal systems.                                ↓                    [C2] Therefore, it misses some truths (incomplete).             [P6] Quine: Analytic/synthetic distinction is unsound.            [P7] Logical positivism depends on this distinction.                                ↓                    [C3] Therefore, logical positivism collapses conceptually.`
+[P6] Quine: Analytic/synthetic distinction is unsound.
+[P7] Logical positivism depends on this distinction.
+			   ↓
+   [C3] Therefore, logical positivism collapses conceptually.
+```
 
 You can imagine these nodes in a vertical tree, where each inference flows logically downward from the branches above.
 
@@ -264,11 +275,11 @@ You can imagine these nodes in a vertical tree, where each inference flows logic
 An **argument map** is more visual. It shows:
 
 - **Claims** (usually as boxes or bubbles),
-    
+
 - **Support or attack relations** (arrows or lines),
-    
+
 - **Hierarchy of reasoning** (top-down or left-right).
-    
+
 
 This helps people **see** how arguments are built and **where** weaknesses may lie.
 
@@ -276,11 +287,24 @@ This helps people **see** how arguments are built and **where** weaknesses m
 
 ### 📌 Argument Map (Textual Format)
 
-vbnet
 
-CopyEdit
+```vbnet
+[Main Conclusion]
+Logical positivism is self-refuting, incomplete, and incoherent as a worldview.
 
-`[Main Conclusion] Logical positivism is self-refuting, incomplete, and incoherent as a worldview.  ├── [1] It is self-refuting. │     ├── [1.1] It claims only empirically verifiable or analytic statements are meaningful. │     └── [1.2] This very claim is neither verifiable nor analytic.  ├── [2] It is incomplete. │     ├── [2.1] Gödel's theorem shows not all truths are provable within formal systems. │     └── [2.2] Logical positivism only admits truths from such systems.  └── [3] It is conceptually incoherent.       ├── [3.1] Quine undermines the analytic/synthetic distinction.       └── [3.2] That distinction is central to logical positivism.`
+├── [1] It is self-refuting.
+│     ├── [1.1] It claims only empirically verifiable or analytic statements are meaningful.
+│     └── [1.2] This very claim is neither verifiable nor analytic.
+
+├── [2] It is incomplete.
+│     ├── [2.1] Gödel's theorem shows not all truths are provable within formal systems.
+│     └── [2.2] Logical positivism only admits truths from such systems.
+
+└── [3] It is conceptually incoherent.
+      ├── [3.1] Quine undermines the analytic/synthetic distinction.
+      └── [3.2] That distinction is central to logical positivism.
+```
+
 
 Each line is either a **claim** or **sub-claim**. Arrows (or branches) show **support**.
 
@@ -291,11 +315,11 @@ Each line is either a **claim** or **sub-claim**. Arrows (or branches) show 
 For **materialists** or **hyper-rationalists**, visual logic structures:
 
 - **Expose** contradictions and blind spots clearly,
-    
+
 - Avoid emotional or subjective language,
-    
+
 - Let the **logic speak for itself**—which they trust most.
-    
+
 
 Would you like me to generate a **graphic version** of this argument map or tree so you can visualize it fully? I can do that using image generation.
 
