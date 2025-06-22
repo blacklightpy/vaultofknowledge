@@ -18,11 +18,24 @@ filtered by our eyes. Merely a different form of data.
 
 ---
 
-Just as you fashion characters in your dream, but you yourself are a central character.
-God fashions you in his dream, but you may not be a central character.
+**Dream Analogy:**
 
-And while your dream leaves memories in your mind,
-God's dream is not stored in his mind.
+(1) Just as you fashion characters in your dream,
+God fashions you in his dream.
 
-Also, God creates the dream, not you.
+(2) And while your dream (dream world) leaves memories in your mind,
+God's dream (this world) is not stored in his mind, but in your mind, and in that of others too.
+However, characters in your dream have memories too, which are not stored in your mind.
+This means the memories of others are only apparent to you, while they are not stored in your dream.
+Still, you didn't create their memories, so they should be stored in God's mind.
+
+(3) While you may find yourself to be a character in your dream,
+You may not be that character in God's dream.
+
+(4) Also, God creates the dream, not you.
 God may create dreams so that you know you are created in the same way.
+
+(5) Dream world is not as consistent as this world, even though it is not apparent while dreaming,
+however when you wake up, you remember that the laws of physics were inconsistent.
+This gives the idea that dreams are not as consistent as reality.
+This also gives the idea that worlds made in the human mind are weaker than those made in God's mind.
