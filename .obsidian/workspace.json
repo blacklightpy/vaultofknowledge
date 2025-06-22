@@ -718,13 +718,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 22nd Jun, 2025.md",
+                "file": "Replacing Obsidian with Vim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Entry of 22nd Jun, 2025"
+              "title": "Replacing Obsidian with Vim"
+            }
+          },
+          {
+            "id": "850ec6372765e445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Bevan - God.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "To Bevan - God"
             }
           }
         ],
@@ -760,7 +775,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plugin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -937,6 +952,7 @@
   },
   "active": "de0bdf31e46d6e55",
   "lastOpenFiles": [
+    "To Bevan - God.md",
     "Replacing Obsidian with Vim.md",
     "01. Personal/Daily Notes/Entry of 22nd Jun, 2025.md",
     "06. Collected Knowledge/Using Emacs.md",
@@ -962,7 +978,6 @@
     "Most Indians are 'Minions'.md",
     "Trying to Consolidate Hinduism 1.md",
     "Counter Argument for 'Who Created God'.md",
-    "06. Collected Knowledge/Specific Problems with Christianity.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",

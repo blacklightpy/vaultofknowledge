@@ -1,6 +1,4 @@
-
-
-Soothra-s:
+Soothra-s (short notes):
 
 (1) Like a shadow
 
