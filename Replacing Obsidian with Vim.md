@@ -6,9 +6,9 @@ Project Xanadu basically considers blocks to be independent of files (called vir
 
 Also see: https://github.com/rockerBOO/awesome-neovim
 
-- Other Apps
+- Other Apps for Zettelkasten
 	- tp-note
-- Markdown
+- Markdown Zettelkasten/Preview
 	- MeanderingProgrammer/render-markdown.nvim (TUI-style rendering) [Checked]
 	- VimWiki
 		- vim-zettel (addon)
@@ -19,6 +19,11 @@ Also see: https://github.com/rockerBOO/awesome-neovim
 	- vim-roam.nvim (roam, has bi-direction)
 	- vimwiki-roam (roam, has bi-direction)
 	- notational-fzf-nvim (needs rg, fzf and fzf.vim; simply an fzf wrapper) [Checked]
+- Markdown Preview
+	- markdown-preview.nvim (Renders to browser) + awrit.nvim (embeds browser in terminals that support the Kitty graphics protocol)
+	- markview (Terminal-style preview)
+	- Glow (Terminal-style preview)
+	- peek.nvim (WebView)
 - Tools
 	- Tabs
 		- barbar.nvim
