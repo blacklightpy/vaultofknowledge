@@ -771,9 +771,24 @@
               "icon": "lucide-file",
               "title": "God as it was known to Muhammad is not God as it is known to me"
             }
+          },
+          {
+            "id": "eae845caac5ff7c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enumeration - Pros and Cons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Enumeration - Pros and Cons"
+            }
           }
         ],
-        "currentTab": 50
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -980,8 +995,9 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "52011b5c394ec895",
+  "active": "eae845caac5ff7c7",
   "lastOpenFiles": [
+    "Enumeration - Pros and Cons.md",
     "God as it was known to Muhammad is not God as it is known to me.md",
     "Delusions of Anti-theists.md",
     "To Bevan - God.md",
@@ -1007,7 +1023,6 @@
     "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "06. Collected Knowledge/QOwnNotes+.md",
     "Final Example of Communism.md",
-    "Most Indians are 'Minions'.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
