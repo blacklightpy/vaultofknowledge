@@ -30,8 +30,8 @@
               "state": {
                 "file": "Christian Church Terminology.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Christian Church Terminology"
@@ -855,9 +855,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "2e9cf8c5f9ca95a7",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -1012,8 +1022,10 @@
   },
   "active": "029ce7a793275f81",
   "lastOpenFiles": [
-    "06. Collected Knowledge/List of Chapters in the Quran.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "Necessity of Causality - An Illusion.md",
+    "The Ultimate Reality cannot be expressed by Words.md",
+    "06. Collected Knowledge/List of Chapters in the Quran.md",
     "Replacing Obsidian with Vim.md",
     "Enumeration - Pros and Cons.md",
     "God as it was known to Muhammad is not God as it is known to me.md",
@@ -1036,8 +1048,6 @@
     "06. Collected Knowledge/Hadith Organizing.md",
     "Revisiting the Treaty.md",
     "How Arabs never really killed their own relatives until Muhammad.md",
-    "06. Collected Knowledge/Books to learn about Islam.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
