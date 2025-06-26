@@ -1,0 +1,1 @@
+The law of parsimony or Occam's Razor is that there should not be more divisions thatn 
