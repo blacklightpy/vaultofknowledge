@@ -1,0 +1,10 @@
+{
+  "minWidth": 40,
+  "closeButtonWidth": 28,
+  "leftPadding": 12,
+  "iconRightMargin": 0,
+  "closeButtonPadding": 0,
+  "transitionDuration": 275,
+  "iconWidth": 20,
+  "maxWidth": 200
+}
