@@ -6,3 +6,6 @@ If there are three genders, and referring to each person by their gender is impo
 
 
 The question being, what benefit is achieved by assigning a gender to a chair?
+
+#rough To Lucia:
+Christ Consciousness is actually a good word. Christ actually means saviour, and so it means "saviour consciousness." And of course, that which saves you is nothing but your own highest self.
