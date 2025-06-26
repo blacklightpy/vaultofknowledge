@@ -10,7 +10,7 @@ Note here that I'll be referring to anti-non-materialists as xmists, because mos
 
 *Why am I using the label xmist? Firstly, it is a lot shorter than anti-non-materialist, and I don't want to be grouping all atheists into that category, like how many xmists group all theists into the category of theocrats.*
 
-Whenever a person from the illiterate laity makes an argument, such as how X or Y material phenomena is due to God or an ang, an xmist can quickly correct him using scientific explanations. 
+Whenever a person from the illiterate laity makes an argument, such as how X or Y material phenomena is due to God or some other spirit, an xmist (or any rationalists) can quickly correct him using scientific explanations. [But since I've used the word "rationalist" here to include people other than xmists, I will need to explain this, because for xmists, only they are rationalists. This is actually similar to how the followers of Muhammad claim the label of monotheism for themselves alone, and how the followers of Muhammad and Jesus claim the label of "true faith" for themselves alone, while almost all others, minus fanatics, know that religion is based on one's own views.]
 
 Similarly, if a person who was bad in English would argue with a theist
 
@@ -26,3 +26,13 @@ This is because all belief systems are ultimately only based on our feelings, in
 Blocks, Nested Blocks.
 
 To fix my obsession for rationality there, I'd simply say that the world is a creative expression of Shakthi, and then classification only has to be on the basis of defining the context.
+
+---
+
+#rough 
+
+Let me take the best argument of your premise.
+
+You think in order to establish truth (i.e. what it is according to you), truth alone is not enough to win it. You believe that you need to lie to get rid of all that is not true, lies and delusions. Even better, you may think that it is necessary to combat lies with lies. Of course, that leaves naivety open - and I don't know what you guys do about them. I at least do know that the followers of Muhammad do lie to naive people, because he taught them that war is deceit.
+
+However, you do not know which of these people are liars and which are honest. According to you guys, since you have dogmatically asserted that rationalism is the one true truth, to you guys, all others are liars or are naive.
