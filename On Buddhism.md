@@ -13,3 +13,9 @@ So this is my primary critique of the foundations of Buddhism.
 ---
 
 Secondly, many of the practical stories used by Buddhists are also things that I have disagreements with. There is a story about a monk being sent to a woman who had learned to suppress her thoughts, which gave her the ability to read others' thoughts, while the monk who went there got scared of her, knowing that she could read sexual thoughts about her which the monk had. However, if I was in his place, I wouldn't have felt bad about it, because I didn't choose to have those thoughts. So such a suppression of what's true does not apply to me. Only those who follow a code of ethics that is in conflict with their true nature will find it wrong and feel the need to suppress those thoughts in front of her.
+
+---
+
+#rough to atheism
+
+(not sure if I wrote it somewhere else,) but one of the preliminary conditions to know God is to hold to truth. If you evade truth in your life, you will not know God. It is merely the chain of truth that leads you to God.
