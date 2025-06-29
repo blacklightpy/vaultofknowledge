@@ -12,3 +12,5 @@ In general, if you drop a stone in water, ripples form. On if you push an area o
 That's why Advaita Vedanta considers reality as an ocean and the world as ripples in it.
 
 ON ripple analogy: we can look at a ripple and say it started from heree. But a more complexsimulation would require multiple centres. As we can demonstrate. However, all these ripples would have one source, becuase even if there are many sources, they would  need to coordinatee.
+
+2] When you play video games, you often end up saying "my weapon". If someone jacks your car in GTA, you would say my car,a  and fight for it HOwever, you always know it is just a game. Yet you get angry because of it. It's the same thing.
