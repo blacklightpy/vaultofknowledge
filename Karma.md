@@ -6,3 +6,9 @@ Basically, black implies white, self implies other, and good implies evil.
 If you define something as good, then its counterpart also emerges as an effect of it.
 
 Likewise, loss causes revenge.
+
+In general, if you drop a stone in water, ripples form. On if you push an area of a membrane, another area bulges up.
+
+That's why Advaita Vedanta considers reality as an ocean and the world as ripples in it.
+
+ON ripple analogy: we can look at a ripple and say it started from heree. But a more complexsimulation would require multiple centres. As we can demonstrate. However, all these ripples would have one source, becuase even if there are many sources, they would  need to coordinatee.
