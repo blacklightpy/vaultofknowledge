@@ -5,3 +5,8 @@
 4 was betting on Nir Lichtman's religion a good guess? well, an atheist will always be skeptic, he will never commit. if you want to be doubtful, we can always keep on doubting. but at some point, we have to commit. I was certain that the choice of Nir Lichtman  was actually very random. I was thinking of all the smart guys that help the world by means of education, and just randomly picked a smart guy who popped up on my feed.
 
 about nl: take one look at nir lichtmans profile, and you'll immediately see why i'd like him. the guy literally uses dwm (not DWM, haha both have the same acronym) on windows to code.
+
+new note: work energy and power 2
+air defense
+
+subtle element of truth and distortion. e.g. a hindu atheist is just a christophobic islamophobic hindu. welll, that much is true, but  its implication is not true.
