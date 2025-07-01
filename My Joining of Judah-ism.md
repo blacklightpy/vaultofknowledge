@@ -9,4 +9,6 @@ about nl: take one look at nir lichtmans profile, and you'll immediately see why
 new note: work energy and power 2
 air defense
 
-subtle element of truth and distortion. e.g. a hindu atheist is just a christophobic islamophobic hindu. welll, that much is true, but  its implication is not true.
+assim al-hakeem: divided on all matters, except against an enemy. but muslim is merely an arabic word that means submitter. jew means a person of judea.  they too are submitters. they merely do not accept Muhammad as their prophet. But then, shia ad sounni also have differences on what the sunnah is. 
+
+subtle element of truth and distortion. e.g. a hindu atheist is just a christophobic islamophobic hindu. welll, that much is true, but  its implication is not true. (addressed in helix notes)
