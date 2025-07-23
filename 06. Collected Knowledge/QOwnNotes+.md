@@ -439,6 +439,14 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- That is, it does not mind holding arguments that are not rational, unless they are proven to be irrational.
 - [[On those who detach from logic]]
 
+- On Writing Texts
+	- Yasir Qadhi said that "War is Deceit" referred to the time when Muhammad set out the troops without telling them where they were headed, including by sending some people to the north, to ensure the plan for attack would not leak out.
+	- But then, that's just his opinion which has no basis, and also, it ignores the other Hadeeths which dealt with the killing of Ka'b bin al-Ashraf.
+	- So what I'm basically stating is that, if a text allows for freedom of interpretation, if a person invalidate other prevailing interpretations of that text, then one has to explicitly follow their interpretation of the text.
+		- Now, if their interpretation completely invalidates any other interpretation that has its basis in any portion of of the text, the original text can be followed under their interpretation.
+		- But if the specific interpretation is only of the many possible interpretations, then the followers have to explicitly follow their interpretation of the text.
+		- e.g. Following X (since Y invalidated other interpretations) vs Following Y's version of X (since other interpretations exist too).
+
 #rough (My dad asked me to study Oman road symbols hehe)
 - All Signs
 	- Order Signs: 2

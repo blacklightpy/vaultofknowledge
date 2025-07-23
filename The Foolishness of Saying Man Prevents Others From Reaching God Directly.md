@@ -33,11 +33,28 @@ prophet, which has it's own problems) OR B) Did you think that while you are
 one, you have a responsiblity to tell others that they are ultimately the same
 as you, that is, not just in nature, but in material as well?
 
-So the people who make this argument are not 
+So the people who make this argument are not actually arguing non-dualism.
+
+Their argument is one of pan-theism, but one that's contradictory because
+apparently, unlike them, the others do not realize their divinity, which makes
+them feel like the enlightened one who has to correct others. In all essence,
+pan-theism is not different from materialistic atheism, because we do not have
+the power of a God to modify this world, and we end up trying to enforce a social
+order of what should be. Theism enforces a dogma in a dualistic sense, while
+pan-theism enforces a dogma of natural order and harmony, that actually denies
+reality itself, where people die for no seemingly apparent reason.
 
 I term this **spiritual victim mentality**.
 
+i.e. they want to believe in a God that's directly accessible to them and to
+others, but they think someone else is capable of blocking them from doing so.
+This whole viewpoint is based on experiences in this reality where people trick
+others for material gains. But when it comes to something like the foundation of
+being from which all free will and form arises, you cannot hide that from someone
+unless it itself wanted that to happen.
 
+That is an argument that applies to Muhammadians, who too think that the others
+are Kaafir-s, or "hiders" of truth.
 
 
 
