@@ -33,10 +33,27 @@ Yes, that is in this particular example, since both things are already separate 
 We can continue this analogy.
 
 
+(draft)
 
 
 
+```
 
+   [     THE WORLD     ]
+   
+   \                   /
+    \                 /
+     \               /
+      \             /
+         [ SHAKTI ]  
+                
+         \       /
+          \     /
+           \   /
+         [BRAHMAN]
 
+```
 
+Now, Shakti does not actively cause it. Shakti leads to Maya, and under Maya, Brahman appears divided, as the world.
 
+Like a stranger may confuse a mirror image of another person with that person, or one may identify with the character they're playing in an immersive game, because it emulates the real person very closely, likewise, the reflection of pure consciousness itself retains properties of consciousness. To be precise, the reflection of a person on a mirror is a reflection of their body, but reflection of consciousness is a reflection of consciousness, and not of the inert body.

@@ -928,13 +928,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra notes on Theology.md",
+                "file": "App Analogy of My Theology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Extra notes on Theology"
+              "title": "App Analogy of My Theology"
             }
           }
         ],
@@ -970,7 +970,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1002,7 +1002,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

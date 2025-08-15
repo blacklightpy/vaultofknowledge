@@ -1,4 +1,5 @@
 Atisthana-Rahitam (without Adishtana)
+Atisthana-Sahitam (with Adishtana)
 
 Duality:
 
@@ -35,4 +36,4 @@ So the point is, each region is dependent on the other regions to be whole. the 
 
 But isn't the veils an effect of the power of the whole? Well, yes, and now that I rephrased the question, it makes sense. I was originally asking "isn't the power to make the veils a power of the whole?," but then I realized that actually, the whole doesn't do anything, and the veils are simply an effect.
 
-Now, to add on all of this, at the boundaries of the illusion, there is a reflection of the light. Or maybe, see it as that in each part, there is a reflective part, i.e. by considering the veil as the entire diagram, not just the lines, and this reflection is the living being. And the sum whole of the reflections is the ultim
+Now, to add on all of this, at the boundaries of the illusion, there is a reflection of the light. Or maybe, see it as that in each part, there is a reflective part, i.e. by considering the veil as the entire diagram, not just the lines, and this reflection is the living being. And the sum whole of the reflections is the ultimate being. And the boundaries are the inert parts.
