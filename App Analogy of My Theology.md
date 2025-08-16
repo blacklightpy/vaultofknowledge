@@ -60,4 +60,4 @@ Now, in theory, the duty of the reflection is to realize that it is the whole. B
 
 Well, it could be argued that the nature of the veil is to change in a certain way as to take a reflection on this journey. But that's not different from saying whatever happens happens, just with the exception that you also get to know what does happen in the end.
 
-But then it gives no meaning to suffering. Suffering is simply baked in to reality. For what reason though? Why would all knowing Brahman also know that the way of dualistic reality is to go through suffering? To escape this is why one surrenders to the will of God. As long as one surrenders to God's will as right, they won't be saddened by their will.
+But then it gives no meaning to suffering. Suffering is simply baked in to reality. For what reason though? Why would all-knowledge also know that the way of dualistic reality is to go through suffering? To escape this is why one surrenders to the will of God. As long as one surrenders to God's will as right, they won't be saddened by their will.
