@@ -1000,7 +1000,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1032,7 +1032,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1185,7 +1185,7 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "a0b1b90a4591af61",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Metaphysics QA.md",
     "The Ultimate Reality cannot be expressed by Words.md",
