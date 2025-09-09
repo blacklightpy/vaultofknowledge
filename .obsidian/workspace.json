@@ -951,9 +951,24 @@
               "icon": "lucide-file",
               "title": "The Ultimate Reality cannot be expressed by Words"
             }
+          },
+          {
+            "id": "a0b1b90a4591af61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metaphysics QA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Metaphysics QA"
+            }
           }
         ],
-        "currentTab": 62
+        "currentTab": 63
       }
     ],
     "direction": "vertical"
@@ -1170,10 +1185,11 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "efca1851a403ba62",
+  "active": "a0b1b90a4591af61",
   "lastOpenFiles": [
-    "Homonymic Samskritha Words.md",
+    "Metaphysics QA.md",
     "The Ultimate Reality cannot be expressed by Words.md",
+    "Homonymic Samskritha Words.md",
     "Trying to Consolidate Hinduism 1.md",
     "App Analogy of My Theology.md",
     "On Pronouns.md",
@@ -1197,7 +1213,6 @@
     "Untitled.md",
     "Deceptions of Anti-Non-Materialists 1 - Exploiting Guilt By Association.md",
     "Necessity of Causality - An Illusion.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
