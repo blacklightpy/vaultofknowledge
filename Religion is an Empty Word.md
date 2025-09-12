@@ -6,3 +6,17 @@ Ask instead, "What is your metaphysics?".
 #rough 
 
 Reality is not merely formless (Nirguna). It is only so in its natural state. All phenomena that exists is also a  product of the real substratum. So it also has certain powers to create the world of co-existence.
+
+Even if it is somehow an illusion, even then, unless one knows about it with certainty, one must assume it to have some power.
+
+#rough2
+
+Sun (Brahman) > Moon (Antahkarana) > Rock (Gross Body) > Objects
+
+When one closes their senses, one dis-identifies with the Gross Body and turns attention away from objects. It is akin to the rock moving so that it reflects only on to the moon.
+
+Here I find relatable the Zen saying, that "Zen is summarized as a finger pointing to the moon." The body points at the moon, which is analogous to the mind. And the moon points at the sun.
+
+In the ab
+
+And then, when one redirects his mind from the thoughts, one dis-identifies with the thoughts. It is akin to the
