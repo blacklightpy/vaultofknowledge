@@ -152,6 +152,8 @@ C. Why I use Samskritham terms.
 
 Soothras: (1) English has a limited set of terms - (2) Always using expanded definitions is incorrect and redundant - (3) Christians use Greek, Law uses Latin - (4) Samskritham has more nuanced words pertaining to spirituality, being from India.
 
+EDIT: This is just like how Vajrayana Buddhism teaches that any language can be useful in attaining enlightenment. But some languages just have more refined traditions.
+
 C. On Marx-ism.
 
 Though I do not deny all portions of what Marx said, and I have not read the entirety of what he said to even make such a claim, what Marx-ism is understood to be today has a lot of connotations. For example, Marx-ist forums are drenched in the red colour, to which I have an aversion, but ignoring that, still, they are highly averse to all forms of super-natural beliefs, even if they do not really pose a threat. That is, they are hard-rationalists, which is something I consider to be self-contradicting, and when you continue to hold such a belief, you fool yourself by dogma, and you become dogmatic.
