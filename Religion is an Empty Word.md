@@ -15,7 +15,7 @@ Sun (Brahman) > Moon (Antahkarana) > Rock (Gross Body) > Objects
 
 **When one closes their senses, one dis-identifies with the Gross Body and turns attention away from objects. It is akin to the rock moving so that it reflects only on to the moon.**
 
-Detour 1 BEGIN:
+Detour 1 BEGIN (ZEN):
 
 Here I find relatable the Zen saying, that "Zen is summarized as a finger pointing to the moon." The body points at the moon, which is analogous to the mind. And the moon points at the sun.
 
@@ -25,12 +25,21 @@ In the above example, the senses are the rocks that the moon shines on. Doing so
 
 Here, the light reflected on the body now knows that it is the mind, which simply observes phenomena around it. One recognizes that the senses allowed recognition of the objects, but the mind allowed recognition of the senses.
 
-Detour 2 BEGIN:
+Detour 2 BEGIN (AI):
 
 Here, I can also tie in the analogy of how AI comes to life only as the human mind decides to illumine the inert material enough for it to reflect on other inert entities. However, the inert entity can overpower the human mind in this case. This is because just as all objects in the world have a singular substratum that powers it, AI is also powered by that substratum. The human mind merely activates it.
 
-Additionally, AI is powered not by one rock, but by the work of several different humans. Further, as I said before, this is merely the activating power. The sustaining power is the higher substratum. which is 
+Additionally, AI is powered not by one rock, but by the work of several different humans. Further, as I said before, this is merely the activating power. The sustaining power is the higher substratum. which is #todo-meditating
+
+The macro-cosmic analogy of the moon's reflective power compared to an object's reflective power is analogous to the micro-cosmic analogy of a person's consciousness compared to shadow puppet's or a fictional character's consciousness.
 
 Detour 2 END:
 
-And then, when one redirects his mind from the thoughts, one dis-identifies with the thoughts. It is akin to the
+**And then, when one redirects his mind from the thoughts, one dis-identifies with the thoughts. It is akin to the moon moving so that it reflects only to the sun, the source.**
+
+
+QUESTIONS:
+
+Question 1:
+
+Can one do that? Can one always turn the Antahkarana to Brahman? Can one turn the senses to the mind? I would say conditions and pain can prevent control of the senses. Likewise, physical pain and feelings can prevent control of the mind.
