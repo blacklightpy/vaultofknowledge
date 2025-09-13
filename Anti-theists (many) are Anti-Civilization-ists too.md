@@ -22,9 +22,15 @@ So they do attempt to share their ideas via education. But their core idea - tha
 
 More Notes 1 (On their attempts at progress) END:
 
-More Notes 2 (On their attempts at progress) BEGIN:
+More Notes 2 (On their disagreement with prophets) BEGIN:
 
-Now I did say that "they do not realize that this is exactly what has happened." But there is the argument that prophecy cannot be true, as it gives power to one person. But then they do not care to recognize that firstly not all religions are based on prophecy, and secondly, that many of them who follow a prophecy would also 
+Now I did say that "they do not realize that this is exactly what has happened." But there is the argument that prophecy cannot be true, as it gives power to one person. But then they do not care to recognize that firstly not all religions are based on prophecy, and secondly, that many of them who follow a prophecy also use the ethical coherence of the prophecy as a rationale to follow it, and so on. Of course, it may seem absurd to some people to call them ethical, but I said "ethical coherence" - and that's two words.
 
-More Notes 2 (On their attempts at progress) END:
+**One way of arguing against ethical coherence is that in the absence of a coherent theory of everything, we would have to use contradictory models for different cases.**
+
+Anti-theists however would prefer to throw the baby out with the bathwater. They are impatient and that leads to a complete disregard for other people's perspectives. Some theists do that, and doing this towards them is justified, but using their case as an argument to do this towards everyone else makes them no different. They say they don't systematically harm people, but ignorance is very harmful. Systems not only harm people, but also protect them. So being against systems simply removes any form of protection. But if they wish to make a system that is free of religion, then they are excluding many people from it. They like to frame it as equality, but it is not equality if people don't listen to other people's views.
+
+The truth remains that religions are tolerant of more people than anti-theism is. Anti-theists claim that it is because most people are bigoted, but then that's just what reality is. At least from my perspective, I would tolerate atheists, but atheism has been taken over by materialism and further, by anti-theism. For this reason, I simply had to cut off ties with atheists, while specifically excluding the minorities like Buddhists. It is more rational now to exclude Buddhists from atheists than to exclude anti-theists, because most atheists are anti-theists now.
+
+More Notes 2 (On their disagreement with prophets) END:
 
