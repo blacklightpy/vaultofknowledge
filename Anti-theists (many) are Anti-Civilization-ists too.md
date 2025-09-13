@@ -8,10 +8,23 @@ The thing is, life is inherently complicated. And when one attempts to describe 
 
 But any civilization requires understanding various perspectives and ensuring everyone lives together in peace. And that requires explaining everyone's perspectives. If it isn't done well, some people will be left out.
 
-So, in the absence of a complex description, what they want is for everyone to realize that there is no law. They want society to be one where everyone can do whatever they want, with rights forming from alliances.
+**So, in the absence of a complex description, what they want is for everyone to realize that there is no law. They want society to be one where everyone can do whatever they want, with rights forming from alliances.**
 
-But they do not realize that this is exactly what has happened. When people form alliances, the fact that many people believe in God also gets taken into account. If atheists were any smart as they claim to be, they would also realize that by their own definition, most people are not smart, and they cannot exert force to control what everyone else thinks, when they can't even control an earthquake or tsunami.
+More Notes 1 (On their attempts at progress) BEGIN:
 
-Basically, they try to focus on what they can, and avoid focusing on what they cannot control. But then they are working on an unstable ground. Their only guarantee is the fact that they observe natural laws to be consistent. But the consistency of natural laws does not at all mean that natural phenomena will be predictable, because we simply do not know enough to predict it. And even if we try to find everything and succeed, we would only be removing the chance for any miracle - and to qualify that - any law or phenomena we failed to look into - to occur. However, I state that, with also the observable guarantee, that there will always be something beyond our knowledge. If the universe exists, it, by that fact, implies some grounds for its existence - and you can also not know anything about that ground unless you had a direct link to it.
+But they do not realize that this is exactly what has happened. When people form alliances, the fact that many people believe in God also gets taken into account. If anti-theists were any smart as they self-centredly claim to be, they would also realize that by their own definition, most other people are not smart, and so they cannot exert force to control what everyone else thinks, when they can't even control an earthquake or tsunami.
 
-But consciousness is one requirement for a world to exist, so
+Basically, they try to focus on what they can, and avoid focusing on what they cannot control. But then they are working on an unstable ground. Their only guarantee is the fact that they observe natural laws to be consistent. But the consistency of natural laws does not at all mean that natural phenomena will be predictable, because we simply do not know enough to predict it. And even if we try to find everything and succeed, we would only be removing the chance for any miracle - and to qualify that - any law or phenomena we failed to look into - to occur. However, I state that, with also the observable guarantee, that there will always be something beyond our knowledge.
+
+If the universe exists, it, by that fact, implies some grounds for its existence - and you can also not know anything about that ground unless you had a direct link to it. But consciousness is one requirement for a world to exist, and it is directly immanent with us, so in that way, we do have direct access to at least one part of it.
+
+So they do attempt to share their ideas via education. But their core idea - that we people can entirely by ourselves, change the fate of the world - is something built on shaky grounds. We can come to a high state of development, but it is only guaranteed by the foundation of reality itself. If it is inert, it simply is not guaranteed, and it is only guaranteed if it is conscious. What anti-theists love is free will, but denial of metaphysics only leaves them with nihilism, if they happen to also look at it logically. If they don't, an ignorant person's position would've never even be worth considering.
+
+More Notes 1 (On their attempts at progress) END:
+
+More Notes 2 (On their attempts at progress) BEGIN:
+
+Now I did say that "they do not realize that this is exactly what has happened." But there is the argument that prophecy cannot be true, as it gives power to one person. But then they do not care to recognize that firstly not all religions are based on prophecy, and secondly, that many of them who follow a prophecy would also 
+
+More Notes 2 (On their attempts at progress) END:
+
