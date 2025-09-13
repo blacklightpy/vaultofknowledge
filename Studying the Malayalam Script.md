@@ -1,6 +1,6 @@
 ## Notes about nuances
 
-(1) After ടവർഗ്ഗം, there was a ഺവർഗ്ഗം with ഺ and ഩ. ഺ and ഩ got replaced by റ and ന. ഺ was never used in singular, but was used as ഺ്ഺ and ഩ്ഺ, which got replaced by റ്റ and ന്റ.
+(1) After ട വർഗ്ഗം, there was a ഺ വർഗ്ഗം with ഺ and ഩ. ഺ and ഩ got replaced by റ and ന. ഺ was never used in singular, but was used as ഺ്ഺ and ഩ്ഺ, which got replaced by റ്റ and ന്റ.
 
 ## Ideas
 - The letter ഴ could better be transliterated as: Thamiyzh / yzha / yjzha / Vayjzha

@@ -4,9 +4,13 @@ For calligraphy, see: https://xcancel.com/ThariqueAzeez/status/19002288769468129
 | --------------------------------------------------- | ------------------------------------ |
 | ![[Tamil Calligraphy Workshop Pamphlet Side A.png]] | ![[Tamil Calligraphy Workshop Pamphlet Side B.png]] |
 
+# Alphasyllabries
+
+It is very simple if you know any Indic scripts. For each class of consonants, there is only the
+
 # Numerals
 
-I'm adding this section directly off Wikipedia now for referring the additional numbers I couldn't get from Malayalam sources.
+**I'm adding this section directly off Wikipedia now for referring the additional numbers I couldn't get from Malayalam sources.**
 
 ### Zero
 
@@ -14,19 +18,19 @@ Old Tamil possesses a special numerical character for zero _(see [Old Tamil nume
 
 ### First ten numbers (முதல் எண்கள்)
 
-|Modern  <br>[Tamil script](https://en.wikipedia.org/wiki/Tamil_script "Tamil script")|Tamil numeral|Tamil word and transliteration|
-|---|---|---|
-|௦|[0](https://en.wikipedia.org/wiki/0_\(number\) "0 (number)")|சுழியம் (_suḻiyam_)  <br>[Old Tamil](https://en.wikipedia.org/wiki/Old_Tamil "Old Tamil"): பாழ் (_pāḻ_)[[1]](https://en.wikipedia.org/wiki/Tamil_numerals#cite_note-1)|
-|௧|[1](https://en.wikipedia.org/wiki/1_\(number\) "1 (number)")|ஒன்று (_oṉṟu_)|
-|௨|[2](https://en.wikipedia.org/wiki/2_\(number\) "2 (number)")|இரண்டு (_iraṇḍu_)|
-|௩|[3](https://en.wikipedia.org/wiki/3_\(number\) "3 (number)")|மூன்று (_mūṉṟu_)|
-|௪|[4](https://en.wikipedia.org/wiki/4_\(number\) "4 (number)")|நான்கு (_nāṉku_)|
-|௫|[5](https://en.wikipedia.org/wiki/5_\(number\) "5 (number)")|ஐந்து (_aindhu_)|
-|௬|[6](https://en.wikipedia.org/wiki/6_\(number\) "6 (number)")|ஆறு (_āṟu_)|
-|௭|[7](https://en.wikipedia.org/wiki/7_\(number\) "7 (number)")|ஏழு (_ēḻu_)|
-|௮|[8](https://en.wikipedia.org/wiki/8_\(number\) "8 (number)")|எட்டு (_eṭṭu_)|
-|௯|[9](https://en.wikipedia.org/wiki/9_\(number\) "9 (number)")|ஒன்பது (_oṉpathu_)|
-|௰|[10](https://en.wikipedia.org/wiki/10_\(number\) "10 (number)")|பத்து (_paththu_)|
+| Modern Tamil script | Numeral | Tamil word and transliteration                   |
+| ------------------- | ------- | ------------------------------------------------ |
+| ௦                   | 0       | சுழியம் (_suḻiyam_)  <br>Old Tamil: பாழ் (_pāḻ_) |
+| ௧                   | 1       | ஒன்று (_oṉṟu_)                                   |
+| ௨                   | 2       | இரண்டு (_iraṇḍu_)                                |
+| ௩                   | 3       | மூன்று (_mūṉṟu_)                                 |
+| ௪                   | 4       | நான்கு (_nāṉku_)                                 |
+| ௫                   | 5       | ஐந்து (_aindhu_)                                 |
+| ௬                   | 6       | ஆறு (_āṟu_)                                      |
+| ௭                   | 7       | ஏழு (_ēḻu_)                                      |
+| ௮                   | 8       | எட்டு (_eṭṭu_)                                   |
+| ௯                   | 9       | ஒன்பது (_oṉpathu_)                               |
+| ௰                   | 10      | பத்து (_paththu_)                                |
 
 ## Transcribing other numbers
 
