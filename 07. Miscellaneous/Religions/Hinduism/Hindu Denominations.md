@@ -3,6 +3,8 @@ Denominations are also called Sampradayas. (I guess Darshanas should be moved to
 Schools of thought are also called Darshanas.
 
 Notes: https://www.omyogashala.in/shad-darshan
+
+The schools are divided on the basis of whether they believe in the Veda-s or not. The ones that believe in the Veda-s are called Aastika (there is) and the others are called Naastika (there isn't). Some say that the definition is based on whether there is a soul or not, but the common definition is based on the acceptance of the Veda-s.
 ## Orthodox Schools
 
 There are six schools of thought, called the Sadh-Darshanas (Six Schools). They are themselves grouped into three groups of two similar schools, as follows:
@@ -412,7 +414,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 				- Dualism and Monism, based on Vaishnava Bhedabheda Vedaanta Darshana
 				- Both Oneness and Difference are equal, because that's Brahman's natural state
 				- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahman, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahman in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
-	- 6.3. Vishishta Advaita Vedaanta (Special Non-Difference)
+	- 6.3. Vishishta Advaita Vedaanta (Qualified Non-Difference)
 		- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
 		- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
 		- Ishvara is Para Brahman with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
