@@ -1,4 +1,6 @@
-Denominations are also called Sampradayas. (I guess Darshanas should be moved to a separate note.)
+Denominations are also called Sampradaayas. (I guess Darshanas should be moved to a separate note.)
+
+I noticed that a common theme is that the substratum of reality is a consciousness that is Transcendent and Immanent, and also All-pervading.
 # Based on Schools of thought
 Schools of thought are also called Darshanas.
 
