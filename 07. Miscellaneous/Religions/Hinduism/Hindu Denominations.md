@@ -1,6 +1,8 @@
 Denominations are also called Sampradaayas. (I guess Darshanas should be moved to a separate note.)
 
 I noticed that a common theme is that the substratum of reality is a consciousness that is Transcendent and Immanent, and also All-pervading.
+
+From https://www.siddha.com.my/forum/religionoftheagamas/chapter4.html: In the southern tamil tradition, **Siva was referred to as Kadavul (trancendent-Immanent One)**, Iraivan and Mukkanan (Three Eyed), Vishnu as Maal or Tirumal, Skanda as Muruga and Ceyon (Red Lord), and Krishna as Thuvaraik Koman (king of Dwaraka. The names are indicate of their nature and status in society.
 # Based on Schools of thought
 Schools of thought are also called Darshanas.
 
