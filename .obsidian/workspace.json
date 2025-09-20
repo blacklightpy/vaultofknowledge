@@ -1058,18 +1058,13 @@
             }
           },
           {
-            "id": "6a84e056066f499e",
+            "id": "9bcdb904dcf76c78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hindu Denominations"
+              "title": "New tab"
             }
           }
         ],
@@ -1290,8 +1285,9 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "6a84e056066f499e",
+  "active": "9bcdb904dcf76c78",
   "lastOpenFiles": [
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "New Areas of Study.md",
     "01. Personal/Daily Notes/Entry of 20th Sep, 2025.md",
     "Paths in Hinduism.md",
@@ -1302,7 +1298,6 @@
     "06. Collected Knowledge/Memes of Religions.md",
     "06. Collected Knowledge/Hindu Sampradaayas.md",
     "06. Collected Knowledge/Map of Hinduism.md",
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "Anti-theists (many) are Anti-Civilization-ists too.md",
     "On the usefulness of contradictory models.md",
     "Conflicts in Translation (Rough Title).md",
