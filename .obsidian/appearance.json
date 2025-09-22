@@ -1,3 +1,5 @@
 {
-  "showRibbon": false
+  "showRibbon": false,
+  "cssTheme": "Prism",
+  "theme": "obsidian"
 }
