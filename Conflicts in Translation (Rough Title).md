@@ -1,6 +1,6 @@
 #rough title
 
-Example 1: Antah Stri Nasham Nasheyam
+Example 1: Antah Stri Nasham Nasheyam - Google Translate vs Original Meaning.
 
 Example:
 A culture says "do not kill" and "do not murder" by the same word

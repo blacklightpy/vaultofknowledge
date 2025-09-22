@@ -20,6 +20,8 @@
   min-height: 0;
 } */
 
+/* Math Block Webkit Resizer */
+
 .cm-preview-code-block:hover .block-language-math::after {
   opacity: 1;
 }
@@ -46,7 +48,11 @@
 }
 
 .block-language-math::-webkit-resizer {
-  display: none;
+  display: none !important;
+}
+
+.block-language-math::-webkit-scrollbar-corner {
+  background: rgba(0,0,0,0);
 }
 
 /* .block-language-math:not(:hover)::-webkit-resizer {
@@ -93,6 +99,23 @@
 }
 
 /* ----------------------------------------- */
+
+.big-text-area {
+  align-items: flex-start;
+}
+
+.big-text-area textarea {
+  overflow-wrap: normal;
+  height: 300px;
+  width: 500px;
+  white-space: pre;
+}
+
+.big-text-area .setting-item-control {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
 
 .math-pill {
   height: 3.5px;
@@ -298,6 +321,10 @@
 }
 
 /* Hide Buttons */
+.no-lock label[title="Keep selected tool active after drawing — Q"] {
+  display: none !important;
+}
+
 .excalidraw-canvas-wrapper .App-toolbar label[title="Insert image — 9"] {
   display: none;
 }
@@ -331,6 +358,28 @@
   display: none;
 }
 
+/* Lock UI */
+.App-toolbar-container.App-toolbar-container.App-toolbar-container.App-toolbar-container label[title="Keep selected tool active after drawing — Q"] {
+  left: -50px;
+  display: block;
+  position: absolute;
+  opacity: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 100px;
+  outline: none !important;
+}
+
+.App-toolbar-container.App-toolbar-container.App-toolbar-container.App-toolbar-container label[title="Keep selected tool active after drawing — Q"] * {
+  box-shadow: none !important;
+}
+
+.App-toolbar-container.App-toolbar-container.App-toolbar-container.App-toolbar-container label[title="Keep selected tool active after drawing — Q"] .ToolIcon__icon {
+  border-radius: 100px;
+  width: 2.5em;
+  height: 2.5em;
+}
+
 /* Style UI */
 .excalidraw-canvas-wrapper .App-toolbar-container.App-toolbar-container.App-toolbar-container > * {
     display: none;
@@ -344,7 +393,7 @@
     transition: opacity 300ms;
 }
 
-.cm-preview-code-block:hover .App-toolbar-container .Island.App-toolbar, .cm-preview-code-block:hover button, .cm-preview-code-block:hover .math-button,.cm-preview-code-block:hover .math-color-box {
+.cm-preview-code-block:hover .App-toolbar-container .Island.App-toolbar, .cm-preview-code-block:hover button, .cm-preview-code-block:hover .math-button,.cm-preview-code-block:hover .math-color-box, .cm-preview-code-block:hover label[title="Keep selected tool active after drawing — Q"] {
     opacity: 1 !important;
 }
 
@@ -438,15 +487,14 @@
 
 /* Small UI */
 .excalidraw-canvas-wrapper .small-canvas section{
-    max-width: 60px;
-    transition: max-width 300ms;
     top: unset !important;
     bottom: 8px;
     margin-bottom: -25px;
 }
 
-.excalidraw-canvas-wrapper .small-canvas section:hover {
-    max-width: 250px;
+.excalidraw-canvas-wrapper .small-canvas section .Island.App-toolbar {
+  max-width: 60px;
+  transition: max-width 300ms;
 }
 
 .excalidraw-canvas-wrapper .small-canvas section .Stack_horizontal .Stack_horizontal {

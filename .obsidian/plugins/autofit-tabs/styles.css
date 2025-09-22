@@ -1,11 +1,10 @@
 :root {
     /* Base dimensions */
     --autofit-min-width: 40px;
-    --autofit-close-button-width: 28px;
     --autofit-left-padding: 12px;
-    --autofit-icon-right-margin: 0px;
-    --autofit-close-button-padding: 0px;
-    --autofit-transition-duration: 275ms;
+    --autofit-close-button-left-padding: 30px;
+    --autofit-close-button-right-padding: 8px;
+    --autofit-transition-duration: 375ms;
     --autofit-max-width: none;
 
     /* Additional dimensions from TypeScript */
@@ -41,10 +40,19 @@
 }
 
 /* Make sure we're respecting the transition duration setting */
-.workspace-split.mod-vertical.mod-root .workspace-tab-header {
+.workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab {
     transition-property: width, min-width, max-width;
     transition-duration: var(--autofit-transition-duration);
     transition-timing-function: ease-in-out;
+    will-change: width;
+}
+
+/* Synchronize transitions for all child elements */
+.workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner,
+.workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner-icon,
+.workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner-title {
+    transition: inherit;
+    will-change: transform;
 }
 
 /* Prevent icon swapping/flashing during tab transitions */
@@ -59,10 +67,13 @@
     width: var(--header-width) !important;
     min-width: var(--header-width) !important;
     max-width: var(--header-width) !important;
-    transition: all var(--autofit-transition-duration) ease-in-out !important;
+    transition: width var(--autofit-transition-duration) ease-in-out,
+                min-width var(--autofit-transition-duration) ease-in-out,
+                max-width var(--autofit-transition-duration) ease-in-out !important;
     position: relative;
     /* Reset some defaults to ensure proper layout */
     display: flex !important;
+    contain: layout style;
 }
 
 /* Prevent icon changes during transitions */
@@ -117,7 +128,6 @@
     width: 100%;
     padding-left: var(--autofit-left-padding);
     position: relative;
-    transition: all var(--autofit-transition-duration) ease-in-out !important;
 }
 
 .workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner-title {
@@ -128,7 +138,6 @@
 
 /* Icon styles - only for root content area */
 .workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner-icon {
-    margin-right: var(--autofit-icon-right-margin);
     width: var(--autofit-icon-width);
     display: var(--autofit-icon-display, flex); /* Use flex by default, none when icon width is 0 */
     align-items: center;
@@ -166,12 +175,12 @@
 .workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-max-width .workspace-tab-header-inner-title {
     text-overflow: ellipsis !important;
     overflow: hidden !important;
-    max-width: calc(100% - var(--autofit-close-button-width) - 8px);
+    max-width: calc(100% - var(--autofit-close-button-left-padding) - 8px);
 }
 
-/* Add padding-right to all tab titles to ensure space for close button */
-.workspace-split.mod-vertical.mod-root .workspace-tab-header-inner-title {
-    padding-right: calc(var(--autofit-close-button-width) + 4px);
+/* Add padding-right to autofit tab titles to ensure space for close button */
+.workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner-title {
+    padding-right: var(--autofit-close-button-left-padding);
 }
 
 
@@ -200,9 +209,43 @@
 }
 
 /* Fix position of close button to prevent jitter when icon width is 0 */
-.workspace-split.mod-vertical.mod-root .workspace-tab-header .workspace-tab-header-inner-close-button {
+.workspace-split.mod-vertical.mod-root .workspace-tab-header.autofit-tab .workspace-tab-header-inner-close-button {
     position: absolute;
     right: 0;
     top: 50%;
     transform: translateY(-50%);
+    margin-right: var(--autofit-close-button-right-padding) !important;
+}
+
+/* Hide tab icons when setting is enabled - only in main editor tabs */
+body.autofit-hide-tab-icons .workspace-split.mod-vertical.mod-root .workspace-tab-header-inner-icon {
+    display: none !important;
+    width: 0 !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Hide the img elements inside the icon container - only in main editor tabs */
+body.autofit-hide-tab-icons .workspace-split.mod-vertical.mod-root .workspace-tab-header-inner-icon img {
+    width: 0px !important;
+    height: 0px !important;
+    display: none !important;
+}
+
+/* Also hide svg icons if present - only in main editor tabs */
+body.autofit-hide-tab-icons .workspace-split.mod-vertical.mod-root .workspace-tab-header-inner-icon svg {
+    width: 0px !important;
+    height: 0px !important;
+    display: none !important;
+}
+
+/* Adjust left padding when icons are hidden - only in main editor tabs */
+body.autofit-hide-tab-icons .workspace-split.mod-vertical.mod-root .workspace-tab-header-inner {
+    padding-left: var(--autofit-left-padding) !important;
+}
+
+/* Ensure title takes full space when icons are hidden - only in main editor tabs */
+body.autofit-hide-tab-icons .workspace-split.mod-vertical.mod-root .workspace-tab-header-inner-title {
+    margin-left: 0 !important;
 }

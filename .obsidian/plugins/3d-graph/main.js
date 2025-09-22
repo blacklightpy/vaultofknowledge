@@ -3116,7 +3116,7 @@ __export(main_exports, {
   default: () => Graph3dPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian7 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 
 // src/views/graph/Graph3dView.ts
 var import_obsidian6 = require("obsidian");
@@ -30268,7 +30268,9 @@ var GroupSettings = class {
     this.groups = groups != null ? groups : this.groups;
   }
   static fromStore(store) {
-    return new GroupSettings(store == null ? void 0 : store.groups);
+    return new GroupSettings(store == null ? void 0 : store.groups.flatMap((nodeGroup) => {
+      return new NodeGroup(nodeGroup.query, nodeGroup.color);
+    }));
   }
   toObject() {
     return {
@@ -30285,6 +30287,9 @@ var NodeGroup = class {
     return new RegExp(query);
   }
   static matches(query, node) {
+    if (query.match(/^tag:#?/)) {
+      return node.tags.includes(query.replace(/^tag:#?/, ""));
+    }
     return node.path.startsWith(this.sanitizeQuery(query));
   }
   static sanitizeQuery(query) {
@@ -30348,7 +30353,10 @@ var ForceGraph2 = class {
       }
     };
     this.doShowNode = (node) => {
-      return this.plugin.getSettings().filters.doShowOrphans || node.links.length > 0;
+      return (this.plugin.getSettings().filters.doShowOrphans || node.links.length > 0) && (this.plugin.getSettings().filters.doShowAttachments || !node.isAttachment);
+    };
+    this.doShowLink = (link) => {
+      return this.plugin.getSettings().filters.doShowAttachments || !link.linksAnAttachment;
     };
     this.onNodeHover = (node) => {
       if (!node && !this.highlightedNodes.size || node && this.hoveredNode === node)
@@ -30371,7 +30379,7 @@ var ForceGraph2 = class {
       return this.highlightedNodes.has(node.id);
     };
     this.createLinks = () => {
-      this.instance.linkWidth((link) => this.isHighlightedLink(link) ? this.plugin.getSettings().display.linkThickness * 1.5 : this.plugin.getSettings().display.linkThickness).linkDirectionalParticles((link) => this.isHighlightedLink(link) ? this.plugin.getSettings().display.particleCount : 0).linkDirectionalParticleWidth(this.plugin.getSettings().display.particleSize).onLinkHover(this.onLinkHover).linkColor((link) => this.isHighlightedLink(link) ? this.plugin.theme.textAccent : this.plugin.theme.textMuted);
+      this.instance.linkWidth((link) => this.isHighlightedLink(link) ? this.plugin.getSettings().display.linkThickness * 1.5 : this.plugin.getSettings().display.linkThickness).linkDirectionalParticles((link) => this.isHighlightedLink(link) ? this.plugin.getSettings().display.particleCount : 0).linkDirectionalParticleWidth(this.plugin.getSettings().display.particleSize).linkVisibility(this.doShowLink).onLinkHover(this.onLinkHover).linkColor((link) => this.isHighlightedLink(link) ? this.plugin.theme.textAccent : this.plugin.theme.textMuted);
     };
     this.onLinkHover = (link) => {
       this.clearHighlights();
@@ -30536,16 +30544,19 @@ var DisplaySettingsView_default = DisplaySettingsView;
 
 // src/settings/categories/FilterSettings.ts
 var FilterSettings = class {
-  constructor(doShowOrphans) {
+  constructor(doShowOrphans, doShowAttachments) {
     this.doShowOrphans = true;
+    this.doShowAttachments = false;
     this.doShowOrphans = doShowOrphans != null ? doShowOrphans : this.doShowOrphans;
+    this.doShowAttachments = doShowAttachments != null ? doShowAttachments : this.doShowAttachments;
   }
   static fromStore(store) {
-    return new FilterSettings(store == null ? void 0 : store.doShowOrphans);
+    return new FilterSettings(store == null ? void 0 : store.doShowOrphans, store == null ? void 0 : store.doShowAttachments);
   }
   toObject() {
     return {
-      doShowOrphans: this.doShowOrphans
+      doShowOrphans: this.doShowOrphans,
+      doShowAttachments: this.doShowAttachments
     };
   }
 };
@@ -30739,6 +30750,11 @@ var FilterSettingsView = (filterSettings, containerEl) => {
       filterSettings.value.doShowOrphans = value;
     });
   });
+  new import_obsidian4.Setting(containerEl).setName("Show Attachments").addToggle((toggle) => {
+    toggle.setValue(filterSettings.value.doShowAttachments || false).onChange(async (value) => {
+      filterSettings.value.doShowAttachments = value;
+    });
+  });
 };
 var FilterSettingsView_default = FilterSettingsView;
 
@@ -30891,9 +30907,10 @@ var GraphSettings = class {
 
 // src/graph/Link.ts
 var Link = class {
-  constructor(sourceId, targetId) {
+  constructor(sourceId, targetId, linksAnAttachment) {
     this.source = sourceId;
     this.target = targetId;
+    this.linksAnAttachment = linksAnAttachment;
   }
   static createLinkIndex(links) {
     const linkIndex = /* @__PURE__ */ new Map();
@@ -30924,20 +30941,27 @@ var Link = class {
 };
 
 // src/graph/Node.ts
+var import_obsidian7 = require("obsidian");
 var Node = class {
-  constructor(name, path, val = 10, neighbors = [], links = []) {
+  constructor(name, path, isAttachment, val = 10, neighbors = [], links = [], tags = []) {
     this.id = path;
     this.name = name;
     this.path = path;
+    this.isAttachment = isAttachment;
     this.val = val;
     this.neighbors = neighbors;
     this.links = links;
+    this.tags = tags;
   }
   static createFromFiles(files) {
     const nodeMap = /* @__PURE__ */ new Map();
     return [
       files.map((file, index5) => {
-        const node = new Node(file.name, file.path);
+        const node = new Node(file.name, file.path, file.extension == "md" ? false : true);
+        const cache = app.metadataCache.getFileCache(file), tags = cache ? (0, import_obsidian7.getAllTags)(cache) : null;
+        if (tags != null) {
+          tags.forEach((tag) => node.tags.push(tag.substring(1)));
+        }
         if (!nodeMap.has(node.id)) {
           nodeMap.set(node.id, index5);
           return node;
@@ -30949,7 +30973,7 @@ var Node = class {
   }
   addNeighbor(neighbor) {
     if (!this.isNeighborOf(neighbor)) {
-      const link = new Link(this.id, neighbor.id);
+      const link = new Link(this.id, neighbor.id, this.isAttachment || neighbor.isAttachment);
       this.neighbors.push(neighbor);
       this.addLink(link);
       neighbor.neighbors.push(this);
@@ -30977,8 +31001,8 @@ var _Graph = class {
     this.clone = () => {
       return new _Graph(structuredClone(this.nodes), structuredClone(this.links), structuredClone(this.nodeIndex), structuredClone(this.linkIndex));
     };
-    this.update = (app) => {
-      const newGraph = _Graph.createFromApp(app);
+    this.update = (app2) => {
+      const newGraph = _Graph.createFromApp(app2);
       this.nodes.splice(0, this.nodes.length, ...newGraph.nodes);
       this.links.splice(0, this.nodes.length, ...newGraph.links);
       this.nodeIndex.clear();
@@ -31052,8 +31076,8 @@ var _Graph = class {
   }
 };
 var Graph = _Graph;
-Graph.createFromApp = (app) => {
-  const [nodes, nodeIndex] = Node.createFromFiles(app.vault.getFiles()), [links, linkIndex] = Link.createFromCache(app.metadataCache.resolvedLinks, nodes, nodeIndex);
+Graph.createFromApp = (app2) => {
+  const [nodes, nodeIndex] = Node.createFromFiles(app2.vault.getFiles()), [links, linkIndex] = Link.createFromCache(app2.metadataCache.resolvedLinks, nodes, nodeIndex);
   return new _Graph(nodes, links, nodeIndex, linkIndex);
 };
 
@@ -31088,7 +31112,7 @@ var shallowCompare = (obj1, obj2) => {
 var ShallowCompare_default = shallowCompare;
 
 // src/main.ts
-var Graph3dPlugin = class extends import_obsidian7.Plugin {
+var Graph3dPlugin = class extends import_obsidian8.Plugin {
   constructor() {
     super(...arguments);
     this.openFileState = new State(void 0);
@@ -31119,7 +31143,7 @@ var Graph3dPlugin = class extends import_obsidian7.Plugin {
         this.openFileState.value = newFilePath;
         this.openGraph(true);
       } else {
-        new import_obsidian7.Notice("No file is currently open");
+        new import_obsidian8.Notice("No file is currently open");
       }
     };
     this.openGlobalGraph = () => {
@@ -31209,3 +31233,5 @@ var Graph3dPlugin = class extends import_obsidian7.Plugin {
  * Copyright 2010-2022 Three.js Authors
  * SPDX-License-Identifier: MIT
  */
+
+/* nosourcemap */

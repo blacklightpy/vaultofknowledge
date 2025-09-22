@@ -75,13 +75,13 @@
   --r-selection-color: #fff;
 }
 .reveal-viewport {
-  background: #1c1e20;
-  background: -moz-radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #555a5f), color-stop(100%, #1c1e20));
-  background: -webkit-radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
-  background: -o-radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
-  background: -ms-radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
-  background: radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
+  background: rgb(28, 30, 32);
+  background: -moz-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgb(85, 90, 95)), color-stop(100%, rgb(28, 30, 32)));
+  background: -webkit-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
+  background: -o-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
+  background: -ms-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
+  background: radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
   background-color: var(--r-background-color);
 }
 .reveal {
@@ -179,8 +179,8 @@
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
-  max-height: 95%;
+  max-width: 100%;
+  max-height: 100%;
 }
 .reveal strong,
 .reveal b {
@@ -359,6 +359,9 @@
 }
 canvas[data-chart] {
   padding: 0.5em;
+}
+.reveal .hljs {
+  min-height: 50%;
 }
 .reveal .slides {
   text-align: left;

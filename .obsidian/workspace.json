@@ -1073,7 +1073,7 @@
             }
           }
         ],
-        "currentTab": 70
+        "currentTab": 67
       }
     ],
     "direction": "vertical"
@@ -1127,7 +1127,7 @@
             }
           },
           {
-            "id": "2e9cf8c5f9ca95a7",
+            "id": "452c071c08809330",
             "type": "leaf",
             "state": {
               "type": "vertical-tabs",
@@ -1261,15 +1261,16 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-ghost",
+              "title": "timeline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1287,14 +1288,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "broken-links:View broken links": false
+      "broken-links:View broken links": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "e35e957d66d7e189",
+  "active": "3e0e775efef829eb",
   "lastOpenFiles": [
-    "Anti-theists (many) are Anti-Civilization-ists too.md",
     "New Areas of Study.md",
     "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+    "App Analogy of My Theology.md",
+    "Moment of Inertia.md",
+    "Anti-theists (many) are Anti-Civilization-ists too.md",
     "On atheismindia.md",
     "Study of Reality.md",
     "The Ultimate Reality cannot be expressed by Words.md",
@@ -1316,8 +1321,6 @@
     "06. Collected Knowledge/Finding Pi - My Philosophy.md",
     "06. Collected Knowledge/Units of Reality.md",
     "06. Collected Knowledge/Debating Anti-Hindu Theologers.md",
-    "06. Collected Knowledge/Common Misconceptions About Rationality.md",
-    "06. Collected Knowledge/Trinity and Gunas in Hinduism.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
