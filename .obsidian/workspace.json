@@ -1061,10 +1061,15 @@
             "id": "e35e957d66d7e189",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entry of 22nd Sep, 2025"
             }
           }
         ],
@@ -1285,10 +1290,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "e35e957d66d7e189",
+  "active": "2e9cf8c5f9ca95a7",
   "lastOpenFiles": [
-    "What is `living`.md",
     "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+    "What is `living`.md",
     "What is livingf.md",
     "New Areas of Study.md",
     "About `We are Good People`.md",
