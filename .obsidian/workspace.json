@@ -1056,29 +1056,9 @@
               "icon": "lucide-file",
               "title": "New Areas of Study"
             }
-          },
-          {
-            "id": "03974b301a6832b5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c0711cd2813648e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 71
+        "currentTab": 69
       }
     ],
     "direction": "vertical"
@@ -1295,7 +1275,7 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "c0711cd2813648e1",
+  "active": "2e9cf8c5f9ca95a7",
   "lastOpenFiles": [
     "New Areas of Study.md",
     "fdsfsd.md",
