@@ -1063,13 +1063,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is `living`.md",
+                "file": "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "What is `living`"
+              "title": "Entry of 22nd Sep, 2025"
             }
           }
         ],
@@ -1132,8 +1132,8 @@
             "state": {
               "type": "vertical-tabs",
               "state": {},
-              "icon": "vertical-tabs",
-              "title": "Vertical tabs"
+              "icon": "lucide-ghost",
+              "title": "vertical-tabs"
             }
           }
         ],
@@ -1244,8 +1244,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -1285,19 +1285,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-git:Open Git source control": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "broken-links:View broken links": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e9b1c83cc8c97139",
   "lastOpenFiles": [
-    "What is livingf.md",
     "What is `living`.md",
+    "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+    "What is livingf.md",
     "New Areas of Study.md",
     "About `We are Good People`.md",
     "`Question to Atheists` - For Reddit.md",
-    "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
     "fdsfsd.md",
     "06. Collected Knowledge/ITU-T Naming Conventions.md",
     "What is \"living\".md",
