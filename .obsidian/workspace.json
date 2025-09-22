@@ -1050,21 +1050,26 @@
               "state": {
                 "file": "New Areas of Study.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
               "title": "New Areas of Study"
             }
           },
           {
-            "id": "9bcdb904dcf76c78",
+            "id": "06ec9e3bb922ef51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entry of 22nd Sep, 2025"
             }
           }
         ],
@@ -1087,7 +1092,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -1100,7 +1105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "what is \"living\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1131,8 +1136,7 @@
               "title": "Vertical tabs"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -1239,8 +1243,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -1285,34 +1289,34 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "9bcdb904dcf76c78",
+  "active": "06ec9e3bb922ef51",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
+    "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+    "What is `living`.md",
+    "Wfhat is `living`.md",
     "New Areas of Study.md",
-    "01. Personal/Daily Notes/Entry of 20th Sep, 2025.md",
-    "Paths in Hinduism.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/🌀️ Religious Discourse/Forms of religion.md",
-    "06. Collected Knowledge/Translating Religious Terminologies.md",
-    "Writings on Theology 1 - Advaita.md",
-    "07. Miscellaneous/Religions/Studying a Religion.md",
-    "06. Collected Knowledge/Memes of Religions.md",
-    "06. Collected Knowledge/Hindu Sampradaayas.md",
-    "06. Collected Knowledge/Map of Hinduism.md",
-    "Anti-theists (many) are Anti-Civilization-ists too.md",
-    "On the usefulness of contradictory models.md",
-    "Conflicts in Translation (Rough Title).md",
-    "Tamil Veda.md",
-    "Studying the Tamil Script.md",
-    "Studying the Malayalam Script.md",
-    "Religion is an Empty Word.md",
-    "Instability of the Thinking Mind.md",
-    "06. Collected Knowledge/Linguistics.md",
-    "My Vision of God.md",
-    "06. Collected Knowledge/Identifying Manipulation.md",
-    "Metaphysics QA.md",
-    "The Ultimate Reality cannot be expressed by Words.md",
-    "Homonymic Samskritha Words.md",
-    "Trying to Consolidate Hinduism 1.md",
+    "06. Collected Knowledge/ITU-T Naming Conventions.md",
+    "06. Collected Knowledge/My Model of Reality.md",
+    "06. Collected Knowledge/Dance vs Flow.md",
+    "06. Collected Knowledge/Lightning Model of Dual Nature of Quantum Mechanics.md",
+    "06. Collected Knowledge/Database of Muslim Scholars.md",
+    "06. Collected Knowledge/Popular Islamic Literature (of Ahl as-Sunnah).md",
+    "06. Collected Knowledge/Principle of Causality.md",
+    "06. Collected Knowledge/To Muslims - What you see may not be what is.md",
+    "06. Collected Knowledge/Finding Pi - My Philosophy.md",
+    "06. Collected Knowledge/Units of Reality.md",
+    "06. Collected Knowledge/Debating Anti-Hindu Theologers.md",
+    "06. Collected Knowledge/Common Misconceptions About Rationality.md",
+    "06. Collected Knowledge/Trinity and Gunas in Hinduism.md",
+    "06. Collected Knowledge/Drama.md",
+    "06. Collected Knowledge/Arachnae.md",
+    "06. Collected Knowledge/Semantic Evolution.md",
+    "06. Collected Knowledge/Semantics.md",
+    "06. Collected Knowledge/Islaam - Post.md",
+    "06. Collected Knowledge/My Perspective on Islam.md",
+    "06. Collected Knowledge/Life of Mohammed.md",
+    "06. Collected Knowledge/Letters Mohammed Sent to Rulers.md",
+    "06. Collected Knowledge/Idols in Hinduism.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
