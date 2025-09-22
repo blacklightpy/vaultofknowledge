@@ -1058,22 +1058,27 @@
             }
           },
           {
-            "id": "931453cf857684b1",
+            "id": "03974b301a6832b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is `living`.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What is `living`"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c0711cd2813648e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 70
+        "currentTab": 71
       }
     ],
     "direction": "vertical"
@@ -1290,14 +1295,15 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "931453cf857684b1",
+  "active": "c0711cd2813648e1",
   "lastOpenFiles": [
-    "06. Collected Knowledge/ITU-T Naming Conventions.md",
+    "New Areas of Study.md",
+    "fdsfsd.md",
     "What is `living`.md",
+    "06. Collected Knowledge/ITU-T Naming Conventions.md",
     "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
     "What is \"living\".md",
     "Wfhat is `living`.md",
-    "New Areas of Study.md",
     "06. Collected Knowledge/My Model of Reality.md",
     "06. Collected Knowledge/Dance vs Flow.md",
     "06. Collected Knowledge/Lightning Model of Dual Nature of Quantum Mechanics.md",
@@ -1317,7 +1323,6 @@
     "06. Collected Knowledge/Islaam - Post.md",
     "06. Collected Knowledge/My Perspective on Islam.md",
     "06. Collected Knowledge/Life of Mohammed.md",
-    "06. Collected Knowledge/Letters Mohammed Sent to Rulers.md",
     "02. To Share/Project Resources",
     "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
     "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
