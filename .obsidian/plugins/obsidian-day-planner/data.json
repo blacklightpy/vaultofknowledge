@@ -1,6 +1,6 @@
 {
   "snapStepMinutes": 10,
-  "progressIndicator": "mini-timeline",
+  "progressIndicator": "bar",
   "showTaskNotification": false,
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
