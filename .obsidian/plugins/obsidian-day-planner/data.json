@@ -49,5 +49,6 @@
   "completePastItems": true,
   "circularProgress": false,
   "nowAndNextInStatusBar": false,
-  "timelineZoomLevel": 4
+  "timelineZoomLevel": 4,
+  "rawIcals": []
 }
