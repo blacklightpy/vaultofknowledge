@@ -1,1093 +1,53 @@
 {
   "main": {
-    "id": "a04c3cf71931c65e",
+    "id": "52e172f6165ccd6a",
     "type": "split",
     "children": [
       {
-        "id": "ffd13fb33d2a6709",
+        "id": "fc15906b65079176",
         "type": "tabs",
         "children": [
           {
-            "id": "9db43f1d3cc5e9ec",
+            "id": "2ce48ab4389913fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History of Christianity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "History of Christianity"
-            }
-          },
-          {
-            "id": "cbeab8a4f2ca1bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Christian Church Terminology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Christian Church Terminology"
-            }
-          },
-          {
-            "id": "faccba2af6847804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nature of physis in Christianity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nature of physis in Christianity"
-            }
-          },
-          {
-            "id": "2946b8ecfb21db6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Electroweak Theory"
-            }
-          },
-          {
-            "id": "98c033c44834e918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study of Reality.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Study of Reality"
-            }
-          },
-          {
-            "id": "f6b26b50eb14a89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moment of Inertia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Moment of Inertia"
-            }
-          },
-          {
-            "id": "4b812a5d9baf620e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entry of 26th Jan, 2025"
-            }
-          },
-          {
-            "id": "5699db74f7d0c32b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Local AI Requirements.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Local AI Requirements"
-            }
-          },
-          {
-            "id": "c9b8d275b08a6073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entry of 29th Jan, 2025"
-            }
-          },
-          {
-            "id": "6dad8f27780f7262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/Entry of 13th Feb, 2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entry of 13th Feb, 2025"
-            }
-          },
-          {
-            "id": "2a3932f1d4bac210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tour.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tour"
-            }
-          },
-          {
-            "id": "821fc5d945a0741d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Interests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "My Interests"
-            }
-          },
-          {
-            "id": "617382f4f4391f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physical vs Material.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Physical vs Material"
-            }
-          },
-          {
-            "id": "cd27dcf0329fed07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Right and Left.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Right and Left"
-            }
-          },
-          {
-            "id": "a77f5b19303c40f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bat Kol.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bat Kol"
-            }
-          },
-          {
-            "id": "3497884dc69b32f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Counter Argument for 'Who Created God'.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Counter Argument for 'Who Created God'"
-            }
-          },
-          {
-            "id": "39d039cbc0e300a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Objection to Classical Advaita Vedanta.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "My Objection to Classical Advaita Vedanta"
-            }
-          },
-          {
-            "id": "4ad36f3f9df5a5cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Ultimate Reality cannot be expressed by Words.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Ultimate Reality cannot be expressed by Words"
-            }
-          },
-          {
-            "id": "05124ea8c3fad96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shaiva vs Shakta.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shaiva vs Shakta"
-            }
-          },
-          {
-            "id": "9d16b80808cc8561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kalanju Poya Note Pusthakam.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Kalanju Poya Note Pusthakam"
-            }
-          },
-          {
-            "id": "e6eed0bb7d6193ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random - Studying Aachaarya Prashanth's Lecture on Geetha.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Random - Studying Aachaarya Prashanth's Lecture on Geetha"
-            }
-          },
-          {
-            "id": "7cbacf03f011237f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analyzing Darshanas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Analyzing Darshanas"
-            }
-          },
-          {
-            "id": "9e7136d283720ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why Different Forms for God.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Why Different Forms for God"
-            }
-          },
-          {
-            "id": "d21c16bae28c6cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shaiva vs Vaishnava.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shaiva vs Vaishnava"
-            }
-          },
-          {
-            "id": "803ea8b1ab615cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shoodras who learned Vedas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shoodras who learned Vedas"
-            }
-          },
-          {
-            "id": "cc9b63c2304d6279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deceptions of Muhammadians 1 - Don't Criticize Us, But Let Us Criticize Others.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Deceptions of Muhammadians 1 - Don't Criticize Us, But Let Us Criticize Others"
-            }
-          },
-          {
-            "id": "a6010db47527e2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studying the Karma Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Studying the Karma Theory"
-            }
-          },
-          {
-            "id": "f51905b18b2e4508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Vision of God.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "My Vision of God"
-            }
-          },
-          {
-            "id": "13f16beb2d07093b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marriage Nonsense.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Marriage Nonsense"
-            }
-          },
-          {
-            "id": "1a24fb1349507184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/Entry of 17th Apr, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entry of 17th Apr, 2025"
-            }
-          },
-          {
-            "id": "6c09c039ad67af07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The lousiness of those who criticize communism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The lousiness of those who criticize communism"
-            }
-          },
-          {
-            "id": "e5060e3d057e5ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic of the Left on the War.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Logic of the Left on the War"
-            }
-          },
-          {
-            "id": "eb338d6bc245e64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hindu Books.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hindu Books"
-            }
-          },
-          {
-            "id": "305927559b20028b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internalization of Rituals in Vedanta.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Internalization of Rituals in Vedanta"
-            }
-          },
-          {
-            "id": "7943ebc7ba4a7198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dissolution of the Premise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dissolution of the Premise"
-            }
-          },
-          {
-            "id": "9aff5bd8da2f2b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guidelines for Validation of Scriptures in Hindu-ism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Guidelines for Validation of Scriptures in Hindu-ism"
-            }
-          },
-          {
-            "id": "abb2c4d91aa1d699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jyothish has `Mathematical Intelligence`.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jyothish has `Mathematical Intelligence`"
-            }
-          },
-          {
-            "id": "531cb3108e4ba1f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Executions in Judah-ism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Executions in Judah-ism"
-            }
-          },
-          {
-            "id": "23466d00e5adf7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vichaara Saagara notes - To Move.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vichaara Saagara notes - To Move"
-            }
-          },
-          {
-            "id": "74edeb850f30e918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things that do not violate the Deen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Things that do not violate the Deen"
-            }
-          },
-          {
-            "id": "cd5c8c28bb51e2b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Difference between a King and a Commoner.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Difference between a King and a Commoner"
-            }
-          },
-          {
-            "id": "770d6d52a79236c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On 'Peace Means Having a Bigger Stick than the Other Guy'.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "On 'Peace Means Having a Bigger Stick than the Other Guy'"
-            }
-          },
-          {
-            "id": "dee13472f47bef58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Trying to Consolidate Hinduism 1"
-            }
-          },
-          {
-            "id": "f1ac814be0537e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. To Share/Project Resources/Redmi Y1 (Redmi Note 5A Prime).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Redmi Y1 (Redmi Note 5A Prime)"
-            }
-          },
-          {
-            "id": "f87814fdafd73dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Most Indians are 'Minions'.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Most Indians are 'Minions'"
-            }
-          },
-          {
-            "id": "02ec050b8d3fe251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Final Example of Communism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Final Example of Communism"
-            }
-          },
-          {
-            "id": "71d1df8f0de06ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/Poetic Metre.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Poetic Metre"
-            }
-          },
-          {
-            "id": "de0bdf31e46d6e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Replacing Obsidian with Vim.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Replacing Obsidian with Vim"
-            }
-          },
-          {
-            "id": "850ec6372765e445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Bevan - God.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "To Bevan - God"
-            }
-          },
-          {
-            "id": "e47ac504ac712abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Delusions of Anti-theists.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Delusions of Anti-theists"
-            }
-          },
-          {
-            "id": "52011b5c394ec895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "God as it was known to Muhammad is not God as it is known to me.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "God as it was known to Muhammad is not God as it is known to me"
-            }
-          },
-          {
-            "id": "eae845caac5ff7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enumeration - Pros and Cons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Enumeration - Pros and Cons"
-            }
-          },
-          {
-            "id": "029ce7a793275f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Necessity of Causality - An Illusion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Necessity of Causality - An Illusion"
-            }
-          },
-          {
-            "id": "deaa5f38c2bf55cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deceptions of Anti-Non-Materialists 2 - Ad Hominem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Deceptions of Anti-Non-Materialists 2 - Ad Hominem"
-            }
-          },
-          {
-            "id": "b2f9c0ae5db7b8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On Pronouns.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "On Pronouns"
-            }
-          },
-          {
-            "id": "cb6b2a100f08727f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On Buddhism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "On Buddhism"
-            }
-          },
-          {
-            "id": "6cfe71f8c284b04d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/Entry of 28th Jun, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entry of 28th Jun, 2025"
-            }
-          },
-          {
-            "id": "225e5f489d6f3136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karma.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Karma"
-            }
-          },
-          {
-            "id": "ded530f99a7647f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Joining of Judah-ism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "My Joining of Judah-ism"
-            }
-          },
-          {
-            "id": "828bc93c01c160c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holy Spirit of Christianity - Why I don't Believe in It.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Holy Spirit of Christianity - Why I don't Believe in It"
-            }
-          },
-          {
-            "id": "db9724d33f7ece9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On atheismindia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "On atheismindia"
-            }
-          },
-          {
-            "id": "43e928a4e236bdc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "App Analogy of My Theology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "App Analogy of My Theology"
-            }
-          },
-          {
-            "id": "efca1851a403ba62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Ultimate Reality cannot be expressed by Words.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Ultimate Reality cannot be expressed by Words"
-            }
-          },
-          {
-            "id": "a0b1b90a4591af61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/Linguistics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Linguistics"
-            }
-          },
-          {
-            "id": "49a2be460956b3d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instability of the Thinking Mind.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Instability of the Thinking Mind"
-            }
-          },
-          {
-            "id": "4f2461810926fff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion is an Empty Word.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Religion is an Empty Word"
-            }
-          },
-          {
-            "id": "97b214e6fd7b7703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tamil Veda.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tamil Veda"
-            }
-          },
-          {
-            "id": "3e0e775efef829eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conflicts in Translation (Rough Title).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Conflicts in Translation (Rough Title)"
-            }
-          },
-          {
-            "id": "9ae6b8338b8470ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anti-theists (many) are Anti-Civilization-ists too.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Anti-theists (many) are Anti-Civilization-ists too"
-            }
-          },
-          {
-            "id": "5febda25915b01f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Areas of Study.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "planner-release-notes",
+              "state": {},
               "icon": "lucide-file",
-              "title": "New Areas of Study"
+              "title": "Day Planner Release 0.28.0"
             }
           },
           {
-            "id": "e35e957d66d7e189",
+            "id": "1743a06f116a1515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
+                "file": "01. Personal/Daily Notes/Entry of 23rd Sep, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Entry of 22nd Sep, 2025"
+              "title": "Entry of 23rd Sep, 2025"
             }
           }
         ],
-        "currentTab": 69
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a95bc83a2f1a3a4a",
+    "id": "f0919ae0fbb2b1b4",
     "type": "split",
     "children": [
       {
-        "id": "0244bc408e6d6f87",
+        "id": "ac0ba17ac6bc44af",
         "type": "tabs",
         "children": [
           {
-            "id": "cdad2d4dbc121f52",
+            "id": "1d530a4529c1fa31",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -1100,7 +60,7 @@
             }
           },
           {
-            "id": "3acb871d8c0b674b",
+            "id": "c6ba68440270b397",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -1110,14 +70,14 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "6db3babef9ef27a4",
+            "id": "316879294cd4cd36",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -1125,39 +85,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "452c071c08809330",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "vertical-tabs",
-              "title": "Vertical tabs"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
-    "id": "73b8730f7c537be0",
+    "id": "accd65f91a773aac",
     "type": "split",
     "children": [
       {
-        "id": "82c5610152060546",
+        "id": "d89217865d9dfec1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a0c614f77994259",
+            "id": "b14e1f8a075494b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Areas of Study.md",
+                "file": "01. Personal/Daily Notes/Entry of 23rd Sep, 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1167,25 +116,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Areas of Study"
+              "title": "Backlinks for Entry of 23rd Sep, 2025"
             }
           },
           {
-            "id": "e043e0b9dffa290b",
+            "id": "391fab3d84969744",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Areas of Study.md",
+                "file": "01. Personal/Daily Notes/Entry of 23rd Sep, 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New Areas of Study"
+              "title": "Outgoing links from Entry of 23rd Sep, 2025"
             }
           },
           {
-            "id": "46ed7f98039fcd2d",
+            "id": "228a8203ef105468",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -1200,7 +149,7 @@
             }
           },
           {
-            "id": "b2cf5abf69055c22",
+            "id": "57373c3829f43089",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -1214,50 +163,39 @@
             }
           },
           {
-            "id": "fd95e1ede4811c90",
+            "id": "e032da10995cb629",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Areas of Study.md",
+                "file": "01. Personal/Daily Notes/Entry of 23rd Sep, 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Areas of Study"
+              "title": "Outline of Entry of 23rd Sep, 2025"
             }
           },
           {
-            "id": "def32a7c351f7f60",
+            "id": "3b1e63cd6b7d1af7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "planner-timeline",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "17a8cea76a7b74a8",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -1265,64 +203,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
       "3d-graph:3D Graph": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "broken-links:View broken links": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "broken-links:View broken links": false
     }
   },
-  "active": "5febda25915b01f1",
+  "active": "1743a06f116a1515",
   "lastOpenFiles": [
-    "01. Personal/Daily Notes/Entry of 22nd Sep, 2025.md",
-    "Conflicts in Translation (Rough Title).md",
-    "01. Personal/Project Ideas/Personal Text Editor.md",
-    "Tamil Veda.md",
-    "New Areas of Study.md",
-    "App Analogy of My Theology.md",
-    "Moment of Inertia.md",
-    "Anti-theists (many) are Anti-Civilization-ists too.md",
-    "On atheismindia.md",
-    "Study of Reality.md",
-    "The Ultimate Reality cannot be expressed by Words.md",
-    "What is `living`.md",
-    "What is livingf.md",
-    "About `We are Good People`.md",
-    "`Question to Atheists` - For Reddit.md",
-    "fdsfsd.md",
-    "06. Collected Knowledge/ITU-T Naming Conventions.md",
-    "What is \"living\".md",
-    "Wfhat is `living`.md",
-    "06. Collected Knowledge/My Model of Reality.md",
-    "06. Collected Knowledge/Dance vs Flow.md",
-    "06. Collected Knowledge/Lightning Model of Dual Nature of Quantum Mechanics.md",
-    "06. Collected Knowledge/Database of Muslim Scholars.md",
-    "06. Collected Knowledge/Popular Islamic Literature (of Ahl as-Sunnah).md",
-    "06. Collected Knowledge/Principle of Causality.md",
-    "06. Collected Knowledge/To Muslims - What you see may not be what is.md",
-    "02. To Share/Project Resources",
-    "_images/Tamil Calligraphy Workshop Pamphlet Side B.png",
-    "_images/Tamil Calligraphy Workshop Pamphlet Side A.png",
-    "_images/Malayalam ligature for gddhrya.png",
-    "_images/Pasted image 20250516013626.png",
-    "_images/Malayalam ligature for gddhya.png",
-    "_images/Malayalam word vaidagddhyam.png",
-    "_images/Malayalam Ligature for gddhra.png",
-    "_images/Pasted image 20250516011210.png",
-    "_images/Pasted image 20250516011110.png",
-    "_images/dsfa.png",
-    "08. External Resources/Dictionaries/Saṃskṛtam",
-    "08. External Resources/Dictionaries",
-    "Add to How I Learn",
-    "Study of the Ultimate Reality",
-    "08. External Resources/Large File Backups (PDFs, etc.)",
-    "08. External Resources/Saved Articles",
-    "08. External Resources",
-    "05. Organized Knowldge - New Format",
-    "01. Personal/Daily Notes"
+    "01. Personal/Daily Notes/Entry of 23rd Sep, 2025.md"
   ]
-}                                                                                                                                                         
+}
