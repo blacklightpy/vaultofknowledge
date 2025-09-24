@@ -1263,7 +1263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1286,7 +1287,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "def32a7c351f7f60",
+  "active": "c9528963b3bae468",
   "lastOpenFiles": [
     "Block Devices.md",
     "Disk Encryption Theory.md",
