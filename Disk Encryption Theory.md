@@ -2,7 +2,10 @@ There are block ciphers (which encrypt by blocks) and stream ciphers (which encr
 
 ## About my Samsung Galaxy M10
 
-My Samsung (R) Galaxy M10 (SM-M105F / m10lte) used an eMMC 5.1 storage (but it appeared as if it was using MMC from the block device naming conventions, but it's Samsung, and they just do their thing), and it used FDE with AES-XTS by default (it shows `aes-xts-disk` in its crypto footer). Samsung Knox documentation says that all FDE-based devices are encrypted with AES-256-XTS or AES-256-CBC.
+My Samsung (R) Galaxy M10 (SM-M105F / m10lte) uses an eMMC 5.1 storage, and it used FDE with AES-XTS by default (it shows `aes-xts-disk` in its crypto footer). Samsung Knox documentation says that all FDE-based devices are encrypted with AES-256-XTS or AES-256-CBC.
+
+> [!NOTE]
+> I thought it was using MMC, based on the guide here ([Android MMC mmcblk Partition Layout - Stack Pointer](https://stackpointer.io/mobile/android-mmc-mmcblk-partition-layout/259/)), and also here ([Android MMC/EMMC/MTD Partition Layout | embedded system by venkatpari](http://embeddedvenkatpari.blogspot.com/2018/11/android-mmcemmcmtd-partition-layout-html)), because it only showed `/proc/partitions` and not `/proc/emmc` (or `/proc/mtd`), but I guess either the guides are not entirely right, or Samsung just always does their own thing - which is more likely.
 
 There is a Stack Overflow question ([Question 49335046: Android 4.4 FDE (Scrypt Footer)][https://stackoverflow.com/question/49335046]), where a user took the 16 KB crypto footer from his encrypted `userdata` partition, from his Samsung Galaxy S4 Mini running Android 4.4.4.
 
@@ -25,5 +28,4 @@ The primary key is then recovered using the default password or the user's crede
 **So, if I only set the PIN, and didn't enable Secure Startup, I should be able to get the partition to decrypt with the TEE Keymaster alone, if I just flash it. But if I did enable Secure Startup, I may need to point out that I used a PIN, and I may need to flash the EFS partition too for that.**
 
 **Now, of course, I wonder if PIN was protected by some password? Whatever, I can let go of the data, as I got the important bit out luckily when MTP worked - I just want to learn.**
-
 

@@ -1,6 +1,7 @@
 # Physically
 
 A block device, physically simply means a device that stores data in blocks or allocation units.
+
 # Software
 
 In software, by block device, we would be referring to the drivers for parsing block devices.
