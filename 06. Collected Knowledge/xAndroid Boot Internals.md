@@ -352,6 +352,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 		- Disables DM-Verity and ForceEncrypt
 - Disable Verity in vbmeta.img
 	- `fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img`
+	- Or, as I've learned, flashing a blank vbmeta.img is another solution
 - Factory Reset Protection (FRP)
 	- It is used to prevent others from using your device after factory resetting it
 	- You can disable it by wiping the FRP partition
