@@ -1063,17 +1063,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 4th Oct, 2025.md",
+                "file": "The Sabarimala Case.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Entry of 4th Oct, 2025"
+              "title": "The Sabarimala Case"
+            }
+          },
+          {
+            "id": "63a65c5a295c6700",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 70
+        "currentTab": 71
       }
     ],
     "direction": "vertical"
@@ -1287,8 +1297,9 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "c9528963b3bae468",
+  "active": "63a65c5a295c6700",
   "lastOpenFiles": [
+    "Anti-theists (many) are Anti-Civilization-ists too.md",
     "The Sabarimala Case.md",
     "01. Personal/Daily Notes/Entry of 4th Oct, 2025.md",
     "Block Devices.md",
@@ -1303,7 +1314,6 @@
     "06. Collected Knowledge/Android Partitions.md",
     "How to downgrade Samsung Binaries.md",
     "01. Personal/Daily Notes/Entry of 23rd Sep, 2025.md",
-    "Anti-theists (many) are Anti-Civilization-ists too.md",
     "Hindu Books.md",
     "Trying to Consolidate Hinduism 1.md",
     "03. Culture/Culture/Hindu Culture.md",
